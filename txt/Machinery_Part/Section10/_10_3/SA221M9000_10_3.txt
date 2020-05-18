@@ -1,0 +1,210 @@
+10.3  VALVE AND COCK .
+
+In general, the valves and cocks of marine use which are specified in accordance with 
+Japanese Industrial Standard ( JIS ) or equivalent standard shall be used except that the 
+valves and cocks for control system which have special construction and shape shall be in 
+accordance with Maker’s standard.
+
+Generally, globe and angle valve shall be used on engine room piping system, but as to 
+fresh water and sea water lines of pipe diameter 80 mm and above, butterfly valve shall be 
+adopted.
+
+Pipe line.
+
+Material of 
+valve body.
+
+Joint.
+
+Nominal.
+
+Bilge, ballast and 
+sea water line 
+  50 mm & above 
+  40 mm & below.
+
+ Cast iron 
+ Bronze.
+
+Steel slip on  
+welded flange 
+or sleeve.
+
+5K STD.
+
+Fire line 
+  50 mm & above 
+  40 mm & below.
+
+ Cast iron 
+ Bronze.
+
+Steel slip on  
+welded flange 
+or sleeve.
+
+10K STD.
+
+Fresh, drinking and 
+cooling F.W. line 
+  50 mm & above 
+  40 mm & below.
+
+ Cast iron 
+ Bronze.
+
+Steel slip on  
+welded flange 
+or sleeve.
+
+5K STD.
+
+M/E F.O. circulating pump 
+discharge line 
+  50 mm & above          
+  40 mm & below.
+
+ Special 
+ cast iron      
+ Bronze.
+
+Steel slip on  
+welded flange.
+
+16K STD.
+
+D/G F.O. circulating pump 
+discharge line 
+  50 mm & above          
+  40 mm & below.
+
+ Special 
+ cast iron      
+ Bronze.
+
+Steel slip on  
+welded flange.
+
+16K STD.
+
+F.O. and L.O. line 
+ 50 mm & above 
+ 40 mm & below.
+
+ Cast iron 
+ Bronze.
+
+Steel slip on  
+welded flange 
+or sleeve.
+
+5K STD.
+
+F.O. purified line 
+  50 mm & above          
+  40 mm & below.
+
+ Special 
+ cast iron      
+ Bronze.
+
+Steel slip on  
+welded flange 
+or sleeve.
+
+5K STD.
+
+P-39.
+
+Pipe line.
+
+Material of 
+valve body.
+
+Joint.
+
+Nominal.
+
+Steam ( 0.7MPa ) line 
+  50 mm & above 
+  40 mm & below.
+
+ Cast iron 
+ Bronze.
+
+Steel slip on 
+welded flange 
+or sleeve 
+(Note:4).
+
+10K STD.
+
+Steam ( 0.4MPa ) line 
+  50 mm & above 
+  40 mm & below.
+
+ Cast iron 
+ Bronze.
+
+Steel slip on 
+welded flange 
+or sleeve.
+
+5K STD.
+
+Feed water line.
+
+ Bronze.
+
+Steel slip on 
+welded flange.
+
+16K STD.
+
+Compressed air  
+( 2.9MPa ) line 
+  32 mm & above 
+  25 mm & below.
+
+ Cast steel 
+ Forged steel.
+
+Steel slip on 
+welded flange.
+
+20K STD.
+
+Compressed air  
+( 0.8MPa ) line.
+
+ Bronze.
+
+Steel slip on 
+welded flange 
+or sleeve.
+
+10K STD.
+
+Note : 
+ 1) Valves on hull construction of 40 mm bore and below shall be of cast bronze and.
+
+those of 50 mm and above shall be of cast steel.
+
+ 2) Main suction valves fitted on outside walls of fuel oil and lub. oil tanks except.
+
+double bottom tanks shall be of special cast iron except those of 40 mm bore and 
+below of cast bronze.
+
+ 3) Valves and pipe fittings in the piping system of groupⅡexcept steam line shall be.
+
+of casting with on elongation of 12% and over.
+
+ 4) Sleeve welded joint is not to be used for steel pipes having a nominal diameter for.
+
+more than 80A for steam line.
+
+ 5) Mechanical joints shall be of NK-approved type and the construction and type shall.
+
+be in accordance with Table D12.8 and Table D12.9 (12.3.3, Part D of the Rules).
+
+P-40

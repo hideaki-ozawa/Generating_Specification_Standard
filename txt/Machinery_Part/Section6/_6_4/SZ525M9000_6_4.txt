@@ -1,0 +1,39 @@
+6.4  SCREW PUMP .
+
+Screw pumps shall develop rated capacity and discharge pressure when operating with the 
+under-said suction conditions.
+
+Name 
+Suction 
+vacuum 
+( MPa ).
+
+Viscosity 
+(cSt).
+
+Shaft seal.
+
+Fuel oil booster pump －0.05 1.5  -  260 Mechanical seal.
+
+M/E fuel oil circulating pump ＋0.4 1.5  -  260 Mechanical seal.
+
+D/G fuel oil circulating pump ＋0.4 1.5  -  260 Mechanical seal.
+
+D/G diesel oil booster pump －0.05 1.5  -  260 Mechanical seal.
+
+The materials of main parts of the screw pumps shall be as follows :.
+
+ Casing Cast iron 
+ Casing cover Cast iron 
+ Power rotor Carbon steel 
+ Idle rotor Ductile steel.
+
+The fittings and accessories shall be as follows :.
+
+ 1 － set of coupling bolt, nut and rubber ring or coupling bush 
+ 1 － coupling cover for horizontal type pump 
+ 1 － relief valve  
+ 1 － gauge board fitted with suction and discharge pressure gauges 
+ Each 1 － root cock or valve for pressure gauge 
+ 1 － air vent plug 
+ 1 － common bed for horizontal type pump

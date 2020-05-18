@@ -1,0 +1,1142 @@
+1.2  MACHINERY PARTICULAR .
+
+Rule NK, NS* and MNS*(M0).
+
+Kind of Ship 63,000 M.T. D/W TYPE BULK CARRIER.
+
+Hull.
+
+Dimension.
+
+m 
+Lpp
+195.00.
+
+B
+32.24.
+
+D
+19.15.
+
+d (Ext.)
+13.418.
+
+Tonnage.
+
+Ton.
+
+G.T.   35,832 D.W.   63,468 M.T.
+
+Speed.
+
+knot 
+      abt.
+
+Sea Trial   15.410 Service   14.5.
+
+Main Engine.
+
+Type & No. of Set 
+ MITSUI-MAN B&W, 2 stroke cycle , single acting, direct.
+
+reversible, crosshead type diesel engine with 
+turbocharger           6S50ME-B9.3× 1 set.
+
+Output 
+× Speed.
+
+Maximum 
+Rating.
+
+kW×
+min-1        7,560 × 99.0.
+
+Turbocharger 
+A165-L.
+
+× 1 set.
+
+Normal 
+Rating.
+
+kW×
+min-1        6,425 × 93.8 (85 %).
+
+Brake Mean Effective 
+Press. at Max. Rating.
+
+MPa 1.76.
+
+Mean Piston Speed at 
+Max. Rating.
+
+m/s 7.31.
+
+Cylinder No. & Size.
+
+mm 6 ×φ500 × 2,214.
+
+Turning Motor 
+kW×
+min-1 2.2 × 1,200.
+
+MITSUI E&S MACHINERY CO., LTD.
+
+Shafting.
+
+Thrust Shaft 
+No.×
+mm Attached to Main Engine.
+
+Intermediate Shaft 
+No.×
+mm      1  × φ 415  ×  5,950.
+
+Propeller Shaft 
+No.×
+mm      1  × φ 500  ×  6,550.
+
+Stern Tube Seal 
+ KEMEL.
+
+AX-530.
+
+Propeller.
+
+Type & No. of Set 
+ 5 Bladed Solid Type.
+
+( Ni- Al- Br) × 1 set.
+
+Diameter × Pitch.
+
+mm 
+        4,527.4 (0.7R).
+
+φ 6,300 × 4,454.7 (MEAN) 
+Exp. Area Ratio × 
+Boss Ratio.
+
+－ 0.4700 × 0.1524.
+
+Skew Angle.
+
+deg. 25.
+
+NAKASHIMA PROPELLER CO., LTD.
+
+ Auxiliary Boiler.
+
+Type & No. of Set 
+Composite system vertical type boiler 
+GK-2032-1100/680 ×  1 set.
+
+Steam Pressure
+& Temperature.
+
+－
+ ×℃.
+
+(Design) 0.8 MPa×  Saturated 
+ (Work.) 0.55 MPa×  Saturated.
+
+Heating Surface.
+
+㎡ 
+(Oil burning side)      (Exh. gas side).
+
+        33.2 ×        198.4.
+
+Evaporation.
+
+kg/h 
+(Oil burning side)      (Exh. gas side).
+
+      1,100 ×     680   ( M/E 85 % Load ).
+
+Feed Water Temp.
+
+℃                abt. 60.
+
+Burner Type.
+
+Forced Draft Type Pressure Atomizing Burner.
+
+MIURA CO., LTD.
+
+Service.
+
+No.of 
+Set.
+
+Type Capacity
+(m3 /h×MPa).
+
+Motor
+(kW×min-1).
+
+ Main 
+Diesel Generator Engine 3.
+
+4-Cycle
+Diesel Engine 550 kW 900 min-1.
+
+YANMAR
+6EY18ALW.
+
+Main Generator 3 
+Brushless
+A.C. Generator 600 kVA 480×900.
+
+450V
+× 60 Hz.
+
+Emergency 
+Generator Engine 1.
+
+4-Cycle
+Diesel Engine 99 kW 1,800 min-1.
+
+MITSUI E&S.
+
+POWER SYSTEMS.
+
+TD914L06M.
+
+Emergency Generator 1 
+Brushless
+A.C. Generator 90 kVA 72×1,800.
+
+450V
+× 60 Hz.
+
+Main Air Compressor 2 
+MD V-Type
+2-Stage.
+
+(F.A.)
+  120 × 2.9  30×1800.
+
+TANABE
+VH-64.
+
+Emergency 
+Air Compressor 1.
+
+MD Vertical
+2-Stage.
+
+(F.A.)
+  13.5 × 2.9 3.7×1200.
+
+MATSUBARA
+MG78ADT.
+
+ Service.
+
+No.of 
+Set.
+
+Type Capacity
+(m3 /h×MPa).
+
+Motor
+(kW×min-1).
+
+ No.1 Cooling
+Sea Water Pump 1.
+
+Self Priming 
+MD. V. Cent.
+
+      (T.H.)
+600× 20 m 55×1800.
+
+TAIKO KIKAI
+EMCE-260C.
+
+No.2 Cooling
+Sea Water Pump 1 MD. V. Cent.
+
+      (T.H.)
+600× 20 m 55×1800.
+
+Do.
+EMC-260C.
+
+Jacket Cooling
+Fresh Water Pump 2 MD. V. Cent.
+
+      (T.H.)
+102× 40 m 22×1800.
+
+Do.
+ESC-150D.
+
+Main Air Comp. 
+Cooling F.W. Pump 2 MD. H. Cent.
+
+      (T.H.)
+3.2× 25 m 1.5×3600.
+
+Do.
+TMC-32.
+
+Main Lubricating Oil 
+Pump 2 MD. V. Cent.
+
+      (D.P.)
+220 × 0.42 55×1800.
+
+Do.
+C1T-200.
+
+Fuel Oil 
+Booster Pump 2 MD. H. Gear.
+
+      (D.P.)
+2.9 × 0.4 1.5×1200.
+
+TAIKO KIKAI
+NHG-5MA.
+
+Main Engine Fuel Oil 
+Circulating Pump 2 MD. H. Gear.
+
+      (D.P.)
+4.2 × 1.0 3.7×1200.
+
+Do.
+HHC-6MA.
+
+Fuel Oil 
+Transfer Pump 1 MD. H. Gear.
+
+     (D.P.)
+15 × 0.3 7.5×1200.
+
+Do.
+NHG-20MA.
+
+Diesel Oil 
+Transfer Pump 1 MD. H. Gear.
+
+      (D.P.)
+4 × 0.3 2.2×1200.
+
+Do.
+NHG-6MA.
+
+Lubricating Oil 
+Transfer and L.O.  
+Purifier Supply Pump.
+
+1 MD. H. Gear 
+      (D.P.).
+
+4 × 0.3 1.5×1200 
+Do.
+NHG-4MT.
+
+Diesel Gene. Fuel Oil 
+Circulating Pump 2 MD. H. Gear.
+
+      (D.P.)
+1.6 × 0.9 1.5×1200.
+
+TAIKO KIKAI
+HHC-2.5MA.
+
+Diesel Gene. Diesel Oil 
+Booster Pump 1 MD. H. Gear.
+
+      (D.P.)
+1.5 ×0.75 3.7×1200.
+
+Do.
+HHC-4MA.
+
+Stern Tube 
+Lubricating Oil Pump 2 MD. H. Gear.
+
+      (D.P.)
+0.5 × 0.2 0.4×1200.
+
+Do.
+NHG-0.5M.
+
+Diesel Gene. Lub. Oil 
+Priming Pump 3 MD. H. Gear.
+
+      (D.P.)
+4.0 ×0.15 1.5×1800 ※.
+
+D/G L.O. Purifier
+Supply Pump 1 MD. H. Gear.
+
+      (D.P.)
+0.6 × 0.3 0.4×1200.
+
+TAIKO KIKAI
+NHG-1MT.
+
+Bilge & Ballast Pump 1 
+Self Priming
+MD. V. Cent.
+
+      (T.H.)
+220/90×20/70 m 50×1800.
+
+TAIKO KIKAI 
+ESCE-200D.
+
+Fire & G.S. Pump 1 
+Self Priming
+MD. V. Cent.
+
+      (T.H.)
+220/90×20/70 m 50×1800.
+
+Do.
+ESCE-200D.
+
+Ballast Pump 2 MD. V. Cent. 
+      (T.H.)
+900× 25 m 90×1800.
+
+Do.
+EMD-350C.
+
+Bilge Pump 1 
+MD. H.
+Recipro.
+
+      (T.H.)
+2× 30 m 0.75×1200.
+
+Do.
+LD-2NX.
+
+Sludge Pump 1 
+MD. H.
+Monros.
+
+      (T.H.)
+2.5× 41 m 1.5×1200.
+
+Do.
+HNP-301.
+
+Ref. Mach. Cooling 
+Sea Water Pump 1 MD. H. Cent.
+
+      (T.H.)
+40× 35 m 7.5×3600.
+
+TAIKO KIKAI
+TMC-65B.
+
+ Service.
+
+No.of 
+Set.
+
+Type Capacity
+(m3 /h×MPa).
+
+Motor
+(kW×min-1).
+
+Drinking Water Pump 1 MD. V. Cent.
+
+      (T.H.)
+5× 50 m 3.7×3600.
+
+TAIKO KIKAI
+TMV-32.
+
+Fresh Water Pump 1 MD. V. Cent. 
+      (T.H.).
+
+5× 50 m 3.7×3600 
+Do.
+TMV-32.
+
+Hot Water 
+Circulating Pump 1 MD. H. Cent.
+
+      (T.H.)
+2× 10 m 0.4×1800.
+
+Do.
+TMC-32.
+
+Boiler H.F.O./M.G.O. 
+Burning Pump 1.
+
+MD.
+H. Trochoid.
+
+(D.P.) 
+268  /h×1.8 0.75×3600 ※.
+
+Boiler 
+Pilot Burner Pump 1.
+
+MD.
+H. Trochoid.
+
+(D.P.)
+40  /h×0.8 0.09×3600 ※.
+
+Boiler 
+Forced Draft Fan 1 MD. Turbo.
+
+23 m3/min
+   ×2.94 kPa 2.2×3600 ※.
+
+Boiler 
+Feed Water Pump 2 MD. H. Cent.
+
+      (T.H.)
+4× 100 m 5.5×3600.
+
+TAIKO KIKAI 
+2MF-52M.
+
+Fuel Oil Purifier 2 
+MD. V.
+Centrifuge.
+
+2,100 /h
+(380 cSt at 50℃) 7.5×1800.
+
+MITSUBISHI 
+KAKOKI.
+
+SJ25HH.
+
+Lubricating Oil Purifier 1 
+MD. V.
+Centrifuge 2,400  /h 5.5×1800.
+
+Do.
+SJ25H.
+
+D/G
+Lubricating Oil Purifier 1.
+
+MD. V.
+Centrifuge 1,300  /h 3.7×1800.
+
+Do.
+SJ15H.
+
+D/G Lubricating Oil 
+By-pass Filter 3.
+
+* ※.
+
+Engine Room
+Ventilating Fan 2.
+
+Reversible
+MD. V. Axial.
+
+650 m3/min
+   × 0.29 kPa 7.5×1200.
+
+TAIYO ELECT.
+
+FA-B-90-3 
+Engine Room
+Ventilating Fan 1 MD. V. Axial.
+
+650 m3/min
+   × 0.29 kPa 7.5×1200.
+
+Do.
+FA-B-90-3.
+
+Auxiliary Blower 2 MD. Turbo  37×3600 
+Attach
+to M/E.
+
+Motor for 
+M/E hydraulic system 2 MD. 51×1800.
+
+Attach
+to M/E.
+
+Bilge Separator 1 
+with oil
+content meter 2 m3/h.
+
+TAIKO KIKAI
+USH-20.
+
+M.G.P.S. 1 Cl Ion Type 
+NIPPON 
+CORROSION.
+
+Shaft Grounding
+Equipment 1.
+
+with
+mV-Meter.
+
+Do.
+
+Ballast Water
+Treatment System 1.
+
+Filter & UV
+system.
+
+Filter：900×2 
+UV ：300×8.
+
+MIURA.
+
+ Service.
+
+No.of 
+Set.
+
+Type Capacity
+(m3 /h×MPa).
+
+Motor
+(kW×min-1).
+
+Overhead Travelling  
+Crane.
+
+1 
+MD
+Traverse to be 
+hand operate.
+
+3 ton 
+2.2× 900 
+0.2×1800 
+0.2×1800.
+
+－.
+
+SEKIGAHARA.
+
+MAA-030059.
+
+Universal machine tool 1 MD.
+
+Center distance : 
+600 mm.
+
+Drilling capacity :
+φ21.
+
+ 1.5×1800.
+
+KUSAKABE 
+KE1-60.
+
+Grinding Machine 1 
+MD. 
+2－Wheels.
+
+AC440V 3φ 60Hz
+φ255 × 25t 0.75×1800.
+
+Do.
+KGL-10.
+
+Electric Welder 2 
+A.C.
+Arc Type 300 Amp.
+
+Gas Cutting Machine.
+
+1 
+Acetylene 
+Type.
+
+Oxygen B.×2
+Acetylene B. 
+         ×1.
+
+Hose: Each 
+25 m×3.
+
+Foreign 
+made.
+
+Chain Block.
+
+1 
+2 
+3.
+
+3 ton
+1 ton.
+
+0.5 ton.
+
+Control Room
+Air Conditioner 1.
+
+Packaged
+Type (R404a) 
+With E. heater.
+
+11.3 kW 2.2×3600 
+USHIO 
+REINETSU 
+UAP-2HS4PL4-1.
+
+Water-based Local
+Fire Fighting System 1.
+
+Low Press.
+Type.
+
+KASHIWA.
+
+Sewage Treatment Unit 1 
+TAIKO KIKAI
+SBH-25.
+
+Ballast Eductor 1 100 m3/h.
+
+Bilge Eductor 1 50 m3/h.
+
+F.O. Tank  
+Pre-heating Unit 1.
+
+HOKUSHIN.
+
+ENGINEERING.
+
+ F.O. Shifter Pump 1 MD. H. Gear 
+       (D.P.)
+7.2 ×0.49 3.7×1200.
+
+   ※
+100%Capa.
+
+Fresh Water Generator 1  15 T/D  
+SASAKURA 
+XM15.
+
+ Distillate Pump 1 MD. H. Cent.
+      (T.H.)
+1.2× 30 m 0.75×3600 ※.
+
+ Ejector Pump 1 MD. H. Cent. 
+      (T.H.)
+18× 39 m 5.5×3600 ※.
+
+Waste Oil Incinerator 1  349 kW  
+MIURA
+BGW-30N.
+
+ Waste Oil Pump 1 MD. H. Trochoid
+160 /h.
+
+  × 0.2 MPa 0.1×1800 ※.
+
+ Exhaust & Cooling Fan 1 MD.  
+95 m3/min.
+
+  × 2.65 kPa 7.5×3600 ※.
+
+ Burning Fan 1 MD.  
+11.4 m3/min.
+
+  × 1.18 kPa 1.5×3600 ※.
+
+ Service.
+
+No.of 
+Set.
+
+Type Capacity
+(m2).
+
+Motor
+(kW×min-1).
+
+ Jacket Cooling
+Fresh Water Cooler 1 Plate 11.40.
+
+HISAKA WORKS.
+
+LX-125B-NPM-59.
+
+Main 
+Lubricating Oil Cooler 1 Plate 103.75.
+
+Do. 
+LX-595B-NPM-127.
+
+D/G Low Temp. 
+Cooling F.W. Cooler 2 Plate 16.60.
+
+Do. 
+UX-195B-NPM-85.
+
+Auxiliary Condenser 1 
+H. Shell
+    & Tube 14.
+
+SHOWA
+350U-2F.
+
+M/E F.O. 2nd Filter 1 
+E.F.35µ
+4.2m3/h.
+
+KANAGAWA KIKI.
+
+K8FE22VAZS-W35.
+
+D/G F.O. 2nd Filter 1 
+E.F.10µ
+1.6m3/h.
+
+Do.
+K8FE2VAZS-W10.
+
+M/E F.O. 3rd Filter 1 E.F.10μ 
+Do.
+K8FE3VAZS-W10S.
+
+Shifter 
+Fuel Oil Heater 1 Steam Heat.
+
+STM 0.55MPa
+ 55 → 85℃.
+
+KAJIWARA 
+B150/40X15-20.
+
+Purifier 
+Lub. Oil Heater 1 Steam Heat.
+
+STM 0.55MPa
+ 45 → 90℃.
+
+Do. 
+XLV90-150.
+
+D/G Purifier
+Lub. Oil Heater 1 Steam Heat.
+
+STM 0.55MPa
+ 45 → 90℃.
+
+Do. 
+XLV90-50.
+
+Purifier 
+Fuel Oil Heater 2 Steam Heat.
+
+STM 0.55MPa
+ 55 → 98℃.
+
+Do. 
+B125/40X15-14.
+
+Main Engine
+Fuel Oil Heater 1 Steam Heat.
+
+STM 0.55MPa
+105 →140℃.
+
+Do. 
+B125/80X15-14.
+
+Boiler 
+Fuel Oil Heater 1 Electric Heat.
+
+7 kW ※.
+
+Diesel Gene.
+Fuel Oil Heater 1 Steam Heat.
+
+STM 0.55MPa
+105 →140℃.
+
+KAJIWARA 
+B100/60X15-9.
+
+Calorifier Unit 1 Steam Heat 
+STM 0.3MPa
+ 10 → 70℃.
+
+DAE HEUNGTECH.
+
+Main Engine
+Warm-up Heater 1 Steam Heat.
+
+STM 0.55MPa
+2.
+
+SHOWA 
+300A-P.
+
+M/E Fuel Oil Viscosity 
+& Temp. Controller 1.
+
+D/G Fuel Oil Viscosity 
+& Temp. Controller 1.
+
+Main Air Reservoir 2 Cylindrical 
+5.0 m3 ×.
+
+  2.9 MPa 
+IMABARI 
+SHIPBUILDING 
+AR-5.0V.
+
+Emergency 
+Air Reservoir 1 Cylindrical.
+
+150 ×
+  2.9 MPa.
+
+※.
+
+Control Air Dryer 1 Membrane 50 Nm3/h 
+HARISON SANGYO.
+
+UMS-XC2V-T.
+
+ Service.
+
+No.of 
+Set.
+
+Type Full Capacity
+(m3).
+
+Heat. Ratio
+(m2/m3).
+
+ Heavy Fuel Oil
+Settling Tank 1 18.826.
+
+0.3 Integrated.
+
+Heavy Fuel Oil
+Service Tank 1 18.826.
+
+0.3 Integrated.
+
+Low Sulphur
+Fuel Oil Service Tank 1 10.742.
+
+0.3 Integrated.
+
+Diesel Oil Service Tank 2  10.742.
+
+ Integrated.
+
+Sludge Tank 1 2.070 (2.07).
+
+0.1.
+
+Fuel Oil Drain Tank 1 3.340 (3.34).
+
+0.1 
+In Double
+Bottom.
+
+Fuel Oil 
+Overflow Tank 1 15.370.
+
+0.03.
+
+In Double
+Bottom.
+
+Waste Oil Tank 2 1.394 (1.21).
+
+0.5.
+
+Main Engine
+Lub. Oil Storage Tank 1 21.955.
+
+Integrated.
+
+Main Engine
+Lub. Oil Settling Tank 2.
+
+No.1 8.588
+No.2 8.664.
+
+0.2 Integrated.
+
+Main Engine
+Lub. Oil Sump Tank 1 17.790.
+
+ In Double
+Bottom.
+
+Diesel Gene.
+Lub. Oil Storage Tank 1 6.897.
+
+Diesel Gene.
+Lub. Oil Settling Tank 2.
+
+No.1 2.863
+No.2 2.841.
+
+0.2.
+
+Diesel Gene. 
+Lub. Oil Sump Tank.
+
+Each 
+1 1.000.
+
+ In Common
+Bed.
+
+Diesel Gene. 
+Lub. Oil Overflow Tank 1 1.397.
+
+Cylinder Oil 
+Alarm Chamber 1 0.02.
+
+Cylinder Oil 
+Storage Tank 2.
+
+No.1 15.222
+No.2 30.793.
+
+Integrated.
+
+(  ) Capacity is written on IOPP supplement.
+
+ Service.
+
+No.of 
+Set.
+
+Type Full Capacity
+(m3).
+
+Heat. Ratio
+(m2/m3).
+
+ Stern Tube Lub. Oil   
+Tank Unit 1.
+
+0.212.
+
+Stern Tube FWD Seal  
+Lub. Oil Tank 1.
+
+0.010.
+
+※.
+
+Stern Tube  
+Drain Collect. Unit 1.
+
+0.010.
+
+※.
+
+Stern Tube  
+Lub. Oil Collect Tank 1.
+
+1.420.
+
+ In Double  
+Bottom.
+
+Stuffing Box 
+Drain Tank 1.
+
+1.088 (1.08).
+
+Scavenging Box
+Drain Tank 1.
+
+0.478 (0.47).
+
+0.1.
+
+Jacket Cool. F.W.
+Expansion Tank 1.
+
+2.016.
+
+Deaeration Tank 1.
+
+0.050.
+
+※.
+
+Fresh Water 
+Pressure Tank 1.
+
+Cylindrical 1.081.
+
+Drinking water
+Pressure Tank 1.
+
+Cylindrical 1.081.
+
+Cascade Tank 1.
+
+2.898 
+ With Inspect.
+
+Section.
+
+Bilge Primary Tank 1.
+
+2.646.
+
+0.1.
+
+Bilge Tank 1.
+
+23.820 (23.82).
+
+In Double
+Bottom.
+
+Bilge Sludge Tank 1.
+
+20.360 (20.36).
+
+0.01 
+In Double
+Bottom.
+
+Clean Drain Tank 1.
+
+12.580.
+
+In Double
+Bottom.
+
+(  ) Capacity is written on IOPP supplement.
+
+Abbreviation :.
+
+ abt.  About 
+ D.  Driven 
+ MD. Motor Driven 
+ Cent. Centrifugal 
+ *  Pending 
+ Vert. Vertical 
+ Hor.  Horizontal 
+ F.A.  Free Air 
+ D.P.  Discharge Pressure 
+ T.H.  Total Head 
+ ※  Maker’s supply

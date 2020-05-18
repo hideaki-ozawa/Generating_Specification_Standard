@@ -1,0 +1,2002 @@
+Rule NK(M0) 
+
+Kind of Ship BULK CARRIER
+
+Hull
+
+Dimension m Lpp B D d (Ext.)
+
+Tonnage Ton abt.abt. G.T.D.W.
+
+Speed knot abt. Sea TrialService
+
+Main Engine
+
+Type & No. of Set HITACHI-MANB&W,2strokecycle,singleacting, direct reversible, crosshead type diesel engine with turbocharger6S50ME-B9.3×1 set
+
+Output ×Speed Maximum Rating kW× min-1 7,560 ×99.0 Turbocharger MET48MB ×1 set
+
+Normal Rating kW× min-1 6,425 ×93.8 (85 %)
+
+Brake Mean Effective Press. at Max. Rating MPa *
+
+Mean Piston Speed at Max. Rating m/s 7.31
+
+Cylinder No. & Size mm 6 ×φ500 ×2,214
+
+Turning Motor kW× min-1 2.2 ×1,200
+
+
+
+Shafting
+
+Thrust Shaft No.× mm Attached to Main Engine
+
+Intermediate Shaft No.× mm 1× φ*×*
+
+Propeller Shaft No.× mm 1× φ*×*
+
+
+
+Propeller
+
+Type & No. of Set * Bladed Solid Type ( Ni- Al- Br) ×1 set
+
+Diameter ×Pitch mm φ*×*
+
+Exp. Area Ratio × Boss Ratio - *×*
+
+Skew Angle deg. *
+
+
+
+
+
+Auxiliary Boiler 
+
+Type & No. of Set Composite system vertical type boiler ×1 set
+
+Steam Pressure & Temperature - ×°C (Design)0.8 MPa×Saturated (Work.)0.55 MPa×Saturated
+
+Heating Surface m2 (Oil burning side)(Exh. gas side) *×*
+
+Evaporation kg/h (Oil burning side)(Exh. gas side) 1,100×680( M/E 85 % Load )
+
+Feed Water Temp. °C abt. 60
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Service o.of et Type Capacity (m3 /h×MPa) Motor (kW×min-1)
+
+Main Diesel Generator Engine 3 4-Cycle Diesel Engine 530 kW 900 min-1 6DE-18
+
+Main Generator 3 Brushless A.C. Generator 600 kVA 480×900 450V ×60 Hz
+
+
+
+
+
+Emergency Generator Engine 1 4-Cycle Diesel Engine * kW 1,800 min-1
+
+Emergency Generator 1 Brushless A.C. Generator * kVA *×1,800 450V ×60 Hz
+
+
+
+
+
+Main Air Compressor 2 MD V-Type 2-Stage (F.A.) 120 × 2.9 30×1800 VH-64
+
+Emergency Air Compressor 1 MD Vertical 2-Stage (F.A.) 13.5 × 2.9 3.7×1200
+
+
+
+Service No.of Set Type Capacity (m3 /h×MPa) Motor (kW×min-1) 
+
+Cooling Sea Water Pump 2 MD. V. Cent. (T.H.) 560×20 m 55×1800 Self-priming (No.1)
+
+
+
+Jacket Cooling Fresh Water Pump 2 MD. V. Cent. (T.H.) 102×40 m 22×1800
+
+Main Air Comp. Cooling F.W. Pump 2 MD. H. Cent. (T.H.) 3.2×25 m 1.5×3600
+
+Main Lubricating Oil Pump 2 MD.V. Cent. (D.P.) 220 ×0.42 60×1800
+
+
+
+Fuel Oil Booster Pump 2 MD. H. Gear (D.P.) 2.9 ×0.4 1.5×1200
+
+Main Engine Fuel Oil Circulating Pump 2 MD. H. Gear (D.P.) 4.2 ×1.0 3.7×1200
+
+Fuel Oil Transfer Pump 1 MD. H. Gear (D.P.) 15 ×0.3 5.5×1200
+
+Marine Gas Oil Transfer Pump 1 MD. H. Gear (D.P.) 4 ×0.3 2.2×1200
+
+Lubricating Oil Transfer and L.O. Purifier Supply Pump 1 MD. H. Gear (D.P.) 4 ×0.3 1.5×1200
+
+
+
+Diesel Gene. Fuel Oil Circulating Pump 2 MD. H. Gear (D.P.) 1.6 ×0.9 1.5×1200
+
+Diesel Gene. Marine Gas Oil Booster Pump 1 MD. H. Gear (D.P.) 1.5 ×0.75 3.7×1200
+
+Stern Tube Lubricating Oil Pump 2 MD. H. Gear (D.P.) 0.5 ×0.2 0.4×1200
+
+Diesel Gene. Lub. Oil Priming Pump 3 MD. H. Gear (D.P.) 2.5 ×0.2 0.94×3600 ※
+
+
+
+
+
+
+
+Bilge & Ballast Pump 1 MD. V. Cent. (T.H.) 220/90×20/70 m 50×3600 Self-priming
+
+Fire & G.S. Pump 1 MD. V. Cent. (T.H.) 220/90×20/70 m 50×3600 Self-priming
+
+Ballast Pump 2 MD. V. Cent. (T.H.) 900×25 m 90×1800
+
+Bilge Pump 1 MD. H. Recipro. (T.H.) 2×30 m 0.75×1200
+
+Sludge Pump 1 MD. H. Monros (T.H.) 2.5×41 m 1.5×1200
+
+
+
+Ref. Mach. Cooling Sea Water Pump 1 MD. H. Cent. (T.H.) 40×35 m 7.5×3600
+
+Service No.of Set Type Capacity (m3 /h×MPa) Motor (kW×min-1) 
+
+Drinking Water Pump 1 MD. V. Cent. (T.H.) 5×50 m 3.7×3600
+
+Fresh Water Pump 1 MD. V. Cent. (T.H.) 5×50 m 3.7×3600
+
+Hot Water Circulating Pump 1 MD. H. Cent. (T.H.) 2×10 m 0.4×3600
+
+
+
+
+
+
+
+Boiler HFO/MGO Burning Pump 1 MD. H. Trochoid (D.P.) 268/h×1.8 0.75×3600 ※
+
+Boiler Pilot Burner Pump 1 MD. H. Trochoid (D.P.) 40/h×0.8 0.09×3600 ※
+
+Boiler Forced Draft Fan 1 MD. Turbo 23 m3/min ×2.94 kPa 2.2×3600 ※
+
+Boiler Feed Water Pump 2 MD. H. Cent. (T.H.) 4×100 m 7.5×3600
+
+
+
+
+
+Fuel Oil Purifier 2 MD. V. Centrifuge 2,100/h (380 cSt at 50°C) 5.5×1800 SJ25H
+
+Lubricating Oil Purifier 1 MD. V. Centrifuge 2,400/h 5.5×1800 SJ25H
+
+D/G Lubricating Oil Purifier 1 MD. V. Centrifuge 1,300/h 3.7×1800 SJ15H
+
+D/G Lubricating Oil By-pass Filter 3 * ※
+
+
+
+Engine Room Ventilating Fan 2 MD. V. Axial 650 m3/min ×0.29 kPa 7.5×1200 Reversible
+
+Engine Room Ventilating Fan 1 MD. V. Axial 650 m3/min ×0.29 kPa 7.5×1200
+
+
+
+Auxiliary Blower 2 MD. Turbo 37×3600 Attach to M/E
+
+Motor for M/E hydraulic system 2 MD. 65×3600 Attach to M/E
+
+
+
+Bilge Separator 1 with Content meter 2 m3/h
+
+
+
+Shaft Grounding Equipment 1 with mV-Meter
+
+Ballast Water Treatment System 1
+
+Service No.of Set Type Capacity (m3 /h×MPa) Motor (kW×min-1) 
+
+Overhead Travelling Crane 1 MD. 3 ton 3.0×1800 0.4×1800 - Traverse to be hand operate
+
+Lathe 1 MD. Center distance 600 mm 2.2×1800
+
+Drilling Machine 1 MD. φ21 0.4×1800
+
+Grinding Machine 1 MD. 2-Wheels φ255 ×25t 0.75×1800 AC440V 3φ60Hz
+
+Electric Welder 2 A.C. Arc Type 300 Amp
+
+Gas Cutting Machine 1 Acetylene Type Oxygen B.×2 Acetylene B. ×1 Hose: Each 25 m×3 Foreign made
+
+Chain Block 1 2 3 3 ton 1 ton 0.5 ton
+
+
+
+Control Room Air Conditioner 1 Packaged Type (R404a) 11.3 kW 2.2×3600 with E. heater
+
+
+
+Water-based Local Fire Fighting System 1 Low Press. Type
+
+Sewage Treatment Unit 1
+
+Ballast Eductor 1 100 m3/h
+
+Bilge Eductor 1 50 m3/h
+
+F.O. Tank Pre-heating Unit 1
+
+F.O. Shifter Pump 1 MD. H. Gear (D.P.) 7.2×0.49 3.7×1800 ※ 100%Capa.
+
+
+
+Fresh Water Generator 1 15 T/D WM-15DK
+
+Distillate Pump 1 MD. H. Cent. (T.H.) 1.05×30 m 0.75×3600 ※
+
+Ejector Pump 1 MD. H. Cent. (T.H.) 18×48 m 5.5×3600 ※
+
+
+
+Waste Oil Incinerator 1 349 kW BGW-30N
+
+Waste Oil Pump 1 MD. H. Trochoid 160/h ×0.2 MPa 0.1kW ※
+
+Exhaust & Cooling Fan 1 MD. 95 m3/min ×2.65 kPa 7.5×3600 ※
+
+Burning Fan 1 MD. 11.4 m3/min ×1.18 kPa 1.5×3600 ※
+
+
+
+Service No.of Set Type Capacity (m2) Motor (kW×min-1) 
+
+Jacket Cooling Fresh Water Cooler 1 Plate *
+
+Main Lubricating Oil Cooler 1 Plate *
+
+Diesel Gene. Cooling F.W. Cooler 2 Plate *
+
+
+
+
+
+M/E FO 2nd Filter 1 ABS.50μ 4.2m3/h
+
+D/G FO 2nd Filter 1 E.F.10μ 1.6m3/h
+
+
+
+
+
+Auxiliary Condenser 1 H. Shell & Tube 10
+
+
+
+Shifter Fuel Oil Heater 1 Steam Heat STM 0.55MPa 55 →85°C
+
+Purifier Lub. Oil Heater 1 Steam Heat STM 0.55MPa 45 →90°C
+
+D/G Purifier Lub. Oil Heater 1 Steam Heat STM 0.55MPa 45 →90°C
+
+Purifier Fuel Oil Heater 2 Steam Heat STM 0.55MPa 55 →98°C
+
+Main Engine Fuel Oil Heater 1 Steam Heat STM 0.55MPa 105 →140°C
+
+Boiler Fuel Oil Heater 1 Electric Heat 6 kW ※
+
+Diesel Gene. Fuel Oil Heater 1 Steam Heat STM 0.55MPa 105 →140°C
+
+Calorifier Unit 1 Steam Heat STM 0.3MPa 10 →70°C
+
+Main Engine Warm-up Heater 1 Steam Heat 2 STM 0.55MPa
+
+
+
+
+
+
+
+Main Air Reservoir 2 Cylindrical 5.0 m3 × 2.9 MPa
+
+Emergency Air Reservoir 1 Cylindrical 150 × 2.9 MPa ※
+
+Control Air Dryer 1 Membrane 50 Nm3/h
+
+
+
+Service No.of Set Type Capacity (m3) Heat. Ratio (m2/m3) 
+
+Heavy Fuel Oil Settling Tank 1.0 16.0 0.3 Integrated
+
+Heavy Fuel Oil Service Tank 1 16 0.3 Integrated
+
+
+
+
+
+Marine Gas Oil 2.0 8.0 Integrated
+
+Service Tank
+
+
+
+Sludge Tank 1 1.5 0.1
+
+Fuel Oil Drain Tank 1 1 0.1 In Double Bottom
+
+Fuel Oil Overflow Tank 1 abt * 0.03 In Double Bottom
+
+
+
+Waste Oil Tank 2 1 0.5
+
+
+
+Main Engine Lub. Oil Storage Tank 1 abt. 16 Integrated
+
+Main Engine Lub. Oil Settling Tank 2 abt.8 0.2 Integrated
+
+Main Engine Lub. Oil Sump Tank 1 abt. 16 In Double Bottom
+
+
+
+
+
+Diesel Gene. Lub. Oil Storage Tank 1 5
+
+Diesel Gene. Lub. Oil Settling Tank 2 2.5 0.2
+
+Diesel Gene. Lub. Oil Sump Tank Each 1 1.1 In Common Bed
+
+
+
+
+
+
+
+Cylinder Oil Alarm Chamber 1 0.02
+
+Cylinder Oil Storage Tank 2 Total 40 Integrated
+
+
+
+
+
+Service No.of Set Type Capacity (m3) Heat. Ratio (m2/m3) 
+
+
+
+
+
+
+
+Stern Tube Lub. Oil Sump Tank 1.0 abt. 1 In Double Bottom
+
+
+
+
+
+Stuffing Box Drain Tank 1.0 0.9
+
+Scavenging Box Drain Tank 1.0 0.4 0.1
+
+
+
+Jacket Cool. F.W. Expansion Tank 1.0 1.5
+
+Deaeration Tank 1.0 abt. * ※
+
+
+
+
+
+
+
+
+
+Fresh Water Pressure Tank 1.0 Cylindrical 1
+
+Drinking water Pressure Tank 1.0 Cylindrical 1
+
+
+
+Cascade Tank 1.0 1 With Inspect. Section
+
+
+
+
+
+Bilge Primary Tank 1.0 2
+
+Bilge Tank 1.0 abt. * In Double Bottom
+
+Bilge Sludge Tank 1.0 abt. * 0.01 In Double Bottom
+
+Clean Drain Tank 1.0 abt. * In Double Bottom
+
+
+
+
+
+Name Casing Impeller Shaft Shaft seal 
+
+Cool. S.W. pump Jacket cool. F.W. pump Fire & G.S. pump (Bilge & ballast pump)  Ballast pump Ref. machine cool. S.W. pump Bronze  Cast iron  Bronze  Bronze  Bronze Phosphor bronze Phosphor bronze Phosphor bronze Phosphor bronze Stainless steel Stainless steel Stainless steel Stainless steel Stainless steel Stainless steel Gland packing Mechanical seal Gland packing Gland packing Gland packing
+
+Name Casing Impeller Shaft Shaft seal 
+
+Drinking water pump  Fresh water pump Hot water circulating pump  Boiler feed water pump Main air comp. cooling F.W. pump Cast iron  Cast iron  Cast iron  Cast iron  Cast iron Phosphor bronze Phosphor bronze Phosphor bronze Phosphor bronze Phosphor bronze Stainless steel Stainless steel Stainless steel Stainless steel Stainless steel Gland packing Gland packing Gland packing Gland packing Gland packing
+
+Name Capacity Motor output 
+
+Main lub. oil pump 26 cSt 260 cSt
+
+Name Suction vacuum ( MPa ) Viscosity (cSt) Shaft seal 
+
+Fuel oil transfer pump -0.05 26- 1,000 Gland packing
+
+Marine gas oil transfer pump -0.05 2- 1,000 Mechanical seal
+
+L.O. transfer and L.O. purifier supply pump -0.05 26- 1,000 Gland packing
+
+Fuel oil booster pump -0.05 2-260 Mechanical seal
+
+M/E fuel oil circulating pump 0.4 2-260 Mechanical seal
+
+D/G fuel oil circulating pump 0.4 2-260 Mechanical seal
+
+D/G marine gas oil booster pump -0.05 2-260 Mechanical seal
+
+Stern tube L.O. pump -0.05 26- 1,000 Gland packing
+
+
+
+
+
+Name Design condition 
+
+Tube side ( S.W.) Shell side Clean. factor (%)
+
+Quantity (m3/h) Temperature (°C) Quantity (m3/h) Temperature (°C)
+
+Inlet Outlet Inlet Outlet
+
+
+
+Aux. condenser 40 32 49.2 1,100 kg/h 100 60.0 85.0
+
+
+
+Remarks : 1) Out diameter of tube shall be 16 mm and thickness shall be 1.0 mm. 2) As a result of particular calculation, above said value may be altered.
+
+Name Design condition 
+
+Cold side Hot side Clean. factor (%)
+
+Quantity (m3/h) Temperature (°C) Quantity (m3/h) Temperature (°C)
+
+Inlet Outlet Inlet Outlet
+
+Main lub. oil cooler (S.W.) 160 32.0 36.6 (L.O.) 220 52.9 45.0 85.0
+
+Jacket cooling F.W. cooler (S.W.) 160 36.6 43.8 (F.W.) 102 90.0 79.0 85.0
+
+
+
+D/G cool. F.W. cooler (S.W.) 54 32.0 41.4 (F.W.) 48.2 48.2 38.0 85.0
+
+Remarks : 1) As a result of particular calculation, above said value may be altered.
+
+Name Design condition Heating steam press. ( MPa ) 
+
+Quantity ( Lit/h ) Temperature (°C)
+
+Inlet Outlet
+
+Main engine F.O. heater 4,200 105 140 0.55
+
+Purifier F.O. heater 2,100 55 98 0.55
+
+Purifier L.O. heater 2,100 45 90 0.55
+
+Diesel gene. F.O. heater 1,600 105 140 0.55
+
+Shifter F.O. heater 3,400 55 85 0.55
+
+D/G purifier L.O. heater 600 45 90 0.55
+
+Pipe line Material of valve body Joint Nominal 
+
+Bilge, ballast and sea water line 50 mm & above 40 mm & below Cast iron Bronze Steel slip on weldedflange or sleeve 5K STD
+
+Fire line 50 mm & above 40 mm & below Cast iron Bronze Steel slip on weldedflange or sleeve 10K STD
+
+Fresh, drinking and cooling F.W. line 50 mm & above 40 mm & below Cast iron Bronze Steel slip on weldedflange or sleeve 5K STD
+
+M/E F.O. circulating pump discharge line 50 mm & above 40 mm & below Special cast iron Bronze Steel slip on welded flange 16K STD
+
+D/G F.O. circulating pump discharge line 50 mm & above 40 mm & below Special cast iron Bronze Steel slip on welded flange 16K STD
+
+F.O. and L.O. line 50 mm & above 40 mm & below Cast iron Bronze Steel slip on weldedflange or sleeve 5K STD
+
+F.O. purified line 50 mm & above 40 mm & below Special cast iron Bronze Steel slip on welded flange or sleeve 5K STD
+
+Pipe line Material of valve body Joint Nominal 
+
+Steam ( 0.7MPa ) line 50 mm & above 40 mm & below Cast iron Bronze Steel slip on welded flange or sleeve (Note:4) 10K STD
+
+Steam ( 0.4MPa ) line 50 mm & above 40 mm & below Cast iron Bronze Steel slip on welded flange or sleeve 5K STD
+
+Feed water line Bronze Steel slip on welded flange 16K STD
+
+Compressed air ( 2.9MPa ) line 32 mm & above 25 mm & below Cast steel Forged steel Steel slip on welded flange 20K STD
+
+Compressed air ( 0.8MPa ) line Bronze Steel slip on welded flange or sleeve 10K STD
+
+
+
+Pipe line Kind of pipe Design Test pressure Remarks 
+
+Press (MPa) Temp. (°C) Shop (MPa) After inst.
+
+Bilge line 65 mm & above 50 mm & below STPG370E (Sch.40) (Sch.80) 0.32 Ambi- ence - Work. Cond. To be galvanized
+
+Ballast line 65 mm & above 50 mm & below STPG370E (Sch.40) (Sch.80) 0.30 Ambi- ence - Work. Cond. To be galvanized
+
+Fire line 65 mm & above 50 mm & below STPG370E (Sch.40) (Sch.80) 0.75 Ambi- ence - Work. Cond. To be galvanized
+
+Cooling S.W. & S.W. service line 65 mm & above 50 mm & below STPG370E (Sch.40) (Sch.80) 0.45 Below 55 - Work. Cond. To be galvanized
+
+Cooling F.W. line 125 mm & above 100 mm & below SGP-E SGP-B 0.45 92 - Work. Cond. To be pickled
+
+F.O. sett. tank to F.O. purifier STPG370E (Sch.40) 0.30 60 - 0.45 To be pickled & to be insulated
+
+F.O. puri. to tank 0.30 98 0.45 0.45
+
+Tank to F.O.boost.P 0.30 90 0.45 0.45
+
+F.O. boost. pump to M/E F.O. circ.pump 0.40 140 0.60 0.60
+
+M/E F.O. circ. pump to main engine KSTPG38E (Sch.40) 1.40 140 2.10 2.10
+
+Main engine to mix. tube STPG370E (Sch.40) 0.40 140 0.60 0.60
+
+D/G F.O. circ. pump to diesel generator KSTPG38E (Sch.40) 1.40 140 2.10 2.10
+
+Boiler F.O. serv. line STPG370E (Sch.40) 0.30 98 0.45 0.45
+
+Boiler F.O. burning pump to burner KSTPG38E (Sch.40) 1.80 130 2.70 2.70
+
+F.O. transfer line 125 mm & above 100 mm & below SGP-E SGP-B 0.32 50 - 0.48 -
+
+L.O. line 125 mm & above 100 mm & below SGP-E SGP-B 0.42 55 - Work. Cond. To be pick. (except trans. line)
+
+L.O. purified line 125 mm & above 100 mm & below SGP-E SGP-B 0.35 90 0.53 Work. Cond. To be pickled
+
+Pipe line Kind of pipe Design Test pressure Remarks 
+
+Press (MPa) Temp. (°C) Shop (MPa) After inst.
+
+Steam line SGP-B 0.80 175 1.20 Work. Cond. To be insulated
+
+0.45 155 0.68
+
+Boiler blow line STPG370E (Sch.40) 1.00 175 1.50 Work. Cond. To be insulated
+
+Tank heating pipe (In engine room) STPG370E (Sch.40) 0.8 175 1.20 1.2 -
+
+Exh. steam & drain SGP-B Below 0.10 Below 100 - Work. Cond. To be insulated
+
+Compressed air line KSTPG38E (Sch.40) 2.99 Ambi- ence 4.49 Work. Cond. To be galvanized for main pipe
+
+SGP-B 0.90 Ambi- ence 1.35
+
+Feed water line Suc. line SGP-B Below 0.10 60 - Work. Cond. -
+
+Dis. line STPG370E (Sch.40) 1.10 60 1.65
+
+Drinking water line SUS304-A (Sch.20S) 0.55 Ambi- ence - Work. Cond. -
+
+Fresh water service line SGP-B 0.55 Ambi- ence - Work. Cond. To be galvanized
+
+F.W. gene. distillate water line SUS304-A (Sch.20S) - - - Work. Cond. -
+
+Gauge pipe line Copper - - - Work. Cond. -
+
+Oily drain, deck scupper & open ended pipe SGP-B - - - - -
+
+Exhaust gas pipe SGP-E STPY-400 SS400 - - - - -
+
+
+
+
+
+
+
+Pipe line Bore Kind of pipe Remarks 
+
+Overflow pipe, sounding pipe and vent. pipe fitted to the hull constructed tank 40mm, 50mm 65mm & above STPG370E (Sch.80) SGP -
+
+Nominal diameter Outside diameter Steel pipe SGP-E SGP-B 
+
+Sch.40 Sch.80
+
+10 15 20 25 32 40  50 65 80 100  125 150  200 250 300 350  400 17.3 21.7 27.2 34.0 42.7 48.6  60.5 76.3 89.1 114.3  139.8 165.2  216.3 267.4 318.5 355.6  406.4 2.3 2.8 2.9 3.4 3.6 3.7  3.9 5.2 5.5 6.0  6.6 7.1  8.2 9.3 *9.5 *9.5  *9.5 3.2 3.7 3.9 4.5 4.9 5.1  5.5 7.0 7.6 8.6  9.5 11.0  12.7 *12.7 *12.7 *12.7  *12.7 2.3 2.8 2.8 3.2 3.5 3.5  3.8 4.2 4.2 4.5  4.5 5.0  5.8 6.6 6.9 7.9  7.9
+
+Exhaust gas pipe Thickness of copper pipe 
+
+Nominal dia. Thickness Material Outside dia. Thickness
+
+650 & above 400 to 600 350 & below 6.0 6.4 - SS 400 STPY-400 SGP-E 6 10 12 16 1.0 1.0 1.2 1.2
+
+Line Item No.×Mesh Remarks 
+
+Inlet Outlet
+
+Sea water line Cool. S.W. pump 2×8 mm - Simplex type The element to be stainless, and inner surface to be of epoxy paint
+
+Ref. mach. cool. S.W. pump 1×8 mm -
+
+
+
+Main L.O. cooler 1× abt. 4 mm Inner strainer (Maker supply)
+
+D/G low temp. F.W. cooler 2× abt. 4 mm
+
+Bilge & ballast line Bilge & ballast pump 1×8 mm - Simplex type The element to be stainless, and inner surface to be of epoxy paint
+
+Fire & G.S. pump 1×8 mm -
+
+Ballast pump 2×8 mm -
+
+Bilge pump 1×32 - Simplex type
+
+Sludge pump 1×10 -
+
+Bilge separator 1×100 -
+
+Fresh water line Drinking water tank - 1×10 mm Rose box
+
+Fresh water tank - 1×10 mm
+
+
+
+Drain line Drain trap Each 1 - Y type strainer
+
+Steam line Reducing valve & temp. cont. valve (direct type) Each 1 - Y type strainer
+
+Line Item No.×Mesh Remarks 
+
+Inlet Outlet
+
+Fuel oil line F.O. transfer pump 1×16 - Simplex
+
+M.G.O. transfer pump 1×16 - Simplex
+
+F.O. purifier 1×60 - Duplex ( F.O. side )
+
+1×60 - Simplex ( D.O. side )
+
+F.O. booster pump 1×100 - Duplex
+
+Main engine F.O. circ. pump - 1× ABS.50μ Auto. back wash with by-pass filter (Maker supply)
+
+Diesel generator M.G.O. booster pump 1×100 - Duplex
+
+Diesel generator F.O. circ. pump - 1× E.F.10μ Auto. back wash with by-pass line
+
+- 3× ABS.75μ Notch wire (Maker supply)
+
+Boiler F.O. pump 1×100 - Simplex (Maker supply)
+
+F.O. shifter pump 1×32 - Duplex
+
+Waste oil incinerator 1×60 - Simplex
+
+Lub. oil line L.O. transfer and L.O. purifier supply pump 1×60 - Duplex
+
+Stern tube L.O. pump 2×60 - Simplex with magnet
+
+D/G L.O. purifier 1×60 - Duplex
+
+Main engine L.O. pump - 1× ABS.40μ Manual back wash
+
+Sludge collector 1×150 - (Maker supply)
+
+Cylinder lubricator 1 - Y type strainer (Maker supply)
+
+Diesel generator L.O. pump 3 - Simplex (Maker supply)
+
+- 3× ABS.30μ Continuous back wash (Maker supply)
+
+
+
+
+
+
+
+AIR COOLER
+
+MAIN L.O. 
+
+COOLER
+
+JACKET 
+
+C.F.W. CLR
+
+
+
+
+
+
+
+F.W. GENERATOR
+
+
+
+
+
+
+
+C/R AIR CON.
+
+
+
+AUX. CONDENSER
+
+No. Flow quantity (m3/h) 
+
+Sea going Port in/out At port Load- ing
+
+1 - - - -
+
+2 160 160 0 0
+
+3 160 160 0 0
+
+4 - - - -
+
+5 34 0 0 0
+
+6 - - - -
+
+7 5 5 5 5
+
+8 40 40 40 40
+
+9 108 108 108 108
+
+10
+
+11 - - - -
+
+12 - - - -
+
+sum 507 473 153 153
+
+D/G L.T. C.F.W. COOLER 10 
+
+
+
+11.0
+
+
+
+D/G L.T. C.F.W. COOLER 10 D/G L.T. C.F.W. COOLER
+
+
+
+11
+
+
+
+
+
+
+
+AIR CON. MACH. 14 AIR CON. MACH.
+
+
+
+PROV. REF. MACH. 15 PROV. REF. MACH.
+
+
+
+GALLEY AIR COND.
+
+AIR CON. MACH. 14 
+
+
+
+PROV. REF. MACH. 15 PROV. REF. MACH.
+
+No. Flow quantity (m3/h) 
+
+Sea going Port in/out At port Load- ing
+
+13 21 21 21 21
+
+14 7 7 7 7
+
+15 7 7 7 7
+
+
+
+sum 35 35 35 35
+
+Tank Insulation Covering 
+
+Material Thickness in mm
+
+Heavy fuel oil settling tank Heavy fuel oil service tank Waste oil tank Glass wool or rock wool 25 Galvanized steel plate (abt. 0.2mm) or aluminizedglass cloth
+
+Temperature range of internal fluid Nominal pipe diameter in mm Material 
+
+Up to 20 25 to 150 200 & above
+
+Thickness of insulation in mm
+
+Up to 100°C 6 20 20 Glass wool, glass mat or glass wool mattress
+
+101°Cto 183°C 6 20 20
+
+184°Cand above 6 40 40
+
+Name Material Nominal pipe diameter in mm Thickness of insulation in mm 
+
+Main engine Diesel gene. engine Aux. Boiler Incinerator Rock wool All sizes 50
+
+Name of machinery or equipment Colour 
+
+Diesel engine Main air compressor Cooler Aux. condenser Main air reservoir Fresh water generator Intermediate shaft bearing Light blue green ( Munsel notation : 7.5BG7/2 )
+
+Turbocharger Silver
+
+C/R packaged air conditioner Light blue green ( Munsel notation : 7.5BG7/2 )
+
+Aux. boiler Incinerator Maker’s standard
+
+Tank Pipe ( Not insulated ) Air trunk White ( Munsel notation : N-9.5 )
+
+Name of tank Fitting 
+
+Emerg. Shut- off valve Self closing valve Air vent Level gauge Heat. coil Heat. coil ratio (m2/m3) Boiling connec -tion Remarks (Thermo -meter)
+
+Heavy fuel oil settling tank O O O F O 0.3 o* O
+
+Heavy fuel oil service tank O O O F O 0.3 o* O
+
+
+
+
+
+M.G.O. service tank O O O F - - o*
+
+
+
+Sludge tank - O O S O 0.1 o*
+
+Fuel oil drain tank - - O S O 0.1 o*
+
+Fuel oil overflow tank - - O F O 0.03 o*
+
+
+
+M/E lub. oil sump tank - - O F&S - - -
+
+M/E lub. oil storage tank - - O F - - -
+
+M/E lub. oil settling tank O O O F O 0.2 o* O
+
+D/G lub. oil storage tank - - O F - - -
+
+D/G lub. oil settling tank O O O F O 0.2 o* O
+
+
+
+S/T lub. oil sump tank - - O F - - -
+
+S/T lub. oil seal pot - - O F - - -
+
+
+
+Cylinder oil storage tank O - O F - - -
+
+Cylinder oil alarm chamber - - O - - - -
+
+
+
+Stuffing box drain tank - - O S - - -
+
+
+
+Scavenging box drain tank - - O S O 0.1 o*
+
+
+
+Cool. F.W. expansion tank - - - G - - - Open
+
+Deaeration tank - - O - - - -
+
+Cascade tank (Inspect. tank) - - - SG - - - Open
+
+
+
+Fresh water pressure tank - - - G - - -
+
+Drinking water press. tank - - - G - - -
+
+
+
+
+
+Name of tank Fitting 
+
+Emerg Shut- off valve Self closing valve Air vent Level gauge Heat. Coil Heat. coil ratio (m2/m3) Boiling connec -tion Remarks (Thermo -meter)
+
+
+
+Waste oil tank O - O F O 0.5 o* O
+
+
+
+Bilge primary tank - - - - - - - Open
+
+Bilge tank - - O S - - o*
+
+Bilge sludge tank - - O S O 0.01 o*
+
+
+
+Clean drain tank - - O S - - -
+
+
+
+
+
+Trouble    Bz sound Lamp flicker  Push the buzzer stop button   Bz stop  Lamp flicker   Push the flicker stop button   Lamp light   Trouble cause is removed    Lamp go out 
+
+Lamp light
+
+Trouble    Bz sound Lamp flicker  Push the buzzer stop button   Bz stop  Lamp flicker   Push the flicker stop button   Lamp light   Trouble cause is removed    Lamp go out 
+
+Trouble
+
+Trouble    Bz sound Lamp flicker  Push the buzzer stop button   Bz stop  Lamp flicker   Push the flicker stop button   Lamp light   Trouble cause is removed    Lamp go out 
+
+Bz stop Lamp flicker
+
+Control room Bridge Duty engineer Officer’s mess room, Chief engineer’s room and etc. 
+
+Trouble    Bz sound Lamp flicker  Push the buzzer stop button   Bz stop  Lamp flicker   Push the flicker stop button   Lamp light   Trouble cause is removed    Lamp go out Bz sound Lamp flicker  Do.    Bz stop  Lamp flicker      Bz stop Lamp light        Bz stop  Lamp go out
+
+Trouble
+
+Bz sound Lamp flicker  Do.    Bz stop  Lamp flicker Bz sound Lamp flicker  Do.
+
+Bz sound Lamp flicker Bz sound Lamp flicker Bz sound Lamp flicker Bz sou Lamp d licker
+
+Bz stop  Lamp flicker
+
+Bz stop Lamp flicker Bz stop Lamp flicker Bz stop Lamp flicker Bz stop Lamp flicker
+
+Bz stop Lamp light
+
+Bz stop Lamp light Bz sto Lamp l Bz sto Lamp l ght Bz stop Lamp light
+
+Lamp light
+
+Bz stop  Lamp go out Bz stop Lamp go out
+
+Lamp go out Bz stop Lamp go out Bz stop Lamp go out Bz stop Lamp go out
+
+Trouble    Bz sound Lamp flicker  Push the buzzer stop button   Bz stop  Lamp flicker   Push the flicker stop button   Lamp light   Trouble cause is removed    Lamp go out 
+
+Bz sound Lamp flicker
+
+Trouble    Bz sound Lamp flicker  Push the buzzer stop button   Bz stop  Lamp flicker   Push the flicker stop button   Lamp light   Trouble cause is removed    Lamp go out 
+
+Lamp go out
+
+Bz sound Lamp flicker  Do.    Bz stop  Lamp flicker 
+
+Bz sound Lamp flicker
+
+Bz sound Lamp flicker  Do.    Bz stop  Lamp flicker 
+
+Bz stop Lamp flicker
+
+Bz stop  Lamp flicker 
+
+Bz stop Lamp flicker
+
+Bz stop Lamp light 
+
+Bz stop Lamp light
+
+Bz stop  Lamp go out 
+
+Bz stop Lamp go out
+
+Bz sound Lamp flicker  Do.    Bz stop  Lamp flicker      Bz stop Lamp light        Bz stop  Lamp go out 
+
+
+
+Bz sto Lamp l Bz sto Lamp l ght Bz stop Lamp light
+
+Bz sound Lamp flicker  Do. 
+
+Bz sound Lamp flicker
+
+Bz stop Lamp go out 
+
+Bz stop Lamp go out
+
+Bz sound Lamp flicker  Do.    Bz stop  Lamp flicker      Bz stop Lamp light        Bz stop  Lamp go out 
+
+Bz sou Lamp d licker
+
+Bz sound Lamp flicker  Do.    Bz stop  Lamp flicker      Bz stop Lamp light        Bz stop  Lamp go out 
+
+Bz stop Lamp flicker
+
+Bz sound Lamp flicker  Do.    Bz stop  Lamp flicker      Bz stop Lamp light        Bz stop  Lamp go out 
+
+Bz stop Lamp go out
+
+Alarm  Condition Running indication and stop alarm Press., temp., level and other alarm 
+
+Lamp Buzzer Lamp Buzzer
+
+Normal Stopping Go out Silence Go out Silence
+
+Running Light ( Green ) Silence
+
+Abnormal Flickering ( Red ) Sound Flickering ( Red ) Sound
+
+Push the buzzer stop button Flickering ( Red ) Silence Flickering ( Red ) Silence
+
+Push the flicker stop button Light ( Red ) - Light ( Red ) -
+
+Push the reset button at starter panel Go out - - -
+
+Return to normal - - Go out Silence
+
+Divi- sion Mane Item ver ng syLsOteCmA L CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Start & stop ◯ ◯ 1) ◯ 1) Common control lever with engine telegraph  2) Due to follows ・ Over speed ・ L.O. press. drop ・ Manual emergency trip ・T/C L.O. press. drop  3) On C/R indicator panel  4) Due to follows ・ Crank case high oil mist ・ Scavenging box fire ・ Piston cool. oil non-flow ・ L.O. low press. ・ Jacket C.F.W. low press ・ Jacket C.F.W. out. H.T. ・ Piston cool.oil out. H.T. ・ Exh.gas cyl. out. H.T. ・ Thrust pad high temp. ・ ME ECS slow down (Inc. cyl. lub. oil non flow)  5) Including ”Pre-warning” 6) In case of E/S maneuv. 7) On CDP 8) On E/S teleg.& Indi. box 9) Due to T/C L.O. press. drop
+
+Reversing ◯ ◯ 1) ◯
+
+Speed control ◯ ◯ A tom atio 1) ◯
+
+Load limitation ◯ ◯ 7) 1 H n dli n g ◯ 1
+
+Upper speed limit 7) 1 In ica o r 1
+
+In ica . La p
+
+Emergency trip 2) ◯ 8) 1 7) 4 n g 1 nde 1 t 5) 2 A
+
+Manual emerg. trip ◯ 8) 1 ◯ 7) 1 In epe ◯ 1
+
+Emergency trip reset ◯ ◯ D spla ◯
+
+Emergency trip cancel 8) 1 9) ◯ 7) 1 R cor ing 9) ○ 1
+
+In epe n de t
+
+Auto. slow down 4) ◯ 7) 10 D s pla 1 1 5) 2 B
+
+Auto. slow down reset ◯ In epe n de t ◯
+
+Auto. slow down cancel 8) 1 ◯ 7) 1 ◯ 1
+
+Slow down request 8) 1 H ndli 6) n1g 1 1 B
+
+Increase limitation ◯ 8) 1 ◯ 3) 1 In ica or ◯ 1
+
+Divi- sion Mane Item ver ng syLsOteCmA L CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Control position 1) ◯ 3) 3 2) ◯ 3) 3 4) ◯ 3) 3 1) Engine side-Remote  2) C/R-W/H  3) ”E/S”,“C/R”,“W/H”  4) Confirmation  5) ANAV.FULL HFULL EHALF ASLOW DD. SLOW STOP AD. SLOW SSLOW THALF EFULL RE. FULL N  6) ”F/E”,”S/B”,”R/U”  7) Recording the order and time
+
+
+
+Imperfect Bridge control condition A tom a1tio 1 1 C
+
+Engine telegraph ◯ 5) ◯ ◯ 5) ◯ H n dli n g ◯ 5) ◯ 8) ◯ 7) ◯
+
+Sub- telegraph ◯ 6) 3 In ica o r ◯ 6) 3 7) ◯
+
+Handle matching 9) 1 In ica . La p 1 A H E A D NAV.FULL
+
+FULL
+
+HALF
+
+Turning gear engage 11) 1 9) 1
+
+SLOW
+
+D. SLOW
+
+Turning gear disengage ◯ 11) 1 9) 1 In epe nde t
+
+STOP
+
+A S T E R N
+
+D spla SLOW
+
+
+
+ME ECS slow down R cor i1ng 1 B FULL
+
+E. FULL
+
+ME ECS abnormal In epe n de 1 t 1 C
+
+Starting air valve ◯ 10) 2 D s pla
+
+Main engine revolution 1 1 In epe n de t 4
+
+Main engine revolution counter 1 8) Telegraph repeater 9) On C/R indicator panel 10) “Service” & “Block” 11) On E/S teleg.& Indi. box
+
+Turbocharger revolution H ndli ng
+
+Fuel index 1 In ica or
+
+1) Engine side-Remote  2) C/R-W/H  3) ”E/S”,“C/R”,“W/H”  4) Confirmation  5) ANAV.FULL HFULL EHALF ASLOW DD. SLOW STOP AD. SLOW SSLOW THALF EFULL RE. FULL N  6) ”F/E”,”S/B”,”R/U”  7) Recording the order and time 
+
+A H E A D NAV.FULL
+
+FULL
+
+HALF
+
+SLOW
+
+D. SLOW
+
+STOP
+
+A S T E R N
+
+SLOW
+
+
+
+FULL
+
+E. FULL
+
+Divi- sion Mane Item ver ng syLsOteCmA L CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Starting failure 1.0 1.0 1 C 1) Critical speed continuous running  2) On C/R indicator panel  3) Source failure  4) On E/S teleg.& Indi. Box  5) On CDP
+
+Wrong way 4) 1 2) 1 1 1 C
+
+Critical speed ◯ A tom 1)atio 1 1 1) 1 C
+
+AC/DC power source H n dli n3g) 2 2 2 C
+
+Remote control system abnormal In ica o r 1 1 C
+
+Remote control source 5) 1 In ica .3 L) a 1 p 1 C
+
+Safty system abnormal 1 1 C
+
+Safty source 5) 1 In epe 3) n1de t1 C
+
+Telegraph logger system abnormal D spla 1 1 C
+
+Telegraph system abnormal R cor ing 1 1 C
+
+Telegraph source 5) 1 In epe n3d)e 1 t 1 1 C
+
+D s pla
+
+Bridge source In epe n3d)e 1 t 1 C
+
+C/R back-up power source 3) 1 1 C
+
+C/R back-up system failure H ndli n1g 1 C
+
+In ica or
+
+Divi- sion Mane Item ver ng syLsOteCmA L CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+1) Auto. start & stop by scavenging air press.  2) “M0”  3) “MAN-1/E-2/E-3/E”  4) “1/E”,”2/E”,”3/E”  5) “Auto. position request”
+
+
+
+Start block A tom atio 1 1 C
+
+Engine not ready H n dli n g 1 1 C
+
+In ica o r
+
+In ica .  La p
+
+Auxiliary blower 1) ◯ ◯ ◯ 2 5) 1 2 1 2 C
+
+Auxiliary blower running fail In epe n1de t1 C
+
+D spla
+
+R cor ing
+
+Unattended machinery space 3) ◯ 2) 1 In epe n de t 2) 1
+
+Duty engineer 4) 3 D s pla 4) 3
+
+In epe n de t
+
+
+
+H ndli ng
+
+In ica or
+
+Divi- sion Item Pre sure LOCAL CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Fuel oil inlet 1) 1 1 L 1 C 1) To be fitted with strainer outlet
+
+Lub. oil inlet 1.0 1 L 1 B
+
+Piston cooling oil inlet 1 A tom L a1tio 1 C 2) System failure
+
+Turbocharger lub. oil inlet 1.0 1 H n dli nLg 1 C
+
+In ica o r
+
+In ica . La p
+
+Jacket cooling F.W. inlet 1.0 1 L 1 B
+
+Air cooler sea water inlet 1 In epe L n de t1 C
+
+Exhaust valve spring air D spla L 1 1 C
+
+Scavenging air 1.0 1 R cor ing
+
+Starting air main valve inlet 1.0 1 In epe nLd e t 1 L 1 C
+
+Maneuvering air 1.0 1 D s pla L 1 2) ○ C
+
+In epe n de t
+
+
+
+H ndli ng
+
+In ica or
+
+Divi- sion Item Pre sure LOCAL CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Fuel oil 2nd filter difference ○ ◯ H 1 1.0 C 1) U tube type
+
+Lub. oil 2nd filter difference ◯ H 1 1 C
+
+A tom a tio
+
+Turbocharger air filter difference 1) 1 H n dli n g
+
+Air cooler in/out difference 1) 1 In ica o r
+
+In ica . La p
+
+
+
+In epe nde t
+
+D spla
+
+HPS filter difference R cor H i1ng 1 C
+
+HPS by-pass filter difference In epe nHde 1 t 1 C
+
+D s pla
+
+In epe n de t
+
+
+
+H ndli ng
+
+In ica or
+
+Divi- sion T Item mp raturLeOCAL CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Fuel oil inlet 1) ◯ 1.0 1 HL 2 C 1) By the pneumatic type temp. control valve
+
+Lub. oil inlet 1) ◯ 1.0 1 H 1 C
+
+Piston cooling oil each cylinder outlet 6.0 6 A tom H a tio 6 B
+
+Turbocharger lub. oil outlet 1.0 1 H n dli nHg 1 C
+
+In ica o r
+
+Jacket cooling F.W. inlet 1.0 1 In ica . La p
+
+Jacket cooling F.W. each cylinder outlet 1) ◯ 6 H 6 C
+
+Jacket cooling F.W. each cylinder outlet (S/D) In epe H n de t6 B
+
+D spla
+
+Thrust pad 1.0 1 R cor H i ng 1 B
+
+Air cooler air inlet 1.0 In epe n de t
+
+Air cooler air outlet 1.0 D s pla
+
+Scavenging air 1.0 1 In epe n de t
+
+Air cooler sea water inlet 1.0 D s pla
+
+Air cooler sea water outlet 1 H ndli ng
+
+In ica or
+
+Divi- sion Tank level Item LOCAL emCpEerNaTtuRreA L CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Exhaust gas each cylinder outlet 6 1) 6 B 1) “High temp.” and “High deviation”
+
+Exhaust gas turbocharger inlet 1 H 1 C
+
+Exhaust gas turbocharger outlet 1 A tom H a tio 1 C
+
+H n dli n g
+
+Scavenging box fire 6 In ica oHr 6 B
+
+Fuel oil flow meter inlet 1.0 In ica . La p
+
+Cylinder oil flow meter inlet 1.0
+
+Lub. oil sump tank 1.0 In epe L n1de t1 C
+
+Jacket cool. F.W. expansion tank 1.0 D spla L 1 1 C
+
+R cor i ng
+
+Cylinder oil alarm chamber In epe nLd e 1 t 1 C
+
+Fuel oil leakage tank D s pla H 1 1 C
+
+Mist catcher drain In epe nHde 1 t 1 C
+
+Scav. box drain tank H 1 1 C
+
+Stuff. box drain tank H ndli H n1g 1 C
+
+In ica or
+
+Divi- sion Item E c.LOCAL CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+1) Abnormal  2) Slow down request
+
+Piston cooling oil non-flow 6 6 B
+
+Crank case oil mist 7.0 A tom H a1tio 1 B
+
+Oil mist detector H n dli n1g) 1 1 C
+
+A-C oil change-over ◯ In ica o r
+
+EICU power failure In ica . La 1 p 1 C
+
+M/E hydraulic pump ◯ ◯ ◯ 2 1) 2 2 C
+
+In epe nde t
+
+Fuel oil flow meter 1.0 D spla
+
+Cylinder oil flow meter 1.0 R cor i ng
+
+Deaeration tank In epe n1d)e 1 t 1 C
+
+1 D s pla
+
+In epe n de t1
+
+M/E PSU AC power failure 2 2 C
+
+M/E PSU UPS controller abnormal H ndli n2g 2 C
+
+M/E PSU 24V DC battery mode In ica o2r 2 C
+
+Divi- sion Etc. Item Ta k levLeOl CAL CTEeNmTpRerAaLtu rCeONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Intermediate shaft bearing 1.0 1 H 1.0 C
+
+Stern tube bearing lub. oil outlet 1.0 1 H 1 C
+
+A tom atio
+
+H n dli n g
+
+In ica o r
+
+In ica .  La p
+
+Stern tube lub. oil sump tank 1.0 L 1 1 C
+
+Stern tube seal pot 1.0 In epe HL n2de t2 C
+
+D spla
+
+R cor ing
+
+Stern tube lub. oil non-flow In epe n de 1 t 1 C
+
+D s pla
+
+In epe n de t
+
+R cor i ng
+
+H ndli n g
+
+In ica o r
+
+Divi- sion Di Item sel enginLeOCAL CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Start 1) ◯ ◯ ◯ 2) 3 3) 3 3.0 D 1) Due to follows ・ Over current ・ High voltage ・ Low voltage ・ Low frequency ・ D/G emerg. trip  2) Running lamp  3) Due to start failure  4) Auto.-Manual  5) Due to follows ・F.O. handle “Run” position  6) Due to follows ・ Over speed ・ L.O. press. drop ・ F.W. high temp.
+
+Stop ◯ ◯
+
+Change-over ◯ 4) ◯ A tom atio
+
+Ready for start 5) 3 H n dli n g
+
+In ica o r
+
+Emergency trip 6) ◯ In ica .  La 9 p 9 D
+
+
+
+In epe nde t
+
+A-C oil change-over ○ D spla
+
+Fuel oil flow meter 1 R cor ing
+
+Diesel oil flow meter 1 In epe n de t
+
+Fuel oil leakage tank D s pla H  3 3 D
+
+In epe n de t
+
+Speed relay abnormal R cor i3ng 3 D
+
+H ndli ng
+
+In ica or
+
+Divi- sion D/G temperature Item LOCADL/ G p essCuEreN TRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Lub. oil inlet 3.0 3.0 L 3 D 1)Bythewaxtypetemp. control valve  2) By the pneumatic type temp. control valve
+
+High temp. cooling F.W. inlet 3.0 3.0 L 3 D
+
+Low temp. cooling F.W. inlet 3.0 3 A tom L atio 3 D
+
+Turbocharger lub. oil inlet 3.0 H n dli nLg 3 3 D
+
+Starting air inlet In ica oLr 3 3 D
+
+Control air inlet In ica .L L a 3 p 3 D
+
+Fuel oil inlet 3.0
+
+Fuel oil 2nd filter difference ○ In epe H n1de t1 D
+
+Lub. oil filter difference ○ D spla H 3 3 D
+
+Lub. oil inlet 1) ◯ 3.0 3.0 R cor H ing 3 D
+
+High temp. cooling F.W. outlet 1) ◯ 3.0 3.0 In epe nHde t 3 D
+
+Exhaust gas each cylinder outlet 18.0 D s pla
+
+Exhaust gas turbocharger inlet 6.0 6.0 In epe nHde t 6 D
+
+Fuel oil inlet 2) ◯ 3.0 3.0 HL 6 D
+
+Low temp. cooling F.W. inlet 2) ◯ 1.0 1.0 H ndli HL n g 2 D
+
+Boost air inlet 3.0 In ica or
+
+Divi- sion Item en ratorLOCAL CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Current 3 H 3 3.0 D 1) “Stand-by” & “Run”  2) “MSB & FORE” & ”ESB”
+
+Voltage 3.0 HL 2 2 D
+
+Frequency 2.0 A tom HLatio 2 2 D
+
+Electric power 3.0 H n dli n g
+
+In ica o r
+
+MSB control source failure In ica .  La 1 p 1 D
+
+MSB circ. breaker trip source failure 1 1 D
+
+MSB control system failure In epe n1de t1 D
+
+D spla
+
+ACB non-close R cor ing 3 3 D
+
+ACB abnormal In epe n de 3 t 3 D
+
+Preferential trip D s pla 1 1 D
+
+AC440V insulation In epe n de 1 t 1 E
+
+AC100V insulation R cor 2) i2ng 2 E
+
+Emergency generator engine abnormal 1) 2 H ndli n1g 1 D
+
+In ica or
+
+Te Divi- sion p.Pressure Item RuLnOnCinAgL CENTGReAnLer CalONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Running ◯ ◯ 1.0 1 1) Due to follows ・ Miss fire & flame failure ・ F.D. fan stop ・ Drum level lowest ・ F.O. temp. drop ・ F.O. press. drop ・ Source failure ・Exh. gas high temp.  2) Common alarm  3) Controlled by “ON-OFF” system  4) Auto. start & stop by detect. the drum water level  5) By the thermostat
+
+Emergency trip 1) ◯ ◯ 2) 1 1 D
+
+A tom atio
+
+H n dli n g
+
+F.O. burning pump ◯ In ica o r
+
+Forced draft fan 3) ◯ ◯ In ica .  La 1 p 1 D
+
+Feed water pump 4) ◯ ◯
+
+In epe nde t
+
+D spla
+
+Drum steam 3) ◯ 1 1 R cor L ing 1 D
+
+Burner F.O. inlet 1 In epe n de t
+
+D s pla
+
+In epe n de t
+
+F.O. heater outlet 5) ◯ 1 R cor HL i2ng 2 D
+
+H ndli ng
+
+In ica or
+
+Divi- sion Etc. Item LOCAL CENTRLAevLe Cl ONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Drum ◯ ◯ HL 2 HL 2 2.0 D 1) By the float valve  2) By the pneumatic type press. control valve
+
+Cascade tank 1) ◯ L 1 1 D
+
+A tom atio
+
+H n dli n g
+
+Excess steam dumping 2) ◯ ◯ In ica o r
+
+Soot blower ◯ In ica .  La p
+
+
+
+Fuel oil flow meter 1 In epe n de t
+
+D spla
+
+R cor ing
+
+In epe n de t
+
+D s pla
+
+In epe n de t
+
+R cor i ng
+
+H ndli n g
+
+In ica o r
+
+Divi- sion Temperature Item LOCAL CREuNnnTiRngA L CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Fuel oil purifier 1) ◯ ◯ 2.0 2 2) 2 2.0 E 1) Auto. sludge discharge system  2) Due to follows ・ Oil leakage  3) By the direct type temp. control valve  4) By the pneumatic type temp. control valve  5) Auto. start & stop by detecting fuel oil trans. pump running
+
+
+
+Fuel oil shifter 5) ◯ ◯ 2 A tom atio 1 1 E
+
+H n dli n g
+
+In ica o r
+
+In ica .  La p
+
+Heavy fuel oil settling tank 3) ◯ 1 H 1 1 E
+
+Heavy fuel oil service tank 1 In epe H n1de t1 E
+
+D spla
+
+R cor ing
+
+In epe n de t
+
+Purifier fuel oil inlet 4) ◯ 2 D s pla H  2 2 E
+
+Shifter fuel oil heater outlet 4) ◯ 1 In epe nHde 1 t 1 E
+
+R cor ing
+
+Waste oil tank 2 H ndli H n2g 2 E
+
+In ica or
+
+E Divi- sion tc. Item TaLnOkC leAvLe l CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Heavy fuel oil settling tank 1) ◯ 1.0 HL 2 2.0 E 1) By auto. start & stop of F.O. transfer pump  2) Over flow system  3) By auto. start & stop of D.O. transfer pump  4) Overflow
+
+Heavy fuel oil service tank 2) ◯ 1.0 L 1 1 E
+
+A t om a tio
+
+H n dli n g
+
+arine Gas Oil 3) ◯ 2.0 In ica oHr L 4 4.0 E
+
+Service Tank
+
+
+
+Waste oil tank 2.0 H ndli L n2g 2 E
+
+In epe nde t
+
+D s pla
+
+R c or i ng
+
+Fuel oil drain tank 1.0 D spla H 1 1 E
+
+Fuel oil overflow tank 1.0 In epe H n1de t1 E
+
+D s pla
+
+Fuel oil overflow line R c or i4n)g 1 1 E
+
+
+
+Divi- sion Level Item LOCAL CENTRAL CONTROL STATION BRIDGE Remarks 
+
+T mp ratu e INDICAT. LAMP ALARM
+
+
+
+Lub. oil purifier 1) ◯ ◯ 1 1 2) 1 1 E 1) Auto. sludge discharge system  2) Due to follows ・ Oil leakage  3) By the pneumatic type temp. control valve
+
+D/G Lub. oil purifier 1) ◯ ◯ 1 1 2) 1 1 E
+
+
+
+Au o ma ti on
+
+Purifier lub. oil inlet 3) ◯ 1 H 1 1 E
+
+D/G Purifier lub. oil inlet 3) ◯ 1 Ind H c1at. L1a p E
+
+Ala rm
+
+Ha dli g
+
+I nd p e d ent
+
+Dis lay
+
+Re o rdi n g
+
+
+
+Ind p e d ent
+
+Dis lay
+
+Re ordi ng
+
+H a d li g
+
+Divi- sion Level Tem Item era ureLOCAPLr essu eCENTRARLun CniOnNg TROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Main air compressor 1) ◯ ◯ 2) ◯ 2 3) 2 2 E 1) Auto. start & stop  2) Auto.- Manual and start - stop  3) Abnormal stop ・ Compress. air outlet
+
+Emergency air compressor ◯
+
+A tom atio
+
+Main air reservoir 2.0 2 H n dli nLg 2 E
+
+Control air 1.0 In ica oLr 1 1 E high temp.
+
+Emergency shut off valve operating air 1 In ica .L L a 1 p 1 E
+
+
+
+Main air compressor cooling F.W. inlet 2.0 In epe nde t
+
+Main air compressor cooling F.W. outlet 2 D spla
+
+R cor ing
+
+Bilge well In epe nHde 3 t 3 H 1 E
+
+Bilge tank D s pla H  1 1 E
+
+Bilge sludge tank In epe nHde 1 t 1 E
+
+Sludge tank R cor H i1ng 1 E
+
+Clean drain tank H ndli H n1g 1 E
+
+In ica or
+
+Divi- sion Etc.Te Item p. LOCAL GeCnEeNraTl RAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Fresh water generator 1) ◯ ◯ 1 2) 1 1 E 1)Dumptoevaporatorby high salinity  2) Due to high salinity  3) Due to high oil content and separator abnormal  4) Due to abnormal  5) Due to follows ・ Non-voltage ・ Over load ・ Hyd. oil tank low level ・ Phase failure  6) By the pneumatic type temp. control valve  7) Auto. shut by thermostat  8) Auto. 3-way valve
+
+Bilge separator 8) ◯ ◯ 1.0 3) 2 2 E
+
+Sewage treatment unit A tom 4)atio 1 1 E
+
+Ballast water treatment system H n dli n4g) 1 1 E
+
+Waste oil incinerator ◯ 1.0 4) 1 In 1 ica o4r) 1 1 E
+
+In ica .  La p
+
+Hot water heater steam valve 7) ◯
+
+Hot water heater outlet 6) ◯ 1 In epe n de t
+
+Sea water (Ref. mach. C.S.W. pump outlet) 1 D spla
+
+R cor ing
+
+In epe n de t
+
+Steering gear ◯ 2 D 2 s pla 5 ) 8 8 ◯ 2.0 ◯ E
+
+Air conditioner ref. machine ◯ ◯ In 1 epe n4d)e 1 t 1 E
+
+Provision ref. machine ◯ ◯ 2R cor 4) i2ng 2 E
+
+Local fire fighting system H ndli 4) n1g 1 E
+
+Local fire fighting system start ◯ In ica o1r 1 E
+
+Divi- sion Item LOCAL CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Lamp & buzzer test switch ◯ ◯ 1) Source failure
+
+Buzzer stop button ◯ ◯
+
+Flicker stop button ◯ A tom atio
+
+Function test button ◯ H n dli n g
+
+In ica o r
+
+Automatic exchange telephone ◯ ◯ In ica .  La p ◯
+
+Common battery telephone ◯ ◯
+
+In epe nde t
+
+Patrol man call ◯ D spla
+
+Engineer’s call ◯ R cor ing
+
+In epe n de t
+
+Clock 1.0 D s pla 1.0
+
+Rudder angle 1.0 In epe n de t 3.0
+
+Console electric source (AC & DC) ◯ 2 2R cor 1) i2ng 2 E
+
+H ndli n g
+
+In ica o r
+
+Divi- sion Item LOCAL CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Main lub. oil pump 1) ◯ ◯ ◯ 2 2 3) 2 2.0 C 1) Auto. change by detect. the non-voltage and pressure  2) Auto. change by detect. the non-voltage  3) Abnormal stop  4) Auto. start and stop detect. by D/G running  5) Auto. start by restart of D/G via black-out  6) Auto. change by detect. the non-voltage and non-flow  7)Auto.stopbystarting fixedwater-basedlocal fire fighting system  8) Auto. start and stop by detect. main air comp. running
+
+
+
+Fuel oil booster pump 2) ◯ ◯ ◯ 2 A 2 tom 3)atio 2 2 C
+
+M/E fuel oil circulating pump 2) ◯ ◯ ◯ 2 H 2 n dli n3g) 2 2 C
+
+Jacket cool. F.W. pump 2) ◯ ◯ ◯ 2 In 2 ica o3r) 2 2 C
+
+Cooling S.W. pump 2) ◯ ◯ ◯ 2 In 2 ica .3 L) a 2 p 2 C
+
+Stern tube lub. oil pump 6) ◯ ◯ ◯ 2 2 3) 2 2 C
+
+In epe nde t
+
+D/G fuel oil circulating pump 2) ◯ ◯ ◯ 2 2D spla 3) 2 2 D
+
+D/G marine gas oil booster pump 5) ◯ ◯ ◯ 1 R 1 cor 3)ing 1 1 D
+
+In epe n de t
+
+Main air comp. cooling F.W. pump 8) ◯ ◯ ◯ 2 D 2 s pla 3 ) 2 2 E
+
+In epe n de t
+
+D/G lub. oil priming pump 4) ◯ ◯ 3 3R cor 3) i3ng 3 D
+
+Engine room ventilating fan 7) ◯ ◯ 3 3H ndli 3) n3g 3 C
+
+In ica or
+
+Divi- sion Item LOCAL CENTRAL CONTROL STATION BRIDGE Remarks 
+
+INDICAT. LAMP ALARM
+
+
+
+Fuel oil transfer pump 1) ◯ ◯ ◯ 1 1) Auto. start and stop by detecting the H.F.O. settling tank level  2) Auto. start and stop by detecting the M.G.O. service tank level  3) Auto. stop by bilge separator abnormal  4) Auto. change by detect. the non-voltage  5) Abnormal stop  6)Auto.startandstopby detecting the press. tank pressure  7) Due to long running  8) “No.1”-“No.2”
+
+Marine gas oil transfer pump 2) ◯ ◯ 8) ◯ 1
+
+Lub.oil transfer and lub. oil purifier supply pump ◯ ◯ 1 A tom atio
+
+Bilge pump 3) ◯ ◯ ◯ 1 H n dli n7g) 1 1 E
+
+Sludge pump ◯ ◯ 1 In ica o r
+
+In ica .  La p
+
+Boiler feed water pump 4) ◯ ◯ 2 2 5) 2 2 D
+
+Fire & G.S. pump ◯ ◯ 1 In epe nde t ◯
+
+Bilge & ballast pump ◯ ◯ 1 D spla
+
+Ballast pump ◯ ◯ 2 R cor ing
+
+Ref. mach. C.S.W. pump ◯ ◯ 1 In 1 epe n5d)e 1 t 1 E
+
+D s pla
+
+Fresh water pump 6) ◯ ◯ ◯ 1 In epe n de t
+
+Drinking water pump 6) ◯ ◯ ◯ 1 R cor i ng
+
+Hot water circulating pump ◯ H ndli n g
+
+In ica o r
+

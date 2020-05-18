@@ -1,0 +1,17 @@
+1.4  FUEL OIL CONSUMPTION OF MAIN ENGINE .
+
+The fuel oil consumption of main engine shall be measured at shop test burning diesel oil.
+
+The figure shall be 160.8 g/kWh at normal rating on the basis of fuel net calorific value of 
+42,700 kJ/kg and ISO Standard Reference Conditions (Complying with MARPOL 73/78 
+ANNEX VI Reg.13 - TierⅡ restriction) and applying part load optimize turning with 
+exhaust gas by-pass (PLO with EGB).  This consumption figure shall be subject to a 
+tolerance of 5 %.
+
+ ISO condition  
+  Suction air temperature 25℃ 
+  Sea water temperature 25℃ 
+  Barometric pressure 1000 hPa.
+
+ , exhaust gas back pressure of 6.0 kPa at 100% load
+△2

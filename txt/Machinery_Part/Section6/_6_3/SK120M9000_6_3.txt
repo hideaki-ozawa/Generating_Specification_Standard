@@ -1,0 +1,50 @@
+6.3  ROTARY PUMP .
+
+Rotary pumps shall develop rated capacity and discharge pressure when operating with the 
+under-said suction conditions.
+
+Name 
+Suction 
+vacuum 
+( MPa ).
+
+Viscosity 
+(cSt).
+
+Shaft seal.
+
+Fuel oil transfer pump －0.05 26  - 1,000 Gland packing.
+
+Diesel oil transfer pump －0.05 2  - 1,000 Mechanical seal.
+
+L.O. transfer 
+and L.O. purifier supply pump.
+
+－0.05 26  - 1,000 Gland packing.
+
+Fuel oil booster pump －0.05 2  -  260 Mechanical seal.
+
+M/E fuel oil circulating pump ＋0.40 2  -  260 Mechanical seal.
+
+D/G fuel oil circulating pump ＋0.40 2  -  260 Mechanical seal.
+
+D/G diesel oil booster pump －0.05 2  -  260 Mechanical seal.
+
+Stern tube L.O. pump －0.05 26  - 1,000 Gland packing.
+
+D/G L.O. Purifier Supply Pump －0.05 26  -  260 Gland packing.
+
+The materials of main parts of the gear pumps shall be as follows:.
+
+ Casing Cast iron 
+ Gear Carbon steel 
+ Shaft Carbon steel.
+
+The fittings and accessories shall be as follows:.
+
+ 1 － set of coupling bolt, nut and rubber ring or coupling bush 
+ 1 － coupling cover for horizontal type pump 
+ 1 － relief valve  
+ 1 － gauge board fitted with suction and discharge pressure gauges 
+ Each 1 － root cock or valve for pressure gauge 
+ 1 － common bed for horizontal type pump

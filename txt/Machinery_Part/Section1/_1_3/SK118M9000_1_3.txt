@@ -1,0 +1,79 @@
+1.3  SHOP TEST .
+
+As regards under said machinery installed in the engine room, the under said running test 
+shall be executed at the Maker’s shop to demonstrate workmanship, proper working order 
+and performance in accordance with the shop test projects.
+
+In case electric current of 60 Hz shall not be available, auxiliaries driven by electric 
+motors shall be tested by supplying available electric current and results on performance 
+shall be converted into these for 60 Hz by proper calculation.
+
+Necessary data shall be recorded during these tests and the results shall be submitted to 
+the Owner.
+
+For main engine.
+
+ (1) Ahead running load test.
+
+  1/2 load  1/2 hour 
+  3/4 load 1/2 hour 
+  Normal rating  1  hour 
+  Maximum rating 1/2 hour 
+  70% load (Data only).
+
+ At normal rating load the fuel oil consumption test shall be conducted.
+
+ (2) Governor test.
+
+ (3) Minimum revolution test.
+
+ (4) Starting test and astern confirmation test.
+
+ (5) Emergency trip test.
+
+ (6) Overhaul inspection.
+
+During the shop test, the diesel oil shall be used and the lub. oil shall be used in 
+accordance with Maker’s standard.
+
+For diesel generator engine.
+
+ (1) Ahead running load test.
+
+   1/2 load ( Data only ) 
+   Maximum rating  1 hour 
+   10% over load 1/3 hour.
+
+ (2) Governor test.
+
+ (3) Starting test ( Data only ).
+
+ (4) Parallel running test.
+
+ (5) Emergency trip test.
+
+ (6) Fuel oil consumption measuring.
+
+These shop tests shall be carried out after coupling the engine with generator at the engine 
+Maker’s shop.  The said load shall mean the generator load.
+
+For pump and air compressor.
+
+ (1) Performance test 
+   Performance test shall be carried out for each set but in case two or more than two 
+   sets of same kind and capacity are installed, performance test shall be carried out 
+   only for one set.
+
+ (2) Continuous running test 
+   Continuous running test at full load for each set shall be carried out. 
+   The said tests shall be executed according to the Maker’s usual practice by using 
+   available facilities in the Maker’s shop.
+
+For oil purifier.
+
+The shop test shall be carried out according to the Maker’s standard and usual practice.
+
+For fresh water generator.
+
+The shop test shall not be carried out. 
+The operating test shall be carried out onboard during sea trial.

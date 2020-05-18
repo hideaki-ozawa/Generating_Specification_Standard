@@ -1,0 +1,17 @@
+13.2  MAIN ENGINE REMOTE CONTROL SYSTEM .
+
+The main engine remote control system shall be provided performance of reversing, 
+starting, stopping and speed setting of the main engine, electrically-pneumatically with a 
+micro-computer from the bridge by operating a single telegraph transmitter, and 
+electrically-pneumatically with a micro computer from the engine control room by 
+operating the telegraph receiver and maneuvering dial for reversing, speed setting and 
+starting.
+
+When the main engine control is carried out from the engine control room or local, the 
+telegraph handle on bridge control console shall be used as conventional type engine 
+telegraph.
+
+The local control system shall be provided on the main engine for the case of emergency 
+in failure of the remote control system or the governor.
+
+P-72

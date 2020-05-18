@@ -1,0 +1,21 @@
+3.5  PROPELLER .
+
+There shall be provided one solid type propeller.  The diameter and pitch of propeller 
+shall be suitable for the power and speed.  The propeller shall rotate clockwise, seen 
+from aft when going ahead.  The propeller shall be of key-less type and fitted on the 
+taper end of propeller shaft and secured by a nut. 
+The forward end of boss shall be counterbored and fitted with a sealing gland.
+
+The propeller surface shall be ground smooth.  A propeller cap shall be bolted to the 
+boss and its interior shall be filled with grease.
+
+The performance of propeller shall be designed under the following conditions.
+
+ Main engine output Normal output ( 6,425 kW ) 
+ Main engine revolution abt. 97.6 rpm ( abt. 4% up ) 
+ Draught Designed loaded draught 
+ Sea condition Calm sea.
+
+The propeller shall be swung on a mandril and statically balanced.
+
+min-1

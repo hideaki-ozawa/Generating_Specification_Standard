@@ -1,0 +1,349 @@
+SECTION 4    DECK MACHINERY 
+
+  
+4.1    GENERAL  
+Deck machinery shall be arranged as shown on the General Arrangement.  
+Particulars of the deck machinery shall be as follows :  
+
+Name 
+
+Type 
+
+No.
+
+Rated capacity 
+
+Steering gear 
+
+Windlass 
+
+Mooring winch Emergency fire pump Deck crane 
+
+Electro-hydraulic ram type, Two (2) pumps and two (2) motors Electro-hydraulic type   combined with mooring   winch Electro-hydraulic type 
+
+Electric motor driven Electro-hydraulic type 
+
+Provision crane 
+
+Electric motor driven 
+
+Grab bucket 
+
+Electro hydraulic type 
+
+1  As per rule 
+
+289 kN (29.5 t), 147 kN   (15.0 t)×12 m/min. 147 kN (15.0 t)×12 m/min. 
+
+2 
+
+2 
+
+1  As per rule 4 2 1 4  Owner supply 
+
+30.5 t×26 mR 0.9 t×about 8 m/min. 2.5 t×about 8 m/min. 
+
+  
+The rated capacity and capacity of the prime movers may be slightly modified according to the manufacturer’s standard, and materials of above mentioned machineries shall be to the manufacturer’s standard.  
+When the manufacturer changed, the rated capacity particulars of the prime movers may be modified according to new manufacturer’s standard. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H4 - 2 
+
+4.2    STEERING GEAR  
+One (1) set of electro-hydraulic type steering gear shall be provided.  
+The steering gear shall be designed in compliance with the requirements of the Classification Society.  
+The system shall consist of one (1) ram, two (2) cylinders, two (2) pump units (50%×2) and necessary hydraulic piping.  
+The steering gear shall be capable of putting the rudder over from 35 degrees on either side to 30 degrees on the other side within 28 seconds at the Vessel’s ahead speed specified by the rule, when actuated by two (2) pump units.  
+Hydraulic pump shall be of fixed flow type, and piping shall be so arranged that two (2) pump units can be actuated simultaneously and each pump unit independently.  
+Hydro-lock alarm shall be provided.  
+The steering gear shall be operated from wheelhouse by electric remote control system normally, and by a manual handle fitted with steering gear, in case of the failure of remote control system.  
+In case of main electric power failure, electric power shall be supplied from emergency generator to No.1 pump unit only, and steering gear shall be kept the condition required by the rule.  
+One (1) reserve tank and feed hand pump of system oil shall be provided in steering gear room.  
+Stage shall not be provided around the steering gear.  
+As for detail of electric control system, refer toⅣ- ELECTRIC PART. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H4 - 3 
+
+4.3    WINDLASS  
+Two (2) sets of open type electro-hydraulic windlass shall be installed on forecastle deck.  
+Each windlass shall have one (1) wildcat, two (2) hawser drums and one (1) warping end.  
+The wildcat and hawser drum shall have individual mechanical claw clutch and be linked with hand brake.  
+The warping end shall have no whelp and be directly connected with driving shaft without clutching device.  
+The hawser drum shall be enough to take a 75 ㎜  diameter and 200 m long fiber rope.  
+Hoisting speed of the anchor chain shall be of 9 m/min. at actual load (244 kN(24.9 ton)).  
+Chain drum and hawser drums shall not be operated simultaneously.  
+Each hawser drum of windlass shall not be operated simultaneously.  
+Speed and driving direction of the windlass shall be controlled by local control valve.  
+Auto-tension system shall not be provided.  
+As for hydraulic system, refer to   THIS SECTION 4.5 ELECTRO-HYDRAULIC POWER SYSTEM. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H4 - 4 
+
+4.4    MOORING WINCH  
+Two (2) sets of open type electro-hydraulic mooring winch shall be installed on aft upper deck as shown on the General Arrangement.  
+The mooring winch shall have two (2) hawser drums and one (1) warping end.  
+The hawser drum shall have individual mechanical claw clutch and be linked with hand brake.  
+The warping end shall have no whelp and be directly connected with driving shaft without clutching device.  
+The hawser drums shall be enough to take a 75 mm diameter and 200 m long fiber rope.  
+Each drum of mooring winches with two (2) hawser drums shall not be operated simultaneously.  
+Speed and driving direction of all mooring winches shall be controlled by local control valve.  
+Auto-tension system shall not be provided.  
+As for hydraulic system, refer to   THIS SECTION 4.5 ELECTRO-HYDRAULIC POWER SYSTEM.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H4 - 5 
+
+4.5    ELECTRO-HYDRAULIC POWER SYSTEM  
+One (1) high pressure electro-hydraulic power system shall be arranged in steering gear room.  
+Capacity of the pump unit shall be able to operate one (1) windlass at actual load or two (2) mooring winch at rated load.  
+The pump unit shall serve hydraulic oil to hatch cover operation.  
+The system shall have two (2) electro-hydraulic pump, two (2) electric motor, filter, control valve, cooler, oil tank and so on.  
+As for detail of the system, refer to   Fig. 4 - 1 DIAGRAM OF ELECTRO HYDRAULIC POWER SYSTEM.  
+As for piping application, refer to   Table 8 - 2 PIPING APPLICATION SCHEDULE ( HULL PART ).  
+ 4.6    EMERGENCY FIRE PUMP  
+One (1) electric motor driven emergency fire pump shall be installed in the emergency fire pump room.  
+The pump shall have one independent suction from sea and discharge to fire main system through stop valve.  
+One (1) vacuum pump shall be fitted with the pump and shall be linked to driving shaft by automatic clutch.  
+Start and stop of emergency fire pump shall be controlled in emergency fire pump side.  
+The material of main parts for emergency fire pump shall be as follows;  
+Casing and cover   Impeller Shaft  Shaft seal  
+ 
+
+Cast iron Phosphor bronze Stainless steel Gland packing 
+
+--- --- --- --- 
+
+  
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ME
+TS
+YS
+RE
+WO
+PC
+IL
+UA
+RD
+YH
+
+ 
+
+ -
+ 
+
+ 
+
+OR
+TC
+EL
+EF
+OM
+AR
+GA
+D1
+
+I
+
+ 
+
+ 
+
+ -
+ 
+
+4
+
+ .
+
+gi
+F
+
+H4 - 6
+
+SS
+AL
+DN
+W
+
+I
+
+,
+
+ 
+
+TI
+NU
+PM
+UP
+
+RO
+TO
+M-
+2(
+
+)P
+MU
+P-
+2
+
+ 
+
+ 
+
+I
+
+HC
+NW
+GN
+RO
+OM
+
+I
+
+IMABARI SHIPBUILDING CO., LTD
+
+     
+
+ 
+
+H4 - 7 
+
+4.7    PROVISION CRANE  
+Three (3) sets of provision cranes shall be installed as shown on the General Arrangement.  
+Two (2) sets of 0.9 ton provision crane shall be common use with fuel oil bunkering davit.  
+Particulars of the provision crane shall be as follows :  
+
+Type 
+
+No. of set Hoisting load Hoisting speed Slewing speed Luffing Outreach 
+
+Electric motor 
+
+Electric motor 
+
+2 sets 0.9 ton 
+
+about 8 m/min. about 0.5 min-1 
+
+Fixed 
+
+about 1.5 m 
+
+1 set 2.5 ton 
+
+about 8 m/min. about 0.5 min-1 
+
+Fixed 
+
+about 2.5 m 
+
+  
+4.8  DECK CRANE  
+Four (4) sets of deck crane shall be installed on upper deck as shown on the General Arrangement.  
+Principal particulars shall be as follow ;  
+
+Type No. of set Hoisting load Hoisting speed Lowering speed Winding height Slewing radius Luffing time Slewing angle Slewing speed 
+
+Electro-hydraulic deck crane 
+
+      18.5/37/63 m/min. 
+
+of single type 
+
+4 sets 
+
+30.5/12/5 ton 
+
+63 m/min. 
+
+37 m 
+
+26  ～  4.5 m 
+
+49 sec.    (26  ～  4.5 m) 
+
+360 degrees, endless 
+
+0.6 min-1 
+
+ Sufficient reinforcement for basic construction, access ladder, etc. shall be provided.  
+Four (4) shackle and cargo hook shall be provided. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H4 - 8e 
+
+4.9    GRAB BUCKET  
+Four (4) sets of electro hydraulic type grab bucket and necessary equipment including lashing material shall be provided by owner. 
+
+Grab bucket seats shall be installed as shown on the General Arrangement.  
+The grab bucket shall be driven by electro-hydraulic.  
+The grab bucket shall be jointed under falling block of deck crane.  
+Necessary equipment (for example cable reels, sheaves) for electro hydraulic system shall be supply by owner and shall be fitted on deck crane by crane maker. 
+

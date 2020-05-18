@@ -1,0 +1,50 @@
+11.2  PAINTING .
+
+Machinery and piping in engine room shall be painted expect following parts.
+
+ 1. Working surface of machinery, brass surface, and other parts which are finished.
+
+bright. 
+ 2. Surface of insulation which are not covered with steel plates. 
+ 3. Internal surface of machinery, piping and tanks except otherwise mentioned.
+
+The colour of finished coat for external surface shall be in accordance with the following 
+table.
+
+Name of machinery or equipment Colour 
+Diesel engine  
+Main air compressor 
+Cooler 
+Aux. condenser 
+Main air reservoir 
+Fresh water generator 
+Intermediate shaft bearing.
+
+Light blue green 
+( Munsel notation : 7.5BG7/2 ).
+
+Turbocharger.
+
+Silver.
+
+C/R packaged air conditioner.
+
+Light blue green 
+( Munsel notation : 7.5BG7/2 ).
+
+Aux. boiler 
+Incinerator.
+
+Maker’s standard.
+
+Tank 
+Pipe ( Not insulated ) 
+Air trunk.
+
+White 
+( Munsel notation : N-9.5 ).
+
+Other machinery and equipment shall be painted in accordance with Maker’s standard.
+
+The piping system shall be discriminated with colour bands. 
+(Heavy fuel oil : Red,  Diesel oil : Pink)

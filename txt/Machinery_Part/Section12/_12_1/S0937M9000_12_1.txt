@@ -1,0 +1,47 @@
+12.1  OIL PURIFYING DEVICE.
+
+12.1.1  Fuel oil purifier.
+
+Two (2) fuel oil purifiers shall be disc bowl type.
+
+One (1) of these purifiers shall be able to use as diesel oil purifier.
+
+The materials of main parts shall be as follows:.
+
+ Bowl disc Stainless steel 
+ Bowl body Special stainless steel 
+ Frame Cast iron 
+ Vertical shaft Special alloy steel.
+
+The fittings and accessories shall be as follows:.
+
+ 1 － oil level gauge 
+ 1 － multi monitor 
+ 1 － set of disc 
+ 1 － oil feed pump 
+ 1 － solenoid valve unit.
+
+As to automatic system, refer to Subsection 13.5 INSTRUMENTATION AND 
+CONTROL IN ENGINE CONTROL ROOM.
+
+12.1.2  Lubricating oil purifier.
+
+One (1) lubricating oil purifier and one (1) D/G lubricating oil purifier shall be disc bowl 
+type.
+
+The materials of main parts shall be as follows:.
+
+ Bowl disc Stainless steel 
+ Bowl body Special stainless steel 
+ Frame Cast iron  
+ Vertical shaft Special alloy steel.
+
+The fittings and accessories shall be as follows:.
+
+ 1 － oil level gauge  
+ 1 － multi monitor   
+ 1 － set of disc  
+ 1 － solenoid valve unit.
+
+As to automatic system, refer to Subsection 13.5 INSTRUMENTATION AND 
+CONTROL IN ENGINE CONTROL ROOM.

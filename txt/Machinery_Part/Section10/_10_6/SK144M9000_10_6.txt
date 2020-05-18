@@ -1,0 +1,91 @@
+10.6  S.W. AND LOW TEMP. C.F.W. DISTRIBUTION CHART.
+
+No.1 CENTRAL
+C.F.W. COOLER.
+
+C.F.W. PUMP.
+
+No.2 CENTRAL
+C.F.W. COOLER.
+
+  7 m3/h.
+
+ 34 m3/h.
+
+Cu-Fe Ion GENERATOR
+700 m3/h.
+
+  30 m3/h
+83 m3/h.
+
+195 m3/h.
+
+23 m3/h.
+
+32.5 m3/h.
+
+240 m3/h.
+
+ 15 m3/h.
+
+F.W. GENERATOR.
+
+310 m3/h.
+
+310 m3/h.
+
+240 m3/h.
+
+AIR CON. ( C/R ).
+
+AUX. CONDENSER.
+
+No.1 MAIN AIR COMP.
+
+  30 m3/h.
+
+  30 m3/h.
+
+   4 m3/h.
+
+ 70 m3/h.
+
+AIR CON. ( ACCOM. ).
+
+PROV. REF. MACHINE.
+
+AIR CON. ( GALLEY )
+2.5 m3/h x 2.
+
+M/E L.O. COOLER.
+
+M/E AIR COOLER.
+
+No.1 DIESEL GENE. ENGINE.
+
+No.2 DIESEL GENE. ENGINE.
+
+No.3 DIESEL GENE. ENGINE.
+
+No.2 MAIN AIR COMP.
+
+ 4.5 m3/h.
+
+140 m3/h.
+
+100 m3/h.
+
+   4 m3/h.
+
+F.W. GENERATOR.
+
+HIGH TEMP.
+
+F.W. GENERATOR.
+
+M/E CYL. JACKET.
+
+M/E WARM UP HEATER HIGH TEMP.
+C.F.W. PUMP.
+
+ M10 - 11

@@ -1,0 +1,36 @@
+7.1  MAIN AIR COMPRESSOR .
+
+There shall be provided two (2) sets of main air compressor for main engine and main 
+diesel generator engine starting and for control air and general air service.
+
+Control air and general air service shall be supplied through the air reducing valve from 
+main air reservoir.
+
+The main air compressor shall be of electric motor driven three stage compression, 
+reciprocating type and shall be completed with air coolers and unloader. 
+The cylinders, cylinder covers and air coolers shall be cooled by air.
+
+The materials shall be as follows:.
+
+ Cylinder  Cast iron  
+ Cylinder head  Cast iron  
+ Piston (1st)  Aluminum alloy  
+ Piston (2nd & 3rd)  Cast iron  
+ Connecting rod  Special cast iron  
+ Crank case  Aluminum alloy.
+
+The fittings and accessories shall be as follows:.
+
+ 1 － air intake and silencing filter 
+ 1 － oil and water separator 
+ 1 － inter coolers and final re-cooler 
+ 1 － lub.oil pump with filter 
+ 1 － cooling air fan driven by crank shaft 
+ 1 － set of resilient mount 
+ 1 － set of unloader 
+ 1 － set of flex high press. hose 
+ 1 － set of safety valves after each stage 
+ 1 － set of air thermometers after each stage 
+ 1 － set of press. gauge for each stage and final 
+ 1 － set of press. switch 
+ 1 － set of temperature switch

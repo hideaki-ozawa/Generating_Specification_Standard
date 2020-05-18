@@ -1,0 +1,56 @@
+ 7.3    PLAN. 
+7.3.1    Wording, unit, etc. used in the plan.  
+“The plan” stated hereunder in the Specifications shall mean those which are to be submitted to the Owner, such as the Contract plans, plans for approval, finished plans, instruction books and so on.  
+Generally all plans shall be written in English.  
+The units used in these plans shall normally be International System of Units ( SI ).  
+The symbols for valves, fittings, method of weld and electrical components on all drawings shall be in accordance with the Builder's or the subcontractor's standard.  
+The graduation on gauges or meters onboard the Vessel shall be in SI.  
+Instruction books shall be prepared also in SI in general.  
+The plans including finished plans shall be shown in suitable scales according to the Builder's usual practice, and shall be in white print and/or blue print.  
+ 7.3.2    Contract plan.  
+The following plan shall accompany and form a part of the Specifications.  
+ 
+
+( DWG. No. C-0200 ) 
+
+General Arrangement. 
+7.3.3    Plan for approval.  
+Prior to starting work, the Builder shall submit the specified working plans to the Owner and/or the regulatory bodies for approval in due time of design and construction schedules.  
+The list of plans for approval shall be submitted to the Owner in early stage of designing.  
+Plans for approval shall be submitted to the Owner with two (2) copies ( Owner --- 1, Owner’s supervisor --- 1) and “comment sheet” shall be returned to the Builder together with the Owner's approval stamp with signature on the sheet.  
+The Owner shall return the comment sheet within three (3) weeks after dispatching the plans from the Builder.  
+When the Owner finds it impossible to return the comment sheet within the specified period, the Owner shall inform the Builder without delay and they shall discuss on the matter.  
+When the Builder does not receive the comment sheet or information within the above-mentioned period, the Builder may proceed with the work as it is deemed to be approved by the Owner.  
+When any other plans or technical information such as detailed working plans are requested by the Owner or the Owner's supervisor in addition to the list of plans, the Builder shall show or submit them for reference, unless the said plans or information involve some confidential matter of the Builder or manufacturers.  
+The Builder's standard plans and subcontractors' or manufacturers' plans may be used as working plans or plans for approval with or without modifications.  
+The plans for the Owner's supply items shall not be submitted to the Owner.  
+For the second and successive sister Vessels for the same Owner, the submission of plans for the Owner’s approval may be dispensed with so far as there involves no alteration of the design. 
+7.3.4    Finished plan.  
+The list of finished plans or drawings shall be submitted to the Owner in due course.  
+The Builder shall furnish the Owner at the delivery of the Vessel with three (3) copies of each finished plan written in English.  
+One (1) copy of each of the above-mentioned three (3) copies shall be furnished aboard the Vessel.  
+Instruction book shall be furnished by the Builder as follows.  
+The following plans, one (1) copy each, mounted in wooden frame with transparent plastic cover shall be installed aboard the Vessel at such locations as designated by the Owner's supervisor.  
+  
+
+  General Arrangement.  
+
+Capacity Plan with Deadweight scale. 
+
+  
+ 
+
+ 
+
+ 
+
+Pumping Plan ( incl. Arrangement of fuel oil and diesel oil pipes concerning 
+
+   USCG requirement ).
+ ※  Fire Control and Life Saving Plan ( depending on IMO standard mark ). 
+
+※  Muster plan ( Owner supply ) .
+
+※  ----- Number of copy shall be decided as per rule requirement. 
+
+One (1) copy of maneuvering information sheet concerning USCG requirement and damage control plan shall be furnished with card case in wheelhouse. 

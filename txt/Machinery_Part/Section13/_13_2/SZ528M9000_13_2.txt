@@ -1,0 +1,6 @@
+13.2  MAIN ENGINE REMOTE CONTROL SYSTEM .
+
+The main engine remote control system shall be of the electrically-pneumatically control 
+system.  The reversing, starting and speed setting of the main engine shall be controlled 
+by telegraph receiver and fuel handle on the control console in engine control room 
+through a ECS and proper equipment fitted on the engine.

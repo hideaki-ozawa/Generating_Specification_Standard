@@ -1,0 +1,9 @@
+12.10  NAME PLATE AND CAUTION PLATE .
+
+Name plate for machinery shall be in English and in SI unit.
+
+Caution plate for machinery shall be in English and Japanese. 
+In principle, name plate written in English shall be fitted to each valve which nominal 
+diameter 15A and above.
+
+Tanks in engine room shall be fitted with name plate.

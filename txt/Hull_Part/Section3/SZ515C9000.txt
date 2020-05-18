@@ -1,0 +1,951 @@
+SECTION 3    EQUIPMENT AND OUTFIT 
+
+ 3.1    CARGO HATCH AND SMALL HATCH  
+3.1.1    Cargo hatch cover  
+Steel weathertight folding type hatch covers shall be provided for each cargo hatch on upper deck.  
+The hatch cover shall be divided into four (4) panels and each two (2) panels of four (4) panels shall be folded forward and backward.  
+The hatch cover shall be constructed as double skin type.  
+Strength of hatch covers shall be as required by the Classification Society.  
+The hatch cover shall be fastened to hatch coaming with quick acting cleat by manual operation.  
+Suitable sponge gasket and compression bar shall be equipped for weathertight.  
+Material of compression bar shall be of SUS 304.  
+Number and size of hatch opening shall be as follows.  
+
+Hatch number 
+
+1 
+
+2  ～  5 
+
+Opening size 
+
+Length ( m )  ×  Breadth ( m ) 
+
+18.40    ×    18.72 23.20    ×    18.72 
+
+ One (1) ullage hole shall be provided to No.3 cargo hatch.  
+Plug for sampling shall be provided each hatch coaming for IMSBC code.  
+Vacuum relief valve shall be provided to No.3 cargo hatch.  
+Cement feeder hole (700mm diameter, 2-each cargo hold) shall be provided each hatch cover.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+H3 - 2 
+
+ 
+
+3.1.2    Cargo hatch cover operation system  
+The cargo hatch cover shall be operated by hydraulic operation system, refer to Fig. 3 - 1 HYDRAULIC OPERATING SYSTEM FOR HATCH COVER.  
+Simultaneous operation of any two (2) hatch cover sections, consist of two (2) hatch cover panels  each,  shall  be  considered  and  opening  or  closing  time  is  about  six  (6)  min.  except cleating time. (refer to below)  
+  
+  
+  
+  
+  
+  
+ Hydraulic operating system for cargo hatch cover shall consist of following items. 
+
+( a )  Hydraulic pump used both as cargo hatch operation and deck machinery 
+
+operation, as for system, refer to Fig. 4 - 1 DIAGRAM OF ELECTRO-HYDRAULIC POWER SYSTEM 
+
+  
+( b )   Four (4) main cylinder for opening and closing for each cargo hatch cover  
+( c )   One (1) operating controller fitted on hatch side or hatch end for each cargo 
+
+hatch cover 
+
+ As for piping application, refer to Table 8 - 2 PIPING APPLICATION SCHEDULE.  
+Materials of above mentioned machineries shall be to the manufacturer’s standard.  
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+H3 - 3
+
+ 
+
+EN
+IL
+NA
+M
+
+I
+
+ .
+
+HC
+AM
+
+KC
+ED
+
+ .
+
+DY
+H
+
+ .
+
+EL
+E
+
+TU
+HS
+-N
+EP
+O
+
+RE
+DN
+IL
+YC
+
+ 
+
+.
+
+1O
+N
+
+ 
+
+RE
+VO
+CH
+CT
+AH
+
+2.
+ON
+
+  
+.
+
+.
+
+CH
+
+3.
+ON
+
+  
+.
+
+.
+
+CH
+
+.
+
+4O
+N
+
+  
+.
+
+.
+
+CH
+
+.
+
+5O
+N
+
+  
+.
+
+.
+
+CH
+
+RA
+LI
+MI
+S
+
+OT
+
+.
+
+.
+
+ 
+
+CH
+1O
+N
+
+.
+
+RA
+LI
+MI
+S
+
+OT
+
+.
+
+.
+
+ 
+
+CH
+1O
+N
+
+.
+
+RA
+LI
+MI
+S
+
+OT
+
+.
+
+.
+
+ 
+
+CH
+1O
+N
+
+.
+
+RA
+LI
+MI
+S
+
+OT
+
+.
+
+.
+
+ 
+
+CH
+1O
+N
+
+.
+
+IMABARI SHIPBUILDING CO., LTD
+
+     
+
+H3 - 4 
+
+ 
+
+3.1.3    Small hatch and cover  
+Small hatch and cover shall be fitted as follows :  
+
+Item 
+
+Location 
+
+Size (㎜)  × 
+
+No. 
+
+       *11000×1000 -1   Hatch size 800 diameter - 1 Deck open 720 diameter 600×600 - 2/1 hold about 1000×1000 -1 about 1100×1100-1 
+
+1900×1400 -1 
+
+Type 
+
+Securing device 
+
+Steel weathertight hinge-up type 
+
+Butterfly nut and bolt (Brass)
+
+Steel weathertight bolted cover 
+
+Bolt (SUS) and nut (Brass) 
+
+On f’cle deck 
+
+On upper deckaft 
+
+*4On upper deckOn bolted cover  at  upper deck Engine casing top On upper deck about 
+
+Rope hatch 
+
+Access hatch *3 for cargo hold Engine parts    *2 handling hatch 
+
+Bolted cover for engine parts 
+
+ Coaming height shall be designed as per rule requirement.  
+      *1 --- With counter weight, little hatch for mike handling shall be fitted       *2 --- With counter weight       *3 --- With Pad lock hanger 
+
+*4 --- As for No.1 cargo hold fore part, the access hatch shall be fitted on forecastle 
+
+deck 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+H3 - 5 
+
+ 
+
+3.2    MAST  
+One (1) foremast and one (1) radar mast shall be provided as shown on the General Arrangement.  
+Foremast of steel pipe shall be provided with stays and fitted with necessary fittings such as mast head light, air horn, steering light, etc.  
+Radar mast of steel pipe shall be provided with stays and fitted with necessary fittings such as radar scanner, mast head light, antenna, air horn, inmarsat-C, etc.  
+Inmarsat-FB post shall be provided on compass deck.  
+Steel wire rope without over-coating shall be used for mast stay, and turnbuckle shall be fitted.  
+As for antenna, refer toⅣ- ELECTRIC PART. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+H3 - 6 
+
+ 
+
+3.3    ANCHORING AND MOORING EQUIPMENT  
+3.3.1    Anchor and anchor chain  
+Anchor and anchor chain shall be provided in compliance with the requirements of the Classification Society.  
+
+Bower anchor 
+
+Anchor chain cable 
+
+Cast steel, AC-14 type anchor 7,425 ㎏  ×  2 sets High strength steel ( grade 3 ) flush   butt welded stud link chain cable   78 ㎜ diameter  ×  660 m total length 
+
+Spare anchor shall not be supplied.  
+Anchor chain cable shall consist of 55 m length×10 and 27.5 m length×4, and each length shall be jointed with kenter shackle.  
+Swivel piece shall be fitted at extreme outboard of end of chain cable and shall be connected to anchor shackle.  
+The specified length of anchor chain cable shall include shackles, swivel pieces, enlarged links, etc.  
+Inboard end of chain cable shall be fastened to equipments of quick release. Hammer hook for quick release hammer shall be fitted near chain locker. (Sledge hammer shall be used as quick release hammer)  
+Marking of chain length shall be done every 27.5 m by white painting.  
+The following accessories and spares shall be supplied.  
+  
+  
+  
+  
+  
+
+2 - Kenter shackle ( spare ) 5 - Taper pin for kenter shackle 1 - Anchor shackle ( spare ) 2 - Taper pin for anchor shackle 1 - Shackle punch 2 - Pin punch 6 - Chain hook 1 - Pin hammer 1 - Shackle hammer 1 - Tool box 1 - Disengaging tool for kenter shackle 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+H3 - 7 
+
+ 
+
+3.3.2    Mooring rope  
+The following mooring ropes shall be supplied.  
+
+Mooring rope 
+
+Rule requirement synthetic fiber rope   (more than B.L. 554kN) 6 - 220m 
+
+ Tow line shall not be supplied by shipyard.  
+3.3.3    Anchoring fitting  
+Anchoring fittings shall be fitted as follows :  
+
+Item 
+
+No.
+
+Location 
+
+Hawse pipe 
+
+2 
+
+From f’cle deck to side shell 
+
+Chain pipe 
+
+2  Chain locker top 
+
+Chain stopper Anchor stopper 
+
+2  On f’cle deck 2  On chain stopper 
+
+  
+
+Type and material Welded steel plate/pipe with cast steel shell piece, and with doubling plate on deck, with anchor convexity on side shell Welded steel plate/pipe with cast steel bellmouth on f’cle deck and with round bar fitted around   under steel bellmouth With roller Eye plate and steel wire   rope with turnbuckle 
+
+Cover plate and handrail shall be provided for hawse pipe on f’cle deck. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+H3 - 8 
+
+ 
+
+3.3.4    Mooring fitting  
+Mooring fittings shall be fitted as shown on the General Arrangement.  
+
+            Item Name 
+
+Nominal size (  ㎜  ) 
+
+F’cle deck 
+
+Bollard Cross bitts 
+
+Roller fairleader 
+
+Chock for Panama canal
+
+500 400 150 
+
+350
+
+2-roller3-roller5-rollerS.W.L. 90ton S.W.L. 64ton 
+
+Closed chock
+
+500 
+
+Deck end roller 
+
+Deck stand   roller 
+
+- 
+
+350 
+
+2 6 - 4 2 - 2 3 
+
+- 
+
+2 
+
+2 
+
+Number Upperdeck (Mid) 
+
+2 2 2* - - - 2 2 
+
+- 
+
+- 
+
+- 
+
+Upperdeck (Aft) 
+
+4 8 - 4 2 - 4 3 
+
+- 
+
+- 
+
+2 
+
+Type and material 
+
+Welded steel plate 
+
+Roller :  Cast iron or 
+
+welded steel plate 
+
+:  Welded steel 
+
+Seat 
+
+Seat 
+
+:  Welded steel 
+
+Body  :  Cast steel Seat 
+
+:  Welded steel 
+
+plate 
+
+plate 
+
+plate 
+
+Body  :  Cast steel Roller :  Cast iron :  Steel plate Seat 
+
+2 - roller type 
+
+Roller : Cast iron or 
+
+welded steel plate Seat    : Welded steel plate 
+
+ Jumping stopper for hawser shall be provided to aft end mooring line.  
+One (1) eye plate shall be fitted to each bollard.  
+* --- Near Fr.100 (for bunker barge)  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+H3 - 9 
+
+ 
+
+3.4    LIFE SAVING EQUIPMENT  
+3.4.1    General    
+Lifeboats and liferafts shall be arranged as shown on the General Arrangement.  
+Life saving equipments shall be provided as follows in compliance with the requirements of the regulatory bodies :  
+
+Item Lifeboat Rescue boat   Boat davit and   Boat winch 
+
+Liferaft 
+
+Lifebuoy 
+
+Life jacket Lifeline throwing gun 
+
+Material 
+
+Fiberglass Fiberglass 
+
+No. 1 1 1 set  Manufacturer’s
+
+standard 
+
+1 1 1 
+
+Rubber coated   waterproof nylon cloth 
+
+ 
+
+2 4 2 4 35 1 set  Manufacturer’s
+
+Foamed plastics 
+
+standard 
+
+Remarks 
+
+25 persons, 6 kt 6 persons, 6 kt 
+
+Free fall type 
+
+25 persons inflatable for drop launching 25 persons inflatable for davit launching 6 persons inflatable type 4.3 ㎏  With self-igniting light and self-activating smoke signal 2.5 ㎏    With self-igniting light 2.5 ㎏    With buoyant lifeline (50 m) 2.5 ㎏     With life jacket light With 4-320 m lines and 4-projectiles (Effective range of 230 m ) 
+
+ Material of abovementioned equipments shall be to the manufacturer’s standard.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 10 
+
+3.4.2    Lifeboat  
+The free fall type lifeboat shall be provided.  
+The boat shall be provided with sea water-cooled diesel engine of cell motor starting type.  
+Equipments shall be provided as per rule requirement.  
+3.4.3    Rescue boat  
+The open type rescue boat shall be provided.  
+The boat shall be provided with sea water-cooled gasoline engine of hand starting type.  
+Equipments shall be provided as per rule requirement.  
+3.4.4    Life boat davit and boat winch  
+One (1) set of free fall type davit shall be provided together with necessary blocks, tackles, and releasing gear for falling and hoisting or lowering lifeboat.  
+Boat shall be hoisted at two (2) persons loaded on lifeboat.  
+3.4.5    Davit for rescue boat and liferaft for davit launching  
+One (1) davit shall be provided to A deck S-side. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 11 
+
+3.4.6    Inflatable liferaft  
+One (1) inflatable for drop launching liferaft (P-side) and one (1) inflatable for davit launching liferaft (S-side), having capacity of twenty-five (25) persons shall be provided on A deck in racks.  
+One (1) inflatable liferaft having capacity of six (6) persons shall be provided on upper deck forward.  
+Equipments for liferaft shall be provided as per rule requirement.  
+3.4.7    Lifebuoy  
+Twelve (12) lifebuoys shall be equipped suitable position.  
+Quick releasing device shall be provided only for lifebuoys fitted on bridge wing.  
+3.4.8    Life jacket  
+Life jacket shall be stowed on wardrobe in each cabin, and added two (2) in wheelhouse, six (6) in boatswain store and two (2) in engine control room.  
+3.4.9    Immersion suits  
+Immersion suits shall be provided as per rule requirement.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 12 
+
+3.5    AWNING AND CANVAS WORK  
+Awning for panama shelter shall be provided.  
+Vinyl canvas cover shall be supplied for the following weather exposed fittings :  
+  
+  
+  
+  
+  
+  
+  
+
+Magnetic compass Gyro repeater compass Projector in weather part   Speaker in weather part Boat winch drum Accommodation ladder winch Pilot assistant ladder winch Rigging screw Provision crane winch drum Chain pipe Controller for deck machinery Jacob’s ladder for liferaft Jacob’s ladder for pilot  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 13 
+
+3.6    LADDER  
+Accommodation ladder, ladder winch, weathered deck ladder, etc. shall be provided as follows :  
+3.6.1    Accommodation ladder  
+
+Two (2) sets Aluminum alloy Vertical stowing type with curved steps 600 ㎜ Sufficient length to reach within about 0.6 m   of arrival ballasted water line at an angle of about 55 degrees to the horizontal Static load of 75 ㎏ on every two (2) steps at horizontal level condition 
+
+Number of set 
+
+Material 
+
+Type Width 
+
+Length 
+
+Safe working 
+
+load 
+
+Handling 
+
+Fitting 
+
+Stowing position  On upper deck accommodation house both sides 
+
+Refer to“3.6.2 Ladder winch” Upper rotating platform and lower vertical tilting platform,   Collapsible type stanchion of galvanized steel pipe.
+
+ 3.6.2    Ladder winch  
+Accommodation ladder shall be lowered, hoisted and stowed by means of fixed one (1) mechanical ladder winch driven by electric motor.  
+Material of ladder winch shall be to the manufacturer’s standard.  
+3.6.3    Wharf ladder  
+Wharf ladder shall not be supplied. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 14 
+
+3.6.4    Pilot ladder  
+Pilot access port shall be provided on upper deck both sides.  
+Two (2) sets of pilot assistant ladder shall be provided, and one (1) set of pilot jacob’s ladder shall be supplied.  
+Particular of pilot assistant ladder shall be as follows.  
+
+Material  Aluminum alloy  
+Type  
+Width  
+Fitting 
+
+Curved steps, vertical stowing type 600 ㎜ Removable stanchion of galvanized steel pipe, handrail of vinylon rope 
+
+ Pilot assistant ladder shall be lowered, hoisted and stowed by means of one (1) mechanical ladder winch driven by electric motor.  
+Eye plate (3ton type) for jacob’s ladder lashing, 0.1 ton davit for jacob’s ladder hoisting and necessary fittings shall be provided on upper deck.  
+0.1 ton davit shall be of manual operating type, and the davit shall be fitted rope and sheave.  
+Sunken type eye plate shall be provided on side shell both sides.  
+3.6.5    Vertical ladder  
+Vertical ladders shall be provided as follows ;  
+
+Location 
+
+Width 
+
+Mast, post, etc, 
+
+300 ㎜ 
+
+Side stringer 65  ㎜  ×  9  ㎜ steel flat bar 
+
+Step 
+
+19  ㎜ round bar 1 - rung 
+
+ Rungs shall penetrate through side stringer.  
+Adequate back bar shall be provided.  
+Permanent Means of Access in accordance with the requirements of Classification Society shall be provided. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 15 
+
+3.6.6    Inclined ladder  
+Inclined ladder in weather part shall be provided as follows :  
+
+Location 
+
+Width 
+
+Side stringer 
+
+Step 
+
+Weathered deck 
+
+700  ㎜  180 ㎜×9.5 ㎜ steel bulb plate 
+
+6 ㎜ thickness steel checkered plate 
+
+Hand rail 
+
+25A SGP ( GALV ) 
+
+ Inclined ladder shall be of welded construction and step shall not pass through side stringer.  
+Inclined ladder shall be inclined at the angle of below 50 degrees to the horizontal.  
+Countermeasure of pirates shall be provided to inclined ladder between A deck and upper deck.  
+3.6.7    Other ladder  
+Draught checking ladder shall not be provided.  
+Two (2) jacob’s ladders for liferaft shall be provided on A deck, and one (1) jacob’s ladder for forward liferaft shall be provided.  
+One (1) jacob’s ladder for chain locker shall be provided.  
+As for interior stairways, refer to SUBSECTION 5.7 STAIRWAY IN ACCOMMODATION.  
+As for hold ladder, refer to Subsection 2.4.6 ladder and step.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 16 
+
+3.7    HANDRAIL AND LIFELINE  
+3.7.1    Handrail and stanchion  
+Handrail shall be fitted as follows except specified otherwise.  
+
+Location
+
+Height 
+
+Top rail * Mid rail 
+
+Stanchion 
+
+Stay 
+
+Weathered deck 
+
+1,000 ㎜ 25A SGP
+
+2
+
+65 ㎜  ×  12 ㎜ Steel flat bar 
+
+50 ㎜  ×  9 ㎜ Steel flat bar 
+
+19  ㎜ Steel roundbar 
+
+       * ----- Galvanized steel pipe  
+Handrail stanchion shall be fitted about 1,500  ㎜ apart.  
+Handrail stay shall be fitted to every three (3) stanchions.  
+Storm rail of 25A steel pipe ( SGP ) shall be fitted where necessary weather part.  
+3.7.2    Lifeline  
+Detachable type lifeline and stanchion shall be provided between accommodation house front and upper deck forward as required by the rules.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+H3 - 17 
+
+  
+ 
+
+3.8    NAME PLATE AND IDENTIFICATION  
+Name plates, marks, etc. shall be fitted as follows :  
+
+Item Ship’s name Port of registry Funnel mark Ship’s side mark Draught mark 
+
+Location 
+
+Stern shell and both sides of bow Stern shell Funnel both sides Both sides shell Both sides of bow, midship and stern Both sides of midship 
+
+Both sides shell of pilot access point Both sides on deck of pilotaccess point 
+
+Freeboard mark Bulbous bow mark  Both sides of bow 
+
+Pilot mark 
+
+Suitable location 
+
+Notice plate,   Caution plate, etc. Name plate to identify quarters and space for tonnage Radio instruments room Ship’s call letter Ship’s name board  Both sides of compass   
+
+bridge deck 
+
+Hold depth mark 
+
+Fore or aft in each hold 
+
+Tug pushing mark  Fr. 34 and Fr. 194 Bottom plug CC mark 
+
+both sides shell Bottom shell Hatch coaming port side Stern shell and in engine room 
+
+Mooring fitting 
+
+ 
+
+Remarks 
+
+Tuck bead and painted 
+
+Steel plate welded and painted   SUS plate welded and painted 
+
+Tuck bead and painted 
+
+Welded bead and painted 
+
+Painted wooden plate 
+
+Engraved plastics 
+
+Painted wooden plate Steel plate welded ( 6 ㎜  ×  32  ㎜  F.B ) 2m apart and painted Corner bead and painted Welded bead Steel plate welded Tuck bead (stern shell), punching (in engine room) and painted Welded bead and painted 
+
+IMO number 
+
+S.W.L. mark ( kN ) Helicopter mark (Landing type) In  water  survey mark 
+
+ 
+
+ 
+
+On No.3 hatch cover Bottom shell and side shell under water line 
+
+Welded bead only 
+
+Tuck bead and painted 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H3 - 18e 
+
+Draught marks shall be of Arabic numerals of 10 cm projected height, where bottom of each figure indicate vertical height in meter and/or centimeter above bottom of keel.  
+Name plate ( Brass ) shall be fitted on air pipe heads, sounding caps and valves in English.  
+Name plate and instruction plate for machinery shall be written in English.  
+Handle of valves shall be painted with same colour of piping.  
+Mark for IMSBC code shall be provided.  
+ 3.9    MISCELLANEOUS  
+(a)  Flag staff of steel pipe ( SGP ) with truck and halyard shall be fitted at the stern.  
+ 
+
+Flag staff shall be of collapsible type. Flag halyard shall be of cotton rope. 
+
+ (b)  Rain shade shall be fitted over the weather doors of wheelhouse sides. 
+
+(c)  Detachable suez search light davit (0.1t), rope and necessary blocks shall be supplied. 
+
+And fitting socket shall be fitted in rope hatch on upper deck forward. 
+
+ (d)  Panama shelter shall be provided to navigation bridge wing both sides. 

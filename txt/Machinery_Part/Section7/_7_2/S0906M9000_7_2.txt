@@ -1,0 +1,43 @@
+7.2  EMERGENCY AIR COMPRESSOR  .
+
+The emergency air compressor shall be of electric motor driven.  
+The materials of emergency air compressor shall be in accordance with Maker’s standard.
+
+7. 3  MAIN AIR RESERVOIR.
+
+The main air reservoir shall be made of cylindrical welded steel construction.  The 
+capacity of each air reservoir shall be sufficient to ensure six (6) starts of the main engine 
+from rest in either direction without replenishment.
+
+The fittings and accessories shall be as follows:.
+
+ 1 － safety valve 
+ 1 － charging valve 
+ 1 － main stop valve 
+ 1 － aux. stop valve 
+ 1 － drain valve of double shut type 
+ 1 － manhole 
+ 1 － pressure gauge.
+
+7.4  EMERGENCY AIR RESERVOIR.
+
+The emergency air reservoir shall be made of cylindrical welded steel construction.
+
+The fittings and accessories shall be as follows:.
+
+ 1 － safety valve 
+ 1 － charging valve 
+ 1 － stop valve 
+ 1 － pressure gauge.
+
+7.5  ENGINE ROOM VENTILATING FAN.
+
+The engine room ventilating fan shall be of motor driven vertical axial flow split type and 
+motor shall be incorporated in the fan casing.
+
+At the reverse rotation, the capacity and head shall reduced.
+
+The materials shall be as follows:.
+
+ Casing Steel plate 
+ Impeller Aluminum alloy

@@ -1,0 +1,633 @@
+10.4  PIPING SCHEDULE .
+
+(1) LIST OF MATERIAL ( PIPE LIST ).
+
+Pipe line.
+
+Kind of.
+
+pipe.
+
+Design Test pressure  
+Remarks Press.
+
+(MPa)
+Temp.
+(℃).
+
+Shop 
+(MPa).
+
+After 
+inst.
+
+Bilge line 
+  65 mm & above.
+
+ 50 mm & below.
+
+STPG370E 
+ (Sch.40).
+
+(Sch.80).
+
+0.32.
+
+Ambi-
+ence.
+
+-.
+
+Work.
+Cond.
+
+To be 
+galvanized.
+
+Ballast line 
+  65 mm & above 
+  50 mm & below.
+
+STPG370E 
+ (Sch.40) 
+ (Sch.80).
+
+0.30.
+
+Ambi-
+ence.
+
+-.
+
+Work.
+Cond.
+
+To be 
+galvanized.
+
+Fire line 
+  65 mm & above 
+  50 mm & below.
+
+STPG370E 
+ (Sch.40) 
+ (Sch.80).
+
+0.75.
+
+Ambi-
+ence.
+
+-.
+
+Work.
+Cond.
+
+To be 
+galvanized.
+
+Cooling S.W. & 
+S.W. service line 
+  65 mm & above 
+  50 mm & below.
+
+STPG370E 
+ (Sch.40) 
+ (Sch.80).
+
+0.45.
+
+Below.
+
+55.
+
+-.
+
+Work.
+Cond.
+
+To be 
+galvanized.
+
+Cooling F.W. line STPG370E 
+ (Sch.40).
+
+0.45.
+
+92.
+
+-.
+
+Work.
+Cond.
+
+To be 
+pickled.
+
+F.O. sett. tank to 
+F.O. purifier.
+
+STPG370E 
+ (Sch.40).
+
+0.30 60 - 0.45.
+
+To be  
+pickled & 
+to be 
+insulated.
+
+F.O. puri. to tank 0.30 98 0.45 0.45
+Tank to F.O.boost.P 0.30 90 0.45 0.45
+F.O. boost. pump to 
+M/E F.O. circ.pump.
+
+0.40 140 0.60 0.60.
+
+M/E F.O. circ. pump 
+to main engine.
+
+KSTPG38E
+ (Sch.40).
+
+1.40 140 2.10 2.10.
+
+Main engine to 
+mix. tube.
+
+STPG370E 
+ (Sch.40).
+
+0.40 140 0.60 0.60.
+
+D/G F.O. circ. pump 
+to diesel generator.
+
+KSTPG38E
+ (Sch.40).
+
+1.40 140 2.10 2.10.
+
+Boiler F.O. serv. line STPG370E 
+ (Sch.40).
+
+0.30 98 0.45 0.45.
+
+Boiler F.O. burning 
+pump to burner.
+
+KSTPG38E
+ (Sch.40).
+
+1.80 130 2.70 2.70.
+
+F.O. transfer line 
+ 125 mm & above 
+ 100 mm & below.
+
+SGP-E 
+SGP-B.
+
+0.32 50 - 0.48 -.
+
+L.O. line 
+ 125 mm & above 
+ 100 mm & below.
+
+SGP-E 
+SGP-B.
+
+0.42 55 - 
+Work.
+Cond.
+
+To be pick. 
+(except 
+trans. line).
+
+L.O. purified line 
+ 125 mm & above 
+ 100 mm & below.
+
+SGP-E 
+SGP-B.
+
+0.35 90 0.53 
+Work.
+Cond.
+
+To be 
+pickled.
+
+Pipe line.
+
+Kind of 
+pipe.
+
+Design Test pressure  
+Remarks Press.
+
+(MPa) 
+Temp. 
+(℃).
+
+Shop 
+(MPa).
+
+After 
+inst.
+
+Steam line.
+
+SGP-B.
+
+0.80 175 1.20 Work.
+Cond.
+
+To be 
+insulated 0.45 155 0.68.
+
+Boiler blow line.
+
+STPG370E 
+ (Sch.40).
+
+1.00.
+
+175.
+
+1.50.
+
+Work.
+Cond.
+
+To be 
+insulated.
+
+Tank heating pipe 
+(In engine room).
+
+STPG370E 
+ (Sch.40).
+
+0.8.
+
+175.
+
+1.20.
+
+1.2.
+
+    -.
+
+Exh. steam  
+& drain.
+
+SGP-B.
+
+Below
+0.10.
+
+Below
+100.
+
+-.
+
+Work.
+Cond.
+
+To be 
+insulated.
+
+Compressed air line.
+
+KSTPG38E
+ (Sch.40).
+
+2.99.
+
+Ambi- 
+ence.
+
+4.49.
+
+Work.
+Cond.
+
+To be 
+galvanized 
+for 
+main pipe.
+
+SGP-B.
+
+0.90.
+
+Ambi-
+ence.
+
+1.35.
+
+Feed water  
+line.
+
+Suc. 
+line.
+
+SGP-B.
+
+Below 
+0.10.
+
+60.
+
+-.
+
+Work.
+Cond.
+
+    - Dis.
+
+line 
+STPG370E 
+(Sch.40).
+
+1.10.
+
+60.
+
+1.65.
+
+Drinking water line.
+
+SUS304-A 
+(Sch.20S).
+
+0.55.
+
+Ambi- 
+ence.
+
+-.
+
+Work.
+Cond.
+
+    -.
+
+Fresh water service 
+line.
+
+SGP-B.
+
+0.55.
+
+Ambi-
+ence.
+
+-.
+
+Work.
+Cond.
+
+To be 
+galvanized.
+
+F.W. gene. distillate 
+water line.
+
+SUS304-A 
+ (Sch.20S).
+
+-.
+
+-.
+
+-.
+
+Work.
+Cond.
+
+    -.
+
+Gauge pipe line.
+
+Copper.
+
+-.
+
+-.
+
+-.
+
+Work.
+Cond.
+
+    -.
+
+Oily drain, 
+deck scupper & 
+open ended pipe.
+
+SGP-B.
+
+-.
+
+-.
+
+-.
+
+-.
+
+    -.
+
+Exhaust gas pipe.
+
+SGP-E 
+STPY-400 
+SS400.
+
+-.
+
+-.
+
+-.
+
+-.
+
+    -.
+
+Pipe line Bore Kind of pipe Remarks.
+
+Overflow pipe, sounding pipe 
+and vent. pipe fitted to  
+the hull constructed tank.
+
+40mm, 50mm 
+65mm & above.
+
+STPG370E (Sch.80) 
+SGP -.
+
+(2) THICKNESS OF STEEL PIPE 
+   Unit : mm.
+
+Nominal 
+diameter.
+
+Outside 
+diameter.
+
+Steel pipe SGP-E 
+SGP-B Sch.40 Sch.80.
+
+10 
+15 
+20 
+25 
+32 
+40.
+
+50 
+65 
+80.
+
+100.
+
+125 
+150.
+
+200 
+250 
+300 
+350.
+
+400.
+
+17.3 
+21.7 
+27.2 
+34.0 
+42.7 
+48.6.
+
+60.5 
+76.3 
+89.1.
+
+114.3.
+
+139.8 
+165.2.
+
+216.3 
+267.4 
+318.5 
+355.6.
+
+406.4.
+
+2.3 
+2.8 
+2.9 
+3.4 
+3.6 
+3.7.
+
+3.9 
+5.2 
+5.5 
+6.0.
+
+6.6 
+7.1.
+
+8.2 
+9.3.
+
+*9.5 
+*9.5.
+
+*9.5.
+
+3.2 
+3.7 
+3.9 
+4.5 
+4.9 
+5.1.
+
+5.5 
+7.0 
+7.6 
+8.6.
+
+9.5.
+
+11.0.
+
+12.7 
+*12.7 
+*12.7 
+*12.7.
+
+*12.7.
+
+2.3 
+2.8 
+2.8 
+3.2 
+3.5 
+3.5.
+
+3.8 
+4.2 
+4.2 
+4.5.
+
+4.5 
+5.0.
+
+5.8 
+6.6 
+6.9 
+7.9.
+
+7.9.
+
+   Unit : mm.
+
+Exhaust gas pipe Thickness of copper pipe 
+Nominal dia. Thickness Material Outside dia. Thickness 
+650 & above 
+400 to 600.
+
+350 & below.
+
+6.0 
+6.4 
+-.
+
+SS 400 
+STPY-400.
+
+SGP-E.
+
+6 
+10 
+12 
+16.
+
+1.0 
+1.0 
+1.2 
+1.2.
+
+Note : 
+ 1) 10 mm and below pipes in nominal diameter shall be of seamless copper pipe.
+
+ 2) STPY-400 shall be adopted for marked * size pipe.
+
+ 3) The material of M/E exh. gas pipe above one (1) meter under the funnel top plate.
+
+shall be anti-corrosive steel.

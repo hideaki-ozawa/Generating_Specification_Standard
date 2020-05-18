@@ -1,0 +1,6597 @@
+13.5  INSTRUMENTATION AND CONTROL IN ENGINE CONTROL ROOM .
+
+Automation and instrumentation of machinery located in engine room shall be in 
+accordance with the following table.
+
+ Abbreviation: 
+  ① ꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏ  Item to be provided 
+  H  ꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏ  High alarm 
+  L  ꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏ  Low alarm 
+  △ ꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏꞏ  Monitor.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+4.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+M
+A.
+
+IN.
+
+E.
+
+N
+G.
+
+IN
+E.
+
+M
+a
+n.
+
+e
+u.
+
+v
+e
+ri.
+
+n
+g.
+
+ s
+y.
+
+st
+e
+m.
+
+Start & stop.
+
+◯.
+
+◯.
+
+ 1) Due to follows.
+
+・ Over speed 
+・ L.O. press. Drop 
+・ T/C L.O. press. Drop.
+
+2) C/R safety panel.
+
+3) Due to 
+・ T/C L.O. press. Drop.
+
+4) Due to 
+・ Crank case high oil mist 
+・ ME ECS Slow down.
+
+5) Local & Steer. gear room.
+
+Reversing.
+
+◯.
+
+◯.
+
+Speed control.
+
+◯.
+
+◯.
+
+Emergency trip.
+
+1) 
+◯.
+
+①.
+
+①.
+
+    2)
+③.
+
+①.
+
+Manual emerg. trip.
+
+ 5)
+◯.
+
+ 2) 
+◯.
+
+   2)
+②.
+
+Emergency trip reset.
+
+◯.
+
+◯.
+
+Emergency trip cancel.
+
+     3) 
+○.
+
+   2)
+①.
+
+Slow down request.
+
+            4)
+①.
+
+Increase limit.
+
+○.
+
+①.
+
+ 2) 
+◯.
+
+   2)
+①.
+
+△3.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+5.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+M
+A.
+
+IN.
+
+E.
+
+N
+G.
+
+IN
+E.
+
+M
+a
+n.
+
+e
+u.
+
+v
+e
+ri.
+
+n
+g.
+
+ s
+y.
+
+st
+e
+m.
+
+Control position.
+
+1)
+◯.
+
+ 2) 
+②.
+
+ 1) 
+◯.
+
+   2)
+②.
+
+1) Engine side－Remote.
+
+2) “E/S”,“C/R”.
+
+3)  
+    A  NAV.FULL 
+    H  FULL      
+    E  HALF      
+    A  SLOW     
+    D  D. SLOW   
+       STOP      
+    A  D. SLOW   
+    S  SLOW     
+    T  HALF      
+    E  FULL      
+    R  E. FULL    
+    N.
+
+4) “F/E”,“S/B”,“R/U”.
+
+5) C/R safety panel.
+
+6) “Service”, “Blocked”.
+
+7) Telegraph repeater.
+
+Engine telegraph.
+
+3) 
+◯.
+
+◯.
+
+3) 
+◯.
+
+◯.
+
+3)
+◯.
+
+7)
+○.
+
+Sub－ telegraph.
+
+4) 
+◯.
+
+◯.
+
+4) 
+◯.
+
+◯.
+
+ 4)
+◯.
+
+Stand－by sound stop.
+
+◯.
+
+Turning gear engage.
+
+◯.
+
+①.
+
+①.
+
+Turning gear disengage.
+
+①.
+
+①.
+
+Starting air valve.
+
+◯.
+
+   6)
+②.
+
+Main engine revolution.
+
+①.
+
+①.
+
+③.
+
+Main engine
+revolution counter.
+
+①.
+
+Turbocharger
+revolution.
+
+①.
+
+Fuel index.
+
+①.
+
+Wrong way.
+
+     5) 
+①.
+
+①.
+
+Critical speed.
+
+           5) 
+①.
+
+①.
+
+△3.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+6.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+M
+A.
+
+IN.
+
+E.
+
+N
+G.
+
+IN
+E.
+
+M
+a
+n.
+
+e
+u.
+
+v
+e
+ri.
+
+n
+g.
+
+ s
+y.
+
+st
+e
+m.
+
+AC/DC power source.
+
+②.
+
+  2)
+②.
+
+1) C/R safety panel.
+
+2) Source failure.
+
+3) Auto. start & stop by  
+  scavenging air press.
+
+4)"Auto.position request".
+
+Safety source.
+
+   1)
+①.
+
+  2)
+①.
+
+Safety system abnormal.
+
+①.
+
+C/R relay panel source.
+
+            2)
+①.
+
+EICU source.
+
+            2)
+①.
+
+ME ECS abnormal.
+
+①.
+
+Auxiliary blower.
+
+3) 
+◯.
+
+◯.
+
+◯.
+
+②.
+
+ 4).
+
+①
+②.
+
+△3.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+7.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+M
+A.
+
+IN.
+
+E.
+
+N
+G.
+
+IN
+E.
+
+P
+re.
+
+ss
+u.
+
+re.
+
+Fuel oil inlet.
+
+1) 
+①.
+
+①.
+
+  L 
+①.
+
+1) To be fitted with strainer.
+
+outlet.
+
+Lub. oil inlet.
+
+①.
+
+①.
+
+L 
+①.
+
+Piston cooling oil inlet.
+
+①.
+
+  L 
+①.
+
+Turbocharger
+lub. oil inlet.
+
+①.
+
+①.
+
+  L 
+①.
+
+Jacket cooling F.W. inlet.
+
+①.
+
+①.
+
+  L 
+①.
+
+Air cooler
+sea water inlet.
+
+①.
+
+Exhaust valve
+spring air.
+
+  L 
+①.
+
+Scavenging air.
+
+①.
+
+①.
+
+Starting air
+main valve inlet.
+
+①.
+
+①.
+
+  L 
+①.
+
+Maneuvering air.
+
+①.
+
+①.
+
+L 
+①.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+8.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+M
+A.
+
+IN.
+
+E.
+
+N
+G.
+
+IN
+E.
+
+P
+re.
+
+ss
+u.
+
+re.
+
+1) U tube type.
+
+HPS by-pass filter 
+difference.
+
+            H 
+①.
+
+HPS filter difference.
+
+            H 
+①.
+
+Turbocharger air filter 
+difference.
+
+ 1) 
+①.
+
+Air cooler in/out
+difference.
+
+  1) 
+①.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+9.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+M
+A.
+
+IN.
+
+E.
+
+N
+G.
+
+IN
+E.
+
+T
+e
+m.
+
+p
+e
+ra.
+
+tu
+re.
+
+Fuel oil inlet.
+
+1) 
+◯.
+
+①.
+
+  H.
+
+1) By the pneumatic type 
+  temp. control valve.
+
+Lub. oil inlet.
+
+1) 
+◯.
+
+①.
+
+H.
+
+Piston cooling oil 
+each cylinder outlet.
+
+⑥.
+
+Turbocharger
+lub. oil outlet.
+
+①.
+
+  H.
+
+Jacket cooling F.W. inlet.
+
+①.
+
+Jacket cooling F.W. 
+each cylinder outlet.
+
+⑥.
+
+Jacket cooling F.W.
+common outlet.
+
+1) 
+◯.
+
+  H.
+
+Thrust pad.
+
+①.
+
+  H.
+
+Air cooler
+air inlet.
+
+①.
+
+Air cooler
+air outlet.
+
+①.
+
+Scavenging air.
+
+①.
+
+Air cooler
+sea water inlet.
+
+1) 
+◯.
+
+①.
+
+Air cooler
+sea water outlet.
+
+①.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+1.
+
+0.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+M
+A.
+
+IN.
+
+E.
+
+N
+G.
+
+IN
+E.
+
+T
+em.
+
+p
+e
+ra.
+
+tu
+re.
+
+Exhaust gas
+each cylinder outlet.
+
+  H.
+
+ Exhaust gas.
+
+turbocharger inlet.
+
+Exhaust gas
+turbocharger outlet.
+
+T
+a
+n.
+
+k
+ l.
+
+e
+v.
+
+e
+l.
+
+Lub. oil sump tank.
+
+①.
+
+  L 
+①.
+
+Jacket cool. F.W.
+expansion tank.
+
+①.
+
+  L 
+①.
+
+Cylinder oil
+alarm chamber.
+
+L 
+①.
+
+Fuel oil leakage tank.
+
+  H 
+①.
+
+Mist catcher drain.
+
+  H 
+①.
+
+Scav. box drain tank.
+
+            H 
+①.
+
+Stuff. box drain tank.
+
+            H 
+①.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+1
+1.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+M
+A.
+
+IN.
+
+E.
+
+N
+G.
+
+IN
+E.
+
+E
+tc.
+
+.
+
+1) Abnormal.
+
+2)”F.O.”-“D.O.”.
+
+Crank case oil mist.
+
+⑦.
+
+    H 
+①.
+
+Crank case oil mist
+detector.
+
+  1)
+①.
+
+A-C oil change-over.
+
+◯.
+
+Used oil.
+
+◯.
+
+   2)
+②.
+
+Fuel oil flow meter.
+
+①.
+
+Cylinder oil flow meter.
+
+①.
+
+Deaeration tank.
+
+            1)
+①.
+
+M/E PSU  
+AC power failure.
+
+②.
+
+M/E PSU UPS controller 
+abnormal.
+
+②.
+
+M/E PSU
+24V DC battery mode.
+
+②.
+
+M/E hydraulic pump ○ ○ ○
+1)
+②△1.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+1.
+
+2.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+S
+H.
+
+A
+F.
+
+T
+IN.
+
+G.
+
+T
+e
+m.
+
+p
+e
+ra.
+
+tu
+re.
+
+Intermediate shaft
+bearing.
+
+①.
+
+ H.
+
+Stern tube bearing
+lub. oil outlet.
+
+①.
+
+Stern tube bearing.
+
+    H.
+
+T
+a
+n.
+
+k
+ l.
+
+e
+v.
+
+e
+l.
+
+Stern tube lub. oil
+sump tank.
+
+①.
+
+ L 
+①.
+
+Stern tube seal pot.
+
+①.
+
+E
+tc.
+
+.
+
+Stern tube lub. oil
+non-flow.
+
+①.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+1.
+
+3.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+E
+L.
+
+E
+C.
+
+T
+R.
+
+IC.
+
+G.
+
+E
+N.
+
+E
+R.
+
+A
+T.
+
+IN
+G.
+
+P
+L.
+
+A
+N.
+
+T.
+
+D
+ie.
+
+se
+l.
+
+e
+n.
+
+g
+in.
+
+e.
+
+Start.
+
+1) 
+◯.
+
+◯.
+
+◯.
+
+   2)
+③.
+
+  3)
+③.
+
+1) Due to follows 
+・ Over current 
+・ High voltage 
+・ Low voltage 
+・ Low frequency 
+・ D/G emerg. trip.
+
+2) Running lamp.
+
+3) Due to start failure.
+
+4) Auto.-Manual.
+
+5) Due to follows 
+・F.O. handle “Run”  
+  position.
+
+6) Due to follows 
+・ Over speed 
+・ L.O. press. drop.
+
+7)”F.O.”-“D.O.”.
+
+Stop.
+
+◯.
+
+◯.
+
+Change-over.
+
+◯.
+
+   4) 
+◯.
+
+Ready for start.
+
+        5)
+③.
+
+Emergency trip.
+
+6) 
+◯.
+
+⑥.
+
+Used oil.
+
+◯.
+
+   7)
+⑥.
+
+A-C oil change-over.
+
+◯.
+
+Fuel oil flow meter.
+
+①.
+
+Diesel oil flow meter.
+
+①.
+
+Fuel oil leakage tank.
+
+           H 
+③.
+
+Speed relay abnormal.
+
+③.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+1.
+
+4.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+E
+L.
+
+E
+C.
+
+T
+R.
+
+IC.
+
+G.
+
+E
+N.
+
+E
+R.
+
+A
+T.
+
+IN
+G.
+
+P
+L.
+
+A
+N.
+
+T.
+
+D
+/G.
+
+ p
+re.
+
+ss
+u.
+
+re.
+
+Lub. oil inlet.
+
+③.
+
+  L.
+
+1) By the wax type temp.
+
+control valve.
+
+2) By the pneumatic type 
+  temp. control valve.
+
+High temp.
+cooling F.W. inlet.
+
+③.
+
+    L.
+
+Low temp.
+cooling F.W. inlet.
+
+③.
+
+    L.
+
+Turbocharger
+lub. oil inlet.
+
+③.
+
+      L 
+③.
+
+Starting air inlet.
+
+  L 
+③.
+
+Control air inlet.
+
+  L 
+③.
+
+Fuel oil inlet.
+
+③.
+
+D
+/G.
+
+ t
+e
+m.
+
+p
+e
+ra.
+
+tu
+re.
+
+Lub. oil inlet.
+
+1) 
+◯.
+
+③.
+
+    H.
+
+High temp.
+cooling F.W. outlet.
+
+1) 
+◯.
+
+③.
+
+  H.
+
+Exhaust gas
+each cylinder outlet.
+
+⑱.
+
+Exhaust gas
+turbocharger inlet.
+
+⑥.
+
+Fuel oil inlet.
+
+2) 
+◯.
+
+③.
+
+  H.
+
+Low temp.
+cooling F.W. inlet.
+
+2) 
+◯.
+
+①.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+1.
+
+5.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+E
+L.
+
+E
+C.
+
+T
+R.
+
+IC.
+
+G.
+
+E
+N.
+
+E
+R.
+
+A
+T.
+
+IN
+G.
+
+P
+L.
+
+A
+N.
+
+T.
+
+G
+e
+n.
+
+e
+ra.
+
+to
+r.
+
+Current.
+
+③.
+
+     H 
+①.
+
+1) “MSB & FORE” 
+  & “ESB”.
+
+2) “Stand-by” & ”Run”.
+
+Bus voltage.
+
+③.
+
+     HL
+②.
+
+Bus frequency.
+
+②.
+
+    HL
+②.
+
+Electric power.
+
+③.
+
+MSB
+control source failure.
+
+①.
+
+MSB
+control system failure.
+
+①.
+
+MSB circ. breaker
+trip source abnormal.
+
+①.
+
+ACB non-close.
+
+③.
+
+ACB abnormal trip.
+
+③.
+
+Preferential trip.
+
+①.
+
+AC440V insulation.
+
+①.
+
+AC100V insulation.
+
+      1)
+②.
+
+Emergency generator
+engine abnormal.
+
+   2)
+②.
+
+①.
+
+③.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+1.
+
+6.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+A
+U.
+
+X
+IL.
+
+IA
+R.
+
+Y.
+
+B.
+
+O
+IL.
+
+E
+R.
+
+G
+e
+n.
+
+er
+a
+l.
+
+Running.
+
+◯.
+
+◯.
+
+①.
+
+①.
+
+ 1) Due to follows.
+
+・ Miss fire & flame failure 
+・ F.D. fan stop 
+・ Drum level lowest 
+・ F.O. temp. drop 
+・ F.O. press. drop 
+・ Source failure 
+・ Exhaust gas high temp.
+
+2) Common alarm.
+
+3) Controlled by “ON-OFF”.
+
+system.
+
+4) Auto. start & stop by 
+  detect. the drum water 
+  level.
+
+5) By the thermostat.
+
+Emergency trip.
+
+1) 
+◯.
+
+◯.
+
+      2)
+①.
+
+R
+u.
+
+n
+n.
+
+in
+g.
+
+F.O. burning pump.
+
+◯.
+
+Forced draft fan.
+
+3) 
+◯.
+
+◯.
+
+Feed water pump.
+
+4) 
+◯.
+
+◯.
+
+②.
+
+P
+re.
+
+ss
+u.
+
+re.
+
+Drum steam.
+
+3) 
+◯.
+
+①.
+
+Burner F.O. inlet.
+
+①.
+
+T
+e
+m.
+
+p
+.
+
+F.O. heater outlet.
+
+5) 
+◯.
+
+①.
+
+         H 
+①.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+1.
+
+7.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+A
+U.
+
+X
+IL.
+
+IA
+R.
+
+Y.
+
+B.
+
+O
+IL.
+
+E
+R.
+
+L
+ev.
+
+el.
+
+Drum.
+
+◯.
+
+◯.
+
+ HL
+②.
+
+①.
+
+     HL
+②.
+
+1) By the float valve.
+
+2) By the pneumatic type 
+  press. control valve.
+
+Cascade tank.
+
+1) 
+◯.
+
+     L 
+①.
+
+E
+tc.
+
+.
+
+Excess steam dumping.
+
+2) 
+◯.
+
+◯.
+
+Soot blower.
+
+◯.
+
+Fuel oil flow meter.
+
+①.
+
+Make up water
+flow meter.
+
+①.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+1.
+
+8.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+F
+U.
+
+E
+L.
+
+O
+IL.
+
+S
+Y.
+
+S
+T.
+
+E
+M.
+
+R
+u.
+
+n
+n.
+
+in
+g.
+
+Fuel oil purifier.
+
+◯.
+
+②.
+
+②.
+
+ 1)
+②.
+
+1) Due to abnormal.
+
+2) By the direct type temp. 
+  control valve.
+
+3) By the pneumatic type 
+  temp. control valve.
+
+4) Auto. start & stop by 
+  detecting fuel oil trans. 
+  pump running.
+
+5) Due to high diff. press 
+ (Refiner or by-pass filter).
+
+Fuel oil refiner.
+
+◯.
+
+◯.
+
+◯.
+
+5)
+①.
+
+By-pass filter 
+for refiner.
+
+◯.
+
+F.O. tank
+Pre-heating unit.
+
+4) 
+◯.
+
+◯.
+
+①.
+
+T
+e
+m.
+
+p
+e
+ra.
+
+tu
+re.
+
+Heavy fuel oil
+settling tank.
+
+2) 
+◯.
+
+①.
+
+         H 
+①.
+
+Heavy fuel oil
+service tank.
+
+①.
+
+L/S fuel oil
+settling tank.
+
+2) 
+◯.
+
+①.
+
+         H 
+①.
+
+L/S fuel oil
+service tank.
+
+①.
+
+F.O. tank.
+
+    H 
+⑥.
+
+Purifier fuel oil inlet.
+
+3) 
+◯.
+
+②.
+
+     H 
+②.
+
+Shifter fuel oil
+heater outlet.
+
+3) 
+◯.
+
+①.
+
+         H 
+①.
+
+Waste oil tank.
+
+②.
+
+○⑥△1.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+1.
+
+9.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+F
+U.
+
+E
+L.
+
+O
+IL.
+
+S
+Y.
+
+S
+T.
+
+E
+M.
+
+T
+a
+n.
+
+k
+ l.
+
+e
+v.
+
+e
+l.
+
+Heavy fuel oil
+settling tank.
+
+1) 
+◯.
+
+①.
+
+     HL
+②.
+
+1) By auto. start & stop of 
+  F.O. transfer pump.
+
+2) Over flow system.
+
+3) By auto. start & stop of  
+  D.O. transfer pump.
+
+Heavy fuel oil
+service tank.
+
+2) 
+◯.
+
+①.
+
+     L 
+①.
+
+L/S fuel oil
+settling tank.
+
+1) 
+◯.
+
+①.
+
+     HL
+②.
+
+L/S fuel oil
+service tank.
+
+2) 
+◯.
+
+①.
+
+     L 
+①.
+
+Diesel oil service tank.
+
+3) 
+◯.
+
+②.
+
+     HL
+④.
+
+Waste oil tank.
+
+②.
+
+Fuel oil drain tank.
+
+      H 
+①.
+
+Fuel oil overflow tank.
+
+①.
+
+      H 
+①.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+2.
+
+0.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+L
+U.
+
+B
+.
+
+O.
+
+IL.
+
+S.
+
+Y
+S.
+
+T
+E.
+
+M.
+
+P
+re.
+
+ss
+u.
+
+re.
+
+Lub. oil purifier.
+
+◯.
+
+①.
+
+①.
+
+ 1)
+①.
+
+1) Due to abnormal.
+
+2) By the pneumatic type 
+  temp. control valve.
+
+D/G Lub. oil purifier.
+
+◯.
+
+①.
+
+①.
+
+ 1)
+①.
+
+T
+e
+m.
+
+p
+e
+ra.
+
+tu
+re.
+
+Purifier lub. oil inlet.
+
+2) 
+◯.
+
+①.
+
+D/G 
+purifier lub. oil inlet.
+
+2) 
+◯.
+
+①.
+
+L
+e
+v.
+
+e
+l.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+2.
+
+1.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+C
+O.
+
+M
+P.
+
+R
+E.
+
+S
+S.
+
+E
+D.
+
+A
+IR.
+
+S
+Y.
+
+S
+T.
+
+E
+M.
+
+R
+u.
+
+n
+n.
+
+in
+g.
+
+Main air compressor.
+
+1) 
+◯.
+
+◯.
+
+ 2) 
+◯.
+
+②.
+
+ 3)
+②.
+
+1) Auto. start & stop.
+
+2) Auto.- Manual and 
+  start - stop.
+
+3) Abnormal stop 
+・ Compress. air outlet  
+  high temp.
+
+4) Common alarm.
+
+Emergency 
+air compressor.
+
+◯.
+
+P
+re.
+
+ss
+u.
+
+re.
+
+Main air reservoir.
+
+②.
+
+②.
+
+    L 
+②.
+
+Emergency shut off
+valve operating air.
+
+①.
+
+         L 
+①.
+
+T
+e
+m.
+
+p
+. Main air compressor.
+
+cooling F.W. inlet.
+
+②.
+
+Main air compressor
+cooling F.W. outlet.
+
+②.
+
+B
+IL.
+
+G
+E.
+
+S
+Y.
+
+S
+T.
+
+E
+M.
+
+L
+e
+v.
+
+e
+l.
+
+Bilge well.
+
+        4) H 
+①.
+
+Bilge tank.
+
+            H 
+①.
+
+Bilge sludge tank.
+
+            H 
+①.
+
+Sludge tank.
+
+      H 
+①.
+
+Clean drain tank.
+
+            H 
+①.
+
+5) ①.
+
+5) C.F.W. pump running 
+　 request.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+2.
+
+2.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+A
+U.
+
+X
+IL.
+
+IA
+R.
+
+Y.
+
+M.
+
+A
+C.
+
+H
+IN.
+
+E.
+
+R
+u.
+
+n
+n.
+
+in
+g.
+
+Fresh water generator.
+
+1) 
+◯.
+
+◯.
+
+①.
+
+     2)
+①.
+
+1) Dump to evaporator by.
+
+high salinity.
+
+2) Due to high salinity.
+
+3) Due to high oil content.
+
+and separator abnormal.
+
+4) Due to abnormal.
+
+5) Due to follows 
+・ Non-voltage 
+・ Over load 
+・ Hyd. oil tank low level 
+・ Phase failure.
+
+6) By the pneumatic type 
+  temp. control valve.
+
+7) Auto. shut by thermostat.
+
+8) Auto.3 way valve.
+
+9) In accordance with 
+  15.3.1-4 Part D.
+
+Bilge separator.
+
+8) 
+◯.
+
+◯.
+
+①.
+
+     3)
+②.
+
+Sewage treatment unit.
+
+            4)
+①.
+
+Ballast water
+treatment system.
+
+            4)
+①.
+
+Waste oil incinerator.
+
+◯.
+
+①.
+
+4)
+①.
+
+①.
+
+ 4)
+①.
+
+Hot water heater
+steam valve.
+
+7) 
+◯.
+
+T
+e
+m.
+
+p
+.
+
+Hot water heater outlet.
+
+6) 
+◯.
+
+①.
+
+Sea water (Ref. mach.  
+C.S.W. pump outlet).
+
+E
+tc.
+
+.
+
+Steering gear.
+
+◯.
+
+②.
+
+②.
+
+ 5)
+⑧.
+
+◯.
+
+②.
+
+9) 
+○.
+
+Air conditioner 
+ref. machine.
+
+◯.
+
+◯.
+
+①.
+
+Provision ref. machine.
+
+◯.
+
+◯.
+
+②.
+
+Local fire
+fighting system.
+
+            4)
+①.
+
+Local fire
+fighting system start.
+
+◯.
+
+①.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+2.
+
+3.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+G
+E.
+
+N
+E.
+
+R
+A.
+
+L.
+
+Lamp & buzzer
+test switch.
+
+◯.
+
+1) Source failure.
+
+Buzzer stop button.
+
+◯.
+
+Flicker stop button.
+
+◯.
+
+Automatic exchange
+telephone.
+
+◯.
+
+◯.
+
+◯.
+
+Common battery
+telephone.
+
+◯.
+
+◯.
+
+Patrol man call.
+
+◯.
+
+Engineer’s call.
+
+◯.
+
+Clock.
+
+①.
+
+①.
+
+Rudder angle.
+
+①.
+
+③.
+
+Console electric source 
+(AC & DC).
+
+◯.
+
+②.
+
+ 1)
+②.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+2.
+
+4.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+P
+U.
+
+M
+P.
+
+A
+N.
+
+D.
+
+F.
+
+A
+N.
+
+Main lub. oil pump.
+
+◯.
+
+◯.
+
+②.
+
+1) Auto. start by black-out.
+
+2) Auto. start and stop by 
+  detect. D/G running.
+
+3) Auto. start and stop by  
+  detect. main air comp.  
+  running.
+
+Fuel oil
+booster pump.
+
+◯.
+
+◯.
+
+②.
+
+M/E fuel oil
+circulating pump.
+
+◯.
+
+◯.
+
+②.
+
+Jacket cool. F.W. pump.
+
+◯.
+
+◯.
+
+②.
+
+Cooling S.W. pump.
+
+◯.
+
+◯.
+
+②.
+
+Stern tube lub. oil pump.
+
+◯.
+
+◯.
+
+②.
+
+D/G fuel oil
+circulating pump.
+
+◯.
+
+◯.
+
+②.
+
+D/G diesel oil
+booster pump.
+
+1) 
+◯.
+
+◯.
+
+◯.
+
+①.
+
+Main air comp. 
+cooling F.W. pump.
+
+3) 
+◯.
+
+◯.
+
+◯.
+
+②.
+
+D/G lub. oil
+priming pump.
+
+2) 
+◯.
+
+◯.
+
+Engine room
+ventilating fan.
+
+◯.
+
+③.
+
+4)
+○ ○.
+
+4) Auto. stop by D/G L.O. 
+  purifier abnormal.
+
+5△.
+
+5△.
+
+D/G L.O. purifier  
+supply pump.
+
+Divi- 
+sion.
+
+Item.
+
+A
+u.
+
+to
+m.
+
+a
+ti.
+
+o
+n.
+
+LOCAL CENTRAL CONTROL STATION BRIDGE.
+
+A
+la.
+
+rm
+ g.
+
+ro
+u.
+
+p.
+
+Remarks.
+
+M
+1.
+
+3.
+
+－.
+
+2.
+
+5
+e.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+INDICAT. LAMP ALARM.
+
+H
+a
+n.
+
+d
+li.
+
+n
+g.
+
+In
+d.
+
+ic
+a
+to.
+
+r.
+
+In
+d.
+
+ic
+a
+t.
+
+ L
+a
+m.
+
+p.
+
+A
+la.
+
+rm.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+In
+d.
+
+e
+p.
+
+e
+n.
+
+d
+e
+n.
+
+t.
+
+M
+o.
+
+n
+it.
+
+o
+r.
+
+R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+    R
+e
+c
+o.
+
+rd
+in.
+
+g.
+
+P
+U.
+
+M
+P.
+
+A
+N.
+
+D.
+
+F.
+
+A
+N.
+
+Fuel oil transfer pump.
+
+1) 
+◯.
+
+◯.
+
+5) 
+◯.
+
+①.
+
+ 1) Auto. start and stop by.
+
+  detecting the H.F.O. 
+  settling tank level.
+
+2) Auto. start and stop by 
+  detecting the D.O. 
+  service tank level.
+
+3) Auto. stop by  
+  bilge separator abnormal.
+
+4) Auto. start and stop by.
+
+detecting the press. tank 
+pressure.
+
+5) “H.F.O.”-“L/S F.O.”.
+
+6) “No.1”-“No.2”.
+
+7) Due to long running.
+
+8) Auto. stop by L.O.  
+  purifier abnormal.
+
+Diesel oil transfer pump.
+
+2) 
+◯.
+
+◯.
+
+6) 
+◯.
+
+①.
+
+Lub.oil. transfer and lub. 
+oil. purifier supply pump.
+
+8) 
+◯.
+
+◯.
+
+◯.
+
+①.
+
+Bilge pump.
+
+3) 
+◯.
+
+◯.
+
+◯.
+
+①.
+
+  7)
+①.
+
+Sludge pump.
+
+◯.
+
+◯.
+
+①.
+
+Fire & G.S. pump.
+
+◯.
+
+◯.
+
+①.
+
+Bilge & ballast pump.
+
+◯.
+
+◯.
+
+①.
+
+Ballast pump.
+
+◯.
+
+◯.
+
+②.
+
+Ref. mach. C.S.W. pump.
+
+◯.
+
+◯.
+
+①.
+
+Fresh water pump.
+
+4) 
+◯.
+
+◯.
+
+◯.
+
+①.
+
+Drinking water pump.
+
+4) 
+◯.
+
+◯.
+
+◯.
+
+①.
+
+Hot water
+circulating pump.
+
+◯.
+
+○5△

@@ -1,0 +1,27 @@
+14.5  DIESEL GENERATOR ENGINE ( for one ship ).
+
+ Piston ring 1 cyl. 
+ Oil ring 1 cyl.
+
+ Crank pin metal 1 cyl. 
+ Piston pin 1 cyl. 
+ Piston pin metal assembly 1 cyl. 
+ Bolts for connecting rod 1 cyl.
+
+ Suction valve ( complete )  1 cyl. 
+ Exhaust valve ( complete ) 2 cyl. 
+ High pressure pipe for fuel oil ( complete ) 1 cyl. 
+ Fuel injection pump ( complete ) 1 cyl. 
+ Fuel injection valve ( complete ) 3 cyl.
+
+ Main bearing metal for each kind 1 brg.
+
+ Bolt assembly for main bearing 1 brg 
+ Relief valve and spring for lub. oil 1 set 
+ Special packing for each kind 1/4 eng. 
+ O ring of each kind 1/4 eng.
+
+ Main bearing for turbocharger 1 eng. 
+ Packing for rotor shaft of turbocharger 1 eng.
+
+ Other necessary spare parts shall be in accordance with Maker’s standard.

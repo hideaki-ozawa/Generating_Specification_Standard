@@ -1,0 +1,57 @@
+10.1  GENERAL .
+
+Consideration shall be given in design so that the piping shall be led as directly as 
+practicable with a minimum of bends.
+
+Care shall be taken to avoid as far as possible pockets in pipe lines.  Where pockets do 
+occur, they shall be fitted with bosses having valves or screwed plugs or other means for 
+draining if necessary.  The drain plugs shall not be fitted in way of cofferdams or voids.  
+The lines which necessitate draining frequently shall be fitted with valves or traps, or both.
+
+The radius of bends in steel pipe shall be about two times the nominal diameter except for 
+bend elbow.  But in case it is difficult to make good piping arrangement with two times, 
+bend elbow may be used.  Welding fittings may be employed in place of pipe bends.
+
+In case that the bend elbows are used, the radius of bends shall be one or one and half 
+times of nominal diameter.
+
+The system shall be designed to allow for all stresses due to thermal expansions and 
+deflections of ship’s structure. 
+Except where otherwise noted, expansion shall be compensated by using bends. 
+Expansion joints in exhaust gas pipes shall be of bellows type.
+
+The pipes shall be supported suitably against excessive vibration.
+
+The oil piping shall be kept as far as away from hot surface as practicable.  The pipe 
+shall, as far as possible, not be arranged directly above or in front of or behind the switch 
+board.  If unavoidable, suitable protection shall be provided.
+
+Where piping passes through water or oil tight bulkheads and decks, the connection shall 
+be made tight by means of three spool flanges or direct welded pipes.  
+Connections through insulated bulkheads shall be of sufficient length to permit access to 
+flanged connection without disturbing the insulation.
+
+The directly welded pipes shall be employed for piping penetrated through tank walls 
+constructed with hull, such as sounding pipes, pump suction pipes and vent pipes.
+
+Where galvanized piping is specified, the galvanizing shall be done after the pipe is 
+fabricated and flanges are attached thereon in shop, except for screwed ends which may be 
+attached after galvanizing.
+
+Where it is impracticable or welding has destroyed galvanization the surface shall be 
+touched up with coat of zinc rich paint.
+
+Unions joints, screw joints or bite joints may be used for connecting the small pipes, 
+valves and cocks.
+
+After fabrication in shop for subsequent assembly, the lubricating oil pipes of main engine 
+forced circulation system shall be pickled before installation.  After fitting out onboard, 
+they shall be cleaned by flushing with the lubricating oil which is prepared as system oil.
+
+Packing used for all pipe lines, in general, shall be of multipurpose type or reinforced 
+rubber sheet type.
+
+Tensile strength rank of bolt and nut for standard piping shall be 4.6 or 4.8. 
+High pressure piping shall be 9.8.
+
+The upper part of electric panel shall not be installed pipe joint and valve.

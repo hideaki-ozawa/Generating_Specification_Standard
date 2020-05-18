@@ -1,0 +1,27 @@
+12.10  NAME PLATE AND CAUTION PLATE .
+
+Name plate for machinery shall be in English and in SI unit.
+
+Caution plate for machinery shall be in English and Japanese. 
+In principle, name plate written in English shall be fitted to each valve which nominal 
+diameter 15A and above.
+
+Tanks in engine room shall be fitted with name plate.
+
+12.11  EXHAUST GAS CLEANING SYSTEM.
+
+One (1) exhaust gas cleaning system shall be provided in engine casing to remove SOx 
+and particulate matter of exhaust gas for main engine and main generator engines.
+
+The design conditions of exhaust gas cleaning system shall be as follows 
+ Type of scrubber system Open loop type 
+ Max. sulphur content of fuel oil  3.5 %S 
+ Equivalent to fuel sulphur content after scrubber 0.1 %S 
+ Max. exhaust gas flow  Equivalent the exhaust gas generated 
+   by the main engine 90% load and one 
+  (1) main generator engine 100% load.
+
+The construction, materials and accessories shall be in accordance with Maker’s standard.
+
+85%
+△2

@@ -1,0 +1,46 @@
+4.2  AUXILIARY BOILER .
+
+4.2.1 Construction.
+
+The boiler shall consist of the doughnut shaped steam drum and water drum which are 
+connected by two rows of water tubes.
+
+The flame of oil burning side shall transfer heat to water in inside water tubes by radiation.  
+It shall become the combustion gas and be branched into two rows of water tubes and 
+meet at the exit and be discharged from the funnel. 
+Contact heat transfer shall be made when water passes in water tubes and heat be 
+transferred to water efficiently.
+
+The exhaust gas side shall be provided with a group of a water tubes reasonably arranged 
+circumferentially on upper and lower drums to transfer heat efficiently. 
+The exhaust gas inflowed through the flue shall be separated in two directions of left-hand 
+and right-hand to effect heat exchange and discharged through the outlet funnel as low 
+temperature exhaust gas.
+
+Inner and outer casings shall be available.  Heat insulating material shall be placed 
+between inner and outer casings to check radiation of heat. 
+Insulating fire clay shall be placed in the lower part of the furnace and narrowed part of 
+gas shorting.
+
+4.2.2 Material.
+
+End plate Boiler steel plate 
+Furnace Boiler steel plate 
+Water tube Boiler tube 
+Shell plate Boiler steel plate.
+
+4.2.3  Fitting and accessory.
+
+ 1 － pressure gauge root valve 
+ 2 － sets of water gauge 
+       ( including water level controller ) 
+ 1 － set of oil burning unit 
+ 3 － sets of soot blower ( Compressed air type ) 
+ 2 － safety valve 
+ 1 － main steam stop valve 
+ Each 1 － main and aux. feed check valve 
+ Each 1 － main and aux. feed stop valve 
+ 1 － surface blow-off valve 
+ 1 － bottom blow-off valve 
+ 4 － water level gauge root valve 
+ 1 － boiler water sampling valve

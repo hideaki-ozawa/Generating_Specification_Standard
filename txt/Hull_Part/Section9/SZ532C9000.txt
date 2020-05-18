@@ -1,0 +1,7491 @@
+  
+  
+
+7.1  GENERAL 7.2  AIR CONDITIONING SYSTEM 7.3  MECHANICAL VENTILATION 7.4  NATURAL VENTILATION 
+
+8.1  GENERAL 8.2  PUMPING SYSTEM 8.3  DRAIN AND SCUPPER 8.4  FRESH AND SEA WATER SERVICE SYSTEM 8.5  WASH DECK SYSTEM 8.6  FIRE FIGHTING SYSTEM 8.7  STEAM AND EXHAUST PIPING SYSTEM 8.8  COMPRESSED AIR SYSTEM 8.9  TEMPERATURE PIPE 8.10  WATER LEVEL DETECTORS AND DEWATERING SYSTEM 
+
+SECTION 7    VENTILATION AND AIR CONDITIONING  
+  
+  
+  
+SECTION 8    PIPING SYSTEM  
+  
+  
+  
+  
+  
+  
+SECTION 9    NAVIGATION EQUIPMENT  
+  
+  
+  
+ SECTION 10    INVENTORY  
+  
+  
+  
+ 
+
+9.1  NAVIGATION EQUIPMENT 9.2  COMMUNICATION EQUIPMENT 9.3  FLAG 9.4  DISTRESS SIGNAL 9.5  NAVIGATION LIGHT, SIGNAL LIGHT AND SIGNAL 
+
+10.1  BOATSWAIN’S STORE 10.2  BOX AND MISCELLANEOUS 10.3  FIRE FIGHTING APPARATUS 10.4  SPARE PARTS 10.5  OTHER 
+
+H-3e 
+
+H7 - 1 H7 - 5 H7 - 7e H7 - 7e 
+
+H8 - 1 H8 - 13 H8 - 19 H8 - 21 H8 - 23 H8 - 24 H8 - 25e H8 - 25e H8 - 25e H8 - 25e 
+
+H9 - 1 H9 - 1 H9 - 2 H9 - 2 H9 - 3e 
+
+H10 - 1 H10 - 2 H10 - 3e H10 - 3e H10 - 3e 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+H1 - 1 
+
+  
+  
+
+SECTION 1    HULL GENERAL 
+
+  
+1.1    HULL FORM  
+The Vessel's lines and propeller shall be determined by the Builder in view of sea going characteristics.  
+Bulbous bow shall be provided at the stem under water to improve the resistance characteristics.  
+Estimated power curves shall be submitted to the Owner prior to the official sea trial.  
+ 1.2    DECK HEIGHT, ETC.  
+(a)  Deck height (at center line) :  
+  
+  
+  
+  
+  
+(b)  Sheer :  
+ 
+
+ Upper deck to A deck  
+A deck to B deck  
+B deck to C deck C deck to D deck  
+D deck to Navigation bridge deck Navigation bridge deck to Compass deck  
+
+Upper deck to Forecastle deck  
+
+Nil on center line ( Due to camber only ) 
+
+( at F.P. ) ( at Fr. No. 228 ) 
+
+On upper deck 
+
+; 
+
+ 
+
+3.000  m 2.800  m 
+
+3.000  m 2.700  m 2.700  m 2.700  m 2.700  m 2.600  m
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+H1 - 2 
+
+  
+  
+
+;  Nil 
+
+;  Nil 
+
+On exposed decks 
+
+;  7.5/1000 (Slope ratio) 
+
+On decks below upper deck 
+
+On upper deck  
+
+On other decks above upper deck 
+
+On forecastle deck  
+
+In accommodation house (incl. engine casing top) 
+
+;  Straight camber with flat top of 4.00 m breadth,   0.30 m for 32.24 m breadth moulded 
+
+;  Straight camber with flat top of 4.00 m breadth,   0.30 m for 32.24 m breadth moulded 
+
+(c)  Deck camber :  
+  
+  
+  
+  
+  
+  
+  
+  
+ 1.3    FREEBOARD  
+The Vessel shall be designed to meet the requirement of International Convention on Load Lines, 1966 for type “B” ship.  
+The freeboard marks without timber freeboard marks will be positioned at the level corresponding to the assigned draught after approved by the Classification Society on behalf of the registered country.  
+ 1.4    TRIM AND STABILITY  
+The Vessel shall be designed to be afloat approximately on an even keel or slightly trim by the stern when loaded to the designed loaded draught with cargo, proper amount of bunker, crew stores, fresh water and water ballast aboard, in departure condition.  
+Preliminary trim and stability calculation sheets shall be submitted to the Owner to demonstrate that the Vessel will have suitable trim in normal service conditions.  
+The Vessel shall have positive metacentric heights under usual service conditions.  
+Loading conditions shall be designed as follows; 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+(1) Ore alternated loading 
+
+  
+  
+
+H1 - 3 
+
+Slack loaded cargo holds :  Nos. 1, 3 and 5 cargo holds Empty cargo holds Cargo Density Bunker Draught 
+
+:  Nos. 2 and 4 cargo holds :  3.0 t/m3 :  Half bunker ( 45% consumption ) :  Not more than assigned draught 
+
+Stowage factor Bunker Draught 
+
+  
+  
+  
+ (2) Homogeneous loading  
+  
+  
+ (3) Cement alternated loading    
+  
+  
+  
+ (4) Two (2) ports loading/unloading   
+
+:  about 46 CF/LT :  Half bunker ( 45% consumption ) :  Not more than assigned draught 
+
+Slack loaded cargo holds :  Nos. 1, 3 and 5 cargo holds Empty cargo holds Stowage factor Bunker Draught 
+
+:  Nos. 2 and 4 cargo holds :  26 CF/LT :  Half bunker ( 45% consumption ) :  Not more than assigned draught 
+
+  
+  
+
+Full loaded cargo hold Empty cargo hold Stowage factor Bunker 
+
+:  Nos.1, 3 and 5 cargo hold or Nos.2 and 4 cargo hold :  Nos.2 and 4 cargo hold or Nos.1, 3 and 5 cargo hold :  Homogeneous cargo on assigned draught :  Half bunker ( 45% consumption ) 
+
+(5) Grain cargo loading  
+  
+ 
+
+Stowage factor Bunker Draught 
+
+:  42 CF/LT ~ 65 CF/LT :  Half bunker ( 45% consumption ) :  Not more than assigned draught 
+
+As regards the description of hot steel coil loading, refer to Subsection 2.2.8  DOUBLE BOTTOM.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+H1 - 4 
+
+  
+  
+
+1.5    CONSTRUCTION TEST  
+Tight test for the hull structure in way of tank and watertight compartments in main hull shall be carried out by air in general, using a detective reagent on the building berth in accordance with the requirement of the Classification Society and the Builder's practice.  
+Hydrostatic test by sea water shall be carried out after launching as required by the Classification Society.  
+Tight test for rudder, non built-in tanks, etc. shall be carried out as required by the Classification Society or according to the Builder's practice.  
+Weathertight work shall be hose tested with water jet at the pressure specified by the Classification Society and/or the Builder's practice.  
+Radiographic or ultrasonic examination for welding shall be carried out in accordance with the Builder's practice under the approval of the Classification Society.  
+ 1.6    EQUIPMENT TEST  
+1.6.1    Shop test  
+Major equipment, such as deck machinery, refrigerating plant, etc. shall be tested according to the manufacturer's usual practice by using available facilities in the manufacturer's shop.  
+In general, these tests shall be carried out by the manufacturers on their responsibility without attendance of the Owner's supervisor and/or the Builder's inspector unless the Owner's supervisor request to attend such test.  
+Notice of approximate date of shop test shall be given to the Owner's supervisor two (2) weeks in advance and accurate date one (1) week in advance. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+ 
+
+ 
+
+H1 - 5e 
+
+  
+  
+
+1.6.2    Onboard test  
+Anchor windlass test shall be carried out during sea trial. The test shall consist of hoisting/dropping operation test and brake test which shall comply with the requirements of the Classification Society. Dropping operation test shall be conducted so that anchor shall be lowered gradually from the housing position to water level, then immediately dropped into water.  
+Steering gear test shall be carried out during sea trial. The test shall be conducted at maximum revolution of main engine in compliance with the requirements of the Classification Society.  
+Air conditioning tests shall be carried out, but cooling test in winter season and heating test in summer season may be omitted.  
+Cooling test of refrigerating plant for refrigerating provisions chamber shall be carried out. The compartments are cooled down to the specified temperature and then the refrigerating machine shall be stopped for six (6) hours to check the effectiveness of insulation.  
+Piping shall be tested under working conditions after installation.  
+Hydrostatic test for piping systems shall be carried out as required by the Classification Society.  
+ Operation test or demonstration test shall be carried out for the following items to check and examine their satisfactory running.  
+  
+  
+  
+
+:  Deck crane, Windlass, mooring winch, emergency  
+
+:  Lifeboat davits, davit for rescue boat,  
+
+Equipment and outfitting  
+
+Deck machinery  
+
+fire pump, provision crane, etc. 
+
+accommodation ladder, etc. 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H2 - 1 
+
+SECTION 2    HULL CONSTRUCTION 
+
+  
+2.1    GENERAL  
+2.1.1    Scantling and material  
+The hull shall be of welded construction and the scantlings of the structural members shall be in compliance with the requirements of the Classification Society for the Vessel which having the scantling draught of 13.40 m ( moulded ).  
+Scantlings  not  specified  by  the  Classification  Society  shall  be  in  accordance  with  the Builder’s practice.  
+Large sized steel plates may be used for the construction of hull as far as practicable to the Builder.  
+Structural  steel  of  hull  construction  shall  be  of  mild  steel  and/or  high  tensile  steel approved by the Classification Society, and steel including castings and forgings shall be of qualities complying with the requirements of the Classification Society.  
+Steel  materials  not  specified  by  the  Classification  Society  shall  be  in  accordance  with Japanese Industrial Standard ( JIS ) or equivalent standard or the Builder’s practice.  
+Any  special  strengthening  and  quality  of  material  exceeding  those  approved  by  the Classification  Society,  except  those  specially  noted  in  the  Specifications  and  the  Plans submitted to the Owner for approval, shall be applied on the Owner’s account, so long as the work will not disturb the Builder’s working schedule. 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 2 
+
+ 
+
+ 
+
+ (b)  Advance outfitting : 
+
+2.1.2    Construction practice  
+Works shall be executed under the survey of the Classification Society and in accordance with  the  Builder’s  current  construction  method  including  those  specially  mentioned hereunder.  
+(1)  Erection  
+
+(a)  Large sized assembly unit : 
+
+  Size  of  blocks  shall  be  as  large  as  practicable  within  the  limit  of  the  Builder’s facilities. 
+
+  Trunks,  pipes,  valves,  pumps,  motor  seats,  deck  fittings,  etc.  which  are  to  be fitted to the hull structure shall be fitted as far as practicable during subassembly with necessary precaution being taken for the protection of them from damage. 
+
+ Numerically  controlled  marking  and/or  Electro-photo-marking  and/or  Optical marking shall be generally applied for structural members according to the Builder’s practice.  
+Automatic  cutting  machines  shall  be  applied  for  a  part  of  hull  structural  members according to the Builder’s practice and marking shall not be executed in general. However, in some cases marking may be executed with hand. 
+
+ (2)  Marking 
+
+ (3)  Cutting 
+
+ Cutting  of  steel  structural  material  shall  be  executed  by  means  of  gas  cutting  and numerically controlled oxygen plasma jet cutting system. 
+
+(4)  Bending 
+
+ 
+
+ Bending of plates, bars and sections shall be executed by means of press, roller and line heating/water cooling as case may be. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 3 
+
+(5)  Welding 
+
+Electric  welding  shall  be  applied  extensively  for  the  connection  of  steel  structural members. 
+
+Welding  procedure  including  edge  preparation  and  welding  scheme  shall  be  in accordance  with  the  Builder’s  current  practice  which  has  been  approved  by  the Classification Society. 
+
+Manual welding shall be executed with coated electrode. Automatic and semi-automatic welding shall be executed by the following methods as the case may be, 
+
+                   Automatic welding                         Submerged arc welding                             each side welding                             one side welding                             including CO2 gas one side welding                         Electro-gas welding                         Electro-slag welding                         CO2 gas welding ( mechanical automatic welding )                   Semi-automatic welding                         Gravity welding                         CO2 gas welding                             one side welding                             fillet welding  
+
+Back chipping shall be carried out by arc air gouging where necessary. 
+
+Clamps, dogs and other suitable process of the Builder’s practice shall be applied for execution of welding. 
+
+Outstanding distortion of hull structure after fabrication due to welding shall be cured by means of cold press, line or spot heating/water cooling or hammering as the case may be in accordance with the Builder’s practice. 
+
+ (6)  Stress relieving 
+
+ Stress relieving of hull structure shall not be executed except cast parts of stern frame and rudder which shall be annealed before fabrication at the casting shop. 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H2 - 4 
+
+(7)  Miscellaneous 
+
+ Temporary access opening may be provided on shell, bulkheads, decks, walls, etc. for the  convenience  of  work  and  shall  be  closed  by  welding  under  the  approval  of  the Classification Society.  
+Eye plates or similar small pieces fitted to the hull structure for hoisting the structure, staging and so on may be left so long as they are not injurious against appearance and intended service of the Vessel.   
+
+2.1.3    Slot and hole  
+Slots, air holes, drain holes, scallops and lightening holes shall be provided in accordance with the Builder’s practice and under the approval of the Classification Society.  
+Longitudinal,  transverse  and  horizontal  stiffening  members  shall  have  air  holes  and/or drain holes in adequate position as far as the strength of these members are not adversely affected.  
+Drain holes in bottom longitudinal at the aftermost bay in double bottom tank around bell mouth shall have bigger area than usual.  
+Scallops shall be arranged where necessary for the execution of welding.  
+2.1.4    Local strengthening  
+Carling  or  suitable  stiffening  shall  be  provided,  if  necessary,  under  deck  machinery, bollards, boat davits, etc. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 5 
+
+2.2    MAIN HULL  
+2.2.1    General  
+Main hull consists of shell, upper deck, topside tank and double bottom.  
+Topside tank and double bottom shall be generally constructed with longitudinal framing system except double bottom in engine room and etc.  
+Longitudinally profiled steel plate may be used, if necessary.  
+2.2.2    Shell plating  
+Shell  shall  be  plated  with  the  thickness  approved  by  the  Classification  Society  and  the thickness  shall  be  tapered  from  midship  part  to  both  ends  in  compliance  with  the requirements of the Classification Society.  
+Stem throughout shall be of fair formed welded steel plate construction with bulbous form under water line and well raked forward with round face above water line.  
+Stem shall be provided with suitable breast hooks and shall be connected to shell and keel plating.  
+Shell plating in way of tug push marks shall be reinforced ( Pushing force 50 ton ).  
+Bottom  forward  strength  shall  be  decided  in  compliance  with  the  requirements  of  the Classification Society.  
+2.2.3    Deck plating  
+Upper deck shall be plated with the thickness approved by the Classification Society and the  thickness  shall  be  tapered  from  midship  part  to  both  ends  in  compliance  with  the requirements of the Classification Society.  
+Deck plating shall be increased in thickness or reinforced with outside doubling plate for opening where required by the Classification Society.  
+Cargo  hatch  openings  on  upper  deck  shall  have  well-round  corners  smooth  edges  for prevention from stress concentration.  
+Gunwale  connection  shall  be  of“T”connection  type  as  approved  by  the  Classification Society.  
+Lower decks and platforms except crown of tanks shall be non-tight construction. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 6 
+
+2.2.4    Bulkhead  
+Transverse bulkheads shall be arranged as shown on the General Arrangement.  
+Transverse  bulkheads  within  cargo  hold  compartments  shall  be  of  steel  welded  vertical corrugated type and shall be provided with upper and lower bulkhead stools.    
+Fore and aft bulkheads of No.3 cargo hold shall be designed as deep tank.  
+Engine  room  forward  and  peak  tank  bulkhead  shall  be  of  flat  plate  type  with  vertical stiffeners.  
+Other  bulkheads  shall  be  of  steel  welded  construction  of  flat  plate  type  and  shall  be  of watertight, oiltight, gastight or non-tight according to their respective character.  
+2.2.5    Frame, beam and stiffener    
+Frame, beam and stiffener shall be of slab, rolled section or built-up section.  
+Hold frames shall be transverse system.  
+Beams of upper deck shall be longitudinal system supported by deck transverse and those for the space between hatch opening shall be of transverse system.  
+Longitudinal  stiffeners  shall  pass  through  transverse  bulkhead  with  slot  which  shall  be closed with lapped plate by welding in accordance with the Builder’s practice.  
+2.2.6    Web construction, pillar and girder  
+In engine room, adequate web frames shall be provided in conjunction with  web  beams and pillars.  
+  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 7 
+
+2.2.7    Topside tank  
+Topside  tank  in  way  of  cargo  holds  shall  be  subdivided  into  tanks  as  shown  on  the General Arrangement.  
+Topside tank construction shall be generally longitudinal framing system with transverse web rings.  
+2.2.8    Double bottom  
+Double  bottom  under  cargo  holds  and  engine  room  shall  be  subdivided  into  tanks  and cofferdams as shown on the General Arrangement.  
+Double  bottom  with  bilge  hopper  in  way  of  cargo  holds  shall  be  longitudinal  framing system with transverse floor and gradually transferred into transverse framing system in engine room.  
+Transverse floor in engine room shall be extended at every frame space, and side girders shall be arranged to suit the seating for main engine.  
+Bilge well or hat shall be provided for proper drainage.  
+The  Vessel  shall  be  able  to  carry  steel  coil  on  each  cargo  hold  subject  to  following condition ; 
+
+Steel coil loading 
+
+  
+  
+
+  Size   Weight   Loading condition 
+
+ 
+
+:  1.5m  ×  1.5mφ :  15 t :  Two (2) tiers with four (4) lines of wooden 
+
+dunnages per one (1) coil 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 8 
+
+  
+ 
+
+2.2.9    Tank and chain locker  
+(1)  Peak tanks 
+
+  
+  
+(2)  Deep tanks 
+
+ (3)  Chain locker 
+
+ Fore peak tank shall be stiffened by longitudinal, web frame and side stringer. 
+
+Aft peak tank shall be stiffened by floor, stringer and center swash bulkhead. 
+
+ 
+
+ Boundary  bulkhead  and  top  plate  shall  be  made  oiltight  or  watertight  according  to their respective character and strengthened as required by the Classification Society. 
+
+ The Chain locker having ample capacity shall be arranged as shown on the General Arrangement.  
+
+  Manhole shall be provided on each chain locker for access from bos’n store.  
+ 
+
+A bilge well with perforated cover plate shall be provided at the bottom of each chain locker. 
+
+   Manhole shall be provided in fore peak tank for access to bilge well.  
+2.2.10    Stern frame  
+Stern frame shall be of“Mariner type”welded construction fabricated of steel plates and steel casting as mentioned below :  
+(1)  Neck bearing 
+
+ Neck bearing shall be of steel casting with phenol resin bush ( self lubricating type ). 
+
+ Gudgeon shall be of steel casting with phenol resin bush. 
+
+ Stern tube shall be of welded construction fabricated of steel plate and steel casting. ( refer to Fig. 2 - 1 STERN FRAME AND RUDDER ) 
+
+  
+(2)  Gudgeon 
+
+  
+(3)  Stern tube 
+
+  
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H2 - 9 
+
+2.2.11    Rudder  
+(1)  Rudder ( refer to Fig. 2 - 1 STERN FRAME AND RUDDER )  
+ 
+
+Rudder  shall  be  of  double  plated  hanging  type  forming  stream  line  section  in conjunction  with  mariner  type  stern  frame  and  shall  have  an  area  ratio  about  1/63 ( without rudder horn ) of an area of length between perpendiculars multiplied by the scantling draught. 
+
+Rudder shall be of welded construction fabricated of steel plates and two (2) pieces of upper and lower rudder castings. 
+
+Jumping  stopper  shall  be  provided  between  lower  rudder  casting  and  gudgeon  to prevent rudder from undue lifting. 
+
+Drain and air plug of stainless steel shall be fitted on top and bottom of rudder. 
+
+  
+ (2)  Rudder pintle  
+ 
+
+ (3)  Rudder stock  
+ 
+
+Pintle  shall  be  of  forged  steel  with  cast  stainless  steel  (  SCS13  )  or  stainless  steel ( SUS304 ) sleeve and shall be secured by forged steel nut to lower rudder casting. 
+
+Rudder  stock  shall  be  forged  steel  straight  type  with  key  way  at  the  top  to  take connection  with  the  steering  gear  and  tapered  lower  end  having  key  to  take connection with upper rudder casting by forged steel nut. 
+
+Bronze ( BC3 ) sleeve shall be provided on rudder stock in way of rudder bearer. 
+
+Cast stainless steel ( SCS13 ) or stainless steel ( SUS304 ) sleeve shall be provided on rudder stock in way of neck bearing. 
+
+Rudder trunk of steel welded construction shall be provided below steering gear flat. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+
+  
+
+  
+  
+
+  
+ 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 10 
+
+(4)  Rudder carrier and rudder bearer  
+
+A combined rudder carrier and rudder bearer shall be provided on steering gear flat to carry weight of the rudder.  
+The unit shall consist of carrier fixed to rudder stock and rudder bearer fixed to the hull which is arranged to receive the carrier.  
+Rudder carrier and rudder bearer shall be of steel casting.  
+Rudder carrier shall be of split type in halves.  
+Non-split type rudder bearer shall be provided with horizontal bronze ( BC3 ) bearing liner and vertical bronze ( BC2 ) bush in way of bearing surface with the carrier and the rudder stock respectively.  
+The horizontal bearing liner shall be provided with oil groove and lubricated by oil bath system.  
+The  vertical  bush  shall  be  provided  with  grease  groove  and  lubricated  by  grease supplied by grease hand pump.  
+Rudder stock seal shall be provided at the lowest part of rudder bearer for water/oil seal. 
+
+  
+ 
+
+ 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+     
+
+ 
+
+H2 - 11 
+
+Fig. 2 - 1 STERN FRAME & RUDDER 
+
+  
+ 
+
+RUDDER CARRIER
+
+RUDDER BEARER
+
+STEERING GEAR FLAT
+
+STOCK SEAL
+
+RUDDER TRUNK
+
+RUDDER HORN
+
+GUDGEON
+
+PINTLE
+
+STERN TUBE
+
+S.C.L.
+
+RUDDER STOCK
+
+NECK BEARING
+
+AIR PLUG
+
+UPPER RUDDER CASTING
+
+COVER PLATE
+
+REMOVABLE COVER PLATE
+
+LOWER RUDDER CASTING
+
+JUMPING STOPPER
+
+COVER PLATE
+
+AIR PLUG
+
+A.P.
+
+DRAIN PLUG
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H2 - 12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DECK 
+
+WALL 
+
+WALL 
+
+Stiffener on exposed wall from upper deck to A deck Stiffener on front wall from A deck to B deck Stiffener on engine casing Exposed beam Under beam of installed heavy machine Beam and stiffener of wet part ( sanitary space and battery room, etc. ) 
+
+2.3    SUPERSTRUCTURE AND DECK HOUSE  
+2.3.1    General  
+External steel wall shall be of the following constructions.  
+  
+            EDGES TO BE GROUND  
+  
+ Ordinary deck beam and wall stiffener of superstructure shall be carried out by one side welding except as follows.  
+  
+  
+  
+2.3.2    Deck  
+Decks  of  superstructure  and  deck  house  shall  be  of  steel  welded  plating  stiffened  with beams and girders.  
+The thickness of deck plating shall be in general 6 mm unless otherwise required by the Classification Society.  
+2.3.3    Steel wall  
+Steel wall of deck house including engine casing, shall be of welded steel construction.  
+The thickness of wall plating shall be in general 6 mm unless otherwise required by the Classification Society.  
+These steel wall shall be of corrugated type except front wall.  
+Steel  wall  shall  be  welded  to  the  other  structural  members  to  be  watertight,  gastight  or non-tight according to their respective character.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 13 
+
+2.4    MISCELLANEOUS  
+2.4.1    Foundation  
+Foundation  of  main  engine  shall  be  of  welded  steel  construction  in  conjunction  with double bottom structure of thicker bed plate, floors and girders.  
+Foundation  of  auxiliary  machinery,  deck  machinery,  etc.  shall  be  of  welded  steel construction with girders or carlings underneath if necessary.  
+Small tank may be fitted directly on base without foundation.  
+2.4.2    Bulwark and bow chock  
+Steel bulwark and bow chock shall be provided as shown on the General Arrangement.  
+A portion of front bulwark of about 1,100 mm high with wind deflector shall be fitted on navigation bridge deck.  
+Bow chock of about 1,050 mm high shall be fitted on the top of forward part of forecastle deck.  
+2.4.3    Bilge keel  
+Bilge keel of angle bar shall be provided for about 25% of the Vessel’s length amidships and shall be intermittent at block joint.  
+Bilge keel shall have 400 mm depth and welded to pad plate on the bilge shell.  
+The bilge keel shall be tapered into shell at both ends. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 14 
+
+2.4.4    Manhole  
+Two  (2)  manholes  shall  be  provided  for  each  topside  tank  and  double  bottom  tank  in cargo hold, and one (1) manhole shall be provided for each double bottom in engine room, peak tank, cofferdam and the other small compartment.  
+Manhole for double bottom tank in cargo hold shall be of flush type.  
+Manhole for double bottom tank in engine room shall have 100 mm high coaming.  
+Manhole  covers  shall  be  fitted  with  synthetic  rubber  packings  and  fixed  with  stainless steel ( SUS304 ) bolt and mild steel nut.  
+But, as for manhole cover of exposed place and in cargo hold  ( including inside of lower stool ), they shall be fitted with brass nut.  
+Opening shall be generally 600 mm×400 mm.  
+2.4.5    Cargo hatch coaming  
+Cargo hatches shall be arranged as shown on the General Arrangement.  
+Coaming height shall be about 1,400 mm at the Vessel’s center line.  
+Hatch  coaming  shall  be  fitted  with  horizontal  stiffeners  near  the  coaming  top  and         stay at proper interval.  
+As for the cargo hatch cover, refer to SECTION 3    EQUIPMENT AND OUTFIT.  
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 15e 
+
+2.4.6    Ladder and step  
+Two  (2)  steel  ladders  of  vertical  and  spiral  type  for  each  cargo  hold  shall  be  fitted  on transverse bulkhead.  
+Vertical ladders or steps shall be fitted for topside tanks, double bottom tanks and peak tanks.  
+
+Item 
+
+Width 
+
+Step 
+
+Side stringer 65 mm×9 mm steel flat bar 100 mm×75 mm ×10 mm steel angle bar 200 mm×10 mm steel bulb plate 
+
+Vertical hold ladder 
+
+350 mm 
+
+22 mm square bar 1 - rung 
+
+Spiral hold ladder Other vertical ladder Step 
+
+600 mm 
+
+- 
+
+350 mm 
+
+65 mm×9 mm   steel flat bar 
+
+- 
+
+22 mm square bar Inside of the tank 19 mm square bar 1 - rung Others 19 mm round bar 1 - rung 
+
+Hold  side  bulkhead  of  engine  room  and  collision  bulkhead  shall  be  fitted  with  vertical ladder having slant plates.  
+Permanent Means of Access in accordance with the requirements of Classification Society shall be provided.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+H3 - 1 
+
+ 
+
+SECTION 3    EQUIPMENT AND OUTFIT 
+
+ 3.1    CARGO HATCH AND SMALL HATCH  
+3.1.1    Cargo hatch cover  
+Steel weathertight folding type hatch covers shall be provided for each cargo hatch on upper deck.  
+Each hatch cover shall be divided into four (4) panels and each two (2) panels of four (4) panels shall be folded forward and backward.  
+The hatch cover shall be constructed as double skin type.  
+Strength of hatch covers shall be as required by the Classification Society.  
+The hatch cover shall be fastened to hatch coaming with quick acting cleat by manual operation.  
+Suitable sponge gasket and compression bar shall be equipped for weathertight.  
+Material of compression bar shall be of SUS 304.  
+Number and size of hatch opening shall be as follows.  
+
+Hatch number 
+
+1 
+
+2  ～  5 
+
+Opening size 
+
+Length ( m )  ×  Breadth ( m ) 
+
+18.40    ×    18.72 23.20    ×    18.72 
+
+One (1) ullage hole shall be provided to No.3 cargo hatch.  
+Plug  for  sampling  shall  be  provided  to  each  hatch  coaming  for  IMSBC  code  for  the carriage of coal.  
+Vacuum relief valve shall be provided to No.3 cargo hatch.  
+Cement feeder hole (700mm diameter, 2-each cargo hold) with grain feeder hole (400 mm diameter flush type) shall be provided each hatch cover.  
+Touch part of position stopper and center part rail end shall be fitted SUS plate.  
+One (1) drain pipe with SUS swing check valve shall be provided to each corner of hatch coaming top.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+H3 - 2 
+
+ 
+
+3.1.2    Cargo hatch cover operation system  
+The cargo hatch cover shall be operated by hydraulic operation system,   refer to Fig. 3 - 1 DIAGRAM OF ELECTRO-HYDRAULIC POWER SYSTEM.  
+Simultaneous operation of any two (2) hatch cover sections, consist of two (2) hatch cover panels  each,  shall  be  considered  and  opening  or  closing  time  is  about  six  (6)  min.  except cleating time. (refer to below)  
+  
+  
+  
+  
+  
+  
+ Hydraulic operating system for cargo hatch cover shall consist of following items. 
+
+( a )  Hydraulic pump used both as cargo hatch operation and deck machinery 
+
+operation, as for system, refer to Fig. 4 - 1 DIAGRAM OF ELECTRO-HYDRAULIC POWER SYSTEM 
+
+  
+( b )   Four (4) main cylinder for opening and closing for each cargo hatch cover  
+( c )   One (1) operating controller fitted on hatch side or hatch end for each cargo 
+
+hatch cover 
+
+ As for piping application, refer to Table 8 - 2 PIPING APPLICATION SCHEDULE.  
+Materials of above mentioned machineries shall be to the manufacturer’s standard.  
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+H3 - 3
+
+ 
+
+EN
+IL
+NA
+M
+
+I
+
+ .
+
+HC
+AM
+
+KC
+ED
+
+ .
+
+DY
+H
+
+ .
+
+EL
+E
+
+TU
+HS
+-N
+EP
+O
+
+RE
+DN
+IL
+YC
+
+ 
+
+.
+
+1O
+N
+
+ 
+
+RE
+VO
+CH
+CT
+AH
+
+2.
+ON
+
+  
+.
+
+.
+
+CH
+
+3.
+ON
+
+  
+.
+
+.
+
+CH
+
+.
+
+4O
+N
+
+  
+.
+
+.
+
+CH
+
+.
+
+5O
+N
+
+  
+.
+
+.
+
+CH
+
+RA
+LI
+MI
+S
+
+OT
+
+.
+
+.
+
+ 
+
+CH
+1O
+N
+
+.
+
+RA
+LI
+MI
+S
+
+OT
+
+.
+
+.
+
+ 
+
+CH
+1O
+N
+
+.
+
+RA
+LI
+MI
+S
+
+OT
+
+.
+
+.
+
+ 
+
+CH
+1O
+N
+
+.
+
+RA
+LI
+MI
+S
+
+OT
+
+.
+
+.
+
+ 
+
+CH
+1O
+N
+
+.
+
+IMABARI SHIPBUILDING CO., LTD
+
+     
+
+H3 - 4 
+
+ 
+
+3.1.3    Small hatch and cover  
+Small hatch and cover shall be fitted as follows :  
+
+Item 
+
+Location 
+
+On f’cle deck   Forward 
+
+On upper deck 
+
+On  f’cle  deck (for  No.1  cargo hold fore only) On upper deck (for the others)                   *2 On Bolted cover Engine casing top On upper deck On  f’cle  deck aft part 
+
+Size (㎜)  ×  No. 
+      *1600 diameter -1   Hatch size 800 diameter - 1 Deck open 720 diameter 
+
+600×600      *3 - 2/1 hold 
+
+about 1000×1000 -1 about 1100×1100-1 about 2300×1400 -1 about 1300×1250-1 
+
+Type 
+
+Securing device 
+
+Steel weathertight hinge-up type 
+
+Butterfly nut and bolt (Brass)
+
+Steel weathertight bolted cover 
+
+Bolt (SUS)and nut (Brass) 
+
+Rope hatch 
+
+Access hatch for cargo hold
+
+Engine parts   handling hatch
+
+Bolted cover for engine parts Bolted cover 
+
+ Coaming height shall be designed as per rule requirement.  
+      *1 --- With little hatch for mike handling shall be fitted       *2 --- With counter weight       *3 --- With Pad lock hanger 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+H3 - 5 
+
+ 
+
+3.2    MAST  
+One (1) foremast and one (1) radar mast shall be provided as shown on the General Arrangement.  
+Foremast of steel pipe shall be provided with stays and fitted with necessary fittings such as mast head light, air horn, steering light, etc.  
+Radar mast of steel pipe shall be provided with stays and fitted with necessary fittings such as radar scanner, mast head light, antenna, air horn, inmarsat-C, etc.  
+Inmarsat-FB post shall be provided on compass deck.  
+Steel wire rope without over-coating shall be used for mast stay, and turnbuckle shall be fitted.  
+As for antenna, refer toⅣ- ELECTRIC PART. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+H3 - 6 
+
+ 
+
+3.3    ANCHORING AND MOORING EQUIPMENT  
+3.3.1    Anchor and anchor chain  
+Anchor and anchor chain shall be provided in compliance with the requirements of the Classification Society.  
+
+Bower anchor 
+
+Anchor chain cable 
+
+Cast steel, AC-14 type anchor 7,425 ㎏  ×  2 sets High strength steel ( grade 3 ) flush   butt welded stud link chain cable   78 ㎜ diameter  ×  660 m total length 
+
+ Spare anchor shall not be supplied.  
+Anchor chain cable shall consist of 55 m length×10 and 27.5 m length×4, and each length shall be jointed with kenter shackle.  
+Swivel piece shall be fitted at extreme outboard of end of chain cable and shall be connected to anchor shackle.  
+The specified length of anchor chain cable shall include shackles, swivel pieces, enlarged links, etc.  
+Inboard end of chain cable shall be fastened to equipments of quick release with extended pin. Hammer hook for quick release hammer shall be fitted near chain locker. (Sledge hammer shall be used as quick release hammer)  
+Marking of chain length shall be done every 27.5 m by white painting.  
+The following accessories and spares shall be supplied.  
+  
+  
+  
+ 
+
+2 - Kenter shackle ( spare ) 5 - Taper pin for kenter shackle ( spare ) 1 - Anchor shackle ( spare ) 2 - Taper pin for anchor shackle ( spare ) 1 - Shackle punch 1 - Disengaging tool for kenter shackle 
+
+2 - Pin punch 6 - Chain hook 1 - Pin hammer 1 - Shackle hammer 1 - Tool box 
+
+  
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+H3 - 7 
+
+ 
+
+3.3.2    Mooring rope  
+The following mooring ropes shall be supplied.  
+
+Mooring rope 
+
+Rule requirement synthetic fiber rope   (more than B.L. 554kN) 6 - 200m 
+
+ Tow line shall not be supplied by shipyard.  
+3.3.3    Anchoring fitting  
+Anchoring fittings shall be fitted as follows :  
+
+Item 
+
+No.
+
+Location 
+
+Hawse pipe 
+
+2 
+
+From f’cle deck to side shell 
+
+Chain pipe 
+
+2  Chain locker top 
+
+Chain stopper Anchor stopper 
+
+2  On f’cle deck 
+
+2  On chain stopper 
+
+  
+
+Type and material Welded steel plate/pipe with cast steel shell piece, and with doubling plate on deck, with anchor convexity on side shell Welded steel plate/pipe with cast steel bellmouth on f’cle deck and with round bar fitted around   under steel bellmouth Steel body and steel seat welded on deck Eye plate and steel wire   rope with turnbuckle 
+
+Cover plate and handrail shall be provided for hawse pipe on f’cle deck. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+H3 - 8 
+
+ 
+
+3.3.4    Mooring fitting  
+Mooring fittings shall be fitted as shown on the General Arrangement.  
+
+            Item Name 
+
+Nominal size (  ㎜  ) 
+
+F’cle deck 
+
+Bollard Cross bitts 
+
+Roller fairleader 
+
+Chock for Panama canal
+
+500 400 200 
+
+350
+
+2-roller3-roller5-rollerS.W.L. 90ton S.W.L. 64ton 
+
+Closed chock
+
+500 
+
+Deck end roller 
+
+Deck stand   roller 
+
+- 
+
+350 
+
+2 6 - 4 2 - 2 3 
+
+- 
+
+2 
+
+2 
+
+Number Upperdeck (Mid) 
+
+2 2 4 - - - 2 2 
+
+- 
+
+- 
+
+- 
+
+Upperdeck (Aft) 
+
+4 8 - 4 2 - 4 3 
+
+- 
+
+- 
+
+2 
+
+Type and material 
+
+Welded steel plate 
+
+Roller :  Cast iron or 
+
+welded steel plate 
+
+:  Welded steel 
+
+Seat 
+
+Seat 
+
+:  Welded steel 
+
+Body  :  Cast steel Seat 
+
+:  Welded steel 
+
+plate 
+
+plate 
+
+plate 
+
+Body  :  Cast steel Roller :  Cast iron :  Steel plate Seat 
+
+2 - roller type 
+
+Roller : Cast iron or 
+
+welded steel plate Seat    : Welded steel plate 
+
+ Jumping stopper for hawser shall be provided to aft end mooring line. (Upper direction type)  
+One (1) eye plate shall be fitted to each bollard.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+H3 - 9 
+
+ 
+
+3.4    LIFE SAVING EQUIPMENT  
+3.4.1    General    
+Lifeboats and liferafts shall be arranged as shown on the General Arrangement.  
+Life saving equipments shall be provided as follows in compliance with the requirements of the regulatory bodies :  
+
+Item Lifeboat Rescue boat   Boat davit and   Boat winch 
+
+Liferaft 
+
+Lifebuoy 
+
+Life jacket Lifeline throwing gun Immersion suit Emergency escape breathing device 
+
+Material 
+
+Fiberglass Fiberglass 
+
+No. 1 1 1 set  Manufacturer’s
+
+standard 
+
+1 1 1 
+
+Rubber coated   waterproof nylon cloth 
+
+ 
+
+2 4 2 4 35 1 set  Manufacturer’sstandard Manufacturer’s standard 
+
+Foamed plastics 
+
+- 
+
+Remarks 
+
+25 persons, 6 kt 6 persons, 6 kt 
+
+Free fall type 
+
+25 persons inflatable for drop launching 25 persons inflatable for davit launching 6 persons inflatable type 4.3 ㎏  With self-igniting light and self-activating smoke signal 2.5 ㎏    With self-igniting light 2.5 ㎏    With buoyant lifeline (50 m) 2.5 ㎏     With life jacket light With 4-320 m lines and 4-projectiles (Effective range of 230 m ) As per rule 
+
+- 
+
+Manufacturer’s standard 
+
+As per rule 
+
+ Material of abovementioned equipments shall be to the manufacturer’s standard.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 10 
+
+3.4.2    Lifeboat  
+The free fall type lifeboat shall be provided.  
+The boat shall be provided with sea water-cooled diesel engine of cell motor starting type.  
+Equipments shall be provided as per rule requirement.  
+3.4.3    Rescue boat  
+The open type rescue boat shall be provided.  
+The boat shall be provided with sea water-cooled gasoline engine of hand starting type.  
+Equipments shall be provided as per rule requirement.  
+3.4.4    Life boat davit and boat winch  
+One (1) set of free fall type davit and winch shall be provided together with necessary blocks, tackles, and releasing gear for falling and hoisting or lowering lifeboat.  
+Boat shall be hoisted at two (2) persons loaded on lifeboat.  
+Rubber stopper shall be provided at embarkation stage for lifeboat.  
+3.4.5    Davit for rescue boat and liferaft for davit launching  
+One (1) davit shall be provided to A deck S-side. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 11 
+
+3.4.6    Inflatable liferaft  
+One (1) inflatable for drop launching (P-side) and one (1) inflatable for davit launching liferafts (S-side), having capacity of twenty-five (25) persons shall be provided on A deck in racks.  
+One (1) inflatable liferaft having capacity of six (6) persons shall be provided on upper deck.  
+Equipments for liferaft shall be provided as per rule requirement.  
+3.4.7    Lifebuoy  
+Twelve (12) lifebuoys shall be equipped suitable position.  
+Quick releasing device shall be provided only for lifebuoys fitted on bridge wing.  
+Lifebuoy on upper deck shall be equipped at center side.  
+3.4.8    Life jacket  
+Life jacket shall be stowed on wardrobe in each cabin, and added two (2) in wheelhouse, six (6) in boatswain store and two (2) in engine control room.  
+3.4.9    Immersion suits  
+Immersion suits shall be provided as per rule requirement.  
+3.4.10    Emergency escape breathing device  
+Emergency escape breathing devices (EEBD) shall be stowed in accommodation space and engine room as par rule requirement.
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 12 
+
+3.5    AWNING AND CANVAS WORK  
+Awning for panama shelter shall be provided.  
+Vinyl canvas cover shall be supplied for the following weather exposed fittings :  
+  
+  
+  
+  
+  
+  
+  
+ 
+
+Magnetic compass Gyro repeater compass Projector in weather part   Speaker in weather part Boat winch drum Accommodation ladder winch Pilot assistant ladder winch Rigging screw Provision crane winch drum Chain pipe Controller for deck machinery Embarkation light cover for lifeboat Jacob’s ladder for liferaft Jacob’s ladder for pilot  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 13 
+
+3.6    LADDER  
+Accommodation ladder, ladder winch, weathered deck ladder, etc. shall be provided as follows :  
+3.6.1    Accommodation ladder  
+
+Number of set 
+
+Material 
+
+Type Width 
+
+Length 
+
+Two (2) sets Aluminum alloy Vertical stowing type with curved steps 600 ㎜ Sufficient length to reach within about 0.6 m   of arrival ballasted water line at an angle of about 55 degrees to the horizontal Static load of 75 ㎏ on every two (2) steps at horizontal level condition 
+
+Designed load Stowing position  On upper deck accommodation house both sides 
+
+Handling 
+
+Fitting 
+
+Refer to“3.6.2 Ladder winch” Upper rotating platform and lower vertical tilting platform,   Removable type stanchion of galvanized steel pipe,Handrail of vinylon rope Three  (3)  square  bars  shall  be  fitted  on  lower platform 
+
+ 3.6.2    Ladder winch  
+Accommodation ladder shall be lowered, hoisted and stowed by means of fixed one (1) mechanical ladder winch driven by electric motor.  
+Material of ladder winch shall be to the manufacturer’s standard.  
+3.6.3    Wharf ladder  
+Wharf ladder shall not be supplied. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 14 
+
+3.6.4    Pilot ladder  
+Pilot access port shall be provided on upper deck both sides.  
+Two (2) sets of pilot assistant ladder shall be provided, and one (1) set of pilot jacob’s ladder shall be supplied.  
+Particular of pilot assistant ladder shall be as follows.  
+
+Material  Aluminum alloy  
+Type  
+Length  
+Width  
+Fitting 
+
+Curved steps, vertical stowing type Sufficient length to reach within about 1 m of arrival ballasted water line at an angle of about 55 degrees to the horizontal 600 ㎜ Removable stanchion of galvanized steel pipe, handrail of vinylon rope Three (3) square bars shall be fitted on lower platform 
+
+ Pilot assistant ladder shall be lowered, hoisted and stowed by means of one (1) mechanical ladder winch driven by electric motor.  
+Eye plate (3ton type) for jacob’s ladder lashing, 0.1 ton davit for jacob’s ladder hoisting and necessary fittings shall be provided on upper deck. Additional embarkation space with eye for pilot ladder shall be provided.  
+One (1) 0.5 ton chain block with 10m chain for jacob’s ladder hoisting shall be provided.  
+Sunken type eye plate shall be provided on side shell both sides.  
+3.6.5    Vertical ladder  
+Vertical ladders shall be provided as follows ;  
+
+Location 
+
+Width 
+
+Mast, post, etc, 
+
+300 ㎜ 
+
+Side stringer 65  ㎜  ×  9  ㎜ steel flat bar 
+
+Step 
+
+19  ㎜ round bar 1 - rung 
+
+ Rungs shall penetrate through side stringer.  
+Adequate back bar shall be provided.  
+Permanent Means of Access in accordance with the requirements of Classification Society shall be provided. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 15 
+
+3.6.6    Inclined ladder  
+Inclined ladder in weather part shall be provided as follows :  
+
+Location 
+
+Width 
+
+Side stringer 
+
+Step 
+
+Weathered deck 
+
+700  ㎜  180 ㎜×9.5 ㎜ steel bulb plate 
+
+6 ㎜ thickness steel checkered plate 
+
+Hand rail 
+
+25A SGP ( GALV ) 
+
+ Inclined ladder shall be of welded construction and step shall not pass through side stringer.  
+Inclined ladder shall be inclined at the angle of below 50 degrees to the horizontal.  
+Inclined ladder shall be provided for helicopter mark.  
+3.6.7    Other ladder  
+Draught checking ladder shall not be provided.  
+Two (2) jacob’s ladders for liferaft shall be provided on A deck, and one (1) jacob’s ladder for forward liferaft shall be provided.  
+One (1) jacob’s ladder for chain locker shall be provided.  
+As for interior stairways, refer to SUBSECTION 5.7 STAIRWAY IN ACCOMMODATION.  
+As for hold ladder, refer to Subsection 2.4.6 ladder and step.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 16 
+
+3.7    HANDRAIL AND LIFELINE  
+3.7.1    Handrail and stanchion  
+Handrail shall be fitted as follows except specified otherwise.  
+
+Location
+
+Height 
+
+Top rail * Mid rail 
+
+Stanchion 
+
+Stay 
+
+All deck 
+
+1,000 ㎜ 25A SGP
+
+2
+
+65 ㎜  ×  12 ㎜ Steel flat bar 
+
+50 ㎜  ×  9 ㎜ Steel flat bar 
+
+19  ㎜ Steel roundbar 
+
+       * ----- Galvanized steel pipe  
+Handrail stanchion shall be fitted about 1,500  ㎜ apart.  
+Handrail stay shall be fitted to every three (3) stanchions.  
+Storm rail of 25A steel pipe ( SGP ) shall be fitted where necessary weather part.  
+3.7.2    Lifeline  
+Detachable type lifeline and stanchion shall be provided between accommodation house front and upper deck forward as required by the rules.  
+Life line shall be provided near hatch coaming as far as possible.
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 17 
+
+3.8    NAME PLATE AND IDENTIFICATION  
+Name plates, marks, etc. shall be fitted as follows :  
+
+Item Ship’s name Port of registry Funnel mark Draught mark 
+
+Pilot mark 
+
+Location 
+
+Stern shell and both sides of bow Stern shell Funnel both sides Both sides of bow, midship and stern Both sides of midship 
+
+Both sides shell of pilot access point Both sides on deck of pilotaccess point 
+
+Freeboard mark Bulbous bow mark  Both sides of bow 
+
+Suitable location 
+
+Notice plate,   Caution plate, etc. Name plate to identify quarters and space for tonnage Ship’s call letter Radio instruments room Ship’s name board  Both sides of compass   
+
+Hold depth mark 
+
+Tug pushing mark  Fr. 34 and Fr. 194 Bottom plug CC mark 
+
+bridge deck Fore or aft in each hold (Beside the hold ladder) 
+
+both sides shell Bottom shell Hatch coaming port sides Stern shell and in engine room Mooring fitting 
+
+On No.5 hatch cover 
+
+IMO number 
+
+S.W.L. mark * Helicopter mark (Landing type) with ship’s name In  water  survey mark 
+
+Remarks 
+
+Tuck bead and painted 
+
+Steel plate welded and painted   SUS plate welded and painted 
+
+Tuck bead and painted 
+
+Welded bead and painted 
+
+Painted wooden plate 
+
+Engraved plastics 
+
+Painted wooden plate Steel plate welded ( 6 ㎜  ×  32  ㎜  F.B ) 2m apart and painted Corner bead and painted Welded bead Steel plate welded Tuck bead (stern shell), punching (in engine room) and painted Welded bead and painted Tuck bead and painted Ship’s name : painted 
+
+Bottom and side shell 
+
+Tuck bead and painted 
+
+ *      “t” and “kN” mark shall be welded bead and painted for bollard and chock.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H3 - 18e 
+
+Draught marks shall be of Arabic numerals of 10 cm projected height, where bottom of each figure indicate vertical height in meter and/or centimeter above bottom of keel.  
+Mark for IMSBC code shall be provided.  
+Name plate ( Brass ) shall be fitted on air pipe heads, sounding caps and valves in English.  
+Handle of valves shall be painted with same color of piping.  
+For machineries, name plate and instruction plate shall be written in English in general.  
+ 3.9    MISCELLANEOUS  
+(a)  Flag staff of steel pipe ( SGP ) with truck and halyard shall be fitted at the stern.  
+ 
+
+Flag staff shall be of collapsible type. Flag halyard shall be of cotton rope. 
+
+ (b)  Rain shade shall be fitted over the weather doors of wheelhouse sides. 
+
+(c)  Detachable Suez search light davit (0.1t), rope and necessary blocks shall be supplied. 
+
+And fitting socket shall be fitted in rope hatch on upper deck forward. 
+
+ (d)  Panama shelter shall be provided to navigation bridge wing both sides. 
+
+(e)  Height of gutter bar front of accommodation shall be increased from 100mm to 
+
+ 
+
+250mm. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+  
+
+ 
+
+     
+
+ 
+
+H4 - 1 
+
+SECTION 4    DECK MACHINERY 
+
+  
+4.1    GENERAL  
+Deck machinery shall be arranged as shown on the General Arrangement.  
+Particulars of the deck machinery shall be as follows :  
+
+Name 
+
+Type 
+
+No.
+
+Rated capacity 
+
+Steering gear 
+
+Windlass 
+
+Mooring winch Emergency fire pump Deck crane 
+
+Electro-hydraulic ram type, Two (2) pumps and two (2) motors Electro-hydraulic type   combined with mooring   winch Electro-hydraulic type 
+
+Electric motor driven Electro-hydraulic type 
+
+Provision crane 
+
+Electric motor driven 
+
+Grab bucket 
+
+Radio control opening type 
+
+1  As per rule 
+
+289 kN (29.5 t), 147 kN   (15.0 t)×12 m/min. 147 kN (15.0 t)×12 m/min. 72m3/h  ×  65mTH 36 t×26 mR 0.9 t×about 8 m/min. 2.5 t×about 8 m/min. 15m3/10m3/6m3 
+
+2 
+
+2 
+
+1 4 2 1 4 
+
+ The rated capacity and capacity of the prime movers may be slightly modified according to the manufacturer’s standard, and materials of above mentioned machineries shall be to the manufacturer’s standard.  
+When the manufacturer changed, the rated capacity particulars of the prime movers may be modified according to new manufacturer’s standard. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H4 - 2 
+
+4.2    STEERING GEAR  
+One (1) set of electro-hydraulic type steering gear shall be provided.  
+The steering gear shall be designed in compliance with the requirements of the Classification Society.  
+The system shall consist of one (1) ram, two (2) cylinders, two (2) pump units (100%×2) and necessary hydraulic piping.  
+The steering gear shall be capable of putting the rudder over from 35 degrees on either side to 30 degrees on the other side within 28 seconds at the Vessel’s ahead speed specified by the rule, when actuated by one (1) pump unit.  
+Hydraulic pump shall be of fixed flow type, and piping shall be so arranged that two (2) pump units cannot be actuated simultaneously and each pump unit independently.  
+Hydro-lock alarm shall not be provided.  
+The steering gear shall be operated from wheelhouse by electric remote control system normally, and by a manual handle fitted with steering gear, in case of the failure of remote control system.  
+In case of main electric power failure, electric power shall be supplied from emergency generator to No.1 pump unit only, and steering gear shall be kept the condition required by the rule.  
+One (1) reserve tank and feed hand pump of system oil shall be provided in steering gear room.  
+Stage shall not be provided around the steering gear.  
+Gutter bar shall be provided around steering gear and shall not be led to bilge hat.  
+As for detail of electric control system, refer toⅣ- ELECTRIC PART. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H4 - 3 
+
+4.3    WINDLASS  
+Two (2) sets of open type electro-hydraulic windlass shall be installed on forecastle deck.  
+Each windlass shall have one (1) wildcat, two (2) hawser drums and one (1) warping end.  
+The wildcat and hawser drum shall have individual mechanical claw clutch and be linked with hand brake.  
+Gear cover shall be extended to cover the bottom end of the gear.  
+The warping end shall have no whelp and be directly connected with driving shaft without clutching device.  
+The hawser drum shall be enough to take a 75 ㎜  diameter and 200 m long fiber rope.  
+Hoisting speed of the anchor chain shall be of 9 m/min. at actual load (244 kN(24.9 ton)).  
+Chain drum and hawser drums shall not be operated simultaneously.  
+Each hawser drum of windlass shall not be operated simultaneously.  
+Speed and driving direction of the windlass shall be controlled by local control valve and remote control valve shall be provided on f’cle deck both side.  
+Auto-tension system shall not be provided.  
+As for hydraulic system, refer to   THIS SECTION 4.5 ELECTRO-HYDRAULIC POWER SYSTEM. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H4 - 4 
+
+4.4    MOORING WINCH  
+Two (2) sets of open type electro-hydraulic mooring winch shall be installed on aft upper deck as shown on the General Arrangement.  
+The mooring winch shall have two (2) hawser drums and one (1) warping end.  
+The hawser drum shall have individual mechanical claw clutch and be linked with hand brake.  
+The warping end shall have no whelp and be directly connected with driving shaft without clutching device.  
+The hawser drums shall be enough to take a 75 mm diameter and 200 m long fiber rope.  
+Each drum of mooring winches with two (2) hawser drums shall not be operated simultaneously.  
+Speed and driving direction of all mooring winches shall be controlled by local control valve and remote control valve shall be provided on upper deck both side.  
+Auto-tension system shall not be provided.  
+As for hydraulic system, refer to   THIS SECTION 4.5 ELECTRO-HYDRAULIC POWER SYSTEM.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H4 - 5 
+
+4.5    ELECTRO-HYDRAULIC POWER SYSTEM  
+One (1) high pressure electro-hydraulic power system shall be arranged in steering gear room.  
+Capacity of the pump unit shall be able to operate one (1) windlass at actual load or two (2) mooring winch at rated load.  
+The pump unit shall serve hydraulic oil to hatch cover operation.  
+The system shall have two (2) electro-hydraulic pump, two (2) electric motor, filter, control valve, cooler, oil tank and so on.  
+As for detail of the system, refer to   Fig. 4 - 1 DIAGRAM OF ELECTRO HYDRAULIC POWER SYSTEM.  
+As for piping application, refer to   Table 8 - 2 PIPING APPLICATION SCHEDULE ( HULL PART ).  
+ 4.6    EMERGENCY FIRE PUMP  
+One (1) electric motor driven emergency fire pump shall be installed in the emergency fire pump room.  
+The pump shall have one independent suction from sea and discharge to fire main system through stop valve.  
+One (1) vacuum pump shall be fitted with the pump and shall be linked to driving shaft by automatic clutch.  
+Start and stop of emergency fire pump shall be controlled in fire station.  
+The material of main parts for emergency fire pump shall be as follows;  
+Casing and cover   Impeller Shaft  Shaft seal  
+ 
+
+Cast iron Phosphor bronze Stainless steel Gland packing 
+
+--- --- --- --- 
+
+  
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ME
+TS
+YS
+RE
+WO
+PC
+IL
+UA
+RD
+YH
+
+ 
+
+ -
+ 
+
+ 
+
+OR
+TC
+EL
+EF
+OM
+AR
+GA
+D1
+
+I
+
+ 
+
+ 
+
+ -
+ 
+
+4
+
+ .
+
+gi
+F
+
+H4 - 6
+
+SS
+AL
+DN
+W
+
+I
+
+,
+
+ 
+
+TI
+NU
+PM
+UP
+
+RO
+TO
+M-
+2(
+
+)P
+MU
+P-
+2
+
+ 
+
+ 
+
+I
+
+HC
+NW
+GN
+RO
+OM
+
+I
+
+IMABARI SHIPBUILDING CO., LTD
+
+     
+
+ 
+
+H4 - 7 
+
+4.7    PROVISION CRANE  
+Three (3) sets of provision cranes shall be installed as shown on the General Arrangement.  
+Two (2) sets of 0.9 ton provision crane shall be common use with fuel oil bunkering davit.  
+Particulars of the provision crane shall be as follows :  
+
+Type 
+
+No. of set Hoisting load Hoisting speed Slewing speed Luffing Outreach 
+
+Electric motor 
+
+Electric motor 
+
+2 sets 0.9 ton 
+
+about 8 m/min. about 0.5 rpm 
+
+Fixed 
+
+about 1.5 m 
+
+1 set 2.5 ton 
+
+about 8 m/min. about 0.5 rpm 
+
+Fixed 
+
+about 2.5 m 
+
+  
+4.8  DECK CRANE  
+Four (4) sets of deck crane shall be installed on upper deck as shown on the General Arrangement.  
+Principal particulars shall be as follow ;  
+
+Type No. of set Hoisting load Hoisting speed Lowering speed Winding height Slewing radius Luffing time Slewing angle Slewing speed 
+
+Electro-hydraulic deck crane 
+
+      16/37/55 m/min. 
+
+of single type 
+
+4 sets 
+
+36/12/5 ton 
+
+55 m/min. 
+
+37 m 
+
+26  ～  4.5 m 
+
+54 sec.    (26  ～  4.5 m) 
+
+360 degrees, endless 
+
+0.6 rpm 
+
+ Sufficient reinforcement for basic construction, access ladder, etc. shall be provided.  
+Four (4) shackle and cargo hook shall be provided. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H4 - 8e 
+
+4.9    GRAB BUCKET  
+Four (4) sets of grab buckets shall be installed.  
+The grab bucket type shall be of X10(TOBU JUKOGYO CO., LTD.).  
+Grab bucket seats shall be installed as shown on the General Arrangement. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 1 
+
+SECTION 5    ACCOMMODATION 
+
+  
+5.1    GENERAL  
+5.1.1    Arrangement of accommodation  
+Accommodation such as public space, living space, office space, navigation space, corridor space, sanitary space, commissary space, provisions space and sundry space shall be arranged as shown on the General Arrangement.  
+Each space shall consist of the following rooms :  
+
+Officer’s mess room, Saloon, Crew’s mess room, Crew’s smoking room Ship’s office, Meeting room, Tally office All cabins including hospital 
+
+Public space Office space Living space Navigation space  Wheelhouse including chart space, Corridor space Sanitary space 
+
+Radio instruments room Corridor, Stair way, Step-in compartment Laundry, Drying room, W.C., Shower room, Private lavatory Galley, Pantry Provisions store, Refrigerating provisions chamber Air conditioning unit & ref. prov. machine room, Battery room, Changing room, Emergency generator room, Locker, Store, Paint store, Fire station, Seal locker, CO2 room, Gymnasium, etc. 
+
+Commissary space Provisions space 
+
+Sundry space 
+
+ Accommodation space shall be designed to have a clear height of about 2,050 ㎜ from the top of floor covering to the bottom of overhead ceiling except protruding parts such as diffuser, ceiling lamp, louver, etc.  
+At wheelhouse, a clear height shall be of 2,100 ㎜.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 2 
+
+5.1.2    Layout of living room  
+All rooms shall be arranged as shown on the General Arrangement.  
+The class shall be ranked as follows :  
+
+                      place Class   Captain   Senior officer   Junior officer   Petty officer   Crew   Hospital 
+
+Cabin 
+
+Lavatory 
+
+Day and bed room 
+
+  Private with shower 
+
+Single room 
+
+  Common   Private with shower 
+
+ 5.1.3    Material of joiner wood  
+Hard wood :  
+Hard wood, so described in the Specifications, shall be of red lauan, in general.  
+Soft wood :  
+Soft wood, so described in the Specifications, shall be of needleleaved tree.  
+Plywood :  
+Plywood shall be glued with synthetic resin. Lauan plywood shall be used in general.  
+Non-combustible board :  
+Non-combustible board means the board made from non-combustible materials approved by the Administration and the Classification Society. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 3 
+
+5.2    JOINER WORK  
+5.2.1    General  
+Joiner work shall be applied according to the Builder’s practice as specified in this SUBSECTION.  
+Wall and ceiling treatment, unless otherwise noted in this SUBSECTION, shall be finished with paint on bare steel.  
+As for the engine control room, refer to SUBSECTION 5.12 SUNDRY SPACE.  
+5.2.2    Joiner bulkhead  
+Corridor bulkhead and partition bulkhead shall be generally steel wall or B - O class wall finished with paint in compliance with rule requirements for fire protection.  
+5.2.3    Joiner lining and ceiling  
+Joiner lining and ceiling shall be generally applied as follows : Lining panel and ceiling panel shall be fitted to steel wall or steel deck with steel joists.  
+
+Place 
+
+Material 
+
+Finished 
+
+Navigation space, Office space   (except tally off.), Public space (except saloon), Living space, Radio instruments Room, Gymnasium Saloon Corridor ( Above A deck ) 
+
+Wall lining 
+
+25  ㎜  N.B. 
+
+P.V.C. 
+
+Ceiling 
+
+25  ㎜  N.B. 
+
+P.V.C. 
+
+Wall lining Ceiling Ceiling 
+
+25  ㎜  N.B. 6  ㎜  N.B. 25  ㎜  N.B. 
+
+P.V.C. 
+
+P.V.C. 
+
+     N.B.     P.V.C.  ---  Polyvinyl chloride overlay  
+
+---  Non-combustible board 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 4 
+
+5.3    DECK COVERING, CEMENTING, ETC.  
+5.3.1    General  
+Deck covering including cementing and tiling shall be applied according to the Builder’s practice as specified in this SUBSECTION.  
+The floor not specified in this SUBSECTION shall be finished with paint on bare steel, in general.  
+As for engine control room, refer to SUBSECTION 5.12 SUNDRY SPACE.  
+5.3.2    Deck covering  
+Deck covering shall be generally applied as follows :  
+All weather deck surface shall have no covering.  
+Finish coating on deck composition shall not be applied in enclosed spaces under furnitures, such as bed, wardrobes, etc.  
+
+Place 
+
+Material 
+
+Saloon Off’s mess room 
+
+Office space, Living space, Crew’s mess room, Crew’s smoking room, Navigation space Gymnasium Bridge wing 
+
+Hospital, Gymnasium 
+
+ 
+
+2  ㎜ thickness vinyl sheet on 6  ㎜ thickness latex base deck composition 
+
+8 ㎜ thickness latex base deck composition 
+
+Non slip paint with sand 8  ㎜ thickness latex base deck composition with acoustic insulation (camber adjustment)
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 5 
+
+5.3.3    Cementing and tiling  
+Cementing and tiling shall be generally applied as follows :  
+
+Material 
+
+Painted on bare steel 
+
+Place 
+
+Common water closet, Shower room, Laundry Pantry, Drying room Galley Lavatory * 
+
+35 ㎜ thickness cement and non-slip tile 35 ㎜ thickness cement and mosaic tile 
+
+* 
+
+----  Unit type lavatory shall be of maker’s standard 
+
+  
+ Galley shall have tile gutter without cover.  
+Other space in above list shall have slope to scupper without gutter.  
+Joining of cement or tile with side wall shall be covered up to horizontal.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 6 
+
+5.4    HEAT, SOUND AND FIRE INSULATION  
+5.4.1    General  
+Heat and sound insulation shall be applied according to the Builder’s practice as specified in this SUBSECTION.  
+As for ref. provisions chamber and engine control room, refer to   SUBSECTION 5.11 PROVISIONS SPACE and   SUBSECTION 5.12 SUNDRY SPACE respectively.  
+5.4.2    Heat and sound insulation  
+Heat and sound insulation shall be applied as follows :  
+
+Place 
+
+Adjacent to weather 
+
+Public space, Living space, Office  space  except tally office Navigation space Provisions space except ref. provisions chamber, Locker Corridor 
+
+Stairway 
+
+Overhead 
+
+Side wall 
+
+Overhead Side wall Overhead 
+
+Side wall 
+
+50 ㎜ glass wool 
+
+50 ㎜ glass wool ＋cloth 
+
+Overhead Overhead Side wall 
+
+50 ㎜ glass wool 50 ㎜ glass wool      * ＋cloth 
+
+     * ---  Gutter coaming for sweat water shall be provided on the floor.  
+Beam in way of directly exposed to weather in public space, living space, navigation space and office space shall be insulated with 25 ㎜ thickness glass wool, but stiffener shall not be insulated face.  
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 7 
+
+5.4.3    Fire insulation  
+Fire insulation shall be done in compliance with rule requirements.  
+Detail construction shall be in accordance with the Builder’s practice.  
+“MethodⅠ- C”shall be applied for fire protection, and details of construction shall be in accordance with rule requirement and the Builder’s practices.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 8 
+
+5.5    DOOR  
+Door shall be fitted as follows :  
+
+Type 
+
+Material 
+
+weathertight ( A ) 
+
+weathertight ( B ) 
+
+weathertight ( C ) 
+
+Non-weathertight 
+
+Steel plate 
+
+** Aluminum Steel plate *** Aluminum 
+
+※   A-60  class or   A-15  class or class or   A-0   B-0 class or   C class 
+
+Non- combustible or hollow steel or plywood 
+
+Door 
+
+clearance 
+
+(㎜) 800 
+
+700 
+
+600 700 700 
+
+600 
+
+1000 1100 
+
+700 
+
+650 
+
+600 
+
+Location 
+
+Provisions handling space Upper deck house entrance, Bos’n store entrance Paint store, Deck store, Tally office Entrance to A deck Entrance to B deck and above Sundry space faced to   weather part Wheelhouse sides ( Sliding type ) Hospital Public space,   Ship’s office,   Step-in compartment,   Galley, Pantry, Hospital, Captain class day room, Engine room entrance Between corridor Entrance other than abovementioned 
+
+cabin 
+
+and 
+
+--- With 250 ㎜ diameter fixed glass 
+
+ As for  ※  marked, door type and material shall be decided to meet the rule requirement.  
+** ***  --- With fixed square glass  
+Slot lock shall be provided to accommodation entrance door inside except wheelhouse sliding door.  
+Pentagon lock shall be provided to deck store entrance door. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 9 
+
+ All doors except wheelhouse sides shall be of hinge type, and sliding door shall be equipped for wheelhouse sides.  
+The steel weathertight doors (A) shall be fitted with clips and rubber packings.  
+While weathertight doors (B) and (C) shall be similar to the weathertight (A) except for reduced number of clips and stiffeners according to the purpose intended.  
+Door coaming of weather entrance except wheelhouse shall be of 200 ㎜ in height above the deck where is no rule requirement.  
+Other door coaming shall be constructed according to the rule.  
+For all cabins and public spaces, the top of opening shall be of 1,900 ㎜ from steel deck plate including sill.  
+Door sill top for joiner door shall be covered with stainless steel plate except for sundry space.  
+Self closing device shall be fitted according to the rule requirement.  
+Self closing device shall be fitted at doors between each pantry and each mess room.  
+Doors between galley and each pantry shall be outside opening type as far as practicable.  
+Doors between each pantry and each mess room shall be outside opening type as far as practicable.  
+The Door to engine room in accommodation house shall be arranged in changing room (engine).  
+As for the door of refrigerated provisions chamber, refer to   SUBSECTION 5.11 PROVISIONS SPACE.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 10 
+
+5.6    SIDE SCUTTLE AND WINDOW  
+Side scuttles and windows shall be fitted as follows : 
+
+Material of frame 
+
+Side clear 
+
+B×H (  ㎜  ) 1200×800 
+
+Location 
+
+No. 3 4 4 3 
+
+Saloon Off’s mess room Crew’s smoking room Crew’s mess room Captain class Day room Each 4 Bed room Each 1 Senior officer Day room  Each 1 class Bed room  Each 1 Each 1 Junior officer class Petty officer class, Each 1 Crew class Hospital Ship’s office, Meeting room Radio instruments room 
+
+Each 2 
+
+1 
+
+Remarks Fixed type 
+
+Hinged type 
+
+Fixed 
+
+1   1*   2* 2 1 
+
+1*** 
+
+2 4 
+
+Wheelhouse 
+
+1370×815   715×815 1100×800 
+
+Aluminum alloy 
+
+400×600   (350φ) ** 
+
+2370×815 1870×815 
+
+*  --- With wiper 
+
+  **  --- Scuttle ( 350φ) with aluminum alloy cover shall be provided on upper deck. ***  --- Clear view screen (φ300) without defogger shall be provided.  
+Size and number subject to change on the way of detail design.  
+The side scuttles or windows in public space, living space and office space where directly exposed to weather shall have drip pan.  
+The side scuttles and windows shall be fitted with tempered clear glass.  
+Portable insect screen and wind scoop shall not be provided.  
+Side scuttle shall not be fitted for provisions space and sundry space.  
+Visor shall not be fitted for side scuttles and windows.  
+The windows shall be fitted about 1500 ㎜  height at window center above deck.  
+The side scuttles shall be fitted about 1550 ㎜  height at side scuttle center above deck. The window covers shall be provided as necessary due to noise level regulations.
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 11 
+
+5.7    STAIRWAY IN ACCOMMODATION  
+Stairway in accommodation shall be fitted as shown on the General Arrangement and shall have steel stringer, steel back plate and steel handrail with vinyl cover.  
+Step shall be of steel plate with non-slips piece at edge and deck composition.  
+The clear width of stairway shall be of about 700 ㎜. The stairway shall be fitted at an angle of below 50 degrees to the horizontal.  
+ 5.8    FURNITURE AND FIXTURE  
+5.8.1    Furniture and fitting  
+Cabin furniture shall be furnished as shown on Table 5 - 1 through 5 - 4 in this section.  
+Design and arrangement of the furniture shall be in accordance with the Builder’s practice, and size and material shall be to the manufacturer’s standard.  
+Steel furniture shall be of a commercial stock with durable construction. In case the legs of table are steel-constructed, the legs shall be welded to deck directly.  
+Wooden furniture shall have clear finish with polyester overlay and the steel furniture shall be finished with enamel baking in general.  
+Size and number of furniture and fittings subject to change on the way of detail design.  
+A facing of chair and sofa shall be provided and material shall be to the maker’s standard.  
+As for T.V., D.V.D. player and stereo, refer toⅣ- ELECTRIC PART.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 12 
+
+5.8.2    Upholstery  
+Upholstery shall be supplied as shown on Table 5 - 1 through 5 - 4 in this section.  
+Sample of materials, patterns and colors of the upholstery used for the accommodation shall be submitted to the Owner for approval.  
+5.8.3    Hardware  
+Hardware shall be of chrome plated brass in general.  
+One (1) master key system shall be applied all cabin.  
+All doors of public space, office space, living space and commissary space shall be fitted with a cylinder mortise lock.  
+Lever tumbler mortise locks shall be fitted to the doors exposed to weather part, in living space and wheelhouse.  
+Pad locks shall be fitted to the doors exposed to weather in sundry space.  
+Locks for water closets shall be fitted with indicator bolt.  
+All joiner door handles shall be of lever type.  
+Door hooks shall be provided where necessary.  
+Chair fasteners shall be provided.  
+Coat and hat hooks shall be fitted in cabins, mess rooms, office space, etc.  
+Storm rail shall be fitted to stairways and corridor used as means of escape in accommodation on one side, where exceeding 1800 mm breadth shall be fitted on both sides as per rule.  
+Where exceeding 1200 mm breadth, corridor in accommodation shall be fitted with storm rail on one side.  
+Storm rail shall be fitted on front wall in wheelhouse. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 13 
+
+Table 5 - 1    LIST OF FURNITURE AND FITTING FOR PUBLIC SPACE ( 1/2 ) 
+
+                  Name of                           room     Item 
+
+Officer’s mess room 
+
+Saloon 
+
+No. and size ( clear ) Bottom No. of drawer Cloth Matt- ress Stuff Pillow No. and type 
+
+Seat 
+
+Stuff 
+
+Back 
+
+Stuff 
+
+No. and type 
+
+- 
+
+- - - - - - 
+
+- 
+
+- 
+
+- 
+
+- - - - - 
+
+1 - L type under closed 
+
+Foam plastics 
+
+Foam plastics 
+
+12 - Arm common chairs ( steel ) 
+
+2 - Easy chair ( wooden ) 4 - Arm chair ( wooden ) 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Foam plastics 
+
+Be
+d
+
+So
+fa
+
+Ch
+ai
+r
+
+No. and type 
+
+De
+sk
+Table Book case Side board 
+
+2 - Wooden 
+
+1 - Wooden 
+
+Curtain 
+
+Door Window  Fitted Bed 
+
+- 
+
+- 
+
+- 
+
+- 
+
+1 - Hot plate (1kw) 
+
+Miscellaneous 
+
+- 
+
+- 
+
+- 
+
+- 
+
+2 - Wooden 
+
+1 - Wooden 
+
+Fitted 
+
+1 - T.V. 1 - Stereo 2 - Side table 1 - D.V.D. player     (Region free type) 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 14 
+
+Table 5 - 1    LIST OF FURNITURE AND FITTING FOR PUBLIC SPACE ( 2/2 ) 
+
+                  Name of                           room     Item 
+
+Crew’s mess room 
+
+Crew’s smoking room 
+
+No. and size ( clear ) Bottom No. of drawer Cloth Matt- ress Stuff Pillow No. and type Seat Back 
+
+Stuff Stuff 
+
+- 
+
+- - - - - - - - 
+
+- 
+
+- - - - - 
+
+3 - I type under closed Foam plastics Foam plastics 
+
+No. and type 
+
+16 - Common chairs ( steel ) 
+
+4 - Arm chair ( steel ) 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Foam plastics 
+
+Be
+d
+
+So
+fa
+
+Ch
+ai
+r
+
+No. and type 
+
+De
+sk
+Table Book case Side board 
+
+2 - Wooden 
+
+1 - Wooden 
+
+Curtain 
+
+Door Window  Fitted Bed 
+
+- 
+
+- 
+
+- 
+
+- 
+
+1 - Hot plate (1kw) 
+
+Miscellaneous 
+
+- 
+
+- 
+
+- 
+
+2 - Wooden 
+
+1 - Wooden 
+
+Fitted 
+
+- 1 - Corner table 2 - Side table 1 - T.V. 1 - Stereo 1 - D.V.D. player     (Region free type) 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 15 
+
+Table 5 - 2    LIST OF FURNITURE AND FITTING FOR LIVING SPACE ( 1/4 ) 
+
+                  Name of                           room     Item 
+
+Captain class day room 
+
+Captain class bed room 
+
+- 
+
+- - - - - 
+
+1 - 2100 ㎜  ×  1400  ㎜ 
+
+Wooden bottom 1 - Tier Cotton Foam plastics 1 - With two (2) covers 
+
+No. and size ( clear ) Bottom No. of drawer Cloth Matt- ress Stuff Pillow No. and type 
+
+Be
+d
+
+So
+fa
+
+Ch
+ai
+r
+
+2 - I type under closed 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+- 
+
+- 
+
+- 
+
+No. and type 
+
+1 - Rev. arm chair ( steel ) 2 - Easy chair ( wooden ) 
+
+1 - Small chair ( wooden ) 
+
+Seat   
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+No. and type 
+
+De
+sk
+Table Book case Wardrobe 
+
+1 - Wooden  
+
+double pedestal 
+
+1 - Wooden 1 - Wooden 
+
+- - 
+
+- 
+
+Curtain 
+
+Door Window  Fitted Bed 
+
+Miscellaneous 
+
+1 - Side table 1 - Corner table 1 - Type table 1 - Refrigerator       ( about 70 liters ) 1 - Sink 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+1 - Wooden 
+
+Fitted 
+
+- 1 - Metal safe   
+
+( only for captain ) 
+
+1 - Chest of drawer 1 - Night table 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 16 
+
+Table 5 - 2    LIST OF FURNITURE AND FITTING FOR LIVING SPACE ( 2/4 ) 
+
+                  Name of                           room     Item 
+
+Senior officer class 
+
+day room 
+
+Senior officer class 
+
+bed room 
+
+No. and size ( clear ) Bottom No. of drawer Matt- ress Pillow 
+
+Cloth Stuff 
+
+- 
+
+- - - - - 
+
+1 - 2100 ㎜  ×  1400  ㎜ 
+
+Wooden bottom 1 - Tier Cotton Foam plastics 1 - With two (2) covers 
+
+No. and type 
+
+1 - I type under open 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+- 
+
+- 
+
+- 
+
+No. and type 
+
+1 - Rev. arm chair ( steel ) 
+
+1 - Small chair ( wooden ) 
+
+Be
+d
+
+So
+fa
+
+Ch
+ai
+r
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+1 - Wooden  
+
+double pedestal 
+
+1 - Wooden 1 - Wooden 
+
+No. and type 
+
+De
+sk
+Table Book case Wardrobe 
+
+Curtain 
+
+Miscellaneous 
+
+Door Window  Fitted Bed 
+
+- 1 - Refrigerator     ( about 70 liters ) 
+
+- - 
+
+1 - Wooden 
+
+Fitted 
+
+1 - Night table 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+- 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H5 - 17 
+
+Table 5 - 2    LIST OF FURNITURE AND FITTING FOR LIVING SPACE ( 3/4 ) 
+
+                  Name of                           room     Item 
+
+Junior officer class 
+
+Petty officer class 
+
+No. and size ( clear ) Bottom No. of drawer Cloth Matt- ress Stuff Pillow 
+
+1 - 2100 ㎜  ×  900  ㎜   
+
+1 - 2000 ㎜  ×  900  ㎜   
+
+Wooden bottom 1 -Tier Cotton Foam plastics 1 - With two (2) covers 
+
+Wooden bottom 1 - Tier Cotton Foam plastics 1 - With two (2) covers 
+
+No. and type 
+
+1 - I type under open 
+
+1 - I type under open 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Foam plastics 
+
+No. and type 
+
+1 - Rev. arm chair ( steel ) 
+
+1 - Rev. arm chair ( steel ) 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Foam plastics 
+
+Be
+d
+
+So
+fa
+
+Ch
+ai r
+
+No. and type 
+
+De
+sk
+Table Book case Wardrobe 
+
+1 - Wooden 1 - Wooden 
+
+Curtain 
+
+Door Window  Fitted Bed 
+
+Miscellaneous 
+
+ 
+
+1 - Wooden  
+
+single pedestal 
+
+1 - Wooden  
+
+single pedestal 
+
+- 
+
+- 
+
+- 
+
+1 - Wooden 1 - Wooden 
+
+- 
+
+- 
+
+Fitted 
+
+- 1 - Wash basin   with toilet cabinet 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 18 
+
+Table 5 - 2    LIST OF FURNITURE AND FITTING FOR LIVING SPACE ( 4/4 ) 
+
+                  Name of                           room     Item 
+
+No. and size ( clear ) Bottom No. f drawer Matt- ress Pillow 
+
+Cloth Stuff 
+
+Crew class 
+
+Hospital 
+
+1 - 2000 ㎜  ×  900  ㎜   
+
+Wooden bottom 1 - Tier Cotton Foam plastics 1 - With two (2) covers 
+
+1  -  2000 ㎜  ×  800 ㎜( steel bed )  
+
+- 
+
+  Cotton   Foam plastics   1 - With two (2) covers 
+
+No. and type 
+
+1 - I type under open 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+- 
+
+- 
+
+- 
+
+No. and type 
+
+1 - Rev. chair ( steel ) 
+
+  1  -  Rev.  chair  (  steel  ), 1 - Small chair ( steel ) 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+  Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+  Foam plastics 
+
+Be
+d
+
+So
+fa
+
+Ch
+ai
+r
+
+No. and type 
+
+De
+sk
+Table Book case Wardrobe 
+
+1 - Wooden   with one (1) drawer 
+
+1 -  Wooden     with one (1) drawer 
+
+- 
+
+1 - Wooden ( book rack ) 1 - Wooden 
+
+Curtain 
+
+Door Window Bed 
+
+Fitted 
+
+- 
+
+- 
+
+Miscellaneous 
+
+1 - Wash basin   with toilet cabinet 
+
+- 
+
+  1 - Wooden ( book rack )
+
+  Fitted 
+
+- - 
+
+- 
+
+1 - Disinfection table 1 - Medicine locker  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 19 
+
+Table 5 - 3    LIST OF FURNITURE AND FITTING FOR OFFICE SPACE 
+
+Ship’s office 
+
+Meeting room 
+
+Tally office 
+
+- 
+
+- - - - - 
+
+- 
+
+- - 
+
+- 
+
+- - - - - 
+
+- 
+
+- - 
+
+8 - Common chairs 
+
+6 - Common chairs 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+- 
+
+- - - - - 
+
+1 - Wooden 
+
+  bench - - 
+
+- 
+
+- 
+
+- 
+
+                   Name of                           room     Item 
+
+Be
+d
+
+No. and size ( clear ) Bottom No. of drawer Matt- ress Pillow 
+
+Cloth Stuff 
+
+No. and type 
+
+Stuff Stuff 
+
+No. and type 
+
+Seat Back 
+
+Seat 
+
+Back 
+
+So
+f a
+Ch
+ai r D
+es
+kTable 
+
+Book case 
+
+Side board 
+
+Curtain 
+
+No. and type 
+
+- 
+
+- 
+
+1 - Wooden 
+
+1 - Wooden Fitted   ( 2 - book rack ) 
+
+Door Window  Fitted Bed 
+
+- - 
+
+- 
+
+1 - Wooden 
+
+2 - Fitted 
+
+1 - Wooden - 
+
+Fitted 
+
+- 
+
+ 
+
+- 
+
+- 
+
+- - - - 
+
+1 - Hand wash 
+
+  basin 
+
+Miscellaneous 
+
+1 - Folding chair 2 - File cabinet 
+
+  ( 2 tiers ) 
+
+1 - Typewriting & 
+
+  copy table 
+
+1 - Sink   1 - Plan locker 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 20 
+
+Table 5 - 4    LIST OF FURNITURE AND FITTING FOR NAVIGATION SPACE 
+
+  
+ 
+
+ 
+
+                  Name of                           room     Item 
+
+Be
+d
+
+Cloth Stuff 
+
+No. and size ( clear ) Bottom No. of drawer Matt- ress Pillow No. and type Seat Back No. and type 
+
+Stuff Stuff 
+
+Seat 
+
+So
+fa
+Ch
+ai
+rD
+es
+kTable Book case Side board 
+
+Back 
+
+Curtain 
+
+Wheelhouse 
+
+Radio instruments room 
+
+- - - - - - - - - 
+
+- - - - - - - - - 
+
+1 - Pilot chair ( steel ) 
+
+1 - Rev. chair ( steel ) 
+
+Stuff 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Foam plastics 
+
+Foam plastics 
+
+No. and type 
+
+- 
+
+- 
+
+1 - Wooden ( book rack ) 
+
+- 
+
+- - 
+
+Fitted 
+
+- 
+
+1 - Working table  
+
+1 - Chart table 1 - Wooden 
+
+Door Window  Fitted Bed 
+
+- - 
+
+- 
+
+( aft wall window only ) 
+
+1 - Locker 1 - Dark curtain around       chart table 1 - Working table 2 - Flag shelf 1 - Flag locker 2 - Folding table 1 - Book rack   (above chart table) 1 - Sink 2 - Electric heater (2kw) 1 – KAMIDANA       (without light) 
+
+Miscellaneous 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H5 - 21 
+
+5.9    SANITARY EQUIPMENT  
+5.9.1    Sanitary fixture  
+Sanitary fixtures shall be furnished as shown on Table 5 - 5 in this section.  
+All exposed metal fixtures, taps and accessories shall be of chromium plated brass in general.  
+Wash basin and hand wash basin shall be of white vitreous china.  
+Fresh water and hot water faucets with manual mixing valve shall be provided for each wash basin and hand wash basin.  
+Shower shall be composed of shower head of telephone type, stop valves and manual mixing valve for temperature control.  
+Water closet shall be of white vitreous china and fitted with a flush valve and cutout valve in water supply line.    Urinal shall be fitted with a stop valve in water supply line.  
+Toilet paper holder shall be provided one (1) for each water closet.  
+Toilet cabinet shall be made of plastics, and mirror shall be fitted on toilet cabinet.  
+Soap dish shall be fitted one (1) for each wash basin and each shower.  
+Towel bar shall be provided one (1) for each wash basin.  
+Liquid soap rack shall be fitted for hand wash basin in all water closets and galley.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 22 
+
+Table 5 - 5    LIST OF EQUIPMENT FOR SANITARY SPACE ( 1/3 ) 
+
+          Name of room Item Wash basin Shower Water closet * Toilet cabinet with mirror 
+
+Captain class 
+
+Officer class 
+
+Hospital 
+
+1 1 1 1 
+
+1 1 1 1 
+
+1 1 1 1 
+
+Table 5 - 5    LIST OF EQUIPMENT FOR SANITARY SPACE ( 2/3 ) 
+
+      Name of room Item Hand wash basin Water closet * Urinal Broom locker 
+
+Tally W.C.
+
+- 1 - - 
+
+Upper deck
+
+1 1 - - 
+
+Common W.C. 
+
+A deck 
+
+1 1 - 1 
+
+Nav. deck 
+
+1 1 - - 
+
+Table 5 - 5    LIST OF EQUIPMENT FOR SANITARY SPACE ( 3/3 ) 
+
+          Name of room Item Bath tub Shower Box Urinal Water closet * Wash basin Broom locker 
+
+Crew’s 
+
+Shower room 
+
+- 3 1 - - 1 - 
+
+W.C. 
+
+- - - 2 3 1 ** 1 
+
+Changing room 
+
+(eng.) 
+
+- 1 - - - 1 - 
+
+* ** 
+
+European style 
+
+---- ----  Hand wash basin 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+ 
+
+ 
+
+  
+  
+
+ 
+
+  
+  
+
+ 
+
+  
+  
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 23 
+
+5.9.2    Laundry equipment  
+Crew’s laundry shall be provided on B deck with the following equipments.  
+3 - Electric washing machine ( 5 ㎏, automatic ) 1 - Washing tub 1 - Ironing table  
+Crew’s drying room shall be provided on B deck with electric oil heater and hanging rope.    
+Officer’s laundry shall be provided on C deck with the following equipments.  
+3 - Electric washing machine ( 5 ㎏, automatic ) 1 - Washing tub 1 - Ironing table  
+Officer’s drying room shall be provided on C deck with electric oil heater and hanging rope.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 24 
+
+5.10    COMMISSARY EQUIPMENT  
+5.10.1    General    
+In general, metal parts in direct contact with prepared food shall be of stainless steel.  
+Shelves of steel galvanized and/or wood shall be provided suitably.  
+The size of table, dresser, shelf, rack, etc. shall be designed according to arrangement of the room.  
+5.10.2    Galley  
+One (1) galley shall be provided with the following equipment.  
+1 - Electric cooking range with two (2) hot plates, one (1) grill and one (1) oven ( 23 kw ) 1 - Steam soup boiler of fixed type ( 50 liters ) 2 - Electric rice cooker of household type ( 3.6 liters ) 1 - Electric refrigerator ( about 300 liters ) 1 - Serving table with stainless steel top 1 - Cooking table with stainless steel top with one (1) sink 1 - Dresser with stainless steel top and two (2) sinks 1 - Meat grinder 1 - Dish rack 1 - Cup rack 1 - Hand wash basin 1 - Garbage can 1 - Disposer  
+5.10.3    Pantry  
+Officer’s and crew’s pantry shall be arranged with the following equipment.  
+Each 1 - Electric refrigerator ( about 135 liters ) Each 1 - Dresser with stainless steel top and two ( 2 ) sinks Each 1 - Electric pot ( 4 liters ) Each 1 - Garbage can Each 1 - Dish rack Each 1 - Cup rack 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 25 
+
+5.10.4    Drinking water fountain  
+Two (2) self-contained type drinking water fountains shall be provided at the following locations.  
+1 - Engine room 1 - Passage ( A deck )  
+ 5.11    PROVISIONS SPACE  
+5.11.1    Provisions store  
+Provisions store shall be provided. And heat insulation shall be applied as follows :  
+
+Part 
+
+Overhead 
+
+Wall 
+
+Adjacent to weather 
+
+WC50 
+
+WC50 
+
+Prov. store 
+
+ WC50 ----- 50 ㎜  thickness glass wool and cloth  
+Wooden shelves shall be suitably provided. 
+
+Floor bare steel painted 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 26 
+
+5.11.2    Refrigerating provisions chamber  
+One (1) refrigerating provisions chamber shall be provided, which consist of meat room, fish room, vegetable room and lobby, according to the following table.  
+
+                        Item   Place   Meat room   Fish room   Vegetable room   Lobby   Total 
+
+Capacity ( m 3 ) about  13.7 about  10.4 about  15.2 about    7.9 about  47.2 
+
+  
+  
+ 
+
+Temperature (  ℃  )
+
+- 18 - 18 + 2 
+
+- 
+
+not specified 
+
+ Exterior bulkheads of the chamber shall be of steel.  
+The insulation on the floor, wall and overhead shall be as shown on the Fig. 5 - 1 Typical insulation for refrigerating provisions chamber.  
+Three (3) tiers steel shelves shall be provided in meat room, fish room and vegetable room.  
+Portable polyethylene grating shall be fitted except under shelves.  
+Each one (1) seal locker shall be provided in vegetable room and meat room.  
+Door for refrigerating provisions chamber shall have 700 ㎜ clear opening and shall be able to be opened from both sides.  
+Electric heater for defrost shall be installed in the door packing of meat room and fish room.  
+Temperature of each room shall be displayed at outside of the refrigerating provisions chamber by a digital thermometer.  
+A calling bell switch, electric lamps, etc. shall be provided as necessary.  
+As for signal bell, refer toⅣ- ELECTRIC PART.  
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 27 
+
+Fig. 5 - 1    Typical insulation for Ref. provisions chamber 
+
+  
+  
+Insulation panel for refrigerating provisions chamber shall be of prefab type.  
+Insulation for refrigerating provisions chamber shall be applied as follows :  
+  
+ 
+
+    0.4 mm P.V.C steel plate 
+
+ Outside 
+
+          
+
+  
+
+ 
+
+  
+  
+  
+
+ s
+se
+nk
+ci
+hT
+
+ 
+
+  
+
+          
+
+    Insulation : Polyurethane foam 
+
+Inside  
+
+ 
+
+0.6 mm P.V.C steel plate 
+
+Place 
+
+  Lobby and     vegetable room 
+
+  Meat room and   fish room 
+
+Ceiling Wall Floor Ceiling Wall Floor 
+
+Thickness 100 ㎜   50 ㎜ 100 ㎜ 100 ㎜ 100 ㎜ 100 ㎜ 
+
+  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 28 
+
+----------    32  ℃ ----------    35  ℃ 
+
+Cooling water temperature Ambient temperature   
+
+5.11.3    Refrigerating plant for refrigerating provisions chamber  
+Two (2) sets of refrigerating plant shall be provided in air con. & ref. machine room.  
+The refrigerating plant shall be of R-404a direct expansion system, and shall consist of one (1) electric motor driven semihermetic reciprocating compressor, one (1) sea water cooled condenser and other fittings and piping in accordance with the manufacturer’s standard.  
+The refrigerating plant shall be capable to maintain the specified temperatures with one (1) compressor working at full load not more than eighteen (18) hours per day. One (1) of two (2) compressor to serve as stand by. Cooling down to specified temperatures shall be working by two (2) compressors.  
+The refrigerating plant shall able to maintain the specified temperature in refrigerated provisions chamber under the following conditions.  
+  
+ Compressor shall be provided with suction, discharge stop valves and necessary fittings.  
+Cooling capacity shall be automatically controlled by pressure switch.  
+Evaporating temperature shall be automatically controlled by thermostatic expansion valve and magnetic valve, and be able to manually controlled by manual expansion valve.  
+Safety device such as high-discharge switch, safety relief valve shall be provided.  
+The condenser shall be of horizontal multipass shell and tube type and cooled by sea water.  
+Each one (1) set of air cooling unit shall be fitted in vegetable room, meat room and fish room.  
+The unit shall consist of an electric motor driven axial fan, a finned tube cooler, an adjustable louver, a drip pan and casing.  
+Electric heater with timer shall be provided with air cooler in meat room and fish room for defrosting.  
+Cooling grid shall be provided in lobby taking return refrigerant from freeze room by cooling coil.  
+Materials of refrigerating plant shall be as per the manufacturer’s standard.
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 29 
+
+5.12    SUNDRY SPACE  
+5.12.1    General  
+Sundry space shall be arranged as shown on the General Arrangement and equipped in accordance with the following table.  
+5.12.2    Engine control room  
+Heat and sound insulation shall be as follows :  
+Overhead Wall Floor 
+
+25  ㎜ non-combustible board + P.V.C* 50 ㎜ glass wool + 25  ㎜ non-combustible board + P.V.C* 25 ㎜ high heat board + 8  ㎜ latex deck composition 
+
+----- ----- ----- 
+
+P.V.C*   
+
+---    Polyvinyl chloride overlay 
+
+ 5.12.3    Store and locker space in accommodation  
+
+Floor 
+
+Wall 
+
+Overhead 
+
+Shelf 
+
+                  Item Compartment Bos’n store *** Deck store Paint store **** Seal locker Other locker ** Changing room Garbage  storage space 
+
+  Grating on   bare steel   painted 
+
+  Bare steel   painted 
+
+  Bare steel   painted 
+
+  Steel   1-tier 
+
+  2-tier 
+
+  Wooden   1-tier *  
+
+  Bare steel   painted 
+
+ Grating ------ Batten grating shall be fitted under shelves only.  
+  *  
+
+Steel locker shall be provided. 
+
+--- 
+
+** 
+
+--- 
+
+Gutter coaming for sweat water shall be provided at only side of adjacent wall to exposed part. 
+
+ 
+
+ 
+
+***  --- 
+
+Inventory space with door shall be provided. 
+
+**** --- 
+
+Shelf shall be increased as far as practicable in paint store. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H5 - 30e 
+
+Floor 
+
+Wall 
+
+Overhead
+
+Shelf 
+
+Bare steel painted 
+
+Bare steelpainted 
+
+Bare steelpainted 
+
+- 
+
+Steel shelf 
+
+- 
+
+Refer to 5.2.3 & 5.3.2 
+
+1-wooden bench 1-hand wash basin1-game locker 
+
+5.12.4    Miscellaneous  
+
+                  Item Compartment Air conditioning unit & ref. prov. mach. room Steering gear room Emergency fire pump room Emergency gen. room Battery room CO2 room ISPS desk space                 *, ** Gymnasium 
+
+ 
+
+* 
+
+---- 
+
+Ping-pong table shall not be supplied by the builder 
+
+**  ----  Gutter coaming for sweat water shall be provided at only side of adjacent 
+
+wall to exposed part. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H6 - 1 
+
+SECTION 6    PAINTING AND CATHODIC PROTECTION 
+
+ 
+
+ 
+
+Mansell No. ---- N - 6.0 
+
+  
+6.1    GENERAL  
+Material of paints shall be of base synthetic resin type in general.  
+Paints used throughout the vessel shall be of marine paint.  
+As for PSPC, refer to SUBSECTION 6.6 PERFORMANCE STANDARD FOR PROTECTIVE COATINGS FOR DEDICATED SEA WATER BALLAST TANKS.  
+ 6.2    COLOUR SCHEME  
+Finished colour scheme shall be furnished by the Owner prior commencement of design works, but colour scheme for deck machineries, etc. shall be as follows :  
+  Windlass, mooring winch, etc. on weather part  
+  Air conditioning unit, ref. provisions machine  
+ As for main and auxiliary machinery in engine room and electric equipment, refer to the description inⅢ- MACHINERY PART andⅣ- ELECTRIC PART respectively.  
+ 6.3    PRIMARY SURFACE PREPARATION AND SHOP PRIMER  
+The steel plates and section steels of 5  ㎜ and above in thickness for hull structural members which are to be coated with paint shall be shot-blasted to remove mill scale and rust.  
+Other steel plates and section steels, equipment, pipes, forgings, etc. shall not be shot-blasted.  
+Generally, the grade of surface preparation shall be of Sa.2.5 of SIS ( Swedish Standard SIS 055900-1967 ) for steel plates and Sa.2 for section steels.  
+Steel surfaces treated by the shot-blasting shall be coated immediately after the blasting, with one (1) coat of shop primer except otherwise specified to prevent rusting during the construction.  
+As to steel surfaces other than shot-blasting is specified, the steel surfaces shall be cleaned prior to painting by disc sanders and/or wire brushes manually in accordance with the Builder’s practice. 
+
+Mansell No. ---- 7.5 BG 7/2 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H6 - 2 
+
+6.4    SECONDARY SURFACE PREPARATION  
+Steel surface shall be cleaned prior to painting by disc sander and/or wire brushes manually according to the Builder’s practice.  
+The grade of surface preparation shall be as follows :  
+
+Damaged part
+
+Processed part 
+
+Compartment
+
+Outside of shell and tank Structure and outfitting in weather part Interior area
+
+Pt2 Pt2 Pt1 
+
+Pt2.5Pt2 Pt1
+
+ The grade of surface preparation in above list shall be based on JSRA SPSS 1998 ( Standard for the Preparation of Steel Surface prior to Painting ).  
+Damaged part means steel surface having white zinc salt or rust in the form of spots.  
+Processed part means steel surface in way of hand welding, automatic welding or gas burning.  
+Surface treatment shall not be made to the area of F.O. tank, D.O. tank, etc. where rust preventive oil shall be coated.  
+The edges and corners of steel structure in fresh water tanks and drinking water tank except rolled sections shall be treated by builder’s standard procedure. ( One pass grinding )  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H6 - 3 
+
+6.5    PAINTING  
+Painting schedule shall be as shown on SUBSECTION 6.7 PAINTING SCHEDULE.  
+Painting work shall be performed by airless spray as far as possible, and where the use of airless spray is restricted due to lack of working spaces, etc., roller and/or hand brush shall be used.  
+Generally, shop primer shall not be touched up wherever taken off due to burnt damage or mechanical damage after fabrication.  
+However, in case when over-coating is impracticable immediately after cleaning due to the Builder’s construction schedule, shop primer shall be touched up.  
+Generally, galvanized parts, chromium plated parts, brass, bronze, aluminium, stainless steel, plastics, glass, rubber, copper, wooden shelf, etc. shall not be coated with paint except otherwise specified.  
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H6 - 4 
+
+Application of stripe coat except the water ballast tanks 
+
+Stripe coat shall be applied by brush painting to edge part of following items fresh water tank and drinking water tank before or after application of the first coat.  
+Standard of stripe coat application 
+
+ 
+
+ 
+
+Item 
+
+Air hole:(1) Drain hole:(2) Bracket end:(3) Snipped end of face plate:(4) Lightening hole:(5) Longitudinal (Built up) Longitudinal (Angle) Back of Longitudinal Manhole and access hole 
+
+Treatment 
+
+Grinding 
+
+One (1) pass One (1) pass One (1) pass One (1) pass One (1) pass One (1) pass 
+
+－ 
+
+－ 
+
+One (1) pass 
+
+Stripe coat 
+
+○ ○ ○ ○ ○ － 
+
+－ 
+
+－ 
+
+○ 
+
+Note:  
+ 
+
+  
+
+1. The corner of round section shall not be considered as free edge. 2. Area corresponding to each item: (1)-(5) are illustrated in next page. 3. Meanings of symbols ; applied 
+
+○  :   
+
+－  :   
+
+not applied 
+
+4. For holes of diameter 200mm and below, spray shall not be applied, but 
+
+touch up paint shall be applied. 
+
+  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H6 - 5 
+
+Areas where stripe coat to be applied. 
+
+Stripe coat shall be applied to areas shown in the sketch below. 
+
+  
+ 
+
+ 
+
+  
+  
+  
+  
+  
+  
+  
+
+ 
+
+ 
+
+(1)  Air hole (2)  Drain hole (3)  Bracket end (4)  Snipped end of face plate (5)  Lightening hole 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H6 - 6 
+
+6.6    PERFORMANCE STANDARD FOR PROTECTIVE COATINGS FOR DEDICATED SEA WATER BALLAST TANKS  
+6.6.1    General  
+Performance Standard for Protective Coatings (PSPC) for dedicated sea water ballast tanks required by IMO shall be applied.  
+6.6.2    Primary surface preparation and shop primer  
+The grade of surface preparation shall be of Sa.2.5.  
+Shop primer shall be of zinc containing inhibitor free zinc silicate based or equivalent. Compatibility with main coating system shall be confirmed by the paint manufacturer.  
+6.6.3    Secondary surface preparation  
+Secondary surface preparation shall be applied by shot blast Sa 2.5 to damaged part of shop primer and welded bead in the water ballast tanks.  
+The retained shop primer shall be cleaned by sweep blasting, high pressure water washing or equivalent method.  
+After erection, St 3 or better or Sa 2.5 where practicable shall be applied to butts. St 3 shall be applied to small damages up to 2% of total area shall be applied by mechanical tools. However, contiguous damages over 25m2 or over 2% of total area of the water ballast tank, shot blast Sa 2.5 shall be applied.  
+Edges inside the water ballast tanks shall be treated to a rounded radius of minimum 2mm, or smoothed by three (3) pass grinding or at least equivalent process before painting. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H6 - 7 
+
+6.6.4    Painting  
+Nominal dry film thickness of epoxy based paint shall be 320μ  in the water ballast tanks.  
+Stripe coat shall be applied to edges and corners of steel structure in the water ballast tanks as per GUIDELINE FOR IMPLEMENTATION OF PERFORMANCE STANDARD OF PROTECTIVE COATINGS.  
+Dry film thickness in the water ballast tanks shall be such that 90% of the measurement points shall be greater than or equal to the specified thickness and none of the remaining 10% shall be below 90% of the specified thickness.  
+6.6.5    Inspection  
+Inspections thereto shall be carried out by the qualified inspector(s) of the builder and/or the qualified inspector(s) appointed by the builder, whose determination shall be deemed final so far as the application of the PERFORMANCE STANDARD FOR PROTECTIVE COATINGS to the vessel is concerned, under GUIDELINE FOR IMPLEMENTATION OF PERFORMANCE STANDARD FOR PROTECTIVE COATINGS.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H6 - 8 
+
+6.7 PAINTING SCHEDULE 
+
+ ( 1 ) OUTSIDE SHELL, RUDDER, ETC. ( 1/1 )  
+
+Place 
+
+Flat part ( up to bilge keel level ) Riser part ( betweenbilge keel level and ballast W.L.** ) 
+
+Bottom area 
+
+Boottop area ( between ballast W.L. and load W.L. ) Topside area ( above load W.L. ) Rudder 
+
+Outside Inside Outside Inside 
+
+Stern frame Rudder trunk 
+
+1 
+
+PE A/C 
+
+PE A/C
+
+Number of coat 
+
+2 
+
+* 
+
+3 
+
+* 
+
+SP A/F 
+
+SP A/F 
+
+SP A/F 
+
+* 
+
+SP A/F 
+
+* 
+
+PE A/C  AR B/T  AR B/T 
+
+PE A/C
+
+AR T/S  AR T/S 
+
+ME 
+
+ME ME 
+
+- 
+
+- - 
+
+Similar to shell 
+
+Similar to shell 
+
+- 
+
+- - 
+
+4 - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+5 - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+* ---- Total 30 months (low friction type) **  ---- Heavy ballast condition + 1.0m 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H6 - 9 
+
+( 2 ) SUPERSTRUCTURES AND DECK FITTING IN WEATHER PART ( 1/1 )  
+
+4 - - 
+
+- 
+
+- - - 
+
+- - 
+
+- - - 
+
+Remarks 
+
+*1 BTE : (160μ)  
+
+BTE : (160μ) *1 (250μ) 
+
+*1 (250μ) BTE : (160μ)  
+*1,*5 
+
+  
+
+*1 
+
+Number of coat 
+
+3 - - 
+
+1 
+
+2 
+
+- 
+
+BTE AR F/P
+
+BTE BTE BTE - ( HB )                           No coating - - -                           No coating - - 
+
+BTE BTE BTE 
+
+AR F/PBTE 
+
+BTE BTE 
+
+BTE 
+
+- 
+
+- 
+
+BTE H/R BTE 
+
+AR F/PH/R BTE 
+
+- - - 
+
+Place 
+
+Upper deck, F’cle deck Accommodation area decks Under machinery ( within coaming ) Under covering Accommodation house    *4 ( out side ) 
+
+Hatch cover 
+
+Hatch coaming 
+
+Funnel               *2 
+
+Mast and post 
+
+Outside Inside 
+
+(cargo hold side)
+
+Void space 
+
+(cargo hold side)
+
+Outside Inside 
+
+Outside Inside Outside Inside Outside Inside 
+
+Finish paint to be similar to circumference 
+
+No coating 
+
+Similar to circumference - 
+
+- - - 
+
+- - - 
+
+BTE BTE 
+
+BTE BTE BTE 
+
+Ventilator Deck machinery foundation Mooring fittings, etc. Galvanized pipe Outside ofHydraulic pipe pipe Other than aboveDeck machinery ( windlass, mooring winch, boat davit ) BTE total (160μ) *1 Outside of exh. gas pipe --- H/R  ×  2 coat *2  
+Inside of exh. gas pipe Under insulation    
+Reverse side of bridge wing --- BTE(HB) (250μ)+ AR F/P *3 Fore mast and radar mast --- BTE(160μ) + AR F/P *4 
+
+--- No coating --- No coating 
+
+Maker standard 
+
+Similar to circumference 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+  ( 3 ) ACCOMMODATION SPACE & STORES ( 1/2 )  
+
+Number of coat 
+
+     
+
+ 
+
+2 F/P - F/P - 
+
+- F/P - F/P - 
+
+- 
+
+F/P 
+
+D/P 
+
+- 
+
+1 
+
+R/P(HB)
+
+R/P (HB) R/P(HB)
+
+R/P (HB) 
+
+BTE (HB) R/P(HB)
+
+R/P (HB) R/P(HB)
+
+R/P (HB) 
+
+BTE (HB) R/P (HB) R/P (HB) BTE (HB) BTE (HB) R/P(HB)
+
+R/P (HB) R/P(HB)
+
+- F/P - F/P - R/P(HB) D/P 
+
+R/P (HB) 
+
+3 - - - - 
+
+No coating 
+
+- - - - - 
+
+No coating 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - - - - - 
+
+No coating 
+
+H6 - 10 
+
+Remarks 
+
+  
+  
+
+  
+  
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+ 
+
+4 - - - - 
+
+- - - - - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - - - - - 
+
+Living, Public, Office, Corridor space 
+
+Commissary,Sanitary space 
+
+Place 
+
+Ceil- ing 
+
+Wall 
+
+Floor 
+
+Ceil- ing 
+
+Wall 
+
+Floor 
+
+Bare steel Under insulation Bare steel Under insulation Under covering Within gutter way Bare steel Under insulation Bare steel Under insulation Under covering Within gutter way 
+
+Emer. Fire pump room, Air con. & ref. Mach.   room, Emer.gene. room, Steer. gear room 
+
+Ceiling, Wall 
+
+Floor 
+
+Under machinery 
+
+Within coaming 
+
+Provisions store 
+
+Ceil- ing 
+
+Wall 
+
+Floor 
+
+Bare steel Under insulation Bare steel Under insulation Bare steel Under covering 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+( 3 ) ACCOMMODATION SPACE & STORES ( 2/2 )  
+
+Battery room  Ceiling, Wall, 
+
+Floor 
+
+Number of coat 
+
+1 
+
+BTE 
+
+2 - 
+
+3 - 
+
+Place 
+
+Ceiling, Wall Floor 
+
+Ceiling, Wall 
+
+Floor 
+
+Ceiling, Wall 
+
+Floor 
+
+Ref. prov. chamber 
+
+Store 
+
+Deck house, Bos’n store 
+
+Bare steel 
+
+BTE BTE Bare steel(HB) Bare steel R/P(HB)R/P Under insulation(HB) Bare steel R/P(HB)Under covering Bare steelBare steelWithin coaming 
+
+BTE BTE BTE (HB) 
+
+- 
+
+- F/P - D/P 
+
+- - - 
+
+- 
+
+- - - - 
+
+No coating 
+
+- - - 
+
+H6 - 11 
+
+Remarks 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+  
+ 
+
+4 - 
+
+- 
+
+- - - - 
+
+- - - 
+
+  
+( 4 ) CARGO HOLD ( 1/1 )  
+
+Place 
+
+Ceiling Wall Tank top Bilge well 
+
+1 
+
+BTE BTE 
+
+Number of coat 2 3 - - - - 
+
+4 - - 
+
+ 
+
+Remarks 
+
+(250μ) (250μ) 
+
+(250μ) 
+
+No coating 
+
+ 
+
+BTE (HB)
+
+ 
+
+ Except No.3 cargo hold, for which refer to ( 6 ). 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+1 R/P (HB) R/P (HB) R/P (HB) R/P (HB) BTE (HB) R/P (HB) BTE (HB) D/P 
+
+BTE (HB) BTE (HB) BTE (HB) 
+
+F/P 
+
+R/P (HB) R/P (HB) 
+
+( 5 ) ENGINE ROOM ( 1/1 )  
+
+Place 
+
+Ceiling 
+
+Bare steel Under insulation Bare steel Under insulation Under lower floor  Bare steel Engine flat 
+
+Above lower floor 
+
+Top of double bottom Top Checkered plate Under Under machinery ( within coaming ) Machinery foundation 
+
+Bilge well Under covering Galv. pipe  Above floorUnder floor Steam pipe 
+
+Other than above 
+
+Above floorUnder floor and under insulation 
+
+Wall 
+
+Floor 
+
+Outside of pipe 
+
+ 
+
+H6 - 12 
+
+Remarks
+
+ 
+
+4 - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Number of coat 
+
+2 F/P 
+
+3 - 
+
+- 
+
+F/P 
+
+- 
+
+- 
+
+D/P 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+No coating ( except ceiling ) 
+
+- - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+No coating 
+
+No coating No coating 
+
+F/P 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H6 - 13 
+
+1 
+
+Number of coat 2 3 
+
+Remarks Refer to SUBSECTION 6.6 PERFORMANCE STANDARD FOR PROTECTIVE COATINGS FOR DEDICATED SEA WATER BALLAST TANKS. - - 
+
+ME R/O 
+
+- - 
+
+- - 
+
+4 
+
+R/O P/E 
+
+P/E ( N )P/E ( N )
+
+ME BTE 
+
+BTE 
+
+ME BTE (HB) 
+
+BTE (HB) 
+
+- P/E - - - - 
+
+- 
+
+- - - - - - 
+
+- 
+
+No coating 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+No coating 
+
+- 
+
+- - - - - - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+(250μ) Block stage Only Block stage Only Total(200μ) Average 300μ Average 300μ 
+
+- - 
+
+- 
+
+- 
+
+- 
+
+(250μ) 
+
+(250μ) 
+
+  ( 6 ) TANKS ( 1/1 )  
+
+Place 
+
+Water ballast tank 
+
+Deck water tank Fuel oil tank 
+
+Gas oil tank L. O. sump tank Fresh water tank Drinking water tank Chain locker Cofferdam 
+
+Void space
+
+With manholeWithout manhole
+
+Bilge sludge tank Ceiling and wall Tank top 
+
+No.3 cargo hold 
+
+Bilge well 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H6 - 14 
+
+Epoxy type anti-corrosive paint Self-polishing type anti-fouling paint not containing TBT (low friction type) Acrylic resin boot-top paint Acrylic resin top side paint 
+
+Modified epoxy paint Modified epoxy paint Pure epoxy paint Acrylic resin paint Polyurethane paint Non solvent type pure epoxy paint ( Shipyard standard ) 
+
+     Abbreviation  
+PE A/C SP A/F  
+AR B/T AR T/S  
+ME BTE PE AR U PE (N)  
+R/P F/P D/P H/R R/O O/L  
+(HB)  
+Note The dry film thickness in parenthesis shows only aim figure for reference.  
+  
+
+Rust preventive primer Finish paint Deck paint Heat resisting paint Rust preventive oil Alkyd resin paint 
+
+High-build type 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H6 - 15e 
+
+Galvanized fitting : 
+
+6.8    GALVANIZING  
+Small steel fittings coming into contact with wood, canvas and fiber ropes including items described below shall be galvanized.  
+Galvanizing shall be carried out initially by hot dipping in principle and shall be touched up with zinc rich paint during outfitting work, where damaged except inside of pipe.  
+As for steel plate of 1.6 mm and below in thickness galvanized steel sheet shall be used instead of hot dipping galvanization.  
+  
+  
+  
+  
+  
+ 6.9    CATHODIC PROTECTION  
+Suitable number of aluminum anode (48 months life) shall be fitted on stern part, bilge keel, sea chest and rudder.  
+Each one (1) zinc anode shall be provided for bell mouth in both peak tanks and water ballast tanks.  
+The anodes shall be fitted with stainless steel bolts and nuts.  
+
+Hand rails for ladder in weather part Top rails for hand rail Steel fitting for refrigerating provisions chamber Steel parts of table and dresser in galley Levers for steel door clips in weather part Fittings for accommodation ladder Fittings for pilot assistant ladder 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+  
+ 
+
+     
+
+ 
+
+H7 - 1 
+
+SECTION 7    VENTILATION AND AIR CONDITIONING 
+
+  
+7.1    GENERAL  
+7.1.1    Application  
+The following compartment shall be ventilated by air conditioning system, mechanical ventilating system or natural ventilator according to the characteristics of each room as specified below.  
+
+Ventilation    Schedule    ( 1/2 ) 
+
+Air cond. or mech. ventilation 
+
+ 
+
+Compartment 
+
+System
+
+Supply Air changerate A  “＊”
+
+A  “＊”
+
+A  “＊”
+
+A  “＊”A  “＊”A  “＊”- 
+
+A(＊1)
+
+Mess room Saloon,  Crew’s smoking room Ship’s office, Meeting room Tally office Captain class Cabin Hospital Stairway Wheelhouse Radio instruments Room A(＊1)Galley* A(＊1)Pantry Provisions store  A(＊1)**A(＊1)
+
+W.C., Shower 
+
+A(＊1)
+
+A(＊1)
+
+Private lavatory 
+
+- 
+
+6 
+
+- 10 
+
+6 
+
+20 6 6 
+
+1 
+
+- 
+
+Terminal System
+
+Terminal Sup. Exh.
+
+Exhaust Air changerate - 
+
+- 
+
+- 
+
+- - - - - - 
+
+- 
+
+40 10 10 
+
+10 
+
+10 
+
+Natural 
+
+- 
+
+- 
+
+- 
+
+- - - - - - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+L 
+
+L 
+
+L 
+
+W L L 
+
+- - - -  MorW-  MorW-  MorW
+
+- 
+
+L 
+
+G  MorW - G - G  MorW - 
+
+- 
+
+G 
+
+G 
+
+L 
+
+L 
+
+- 
+
+- 
+
+D 
+
+D 
+
+P 
+
+P D P P - P 
+
+P 
+
+P P P 
+
+P 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - - - - - 
+
+- 
+
+K K K 
+
+K 
+
+K 
+
+ 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+Ventilation    Schedule    ( 2/2 ) 
+
+Air cond. or mech. ventilation 
+
+H7 - 2 
+
+Natural 
+
+Terminal System
+
+Terminal Sup. Exh.
+
+Supply Air changerate 1 - - 
+
+Compartment 
+
+Laundry Drying room Boatswam store Paint store, Deck store Emergency generator room Air cond. unit & ref. prov. machine room Steering gear room, Emergency fire pump room Battery room CO2 room Changing room (deck) Changing room (eng.) Fire station Gymnasium Electric space 
+
+System
+
+A(＊1)
+
+- - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+A(＊1)
+
+A(＊1)
+
+A(＊1)A(＊1)A(＊1)
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+1 
+
+6 
+
+1 6 1 
+
+Exhaust Air changerate 10 10 - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+10 
+
+- - 2 
+
+P - - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+P 
+
+P 
+
+P P P 
+
+K K - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+K 
+
+- - K 
+
+G G - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+L 
+
+- LorW - 
+
+- 
+
+M or W 
+
+- 
+
+M or W 
+
+-  MorW
+
+G  MorW - 
+
+MorW - - - L G  MorW - 
+
+* ---- Independent type air conditioning unit ( supply side ) shall be provided. ** --- Only for the use more than one person 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H7 - 3 
+
+: Air conditioning system : Mechanical ventilating system : Anemostat diffuser : Punkah louver : Grill : Door louver 
+
+ (1)  Abbreviation used in the table means as follows :  
+  
+  
+  
+  
+  
+(2)  Air change rate is shown in time/hour 
+
+A K D P G L M  : Mushroom ventilator or gooseneck ventilator W  : Wall ventilator ( elbow type ) DL : Line diffuser 
+
+Air change rate marked with  “＊”  shall be designed to maintain the condition specified in SUBSECTION 7.2 AIR CONDITIONING SYSTEM. 
+
+ (3)  (*1) Spaces shall only be supplied with conditioned air without consideration of 
+
+keeping temperature and relative humidity in the room. 
+
+ (4) One (1) port (about 300×300 millimeter square) for inspecting the damper shall be           provided to the coaming of each ventilator for engine room. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H7 - 4 
+
+7.1.2    Ventilator coaming and duct  
+Ventilator coaming shall be built of steel plate and shall have approved height and thickness where required by the rules.  
+Air conditioning and mechanical ventilating ducts shall be made of galvanized steel sheet, and thickness of the duct shall be as follows :  
+
+ Supply, return and exhaust duct 
+
+Diameter of duct (  ㎜  )  Thickness (  ㎜  ) 
+
+200φand less More than 225φ 
+
+0.5   0.6   
+
+ Duct shall be of the circular type normally. Rectangular type duct ( low velocity type ) shall be applied, in case that circular type is unable to be fitted.  
+The dimension of rectangular type duct shall be maker’s standard.  
+Damaged part of galvanizing by welding shall not be regalvanized but coated with zinc rich paint.  
+Ventilator heads shall be of the Builder’s standard type.  
+Suitable connections or collar plates shall be provided where ducts pass through bulkheads, decks and other structure as necessary.  
+Dampers shall be provided for adjusting air volume.  
+Non-return flap shall be provided in branch air supply duct for hospital.  
+7.1.3    Insulation  
+Supply air ducts of air conditioning system shall be insulated by 25 ㎜ thickness glass wool where passing through accommodation space.  
+Finish covering for insulated ducts shall be made of glass cloth and shall be applied only for visible part except duct space.  
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H7 - 5 
+
+7.2    AIR CONDITIONING SYSTEM    
+7.2.1    General  
+Air conditioning system shall be of central, high velocity and single duct system without terminal reheating and recooling.  
+The system shall consist of one (1) central unit and necessary distributing.  
+The system shall be designed under the following conditions.  
+ 
+
+Item 
+
+For coolingFor heating
+
+Inside 
+
+Outside 
+
+Dry-bulb temperature 
+
+(  ℃  ) 
+
+32 －10 
+
+Relativehumidity( % ) 70 - 
+
+Dry-bulb temperature
+
+(  ℃  ) 
+
+27 20 
+
+Relativehumidity( % ) 50 50 
+
+Sea water temp. (  ℃  )32 - 
+
+Recir- culation air ratio ( % ) 70 70 
+
+ When the system works for cooling air temperature at the outlet of supply fan shall be controlled by an automatic expansion valve and a solenoid valve.  
+The automatic expansion valve shall control the evaporation temperature of refrigerant by the temperature of return refrigerant from air cooler.  
+The solenoid valve shall be operated by a thermostat installed at the return air inlet, and control the refrigerant quantity to supply to air cooler.  
+When the system works for heating, air temperature at the outlet of supply fan shall be controlled by the automatic steam regulating valve.  
+The automatic steam regulating valve shall control the steam quantity by a thermostat installed in air supply duct.  
+Air humidity shall be controlled manually by a needle valve at the air conditioning unit.  
+Room air temperature shall be controlled manually by adjusting supply air quantity at punkah louver or diffuser in each room.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H7 - 6 
+
+7.2.2    Air conditioning central unit  
+Central unit shall be installed in air conditioning unit & refrigerating prov. machine room and shall contain the following equipment.  
+( 1 )  One (1) air supply fan ( electric motor driven, centrifugal type single speed ).  
+( 2 )  One (1) refrigerating plant  
+ 
+
+The plant shall be of R-404a direct expansion system and shall consist of one (1) compressor, one (1) condenser, cooling coil and other fittings and piping to complete refrigerating cycle in accordance with the manufacturer’s standard. 
+
+  
+
+  
+  
+
+The compressor shall be of single speed electric motor driven, multi-cylinder, semi-hermetic reciprocating type, and shall be provided with suction and discharge stop valve, dual pressure switch, relief valve and necessary fitting for automatic control by refrigerant pressure and oil pressure. 
+
+Automatic unloading system shall be provided. 
+
+The condenser shall be of horizontal multi-pass shell and tube type and cooled by sea water. 
+
+ ( 3 )  Steam heater  
+( 4 )  Steam spray type humidifier  
+( 5 )  Manual damper to adjust the ratio re-circulation air  
+( 6 )  Valves, cocks and strainers  
+( 7 )  Air filter  
+  
+
+Material of air conditioning central unit shall be to the manufacturer’s standard. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H7 - 7e 
+
+( 1 )  Galley ( 2 )  Sanitary space 
+
+7.3    MECHANICAL VENTILATION  
+Mechanical supply or exhaust system shall be provided for the space mentioned in SUBSECTION 7.1 GENERAL.  
+Each system shall consist of an electric motor driven axial flow fan, air ducts and terminals.  
+The following two (2) groups shall be ventilated separately.  
+  
+  
+7.4    NATURAL VENTILATION  
+( a )  For cargo hold  
+  
+  
+ 
+
+Natural ventilators shall be provided at each cargo hold compartment. 
+
+The natural ventilators shall be provided to fore and aft end plate of hatch cover. 
+
+Each ventilator shall be fitted with weathertight closing apparatus and protective screen of stainless steel wire. 
+
+  
+( b )  For other space  
+ 
+
+  
+  
+ 
+
+Suitable ventilator such as mushroom vent., wall vent., etc. shall be provided according to the Builder’s standard. 
+
+Natural ventilator for boatswain store and steering gear room shall not be provided. 
+
+Two (2) natural ventilators shall be provided on paint store. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 1 
+
+SECTION 8    PIPING SYSTEM 
+
+  
+8.1    GENERAL  
+Description of Hull part Specifications shall cover all piping system outside of engine room, however CO2 fire extinguishing pipe, deck scupper and plumbing drainage passing through engine room shall be as described in this section.  
+8.1.1    Standard  
+Pipes, valves, cocks, joints, schedule of threads, etc. which are to be fitted throughout the Vessel shall be in accordance with the Japanese Industrial Standard ( JIS ) or equivalent standard and the Builder’s standard, except otherwise specified.  
+8.1.2    Leading procedure  
+Piping shall be designed to allow for stress due to thermal expansion and deflection of the Vessel’s structure and shall be adequately protected against mechanical injury.  
+Pipes shall be led with minimum number of bend as far as practicable. Welded sleeve joint and butt welded joint shall be applied for steel pipe except where necessary to provide flange, union, sleeve coupling and expansion joints for repairing.  
+Pipe passing through watertight bulkhead, deck or tank top plate shall be in accordance with the Builder’s practice. Penetration piece welded to insulated plate shall have sufficient length to permit access to joint without disturbing insulation.  
+Outboard discharge pipes shall be welded to side shell directly.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 2 
+
+8.1.3    Processing  
+Bending work for pipes shall be carried out by electro-hydraulic bender in general.  
+The bending radius at center line of bend of steel pipe shall be about two (2) times of nominal diameter in principle and that of elbows shall be about one (1) time of the nominal size as the manufacturer’s standard.  
+Steel elbows shall be used for the steel pipes where the small bending radius is applied as necessary.  
+Bending radius of copper pipe shall be about three (3) times of pipe diameter.  
+8.1.4    Support  
+In general, pipe shall be supported by U-bolt clip or band without sliding pad.  
+8.1.5    Pipe size and thickness  
+Pipe size of steel, copper, P.V.C. and stainless steel pipes shall be in accordance with the attached TABLE 8 - 1 respectively.  
+Pipe diameter described in the Specifications means“Nominal diameter”except where specially noted.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 3 
+
+8.1.6    Material and application  
+Material, joint, etc. shall be in accordance with the TABLE 8 - 2 PIPING APPLICATION SCHEDULE ( HULL PART ).  
+The steel pipes except the following shall be galvanized.  
+
+( 1 )  Air escape and sounding pipe in fuel oil tank, gas oil tank and lubricating oil 
+
+tank 
+
+( 2 )  Filling pipe for fuel oil, gas oil and lubricating oil ( 3 )  Steam and exhaust pipes ( 4 )  Pipes in way of oil tank ( 5 )  Hydraulic oil pipes ( 6 )  Inside of cooling pipe for lobby of provisions ref. chamber 
+
+ Galvanizing shall be carried out after fabricated with flange by welding, but where impracticable or damaged part shall be coated with zinc paint on board the Vessel.  
+8.1.7    Insulation and lagging  
+As for the insulation and lagging of pipe, refer to   Table 8 - 3 PIPING INSULATION AND LAGGING. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+  
+
+ 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 4 
+
+TABLE 8 - 1    PIPE TABLE ( 1/4 ) ( STEEL PIPE ) 
+
+Nominal diameter 
+
+10 15 20 25 32 40 50 65 80 100 125 150 200 250 300 350 400 450 500 550 600 
+
+Outside diameter 
+
+17.3 21.7 27.2 34.0 42.7 48.6 60.5 76.3 89.1 114.3 139.8 165.2 216.3 267.4 318.5 355.6 406.4 457.2 508.0 558.8 609.6 
+
+SGP 2.3 2.8 2.8 3.2 3.5 3.5 3.8 4.2 4.2 4.5 4.5 5.0 5.8 6.6 6.9 7.9 7.9 7.9 - - - 
+
+Unit :  ㎜ 
+
+Pipe wall thickness Sch80 Sch40 2.3 3.2 3.7 2.8 3.9 2.9 3.4 4.5 4.9 3.6 5.1 3.7 3.9 5.5 7.0 5.2 7.6 5.5 6.0 8.6 6.6 9.5 11.0 7.1 8.2 12.7 12.7＊ 9.3 12.7＊ 9.5＊ 9.5＊ 12.7＊ 9.5＊ 12.7＊ 9.5＊ 12.7＊ 9.5＊ 12.7＊ 9.5＊ 12.7＊ 9.5＊ 12.7＊ 
+
+Sch160 
+
+- 4.7 5.5 6.4 6.4 7.1 8.7 9.5 11.1 13.5 15.9 18.2 18.2＊ 18.2＊ 18.2＊ 18.2＊ 18.2＊ 18.2＊ 18.2＊ 18.2＊ 18.2＊ 
+
+STPY-400E shall be adopted for * marked size pipe. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+
+ 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 5 
+
+TABLE 8 - 1    PIPE TABLE ( 2/4 ) ( COPPER PIPE ) 
+
+Outside diameter 
+
+6 8 10 15 20 25 32 40 45 50 
+
+Pipe wall thickness 
+
+Unit :  ㎜ 
+
+1.57 MPa (16  ㎏/㎝ 2) 
+
+& below 
+
+1.0 1.0 1.0 (1.5) 1.2 1.2 1.5 1.5 2.0 2.0 
+
+8.8 MPa 
+
+(90  ㎏/㎝ 2) 
+
+& below 
+
+1.0 1.0 1.2 - - - - - - - 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 6 
+
+TABLE 8 - 1    PIPE TABLE ( 3/4 ) ( P.V.C. PIPE ) 
+
+Nominal diameter 
+
+Outside diameter 
+
+13 16 20 25 30 40 50 65 75 100 125 150 
+
+18 22 26 32 38 48 60 76 89 114 140 165 
+
+  Unit :  ㎜ 
+
+Pipe wall thickness 
+
+V U 
+
+- - - - - 1.8 1.8 2.2 2.7 3.1 4.1 5.1 
+
+V P 2.2 2.7 2.7 3.1 3.1 3.6 4.1 4.1 5.5 6.6 7.0 8.9 
+
+H T 2.5 3.0 3.0 3.5 3.5 4.0 5.0 5.0 5.8 7.0 8.2 9.7 
+
+Note :  VU  ---  Nominal pressure      0.49 MPa (5 ㎏/㎝ 2) ---  Nominal pressure      0.98 MPa (10 ㎏/㎝ 2)  
+ ---  For hot water piping 
+
+VP HT 
+
+HT class pipes shall not be in accordance with the Japanese   Industrial Standard ( JIS ). 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+  
+
+     
+
+ 
+
+H8 - 7 
+
+TABLE 8 - 1    PIPE TABLE ( 4/4 ) ( STAINLESS STEEL PIPE ) 
+
+Nominal diameter 
+
+Outside diameter 
+
+6 8 10 15 20 25 32 40 50 65 80 
+
+10.5 13.8 17.3 21.7 27.2 34.0 42.7 48.6 60.5 76.3 89.1 
+
+Pipe wall thickness 
+
+Unit :  ㎜ 
+
+Sch 5s 1.0 1.2 1.2 1.65 1.65 1.65 1.65 1.65 1.65 2.1 2.1 
+
+Sch 10s 1.2 1.65 1.65 2.1 2.1 2.8 2.8 2.8 2.8 3.0 3.0 
+
+Sch 20s 1.5 2.0 2.0 2.5 2.5 3.0 3.0 3.0 3.5 3.5 4.0 
+
+Sch 40 1.7 2.2 2.3 2.8 2.9 3.4 3.6 3.7 3.9 5.2 5.5 
+
+Sch 80 2.4 3.0 3.2 3.7 3.9 4.5 4.9 5.1 5.5 7.0 7.6 
+
+Sch 160 - - - 4.7 5.5 6.4 6.4 7.1 8.7 9.5 11.0 
+
+ Note :            mark ----- For pressure line    8.8 MPa ( 90 ㎏/㎝ 2) & below.                       mark ----- For pressure line    24.5 MPa ( 250  ㎏/㎝ 2) & below.  
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H8 - 8 
+
+TABLE 8 - 2    PIPING APPLICATION SCHEDULE ( HULL PART 1/4 ) 
+
+NominalpressureMPa 
+
+(  ㎏/㎝ 2 )
+
+- 
+
+0.49 (5) 
+
+0.98 (10) 
+
+- 
+
+- 
+
+- 
+
+System 
+
+Bilge line Ballast line Fuel oil filling line Fresh water filling line Air escape pipe Sounding pipe Fire hyd. line (wash deck line) Electric cable pipe CO2 line (CO2 cylinder  to selection valve) CO2 discharge pipe (Selection valve to discharge nozzle) 
+
+Nominal diameter 
+
+Pipe 
+
+material 
+
+Thick. 
+
+Joint 
+
+Remarks
+
+STPG-370E
+
+＊Sch 80 Sch 40 
+
+All size 
+
+SGP 
+
+- 
+
+50 & below STPG-370E Sch 80 STPG-370E Sch 40 
+
+65 , 80 
+
+100 & above 
+
+SGP 
+
+- 
+
+40 
+
+65 , 80 
+
+STPG-370E  Sch 80 STPG-370E Sch 40 
+
+SGP 
+
+- 
+
+STPG-370E Sch 80 
+
+All size 
+
+SGP 
+
+- 
+
+(＊1 ) 
+
+Flange Sleeve Butt 
+
+(＊2 ) 
+
+- 
+
+- 
+
+- 
+
+＊  ---- Only double bottom ( other : Sch 40 ) 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+    
+
+ 
+
+  
+
+ 
+
+     
+
+ 
+
+H8 - 9 
+
+TABLE 8 - 2    PIPING APPLICATION SCHEDULE ( HULL PART 2/4 ) 
+
+System 
+
+Nominal pressure 
+
+MPa 
+
+(㎏/㎝ 2) 
+
+Nominal diameter 
+
+Pipe 
+
+material 
+
+Thick. 
+
+Joint 
+
+Remarks
+
+Deck mach. and Hatch cover Valve remo. cont. sys. 
+
+Press. line 
+
+Return Line 
+
+Press. line 
+
+24.5 (250) 
+
+0.98 (10) 
+
+8.8 (90) 
+
+25 & below  STPG-370E Sch 80 
+
+32 & above STS-370S
+
+Sch160 
+
+All 
+
+STPG-370E Sch 40
+
+10 & below C1220T 
+
+- 
+
+Flange Sleeve Butt 
+
+Union coupling Sleeve 
+
+- 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 10 
+
+TABLE 8 - 2 PIPING APPLICATION SCHEDULE ( HULL PART 3/4 ) 
+
+System 
+
+Sea water service   line Fresh water service line Drink. water service line Hot water service line 
+
+Steam 
+
+gene.serv.line tank heat.line Compressed air pipe 
+
+Nominal pressure 
+
+MPa 
+
+(㎏/㎝ 2) 
+
+Nominal diameter 
+
+Pipe 
+
+material 
+
+Thick. 
+
+Joint  Remarks
+
+15 , 20 25 ~ 80 
+
+100 & above
+
+STPG-370E Sch 80  Flange STPG-370E Sch 40 Sleeve Butt 
+
+SGP 
+
+- 
+
+ 
+
+0.49 (5) 
+
+0.39 (4) 
+
+0.83 (8.5) 
+
+0.98 (10) 
+
+All size 
+
+P.V.C. 
+
+Flange Socket 
+
+- 
+
+V P 
+
+H T 
+
+10 & below15 ~ 65 
+
+C1220T 
+
+SGP 
+
+ST/WT  Flange Sleeve Butt 
+
+- 
+
+STPG-370S Sch 80  Sleeve 
+
+- 
+
+All size 
+
+SGP 
+
+- 
+
+Flange Sleeve Butt 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H8 - 11 
+
+TABLE 8 - 2    PIPING APPLICATION SCHEDULE ( HULL PART 4/4 ) 
+
+Nominal pressure 
+
+MPa 
+
+(㎏/㎝ 2) 
+
+Nominal diameter
+
+Pipe material
+
+Thick. 
+
+Joint 
+
+Remarks
+
+- 
+
+All size 
+
+SGP 
+
+- 
+
+P.V.C. (＊3) 
+
+V P 
+
+Sleeve Butt 
+
+Flange Socket Butt 
+
+(＊1 ) 
+
+ 
+
+System 
+
+Exposed deck scupper Interior sweat scup., Deck scup., Soil pipe & plumbing pipe 
+
+100 & below    ----    butt welded pipe ( SGP-B ) 125 & above    ----    election resistance welded pipe ( SGP-E ) 
+
+----  Carbon steel pipe for ordinary pipe  
+ 
+
+  
+Note :   1)  Symbols in abovementioned tables means as follows ; SGP  
+  
+  
+STPG-370  ----  Carbon steel pipe for pressure service  
+ STS-370   C1220T P.V.C.  
+ SUS304TP ----  Stainless steel pipe   E  
+S  
+2) 
+
+----  Electric resistance welded pipe ----  Seamless pipe 
+
+----  Carbon steel pipe for high pressure service ----  Phosphorous-deoxidized copper pipe ( seamless ) ----  Unplasticized polyvinyl chloride pipe 
+
+(* 1)    ----  The pipe thickness passing through unintended tank and compartment 
+
+shall be determined in compliance with the requirements of the Classification Society. 
+
+(* 2)    ----  The pipe thickness of suction line for emergency fire pump shall be 
+
+determined in compliance with the requirements of the Classification Society. 
+
+(* 3)    ----  Space of requirements of the rule    :    SGP 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+  
+
+  
+  
+
+ 
+
+     
+
+ 
+
+H8 - 12 
+
+TABLE 8 - 3    PIPING INSULATION AND LAGGING 
+
+Piping system 
+
+Nominal size (  ㎜  )
+
+Steam pipe 
+
+Steam drain pipe Freon return pipe for outside ref. prov. chamber Fresh water, Sea water, Wash deck pipe line in accommo. space Hot water 
+
+All size 
+
+Insulation and lagging Material 
+
+Thickness 
+
+(  ㎜  ) 
+
+Finish cover 
+
+20 
+
+- 
+
+20 
+
+- 
+
+Glass wool 
+
+  Glass cloth 
+
+- 
+
+        ＊1  ＊2
+
+  Glass cloth 
+
+  Synthetic   rubber 
+
+- 
+
+            ＊3Cotton canvas 
+
+- 
+
+- 
+
+*1 ---- Except flange *2 ---- Only frequently touched by human body. *3 ---- Ceiling only 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 13 
+
+8.2    PUMPING SYSTEM  
+8.2.1    Bilge system  
+Hold bilge system shall be as shown on   Fig. 8 - 1 DIAGRAM OF BILGE, BALLAST LINE.  
+One (1) main bilge line shall be led from each bilge well in cargo holds to engine room through double bottom tanks, and connected to the bilge / ballast pump, fire / G.S. pump and eductor.  
+The pipe shall have butterfly valve, non-return valve and fabricated galvanized rose box except No.5 cargo hold.  
+Branch line from No.5 cargo hold shall have a screw down non-return valve and fabricated galvanized rose box.  
+The butterfly valve shall be operated from upper deck by air hydraulic remote control system ( local operating type ).  
+One (1) water eductor shall be provided for discharging bilge from chain locker, void space and bos’n store, and driving water for eductor shall be taken from wash deck line.  
+Bilge in steering gear room shall be led to bilge well in engine room by hand pump, and bilge in emergency fire pump room shall be led to bilge well in engine room by gravity.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 14 
+
+8.2.2    Water ballast system  
+Water ballast system shall be as shown on   Fig. 8 - 1 DIAGRAM OF BILGE, BALLAST LINE.  
+One (1) main ballast line for double bottom water ballast tanks, fore peak tank and aft. peak tank shall be provided and connected to the ballast pump in engine room.  
+Branch pipe for each double bottom ballast tank (except No.3 cargo hold) shall have stop valve which is operated on upper deck with air hydraulic remote control system and shall have steel fabricated bellmouth at the end.  
+Branch pipe for No.3 cargo hold shall have stop valve which is operated from upper deck with air hydraulic remote control system ( local operating type ).  
+One (1) water eductor shall be provided in engine room to take suction from water ballast main line. Driving water shall be supplied by bilge & ballast pump.  
+Ballast water treatment system (BWTS) shall be provided. Ballasting and de-ballasting operation with BWTS shall be assumed as follows;  
+Ballasting operation ・By ballast pump  
+De-ballasting operation ・By ballast pump ・By bilge & ballast pump ・By ballast eductor (Driving pump: bilge & ballast pump )  
+Above operations shall not be actuated simultaneously.  
+Ballasting operation by using bilge & ballast pump shall not be considered.  
+A Fire & G.S. pump shall not be used in conjunction with BWTS.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+H8 - 15
+
+ 
+
+ 
+
+ 
+
+PM
+UP
+TS
+AL
+LA
+BE
+GL
+IB
+
+HT
+m0
+7/
+02
+xh
+/3
+m0
+9/
+02
+2
+
+/
+
+ 
+
+ 
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+PM
+UP
+TS
+AL
+LA
+B
+
+HT
+m5
+2x
+h/
+3m
+00
+9
+
+ 
+
+ 
+
+ET
+ON
+
+ 
+
+EN
+IL
+TS
+AL
+LA
+B
+
+ ,
+
+MY
+S
+
+LO
+B
+
+1P
+
+2P
+
+ET
+ON
+
+ 
+
+ME
+TS
+YS
+TN
+EM
+TA
+ER
+T
+
+MY
+S
+
+LO
+B
+
+ST
+WB
+
+h/
+3m
+00
+1
+
+ 
+
+h/
+3m
+05
+
+ 
+
+ 
+
+ 
+
+EG
+LI
+BF
+OM
+AR
+GA
+D1
+-8
+
+I
+
+ 
+
+ .
+gi
+F
+
+2P
+
+1P
+
+1P
+
+ST
+WB
+
+ST
+WB
+
+IMABARI SHIPBUILDING CO., LTD
+
+ 
+
+EV
+LA
+VE
+CA
+FR
+US
+
+DN
+AT
+SK
+CE
+D
+
+ 
+
+HT
+UO
+ML
+LE
+B
+
+ 
+
+XO
+BE
+SO
+R
+
+ 
+
+EV
+LA
+VN
+RE
+TE
+R
+
+-
+
+NO
+N
+
+ 
+
+).
+EP
+OL
+AU
+NA
+M
+
+(
+
+ 
+
+EV
+LA
+VN
+RE
+TE
+R
+
+-
+
+NO
+N
+
+)
+
+ 
+
+KC
+EH
+CG
+NW
+S(
+
+I
+
+EV
+LA
+VP
+OT
+S
+
+ 
+
+ 
+
+).
+EP
+OL
+AU
+NA
+M
+
+(
+
+EV
+LA
+VP
+OT
+S
+
+ 
+
+ 
+
+).
+EP
+OL
+AU
+NA
+M
+
+(
+
+ET
+ON
+
+MY
+S
+
+LO
+B
+
+ET
+ON
+
+MY
+S
+
+LO
+B
+
+ 
+
+EV
+LA
+VY
+LF
+RE
+TT
+UB
+
+) 
+
+ 
+
+ 
+
+/
+
+HW
+MO
+RF
+TU
+HS
+NE
+PO
+
+/
+
+(
+
+).
+
+.
+
+ 
+
+NO
+CM
+ER
+LA
+CO
+LT
+UH
+SN
+EP
+O
+
+/
+
+ 
+
+(
+
+ 
+
+ET
+ON
+
+EV
+LA
+VY
+LF
+RE
+TT
+UB
+M LY
+S
+
+LO
+B
+
+ 
+
+EV
+LA
+VY
+LF
+RE
+TT
+UB
+
+ 
+
+).
+EP
+OL
+AU
+NA
+M
+
+(
+
+H8 - 16
+
+P
+
+P
+
+T
+
+T
+
+EN
+IL
+
+ .
+
+.
+
+OG
+&
+
+ 
+
+ .
+
+.
+
+ 
+
+ 
+
+OF
+FO
+MA
+RG
+AD
+2-
+8
+
+I
+
+ 
+
+ .
+
+gi
+F
+
+T
+
+P
+
+T
+
+P
+
+ET
+ON
+
+LO
+BM
+YS
+
+ET
+ON
+
+LO
+BM
+YS
+
+IMABARI SHIPBUILDING CO.,
+
+LTD
+
+ 
+
+EG
+UA
+GE
+RU
+TA
+RE
+PM
+ET
+
+ 
+
+EG
+UA
+GE
+RU
+SS
+ER
+P
+
+P
+
+T
+
+ 
+
+EC
+EI
+PE
+LP
+MA
+S
+
+) 
+
+GN
+IT
+AR
+EP
+OL
+AU
+NA
+M
+
+ 
+
+ (
+
+EV
+LA
+VE
+TA
+G
+
+ 
+
+     
+
+ 
+
+H8 - 17 
+
+8.2.3    Fresh water and drinking water filling system  
+Each fresh water filling line shall be provided with steel blank flange of engine casing aft side.  
+A drinking water filling line shall be provided with steel blank flange of engine casing aft side.  
+8.2.4    Fuel oil, gas oil and lubricating oil system  
+Fuel oil piping shall be as shown on Fig. 8 - 2 DIAGRAM OF F.O. & G.O. LINE.  
+Fuel oil filling connection shall be provided with a valve and steel blank flange at each side of accommodation house front on upper deck.  
+Socket for gauge shall be provided both outside and inside at manifold valves for fuel oil and gas oil filling connection.  
+Each filling pipes of fuel oil and gas oil shall be provided independently.  
+A lubricating oil filling connection shall be provided with a steel blank flange at each side of the accommodation house on upper deck.  
+Spill oil tank shall be provided at fuel oil and/or gas oil and lubricating oil filling stations in compliance with the stipulation of USCG.  
+As for fuel oil lines in engine room and fuel oil transfer pump, refer to Ⅲ- MACHINERY PART.  
+8.2.5    Air escape pipe  
+Air escape pipes of suitable size shall be provided at all construction tanks, and shall be terminated above the weather deck in general as required by the Classification Society.  
+Each construction tank shall have one (1) or two (2) air escape pipes.  
+Air escape pipe head shall be of ball type in general, and stainless steel wire net screen shall be fitted as required by the regulatory bodies.  
+Spill oil tank shall be provided on weather deck in way of air escape pipe for fuel oil, gas oil and lubricating oil tank in compliance with the stipulation of USCG.  
+Brackets shall be provided on air escape pipes for fore peak tank on f’cle deck. Over flow line (95% full) shall be provided from No.3 F.O. tank (P)(S) to fuel oil over flow tank. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 18 
+
+8.2.6    Sounding pipe and sounding equipment  
+Sounding pipe shall be provided one (1) for each structural tanks, bilge well in holds, cofferdam, chain locker, etc. except fresh water tank and drinking water tank.  
+Sounding pipe shall be of 40A for water ballast tank, chain locker and peak tanks, 80A for fuel oil tanks and 65A for gas oil tank in general.  
+Sounding pipes shall be led as straight as possible.  
+A striking plate or other effective device shall be fitted at the bottom of each sounding pipe.  
+Sounding pipe shall be terminated on suitable deck with sounding cap marked for identification.  
+Glass gauge shall be fitted for fresh water tanks and drinking water tank and sounding pipe shall not be provided.  
+Sounding caps with self-closing valve for chain lockers shall be located in boatswain’s store  
+8.2.7    Level gauge  
+Air purge type tank level gauge with high level alarm for fuel oil and gas oil tank shall be provided.  
+The gauge panel shall be provided in engine control room.  
+Air purge type draft gauge shall be provided at the fore and aft part of ship, and the gauge shall be provided in ship’s office.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 19 
+
+8.3    DRAIN AND SCUPPER  
+8.3.1    Weather deck scupper  
+Suitable number of scupper shall be fitted on the top of deck house and weather decks.  
+Drain from weather decks shall spill to lower weather deck, and to lowest weather deck, which shall be led overboard around the load water line keeping clear of accommodation ladder and pilot access area.  
+Scupper pipes from weather decks shall be led outsides of deck house.  
+Grating for weather deck scupper shall be of oval type in general, and suitable number of scupper plug ( screw type ) shall be supplied for fuel oil filling.  
+8.3.2    Plumbing and interior deck drain  
+Suitable number of scupper shall be fitted in accommodation.  
+Drain line of galley and refrigerated provisions chamber shall be provided independently and led to outboard through storm valve.  
+Other drain shall be gathered into several mains and led to clean drain tank and to outboard through a storm valve.  
+Scupper for gutter in accommodation space shall spill to lower interior deck, and to the lowest interior deck.  
+Scupper for washing of passage way in accommodation space shall be fitted.  
+Water seal type rose plate shall be fitted to drain holes for wetted space such as galley, refrigerated provisions chamber and other space, grating of oval type shall be fitted in general except sweat scupper.  
+Scupper for meat room and fish room shall not be equipped.  
+Gate valve shall be provided for overboard valve of scupper line.
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 20 
+
+Soil pipes from water closets shall be gathered into mains having proper slope to the Vessel’s side and branched off to sewage treatment unit line and direct discharge line.  
+( a )  Sewage treatment unit line :  
+ 
+
+Sewage treatment unit line shall be led from main line to sewage treatment unit in engine room through three (3)-way changing over valve. 
+
+Capacity of sewage treatment unit shall have 25 persons and the sewage treatment unit shall be of MED type approval. 
+
+  
+
+ ( b )  Direct discharge line :  
+ 
+
+Direct discharge line shall be led from aforementioned main line to outboard through a storm valve. Gate valve shall be provided for overboard valve. 
+
+  
+ 8.3.3    Bottom plug  
+Each double bottom compartment and peak tanks except oil tanks shall be provided with a stainless steel bottom plug and mild steel boss welded to shell.  
+Bottom plug shall have 50 ㎜  diameter and arranged shall be screwed from outside of the vessel. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 21 
+
+8.4    FRESH AND SEA WATER SERVICE SYSTEM  
+8.4.1    General    
+Water service system shall consist of sea water, fresh water, drinking water and hot water system.  
+Sea water shall be served by continuous running system, and fresh water and drinking water shall be served by hydro-pneumatic system.  
+Pump and pressure tank shall be located in engine room.   As for particulars refer to  Ⅲ- MACHINERY PART.  
+Water service system shall be divided into sections to suit arrangement of accommodation.  
+8.4.2    Sea water service  
+Sea water shall be supplied to condenser of air con. and ref. provisions machine.  
+The sea water shall be supplied by ref. machine cooling sea water pump in engine room.  
+The cooling water line for electro-hydraulic pump unit shall be supplied by cooling sea water pump in engine room.  
+Blank flange for cooling water of air conditioning system shall be provided in air conditioning room.  
+8.4.3    Fresh water service  
+Fresh water service of sanitary and general service line shall be provided.  
+Fresh water shall be supplied to upper deck on weather part, water closets, wash basins, showers, laundry, private lavatory, galley, pantry and washing nozzle for front glass of wheelhouse.  
+The system shall consist of one (1) fresh water service pump and one (1) pressure tank.  
+One (1) fresh water service main line shall be provided (sanitary and general service line shall be common used).  
+Fresh water line (100A, with manual valve) shall be led to suction line for emergency fire pump.  
+Hose valve shall be provided to starboard side of accommodation on upper deck.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 22 
+
+8.4.4    Drinking water service  
+Drinking water shall be supplied to galley, pantry, wheelhouse sink, captain class day room sink, ship’s office sink and water fountains through water sterilizer.  
+The capacity of water sterilizer shall be of about 1,000 liters/h, and installed in air conditioning unit and refrigerating machine room.  
+The system shall consist of one (1) drinking water pump and one (1) pressure tank.  
+8.4.5    Hot water service  
+Hot water shall be supplied to galley, pantry, wheelhouse sink, wash basin, hand wash basin, shower, and private lavatory.  
+The system shall consist of one (1) calorifier unit and one (1) circulating pump, necessary valve, etc.  
+Fresh water for hot water shall be supplied to calorifier unit from fresh water system.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 23 
+
+8.5    WASH DECK SYSTEM  
+Wash deck line shall be in common use with fire main line.  
+A chain wash line shall be branched from the wash deck line and led to each hawse pipe.  
+Branch with shut-off valves shall be arranged to drive eductor for bilge of bos’n store and chain locker.  
+Hold washing water shall be led using fire hydrant line from fresh water tank by   emergency fire pump.    
+Hold washing water in deck water tank shall be able to discharge to shore using fire   hydrant line by bilge & ballast pump.    
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 24 
+
+8.6    FIRE FIGHTING SYSTEM  
+8.6.1    Hydrant main system  
+The hydrant main system shall be led fore and aft in common use with wash deck line, which shall be served by one (1) bilge / ballast pump, one (1) fire / G.S. pump and emergency fire pump.  
+The pumps shall take suction from sea and discharge to the fire main system.  
+The fire main in accommodation shall be isolated from the fire main system on weather deck, and shut-off valves shall be provided.  
+Fire hydrant ( MACHINO TYPE ) shall be of 65A for weather deck and engine room, 40A for inside accommodation.  
+Fire station shall have emergency stop switches for fans in engine room, emergency shut-off valve for fuel oil tank, etc.  
+Fire hydrant, fire hose, etc. shall be supplied by the rule requirement.  
+Two (2) fire hydrant hose valves shall be provided on f’cle deck.  
+Spray nozzle for paint store shall be provided and the handling shall be of manual type.  
+As for the details of emergency fire pump, refer to   SUBSECTION 4.6 EMERGENCY FIRE PUMP.  
+As for the details of bilge & ballast pump and fire & G.S. pump, refer to Ⅲ- MACHINERY PART.  
+8.6.2    CO2 gas fire extinguishing system  
+A fixed type CO2 gas extinguishing system shall be provided for protection of engine room and cargo holds in compliance with the rule requirement.  
+CO2 gas bottles shall be arranged in CO2 bottle room.    
+CO2 gas discharge to engine room shall be done in fire station and CO2 bottle room.  
+CO2 gas discharge to cargo hold shall be done in CO2 bottle room.  
+The quantity of CO2 gas shall be sufficient to give a volume of free gas required by the rule. Engine stop function of CO2 gas fire extinguishing system shall be deleted. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 25e 
+
+8.7    STEAM AND EXHAUST PIPING SYSTEM  
+8.7.1    General service  
+Steam shall be used for galley, air con. unit and hot water heater.  
+Necessary drain traps with strainer shall be provided and exhaust pipe shall be led to the cascade tank in engine room.  
+8.7.2    Tank heating  
+Fixed type heating lines shall be provided in fuel oil tanks, and shall not be provided in gas oil tanks.  
+Steam for heating lines shall be taken from auxiliary boiler in engine room and drain from the heating lines in fuel oil tanks, etc. shall be led back to cascade tank through a drain trap.  
+Each one (1) temperature sensor shall be provided in fuel oil tank and the high temperature alarm shall be provided in engine control room as per IMSBC code.  
+8.8    COMPRESSED AIR SYSTEM  
+Deck service compressed air line shall be led from the air reservoir in engine room to upper deck forward and branched to valve control stand, etc.  
+Necessary hose connections shall be provided.  
+8.9  TEMPERATURE PIPE  
+Temperature pipe of cargo hold shall be common used to hold bilge sounding pipe.  
+Independent temperature pipe shall not be provided. 
+
+8.10    WATER LEVEL DETECTORS AND DEWATERING SYSTEM  
+Water level detectors in each cargo hold, F.P.T. and boatswain store shall be provided by owner.  
+Alarm panel shall be provided in wheelhouse.  
+Remote control system for drainage of boatswain store and F.P.T. shall be provided as per rule requirement.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+H9 - 1 
+
+SECTION 9    NAVIGATION EQUIPMENT 
+
+ 
+
+ 
+
+1 - for sea water 
+
+1 - for clock type 
+
+ ---  2 - for pendulum type  
+
+  
+9.1    NAVIGATION EQUIPMENT  
+The following equipments shall be supplied :  
+1 - Aneroid barometer 3 - Thermometer  ---  2 - for atmosphere  
+3 - Clinometer  
+1 - Binocular ( 50mm×  7 ) 2 - Hand lead 1 set - Triangular rule 1 - Parallel rule 1 - Divider 4 - Chart weight 1 - Chart magnifying glass 1 - Chart brush  
+As for following equipments, refer toⅣ- ELECTRIC PART.  
+Magnetic compass Auto pilot Electromagnetic log Radar GPS  
+9.2    COMMUNICATION EQUIPMENT  
+As for telephone and engine order telegraph, refer to  Ⅳ- ELECTRIC PART. 
+
+Gyro compass and repeater Echo sounder Anemometer and anemoscope Rudder angle indicator 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+   
+
+ 
+
+H9 - 2 
+
+9.3    FLAG  
+Flag shall be stowed in flag locker and pigeon holes in wheelhouse.  
+The following shall be supplied :  
+1 set  -  Register flags ( Large & medium size ) 1 set  -  International signal flag ( Medium size ) 2 sets  -  Hand signal flags ( Medium size ) 1 set  -  Ship’s call letter flag ( Medium size ) 1 set  -  Pilot flag ( Medium size ) 1 set  -  Quarantine flag ( Medium size ) 1 set  -  Blue peter ( Medium size )  
+All the other flags shall be supplied by the Owner.  
+ 9.4    DISTRESS SIGNAL  
+The following distress signals shall be provided in compliance with the regulations concerned.  
+12  -  Bright red light distress signals with parachute   2  -  Self activation smoke signals   6  -  Self igniting signals  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+   
+
+ 
+
+H9 - 3e 
+
+9.5    NAVIGATION LIGHT, SIGNAL LIGHT AND SIGNAL  
+The following electric navigation lights shall be provided.  
+2 - Mast head light 1 - Stern light 1 - Port side light 1 - Starboard side light 2 - Anchor light 2 - Not under command light 2 - Steering light 3 - Light* for vessels crossing the Traffic Separation Scheme ( TSS ) and precautionary areas in the Singapore Strait. ( Fixed type ) * Except whole circumference irradiation  
+Electric running lights shall be connected to navigation light indicator panel mounted on a group panel in wheelhouse.  
+The following electric signal lights and signal means shall be furnished.  
+1 - Daylight signal light ( Portable type ) 1 - Maneuvering light 3 - Black balls ( 610 mm diameter folding type ) 1 - Gong ( 300 mm diameter ) 2 - Air horn 2 - Megaphone 1 - Bell ( 300 mm diameter )  
+As for details of these lights, refer to  Ⅳ- ELECTRIC PART.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H10 - 1 
+
+SECTION 10    INVENTORY 
+
+  
+10.1    BOATSWAIN’S STORE  
+Inventories shall be supplied according to the Builder’s standard and a details list shall be prepared and submitted for approval.  
+The following equipments shall be supplied :    
+2  -  Sounding tape ( 30 m ) 1  -  Paint stage 1 set - Fid    ( L=300, 400, 450 ) 1  -  Chipping hammer 1 set - Marline spike    ( L=200, 350, 450 ) 1  -  Sledge hammer 2  -  Hand hammer ( 0.5 ㎏-1,    1.0  ㎏-1 ) 1  -  Chisel 1  -  Claw hammer 1  -  Hand saw 1  -  Hand plane 1  -  Hatchet 1  -  Gimlet 1  -  Tinner’s hand snip 1  -  Maul 1  -  Tape measure ( 30 m ) 1 set - Sharpening stone ( Coarse, Medium, Fine ) 1  -  Carpenter’s chest 1  -  Boatswain’s chair 2  -  Heaving line 1  -  Paint scraper 1  -  Long paint scraper 1  -  Long paint brush 1  -  Paint pot 1  -  Wire brush 1  -  Wire cutter 1  -  Oiler 1  -  Oil funnel 1  -  Bottom plug 1 set - Common spanner 1  -  Spanner for bottom plug 2  -  Spanner for sounding pipe head 1  -  Pliers 1  -  Crow bar Necessary - Scupper plug ( Rubber, quick acting type ) 2  -  Anchor buoy   5  -  Garbage can with cover (steel) 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H10 - 2 
+
+10.2    BOX AND MISCELLANEOUS  
+As for box and miscellaneous, refer to detailed list of inventory.  
+The following items shall be supplied :  
+2  -  Binocular box 1  -  Flag box 3  -  Key box 2  -  Thermometer box 2  -  Board for beware of propeller 3  -  White board 1  -  Crew’s name plate board 1  -  Sounding board (including chain locker) 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H10 - 3e 
+
+10.3    FIRE FIGHTING APPARATUS  
+A fire fighting apparatus shall be provided as follows :  
+Fire fighting apparatus for helicopter mark shall be supplied as per rule requirement.  
+10.3.1    Fire extinguishers  
+Fire extinguishers shall be supplied as requirement by the rules.  
+Spare charge for portable extinguishers shall be supplied as required by the rules.  
+10.3.2    Fireman’s outfit  
+Two (2) sets of fireman’s outfit shall be provided as per rule requirement.  
+10.3.3    Alarm system  
+General alarm system shall be provided as perⅣ- ELECTRIC PART.  
+10.3.4    Protection / Breathing Apparatus for IMSBC Code  
+Four (4) sets of Full protective clothing resistant shall be supplied by owner.  
+10.4    SPARE PARTS  
+Spare parts for deck machineries such as steering gear, windlass, mooring winch, etc. shall be supplied according to the manufacturer’s standard.  
+A detail list shall be prepared and submitted for reference.  
+10.5    OTHER  
+Equipment of helicopter mark shall be supplied.  
+An instrument for atmosphere testing of enclosed spaces shall be provided.   One (1) set of calibration kit shall be provided.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+

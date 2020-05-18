@@ -1,0 +1,17 @@
+3.4    SPEED, FUEL OIL CONSUMPTION AND ENDURANCE.  
+
+Trial speed at normal output of main engine on the Builder's favourable draught and trim condition 15.1  knots. 
+
+Service speed on the designed loaded draught ( 11.30 m moulded ) at normal output of main engine with 15% sea margin  abt.  14.5  knots.
+
+Designed fuel oil consumption ( for main engine only ), at normal rating on the basis of fuel oil of which net calorific value of 40,600 kJ/kg  abt.  26.0  tons/day. 
+
+Note: This consumption figure shall be subject to a tolerance margin of five (5)% (Complying with MARPOL 73/78 ANNEX VI Reg.13-Tier II restriction). 
+
+Endurance at the above-mentioned service speed calculated from above-mentioned fuel oil consumption and aforementioned fuel oil capacity excluding diesel oil under the following conditions Fuel oil filling ratio  0.90 Fuel oil specific gravity  0.98  abt.  24,600  sea miles.
+
+Designed fuel oil consumption ( for main engine only ), at 14.0 knots with 15% sea margin on the designed loaded draught on the basis of fuel oil of which net calorific value of 40,600 kJ/kg (for reference)  abt.  23.0  tons/day.
+
+Note: This consumption figure shall be subject to a tolerance margin of six (6)% (Complying with MARPOL 73/78 ANNEX VI Reg.13-Tier II restriction). 
+
+Endurance at 14.0 knots with 15% sea margin on the designed loaded draught, calculated from above-mentioned fuel oil consumption and aforementioned fuel oil capacity excluding diesel oil under the following conditions Fuel oil filling ratio 0.90 Fuel oil specific gravity  0.98  abt.  26,800  sea miles.

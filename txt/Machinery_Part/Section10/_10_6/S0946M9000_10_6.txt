@@ -1,0 +1,261 @@
+10.6  SEA WATER DISTRIBUTION CHART .
+
+ 1 COOL. S.W. PUMP.
+
+ 2 
+COOL. S.W. 
+PUMP 3.
+
+560 m3/h 
+   × 20 m.
+
+ 4.
+
+ 5.
+
+ 6.
+
+ 7.
+
+ 8.
+
+ 9.
+
+ 10.
+
+ 11.
+
+ 12.
+
+REF. MACH.  REF. MACH. C.S.W. PUMP 
+C.S.W. PUMP 
+  40 m3/h 
+     × 35 m 13.
+
+ 14.
+
+ 15.
+
+No.
+
+Flow quantity (m3/h)
+ Sea.
+
+going.
+
+ Port.
+
+in/out.
+
+ At.
+
+ port.
+
+Load-.
+
+ing.
+
+1 - - - -
+2 160 160 0 0
+3 00160 160.
+
+AIR COOLER.
+
+F.W. GENERATOR.
+
+C/R AIR CON.
+
+AUX. CONDENSER.
+
+MAIN L.O.
+
+COOLER 
+JACKET.
+
+C.F.W. CLR.
+
+4 - - - -
+5 34 0 0 0
+6 - - - -
+7 5 5 5 5
+8 40 40 40 40
+9 108 108 108 108.
+
+10 9 9 9 9
+11 - - - -
+12 - - - -.
+
+AIR CON. MACH.
+
+PROV. REF. MACH.
+
+GALLEY AIR COND.
+
+No.
+
+Flow quantity (m3/h)
+ Sea.
+
+going.
+
+ Port.
+
+in/out.
+
+ At.
+
+ port.
+
+Load-.
+
+ing.
+
+13 21 21 21 21
+14 7 7 7 7
+15 7 7 7 7.
+
+sum 35 35 35 35.
+
+sum 516 482 162 162.
+
+D/G L.T. C.F.W. COOLER.
+
+Cu-Fe ION GENERATOR.
+
+ Service.
+
+No.of 
+Set.
+
+Type Capacity
+(m3 /h×MPa).
+
+Motor
+(kW×min-1).
+
+ Cooling 
+Sea Water Pump 2 MD. V. Cent.
+
+      (T.H.)
+560× 20 m 55×1800.
+
+Self-priming 
+(No.1).
+
+Jacket Cooling
+Fresh Water Pump 2 MD. V. Cent.
+
+      (T.H.)
+102× 40 m 22×1800.
+
+Main Air Comp. 
+Cooling F.W. Pump 2 MD. H. Cent.
+
+      (T.H.)
+3.2× 25 m 1.5×3600.
+
+Main Lubricating Oil 
+Pump 2 MD.V. Cent.
+
+      (D.P.)
+220 × 0.42 60×1800.
+
+Fuel Oil 
+Booster Pump 2 MD. H. Gear.
+
+      (D.P.)
+2.9 × 0.4 1.5×1200.
+
+Main Engine Fuel Oil 
+Circulating Pump 2 MD. H. Gear.
+
+      (D.P.)
+4.2 × 1.0 3.7×1200.
+
+Fuel Oil 
+Transfer Pump 1 MD. H. Gear.
+
+      (D.P.)
+15 × 0.3 5.5×1200.
+
+Diesel Oil 
+Transfer Pump 1 MD. H. Gear.
+
+      (D.P.)
+4 × 0.3 2.2×1200.
+
+Lubricating Oil 
+Transfer Pump 1 MD. H. Gear.
+
+      (D.P.)
+4 × 0.3 1.5×1200.
+
+Diesel Gene. Fuel Oil 
+Circulating Pump 2 MD. H. Gear.
+
+      (D.P.)
+1.6 × 0.9 1.5×1200.
+
+Diesel Gene. Diesel Oil 
+Booster Pump 1 MD. H. Gear.
+
+      (D.P.)
+1.5 ×0.75 3.7×1200.
+
+Stern Tube 
+Lubricating Oil Pump 2 MD. H. Gear.
+
+      (D.P.)
+0.5 × 0.2 0.4×1200.
+
+Diesel Gene. Lub. Oil 
+Priming Pump 3 MD. H.Screw.
+
+      (D.P.)
+2.5 × 0.2 0.94×3600 ※.
+
+L.O. Purifier
+Supply Pump 1 MD. H. Gear.
+
+      (D.P.)
+2.1 × 0.3 0.75×1200.
+
+D/G L.O. Purifier
+Supply Pump 1 MD. H. Gear.
+
+      (D.P.)
+0.6 × 0.3 0.4×1200.
+
+Bilge & Ballast Pump 1 MD. V. Cent. 
+      (T.H.).
+
+220/90×20/70 m 50×3600.
+
+Fire & G.S. Pump 1 MD. V. Cent.
+      (T.H.).
+
+220/90×20/70 m 50×3600.
+
+Ballast Pump 2 MD. V. Cent. 
+      (T.H.)
+900× 25 m 90×1800.
+
+Bilge Pump 1 
+MD. H.
+Recipro.
+
+      (T.H.)
+2× 30 m 0.75×1200.
+
+Sludge Pump 1 
+MD. H.
+Monros.
+
+      (T.H.)
+2.5× 41 m 1.5×1200.
+
+Ref. Mach. Cooling 
+Sea Water Pump 1 MD. H. Cent.
+
+      (T.H.)
+40× 35 m 7.5×3600

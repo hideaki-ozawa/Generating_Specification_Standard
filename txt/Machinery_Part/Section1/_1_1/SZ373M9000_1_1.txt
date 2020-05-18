@@ -1,0 +1,17 @@
+1.1  GENERAL.
+
+The vessel shall be arranged for single screw propulsion with directly coupled diesel 
+propelling machinery located in the engine room aft. 
+The main propulsion unit shall consist of one (1) set marine diesel engine, driving a 
+propeller through a line of shafting.
+
+The main engine shall be able to use the heavy fuel oil of 600 cSt at 50℃. 
+The aux. boiler shall be able to use the heavy fuel oil of 380 cSt at 50℃.
+
+The main diesel generator engine shall be able to use the heavy fuel oil of 600 cSt at 50℃. 
+Fuel oil is able to be used at starting, stopping, low load condition and furious load 
+change condition of diesel gene. engine in accordance with the engine operation manual.
+
+The steam generating plant shall consist of one (1) aux. boiler.
+
+The electric generating plant shall consist of three (3) diesel generator sets.

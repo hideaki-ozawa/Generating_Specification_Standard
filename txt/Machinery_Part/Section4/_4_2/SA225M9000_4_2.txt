@@ -1,0 +1,40 @@
+4.2  AUXILIARY BOILER .
+
+4.2.1  Construction.
+
+The boiler proper shall be of welded construction consisted of drum, end plate, furnace, 
+smoke tube section on exhaust gas side, and smoke tube section on oil burning side. 
+The exhaust gas section and oil burning section shall be completely separated from each 
+other. 
+Smoke tube shall be inserted into the plate and both ends of the each tubes shall be 
+secured by welding after and before undergoing expanding. 
+Manhole shall be provided to afford entry into the inside of the boiler. 
+The smoke boxes on both the exhaust gas side and oil burning side shall be steel plate 
+made casing provided with cleaning hole to facilitate check and cleaning.
+
+4.2.2  Material.
+
+ Shell plate Boiler steel plate 
+ End plate Boiler steel plate 
+ Furnace Boiler steel plate 
+ Tube plate Boiler steel plate 
+ Smoke tube  Boiler steel tube 
+ Stay tube Boiler steel tube.
+
+4.2.3  Fitting and accessory.
+
+ 1 － pressure gauge root valve 
+ 1 － air vent valve 
+ 1 － set of oil burning unit 
+ 2 － sets of water level gauge 
+ 1 － set of water level controller 
+ 1 － set of water column with level switch 
+ 2 － safety valve 
+ 1 － main steam stop valve 
+ Each 1 － main and aux. feed water check valve 
+ Each 1 － main and aux. feed water stop valve 
+ 1 － surface blow-off valve ( double ) 
+ 1 － bottom blow-off valve (double ) 
+ 1 － boiler water sampling valve 
+ 4 － water level gauge root valve 
+ 3 － sets of soot blower

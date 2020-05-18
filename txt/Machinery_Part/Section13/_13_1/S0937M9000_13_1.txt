@@ -1,0 +1,10 @@
+13.1  GENERAL.
+
+There shall be provided an engine control room in the engine room.
+
+The operation, control and supervision of main engine and principal auxiliary machinery 
+shall be performed from the engine control room.  On the other hand, necessary 
+instrumentation such as minimum number of gauges shall be provided for local manual 
+control in engine room.
+
+As to communication equipment etc., refer to PART IV ELECTRIC PART.

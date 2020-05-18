@@ -1,0 +1,1206 @@
+G1 - 1 
+
+SECTION 1    GENERAL
+
+1.1    INTENT OF SPECIFICATIONS
+
+The Specifications and accompanying plans are intended to describe the details of technical matters in the Contract, i.e. performance, capacities, constructions of an ocean going diesel engine driven single screw bulk carrier, hereinafter called “the Vessel”. 
+
+If any discrepancy is found between the Specifications and the accompanying plans, the Specifications shall prevail. 
+
+In the event of conflict or inconsistency between the terms of these parts of the Specifications, the hull part shall prevail in respect of hull items, the machinery part in respect of machinery items, and the electric part in respect of electric items. 
+
+Where the word “or” is used in the Specifications to indicate that the use of alternative items will be permitted, it shall be understood to mean “at the Builder's option”. 
+
+Any item which is not expressly called for in the Specifications shall not be furnished in principle, but if it is required by the specified rules and regulations, it shall be furnished by the Builder without any charge to the Owner. 
+
+Any item mentioned twice or more in the Specifications shall be furnished or applied only once. 
+
+In general, the Vessel shall be built in accordance with the Specifications and any modifications and/or changes to the Specifications shall be agreed mutually by the Owner and the Builder, subject to adjustment of price, delivery, guaranteed figures and any other terms in the Contract and in the Specifications and those shall be confirmed by memorandum of discussions, letters, plans and/or available documents by both parties. 
+
+Also the Vessel shall be built in accordance with the Builder's practice with regard to other work than specified by the Specifications. 
+
+Spare parts shall be supplied by the Builder according to the Specifications to meet the requirements of the specified Classification Society, the regulatory bodies and manufacturer's standard. 
+
+Any additional spares required by the Owner shall be supplied by the Builder on the Owner's account. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G1 - 2 
+
+1.2    OUTLINE OF THE VESSEL
+
+The  Vessel  shall  be  of  a  single  screw  diesel  engine  driven  ocean  going  bulk  carrier suitable  for  carrying  grain,  coal,  hot  steel  coil,  long  size  steel,  cement  and  ore (Density=3.0t/m3). 
+
+The Vessel shall have a raked stem with protruded bulbous bow and transom stern with mariner type stern frame having a hanging rudder. 
+
+Energy saving device shall be installed. 
+
+The Vessel shall have one (1) continuous upper deck with forecastle, engine room and accommodation deck house including navigation space shall be located aft as shown on the General Arrangement. 
+
+The Vessel shall be divided by seven (7) watertight transverse bulkheads into the following compartments as shown on the General Arrangement. 
+
+  
+
+ 
+
+ 
+
+Fore peak tank ( water ballast ) No.1 through No.5 cargo hold 
+
+Engine room 
+
+Aft peak tank ( water ballast ) 
+
+Double bottom shall be extended from collision bulkhead to aft peak tank bulkhead. 
+
+Fuel oil tanks, diesel oil tanks, water ballast tanks, top side tanks ( water ballast ), fresh water tank and drinking water tank shall be arranged as shown on the General Arrangement. 
+
+Lubricating oil sump tank etc. shall be arranged in double bottom under the engine room. 
+
+Lubricating oil sump tank shall be of triple bottom construction. 
+
+No.3 cargo hold shall be utilized as water ballast tank. 
+
+The cargo hold compartment shall be constructed with single hull with top side tanks and double bottom tanks with side hopper. 
+
+The Vessel shall have four (4) deck cranes for cargo gear on upper deck at center line. 
+
+The folding type cargo hatch covers shall be provided for each cargo hatch on upper deck. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G1 - 3e 
+
+The Vessel shall be able to load heavy cargoes into No.1, 3 and 5 cargo holds under the alternated condition and load/unload at different two (2) ports under the condition of the homogeneous cargo. 
+
+The  Vessel  including  its  material,  workmanship  and  apparatus  (  machinery,  equipment, piping,  etc.  )  shall  be  complied  with  the  requirements  of  the  specified  Classification Society, rules and regulations concerned and also shall be constructed in accordance with the Specifications and the Builder's/subcontractors' practices.
+
+IMABARI SHIPBUILDING CO., LTD
+
+G2 - 1 
+
+SECTION 2    CLASSIFICATION, RULE, REGULATION AND CERTIFICATE
+
+2.1    CLASSIFICATION
+
+The Vessel, including its hull, machinery, equipment and outfittings shall be constructed in accordance with the rules and regulations of the Classification Society and under special survey of the Classification Society's surveyors and shall be distinguished in the register by the symbol of : 
+
+ 
+
+  
+  
+ 
+
+NIPPON KAIJI KYOKAI ( NK ) 
+
+ 
+
+Classification Characters  
+Descriptive Note  
+Installations Characters 
+
+ 
+
+:  NS* ( CSR, BC-A, BC-XII, GRAB 20, EQ C DG,   PSPC-WBT, NC ) ( ESP ) (PSCM) / MNS* :  Strengthened for heavy cargo loading where hold   Nos. 2 & 4 may be empty :  CHG, MPP, LSA, RCF, M0, AFS, BWM 
+
+2.2    RULE AND REGULATION
+
+The Vessel shall be registered under the flag of LIBERIA. 
+
+The following rules and regulations effective at the date of signing the Shipbuilding Contract shall be applied : 
+
+ (1)  Maritime Regulation of the Registered Country 
+
+ (2)  Rules and Regulations for the Construction and Classification of Ships 2015 
+
+ (3)  International Convention on Load Lines, 1966 and its PROTOCOL 1988   
+
+( incl. 2003 Amendment ) 
+
+ (4)  International Convention for the Safety of Life at Sea, 1974, its PROTOCOL 1978         
+
+and its PROTOCOL 1988 ( incl. 1981, 1983, 1988, 1989, 1990, 1991, 1992, 1994, 1995, 1996, 1997, 1998,   1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008 and 2009     Amendments ) 
+
+ (5)  International Convention for the Prevention of Pollution from Ships, 1973  
+
+( Annexes I, IV, V and VI) and its PROTOCOL 1978 ( incl. 1984, 1985, 1987, 1989, 1990, 1991, 1992, 1994, 1995, 1996, 1997, 1999,     2000, 2001, 2003, 2004, 2005, 2006 and 2009 Amendments and Annex VI Reg.13-   Tier II restriction of 2008 Amendment ) 
+
+  
+ 
+
+ (6)  International Regulations for Preventing Collision at Sea, 1972   ( incl. 1981, 1987, 1989, 1993, 2001 and 2007 Amendments ) 
+
+ (7)  Radio Regulations of International Telecommunication Union, Edition of 2012 
+
+ (8)  International Convention on Tonnage Measurement of Ships, 1969 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G2 - 2 
+
+ (9)  International Convention on the Control of Harmful Anti-fouling Systems on Ships,      
+
+2001 
+
+(10)  International Convention for the Control and Management of Ships’ Ballast Water 
+
+and Sediments, 2004 
+
+(11)  Rules of Navigation of the Suez Canal Authority, 1995      
+
+( incl. Tonnage Measurement Rules ) 
+
+(12)  Rules and regulations governing navigation of Panama Canal and adjacent waters ( as "Panamax Plus" for OP NOTICE TO SHIPPING of Panama Canal Authority )  
+   and rules for the measurement of vessels shall be applied as far as practicable 
+
+(13)  Pollution Prevention Regulation of USCG for foreign flag Vessel without certificate                                                
+
+*Remarks : Concerning oil pollution prevention, marine sanitation and navigation safety regulations based on CFR TITLE 33 CHAPTER  Ｉ, the following parts shall be applied to this Vessel. CFR TITLE 33   CHAPTERI -      PART 155      PART 156         PART 159   PART 164    
+
+COAST GUARD, DEPARTMENT OF HOMELAND   SECURITY OIL OR HAZARDOUS MATERIAL POLLUTION   PREVENTION REGULATIONS FOR VESSELS OIL AND HAZARDOUS MATERIAL TRANSFER OPERATIONS Subpart A - Oil and Hazardous Material Transfer Operations MARINE SANITATION DEVICES NAVIGATION SAFETY REGULATIONS only for Section 164.35 Equipment : All Vessels, item (g) 
+
+(14)  Australian Navigation Regulations, Marine Orders, Part 32    
+
+( Only for Access to Cargo Hold ) 
+
+(15)  Maritime labour convention, 2006 ( Title 3, Standard A3.1 ) 
+
+(16)  International Maritime Solid Bulk Cargoes Code ( IMSBC Code ) 
+
+(17)  International Code for the Safe Carriage of Grain in Bulk  
+
+( International Grain Code )( IMO Resolution MSC. 23(59) ) 
+
+(18)  Performance Standard for Protective Coatings for Water Ballast Tanks 
+
+(19)  International Maritime Dangerous Goods Code ( IMDG Code ) 
+
+(20)  Code on Noise Levels on Board Ships ( NOISE Code )  
+
+( IMO resolution MSC. 337(91) ) ( incl. 2012 amendment ) 
+
+ 
+
+Remarks : Ballast water treatment system shall be installed.   The details of the ballast water treatment system shall be decided by the Builder. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G2 - 3 
+
+2.3    CERTIFICATE
+
+One (1) original and two (2) copies of the following certificates and documentations shall be obtained by the Builder and furnished to the Owner at the time of delivery of the Vessel. 
+
+When provisional documents are furnished at the time of delivery, the Owner and the Builder shall negotiate how to furnish the formal documents. 
+
+  (1)  Provisional Certificate of Classification issued by the Classification Society 
+
+  (2)  Provisional Certificate of Installations Registration issued by the Classification    
+
+Society 
+
+  (3)  Builder's Certificate issued by the Builder 
+
+  (4)  Certificates for International Convention for the Safety of Life at Sea, issued by the    
+
+Classification Society on behalf of the registered country as follows : 
+
+   
+
+   
+
+   
+
+(a)  Cargo Ship Safety Construction Certificate 
+
+(b)  Cargo Ship Safety Equipment Certificate 
+
+(c)  Cargo Ship Safety Radio Certificate 
+
+  (5)  International Load Lines Certificate without Timber Freeboard issued by the    
+
+Classification Society on behalf of the registered country 
+
+  (6)  International Tonnage Certificate issued by the Classification Society on behalf of    
+
+the registered country 
+
+  (7) Suez Canal Special Tonnage Certificate and Documentation for Panama Canal Special Tonnage issued by the Classification Society on behalf of the registered country 
+
+  (8)  International Oil Pollution Prevention Certificate issued by the Classification Society    
+
+on behalf of the registered country 
+
+  (9)  International Sewage Pollution Prevention Certificate issued by the Classification  
+
+Society on behalf of the registered country 
+
+(10)  International Air Pollution Prevention Certificate issued by the Classification  
+
+Society on behalf of the registered country 
+
+(11)  International Energy Efficiency Certificate issued by the Classification Society on  
+ 
+
+behalf of the registered country ( Ship Energy Efficiency Management Plan shall be   prepared by the Owner. )
+
+IMABARI SHIPBUILDING CO., LTD
+
+G2 - 4e 
+
+(12)  International Anti-fouling System Certificate issued by the Classification Society on 
+
+behalf of the registered country   
+
+(13)  International Ballast Water Management Certificate issued by the Classification 
+
+Society on behalf of the registered country 
+
+(14)  Ship Sanitation Control Exemption Certificate issued by the Japanese Government 
+
+(15)  Register of Cargo Gear for New Zealand, Australia, Canada, India and Pakistan 
+
+(16)  Register of Ship's Lifting Appliance and Items of Loose Gear ( Deck Crane and      
+
+Provision Crane ) issued by the Classification Society 
+
+(17)  Cargo Hold Ladder Plan approved by the Gibson Minto & Aiton Pty. Ltd. of Australia 
+
+(18)  Certificate of Compliance with the IMSBC Code (Listed in the Group A and C (as far as practicable based on the Vessel’s current equipment), and Coal listed in the    Group B) issued by the Classification Society on behalf of the registered country  
+ (The certificate of compliance is to certify that the Vessel is suitable for the carriage   in bulk of listed cargoes in the cargo holds stated in accordance with the provisions  
+of the IMSBC Code. When the listed cargoes are actually transported, the  
+ compatibility between cargoes and paint etc. should be confirmed.) 
+
+(19)  Grain Loading Plan approved by the Classification Society  
+
+( incl. Untrimming End Calculation Sheets ) 
+
+(20)  Test Certificate for Anchor, Anchor chain cable and Mooring rope issued by the  
+
+Classification Society 
+
+(21)  Other usual certificates including those for navigation light and magnetic compass issued by the NIPPON HAKUYOHIN KENTEI KYOKAI and magnetic compass  
+ adjustment table issued by the Builder 
+
+(22)  Document of Compliance for Special Requirements for Ship Carrying Dangerous        
+
+Goods issued by the Classification Society 
+
+ 
+
+Remarks : Certificate of Ship's Nationality and Radiotelephone Station etc. issued by the   registered country to be obtained by the Owner. Ballast Water Management Plan approved by the registered county to be obtained by the Owner. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+SECTION 3    PARTICULARS
+
+3.1    PRINCIPAL DIMENSION
+
+Length, overall 
+
+Length, between perpendiculars 
+
+Breadth, moulded 
+
+Depth, moulded 
+
+Designed loaded draught, moulded 
+
+Scantling draught, moulded 
+
+3.2    DEADWEIGHT AND TONNAGE
+
+Deadweight at designed loaded draught 
+
+Deadweight at assigned loaded draught 
+
+Gross tonnage ( I.C.T.M., 1969 ) 
+
+G3 - 1 
+
+abt.  199.9  m 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+195.00  m 
+
+  32.24  m 
+
+  19.15  m 
+
+  11.30  m 
+
+  13.40  m 
+
+abt. 
+
+50,340  M.T. 
+
+abt. 
+
+62,940  M.T. 
+
+abt. 
+
+36,400 
+
+As for the definition of deadweight, refer to SUBSECTION 6.2 DEADWEIGHT. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+3.3    CAPACITY
+
+Cargo hold and tank capacities ( 100% ) shall be as follows : 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cargo Holds  (Grain) 
+
+   
+
+(Bale) 
+
+Fuel oil tanks 
+
+Diesel oil tanks 
+
+Fresh water tank 
+
+Drinking water tank 
+
+Water ballast tanks ( incl. No.3 cargo hold ) 
+
+Dirty water tanks 
+
+G3 - 2 
+
+abt.    80,000  m3
+
+abt.    75,800  m3
+
+abt.      2,150  m3
+
+abt.        380  m3
+
+abt.        320  m3
+
+abt.        320  m3
+
+abt.  34,000  m3 
+
+abt. 
+
+440  m3 
+
+IMABARI SHIPBUILDING CO., LTD
+
+3.4    SPEED, FUEL OIL CONSUMPTION AND ENDURANCE
+
+G3 - 3 
+
+Trial speed at normal output of main engine on the Builder's favourable draught and trim condition  
+
+15.1  knots 
+
+ 
+
+Service speed on the designed loaded draught ( 11.30 m moulded ) at normal output of main engine with 15% sea margin  
+
+abt.  14.5  knots 
+
+Designed fuel oil consumption ( for main engine only ), at normal rating on the basis of fuel oil of which net calorific value of 40,600 kJ/kg  
+
+abt.  26.0  tons/day 
+
+Note: This consumption figure shall be subject to a tolerance margin of five (5)% (Complying with MARPOL 73/78 ANNEX VI Reg.13-Tier II restriction) 
+
+Endurance at the above-mentioned service speed calculated from above-mentioned fuel oil consumption and aforementioned fuel oil capacity excluding diesel oil under the following conditions Fuel oil filling ratio Fuel oil specific gravity  
+
+0.90 0.98  
+
+abt.  24,600  sea miles 
+
+Designed fuel oil consumption ( for main engine only ), at 14.0 knots with 15% sea margin on the designed loaded draught on the basis of fuel oil of which net calorific value of 40,600 kJ/kg (for reference)  
+
+abt.  23.0  tons/day 
+
+Note: This consumption figure shall be subject to a tolerance margin of six (6)% (Complying with MARPOL 73/78 ANNEX VI Reg.13-Tier II restriction) 
+
+Endurance at 14.0 knots with 15% sea margin on the designed loaded draught, calculated from above-mentioned fuel oil consumption and aforementioned fuel oil capacity excluding diesel oil under the following conditions Fuel oil filling ratio Fuel oil specific gravity  
+
+abt.  26,800  sea miles 
+
+0.90 0.98  
+
+IMABARI SHIPBUILDING CO., LTD
+
+G3 - 4e 
+
+1 set 
+
+3.5    MAIN ENGINE AND PROPELLER
+
+Main engine     :  MAN B&W 6S50ME-B9.3 ( Japanese make )  
+ 
+
+  Maximum continuous rating   Normal output rating   
+
+  7,560 kW x 99.0 min-1
+
+6,425 kW x 93.8 min-1 ( 85% M.C.R. ) 
+
+High-load optimize shall be applied. 
+
+Propeller 
+
+:  Solid type, Nickel Aluminium Bronze casting 
+
+1 set 
+
+Neither spare propeller nor spare propeller shaft shall be provided. 
+
+As for detail Specifications for the above-mentioned items and other machineries in engine room, refer to III - MACHINERY PART.
+
+IMABARI SHIPBUILDING CO., LTD
+
+G4 - 1e 
+
+SECTION 4    COMPLEMENT
+
+Accommodations shall be provided in accordance with the accompanying table : 
+
+Accommodations of all persons onboard shall be classified as follows, in respect of furnishing, fitting facilities and so on to provide a suitable ranking of accommodations as described in II - HULL PART. 
+
+Division 
+
+Department Class Captain Senior 
+
+Officer 
+
+Junior 
+
+Sum Petty officer Rating crew Sum Officer and crew total 
+
+Crew 
+
+Deck Part 
+
+Engine Part 
+
+Ranking 
+
+Captain Chief  off. off. 2nd 3rd off.  
+
+No. 1 1 1 1 4 
+
+Ranking Chief  eng. 1st eng. eng. 2nd 3rd eng.  
+
+No. 1 1 1 1 4 
+
+Business Part Ranking - - 
+
+No. 
+
+- 
+
+- 
+
+Boatswain 
+
+1  No.1 Oiler 
+
+1 
+
+Chief cook 
+
+No. 2 2 
+
+4 
+
+8 
+
+3 
+
+10  A. seaman O. seaman 13  
+
+3 3 7 
+
+Oiler Wiper  
+
+2 1  Mess man 4 
+
+ 
+
+1 
+
+1 
+
+2 21  Persons 2  Persons 1  Person 1  Person 25  Persons 
+
+Officer  ( Junior officer class ) Officer  ( Pilot ) (Junior officer class ) Crew 
+
+( Rating crew class ) 
+
+Spare 
+
+Grand total 
+
+As for the total number of persons for life saving appliance, refer to 3.4 LIFE SAVING EQUIPMENT of II - HULL PART.
+
+IMABARI SHIPBUILDING CO., LTD
+
+G5 - 1 
+
+SECTION 5    TEST AND TRIAL
+
+5.1    GENERAL
+
+All test and trial shall be conducted in accordance with the requirements of the specified Classification Society and other regulatory bodies and the Builder's practice. 
+
+The Builder shall submit to the Owner and/or regulatory bodies the detailed schedule or memorandum for the test items mentioned hereinafter in due time prior to those tests. 
+
+The Owner's supervisor shall attend the inspections and tests when necessary. If the Owner's supervisor is unable to attend, such inspections and tests shall be performed in the presence of the Builder's inspector and/or the Classification Society's surveyor if required, and such party or parties attended being satisfied, the Owner shall accept the results as submitted. 
+
+5.2    SHOP TEST
+
+The Vessel's machinery, equipment, fittings, constructions and so on shall be tested or inspected before installation onboard at the Builder's shops, subcontractors' shops or manufacturers' factories, etc., in accordance with the requirements of the specified Classification Society and/or the Builder's and/or the manufacturers' standard test schedules. 
+
+The scope of tests or inspections which necessitate the attendance of the Owner's supervisor shall be determined by the Owner's supervisor and the Builder on the detailed schedule prepared by the Builder. 
+
+As regards the substance of each test, refer to the descriptions in II - HULL PART,III - MACHINERY PART and IV - ELECTRIC PART respectively. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G5 - 2 
+
+5.3    CONSTRUCTION TEST AND ONBOARD TEST
+
+The constructions, machinery, apparatus and fittings shall be checked and examined onboard the Vessel to confirm that those are satisfactory for the purposes intended. 
+
+The items for which construction tests or onboard tests are necessary shall be inspected and/or tested according to the respective requirements of the regulatory bodies and the Builder's practice. 
+
+The Owner's supervisor and the Builder shall, on the basis of the Builder's detailed schedule, determine the scope of tests or inspections to be attended by the Owner's supervisor. 
+
+They shall also determine the extent of the tests to which the Owner's supervisor shall accept tests or inspections on the basis of subsequent reports without attendance at the tests. 
+
+As regards the substance of each test, refer to the descriptions in II - HULL PART,III - MACHINERY PART and IV - ELECTRIC PART respectively. 
+
+5.4    SEA TRIAL
+
+When the Vessel is substantially completed, the Vessel shall be subjected to the sea trial as described below, provided that minor items of work which, at the discretion of the Owner, may be left unfinished until the trial are over. ( No final docking of the Vessel shall be carried out. ) 
+
+The sea trial shall be carried out by and at the expense of the Builder who is to provide all necessary material and services for the operation of the Vessel, during the sea trial and the Vessel's trip to and from the Builder's shipyard. 
+
+The sea trial shall be carried out in accordance with the sea trial schedule submitted by the Builder and approved by the Owner. 
+
+The sea trial shall be carried out on the Builder’s favourable draught and trim condition, under the weather condition which is deemed favourable enough by the judgement of the Builder. 
+
+During the sea trial, heavy fuel oil and diesel oil shall be used for main engine. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G5 - 3 
+
+The trial consists of the following tests. 
+
+(1)  Progressive speed test (Speed and Power trials) 
+
+  
+ 
+
+  
+
+The test consists of five (5) double runs at four (4) different outputs including two (2) double runs at normal output, each run shall be followed by a return run in the   opposite direction and at the same outputs. 
+
+The output shall be calculated by the method which the main engine manufacturer’s   recommends. 
+
+The Vessel's speed shall be measured by using “Differential Global Positioning 
+
+         System ( DGPS )”. 
+
+  Machinery load  
+  
+  
+
+  
+  
+ 
+
+:  50% load of maximum output   70% load of maximum output   Normal output   Maximum revolution  
+ 
+
+( Revolution corresponding to maximum output or revolution   permitted by the engine manufacturer, whichever is less ) 
+
+  
+ 
+
+Note:   The ship’s attained EEDI to be determined by the analysis way according to     ISO15016:2015. Details of correction items shall be decided by the Builder. 
+
+(2)  Endurance test 
+
+  
+
+The endurance test shall be carried out at maximum revolution for four (4) hour including above progressive speed test run at maximum revolution. 
+
+(3)  Maneuvering test 
+
+ 
+
+ 
+
+  
+
+ 
+
+  
+
+ 
+
+  
+
+The following tests shall be carried out to check maneuverability of the Vessel. 
+
+(a)  Crash stop astern test 
+
+  
+
+Revolution of main engine 
+
+:  From ahead maximum revolution to astern revolution  
+
+corresponding to about 70% of ahead maximum revolution 
+
+(b)  Turning test of 360 degrees with helm angle of 35 degrees port and starboard 
+
+  
+
+Revolution of main engine 
+
+:  At ahead maximum revolution 
+
+(c)  Zig-zag (Z) test of helm angle/heading angle ( 10゜/10゜and 20゜/20゜) 
+
+  
+
+Revolution of main engine 
+
+:  At ahead normal revolution 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G5 - 4 
+
+(4)  Measurement of noise level   
+
+At the sea trial, noise level of each spaces shall be measured according to the method described in the IMO Resolution MSC.337 (91) under normal operating condition. 
+
+  
+
+Revolution of   main engine 
+
+(5)  Other test at sea 
+
+:  At ahead revolution in accordance with the requirements of 
+
+regulatory bodies. 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The following tests shall be conducted. 
+
+(a)  Steering gear test according to the requirement of the Classification Society 
+
+(b)  Anchor windlass test ( refer to page H1 – 5e ) 
+
+(c)  Adjustment of navigation equipment and instrument such as magnetic compass,  
+
+etc. 
+
+(d)  Starting test of main engine 
+
+(e)  Minimum revolution test of main engine 
+
+(f)  Emergency trip test of main engine 
+
+(g)  Torsional vibration measurement for propeller shafting 
+
+(h)  M0 demonstration test 
+
+(i) Ahead test for main engine (Full astern to Full ahead) 
+
+Fuel oil consumption of main engine shall be measured for reference. 
+
+(6)  Maneuvering data 
+
+  
+  
+ 
+
+During the sea trial, maneuvering data including aforementioned item (3) shall be obtained for drawing up the “MANEUVERING INFORMATION” which is required by the US rules as follows,  
+ 
+
+Equipment : All vessels ; item (g) in the rule book 
+
+CFR 33    PART 164.35  
+
+IMABARI SHIPBUILDING CO., LTD
+
+G5 - 5 
+
+5.5    LIGHT WEIGHT MEASUREMENT AND INCLINING TEST
+
+When the Vessel is substantially completed except for minor items of work, the light weight measurement and inclining test of the Vessel shall be carried out by the Builder. 
+
+5.5.1    Light weight measurement
+
+The light weight measurement shall be carried out by reading the draught of the Vessel and measuring specific gravity of sea water and by investigation of weights to be added or to be deducted, in the presence of the Owner’s supervisor or the person who is authorized by the Owner. 
+
+The draught of the Vessel shall be measured at the draught marks on both sides of stem, stern and midship. 
+
+Displacement  of  the  Vessel  at  this  light  weight  measurement  shall  be  determined  by reading  the  draught-displacement  table  on  the  corresponding  draught  obtained  from  the measured draught. 
+
+The correction for trim, deflection of the Vessel and specific gravity of sea water at the measurement shall also be made on the calculation. 
+
+If any superfluous weight is onboard the Vessel or any item belonging to the light weight is not onboard the Vessel at the time of the light weight measurement, such weight shall be adjusted by the calculation. 
+
+The  calculation  of  the  light  weight  and  deadweight  shall  be  made  by  the  Builder  and verified by the Owner's supervisor in order to determine “Light weight” and “Deadweight”. 
+
+5.5.2    Inclining test
+
+The  inclining  test  shall  be  carried  out  in  the  presence  of  the  Owner’s  supervisor  or  the person who is authorized by the Owner and the Classification Society’s surveyor, and then the position of the center of gravity of the Vessel in light condition shall be determined by the Builder’s calculation based on the test results. 
+
+The inclining test shall be conducted by shifting solid weight onboard and by measuring the Vessel’s heel using “U-tube” water level. 
+
+The inclining test shall be carried out at pier of the Builder’s yard. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G5 - 6e 
+
+5.6    DISPENSATION
+
+For the second and successive sister Vessels ( incl. other owner’s Vessel ), the following test may be dispensed with subject to approval of the Classification Society and other regulatory bodies. 
+
+(1) Progressive speed test at normal output of main engine (one (1) double run) 
+
+(2) Progressive speed test at 50% load of maximum output of main engine 
+
+(3) Turning test 
+
+(4) Zig-zag test 
+
+(5) Torsional vibration measurement for propeller shafting 
+
+(6) The test for the purpose of making the “MANEUVERING INFORMATION”   
+
+required by the US rule 
+
+(7) Inclining test 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G6 - 1 
+
+SECTION 6    TECHNICAL GUARANTEE
+
+6.1    GUARANTEED FIGURE
+
+The Builder shall guarantee the specified figures of the following items under the conditions mentioned in this section. 
+
+ 
+
+ 
+
+ 
+
+DEADWEIGHT 
+
+:  62,940 metric tons at assigned loaded draught 
+
+TRIAL SPEED  
+
+:  15.1 knots at normal output of main engine on the Builder’s  
+
+favourable draught and trim condition 
+
+6.2    DEADWEIGHT
+
+The Builder shall guarantee that the deadweight of the Vessel upon completion is not less than the specified figure in sea water of specific gravity of 1.025 on the draught specified above. 
+
+“Deadweight” is the difference between the fully loaded displacement and the light weight. 
+
+“Fully loaded displacement” is the total displacement at the draught specified above in sea water including shell and all appendages and shall be determined from the relation between draught and displacement, under the conditions of no trim, no heel and no deflection of the Vessel. 
+
+“Light weight” is the weight of the Vessel completed, and shall consist of weights of hull, machinery and electric parts, including all equipment and fittings required by the rules, regulations and these Specifications, and shall be determined by the light weight measurement described in SUBSECTION 5.5 LIGHT WEIGHT MEASUREMENT AND INCLINING TEST. 
+
+The guaranteed figure of the deadweight shall be adjusted due to any alteration by the Owner's requirement beyond the scope of the original specifications described herein. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G6 - 2 
+
+The deadweight shall include the following weights besides the cargo weight : 
+
+(1)  Fuel oil, diesel oil, lubricating oil and water in tanks, pipes and machinery except 
+
+those included in light weight as noted below 
+
+ 
+
+(2)  Men and their effects onboard 
+
+(3)  All consumable stores, chandlery, charts and books, cook's and steward's utensils,  
+
+napery, blankets, covers, etc. 
+
+(4)  Spare parts in addition to those required by the rules and regulations 
+
+(5)  Owner furnished equipment, if any, in addition to those required by the rules and           regulations 
+
+(6)  Four (4) sets of grab buckets 
+
+The light weight shall consist of the followings : 
+
+Other items and details not shown hereunder shall follow the standard scope of light weight established by the Society of Naval Architects of Japan. 
+
+(1)  Weight of hull, machinery and electric part including all equipment and fittings  
+required by the rules, regulations and these Specifications, but not including the above-mentioned items belonging to the deadweight  
+
+(2)  Water and oil in main machineries and pipes directly related to the main propulsion  
+
+system as enumerated under 
+
+  
+
+  
+
+  
+ 
+
+(a)  Lubricating oil in main engine, main generator engines, lubricating oil coolers for main and generator engines and circulating piping from sump tank to each engine  
+
+(b)  Sea water in air cooler for main and generator engines, fresh water coolers for  
+main and generator engines and circulating piping from sea chests to overboard 
+
+(c)  Fresh water in main engine, generator engines, fresh water coolers for main and  
+ 
+
+generator engines and closed circulating piping from cooling fresh water pump to each engine 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G6 - 3e 
+
+6.3    TRIAL SPEED
+
+The Builder shall guarantee that the trial speed of the Vessel is not less than the specified figure aforementioned. 
+
+The measured speeds at the sea trial shall be corrected to that on calm sea under no wind and no current condition in accordance with Taniguchi-Tamura method. 
+
+The trial speed shall be determined on the “Speed-Power Curve” furnished by the Builder being based on the above-mentioned correction, as the speed on the curve corresponding to the specified horse power of main engine. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G7 - 1 
+
+SECTION 7    BUILDING PROCEDURE
+
+7.1    SUBCONTRACTING
+
+The Builder may, at its sole discretion and responsibility, subcontract any portion of the constructing work of the Vessel to any domestic and/or overseas subcontractors including, but not limited to, the affiliated companies of the Builder. 
+
+7.2    WORKING PROCEDURE
+
+The Builder shall submit a principal construction schedule to the Owner's supervisor in early stage of construction after signing of the Contract and these schedules shall be followed up with the cooperation of the Owner and the Builder. 
+
+7.3    PLAN
+
+7.3.1    Wording, unit, etc. used in the plan
+
+“The plan” stated hereunder in the Specifications shall mean those which are to be submitted to the Owner, such as the Contract plans, plans for approval, finished plans, instruction books and so on. 
+
+Generally all plans shall be written in English. 
+
+The units used in these plans shall normally be International System of Units ( SI ). 
+
+The symbols for valves, fittings, method of weld and electrical components on all drawings shall be in accordance with the Builder's or the subcontractor's standard. 
+
+The graduation on gauges or meters onboard the Vessel shall be in SI. 
+
+Instruction books shall be prepared also in SI in general. 
+
+The plans including finished plans shall be shown in suitable scales according to the Builder's usual practice, and shall be in white print and/or blue print. 
+
+7.3.2    Contract plan
+
+The following plan shall accompany and form a part of the Specifications. 
+
+ 
+
+General Arrangement 
+
+( DWG. No. C-0200 ) 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G7 - 2 
+
+7.3.3    Plan for approval
+
+Prior to starting work, the Builder shall submit the specified working plans to the Owner and/or the regulatory bodies for approval in due time of design and construction schedules. 
+
+The list of plans for approval shall be submitted to the Owner in early stage of designing. 
+
+Plans for approval shall be submitted to the Owner with two (2) copies ( Owner --- 1, Owner’s supervisor --- 1) and “comment sheet” shall be returned to the Builder together with the Owner's approval stamp with signature on the sheet. 
+
+The Owner shall return the comment sheet within three (3) weeks after dispatching the plans from the Builder. 
+
+When the Owner finds it impossible to return the comment sheet within the specified period, the Owner shall inform the Builder without delay and they shall discuss on the matter. 
+
+When the Builder does not receive the comment sheet or information within the above-mentioned period, the Builder may proceed with the work as it is deemed to be approved by the Owner. 
+
+When any other plans or technical information such as detailed working plans are requested by the Owner or the Owner's supervisor in addition to the list of plans, the Builder shall show or submit them for reference, unless the said plans or information involve some confidential matter of the Builder or manufacturers. 
+
+The Builder's standard plans and subcontractors' or manufacturers' plans may be used as working plans or plans for approval with or without modifications. 
+
+The plans for the Owner's supply items shall not be submitted to the Owner. 
+
+For the second and successive sister Vessels for the same Owner, the submission of plans for the Owner’s approval may be dispensed with so far as there involves no alteration of the design. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G7 - 3 
+
+7.3.4    Finished plan
+
+The list of finished plans or drawings shall be submitted to the Owner in due course. 
+
+The Builder shall furnish the Owner at the delivery of the Vessel with three (3) copies of each finished plan written in English. 
+
+One (1) copy of each of the above-mentioned three (3) copies shall be furnished aboard the Vessel. 
+
+Instruction book shall be furnished by the Builder as follows : 
+
+ 
+
+To Owner 
+
+To Vessel 
+
+When written in both English and Japanese 
+
+English edition Japanese edition 
+
+or 
+
+2 
+
+2 2 
+
+1 
+
+1 1 
+
+The following plans, one (1) copy each, mounted in wooden frame with transparent plastic cover shall be installed aboard the Vessel at such locations as designated by the Owner's supervisor. 
+
+  
+
+  
+
+  General Arrangement  
+
+Capacity Plan with Deadweight scale 
+
+Pumping Plan ( incl. Arrangement of fuel oil and diesel oil pipes concerning 
+
+   USCG requirement ) ※  Fire Control and Life Saving Plan ( depending on IMO standard mark ) 
+
+※  Muster plan ( Owner supply ) 
+
+※  ----- Number of copy shall be decided as per rule requirement. 
+
+One (1) copy of maneuvering information sheet concerning USCG requirement and damage control plan shall be furnished with card case in wheelhouse. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G7 - 4e 
+
+7.4    SUPERVISION
+
+The Vessel shall be constructed and equipped under the supervision of the Classification Society's surveyor and the Owner's supervisor according to the Builder's construction schedule. 
+
+The matters requested by the crew of the Vessel shall be submitted to the Builder after summarized by the Owner's supervisor. 
+
+7.5    DELIVERY
+
+The Vessel shall be delivered by the Builder to the Owner at the shipyard, unless otherwise agreed, not later than the date of delivery defined in the Contract. 
+
+When the Vessel has been completed ready for service, has passed the tests and has been certified as prescribed in the Specifications, the Vessel shall be delivered to the Owner. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+G8 - 1e 
+
+SECTION 8    OWNER FURNISHED EQUIPMENT
+
+(1)  The following articles shall be supplied and stowed directly on the Vessel by  
+ 
+
+the Owner with necessary instruction books, and the Builder is not responsible for these articles. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+  
+
+  
+ 
+
+ 
+
+ 
+
+(a)  Nautical instruments, in addition to those specified in the Specifications 
+
+(b)  All bedding ( blankets, covers, etc., except mattresses, pillows and covers ) 
+
+(c)  All napery ( serviette etc. ) 
+
+(d)  All cook's and steward's utensils ( silver wares, dishes, glasses, pots, pans, etc. ) 
+
+(e)  All chandleries ( soaps etc. ) 
+
+(f)  All charts, sailing books and flags in addition to those specified in the  
+
+Specifications 
+
+(g)  All consumable stores 
+
+(h)  Medical and surgical instruments as well as medicines 
+
+(i)  Mooring ropes in addition to those specified in the Specifications 
+
+(j)  Fireman's outfit in addition to those specified in the Specifications 
+
+(k)  Boatswain's and work shop stores and stationery other than those specified in the  
+
+Specifications 
+
+(l)  All lubricants 
+
+(m)  Canvas covers except the manufacturer's or the Builder's supply 
+
+(n)  Portable apparatuses for IMSBC Code such as a gas detector(s) and litmus  
+
+papers, etc. 
+
+(o)  Personal protection tool from dust of the cargo for IMSBC Code such as  
+ 
+
+protective clothing, goggles or other equivalent dust eye-protection and dust filter masks, as necessary 
+
+(p)  Suez Canal searchlight 
+
+(q)  Four (4) sets of grab buckets 
+
+Remarks : A portable atmosphere testing instrument for enclosed space which shall be supplied by the Builder can be used as a gas detector for coal and brown coal briquettes required by IMSBC Code. 
+
+(2)  The Builder’s crane will assist in such transportation to the Vessel in accordance with 
+
+the schedule which is decided previously by the Owner and the Builder.
+
+IMABARI SHIPBUILDING CO., LTD
+
+G9 - 1e 
+
+SECTION 9    MATERIAL AND SUBCONTRACTOR
+
+The material and apparatus shall be in accordance with the Japanese Industrial Standard (JIS) or equivalent standard and/or Imabari Standard (IS) and/or the manufacturer's standard, except otherwise specified. 
+
+The Builder may employ subcontractors for execution of the work of the Vessel and may purchase the material and apparatus from the subcontractors including part manufacturers under the responsibility of the Builder. 
+
+Subcontractors of material and apparatus to be purchased shall be chosen at the Builder's option, as far as their products are in compliance with the requirements of the Classification rules and other regulations described in the Specifications. 
+
+Those products shall be made in accordance with the subcontractors' practice having their option for adopting part manufacturers. 
+
+The Builder shall submit to the Owner the list of subcontractors for major items such as machinery, equipment, outfittings, etc. 
+
+The Contract shall be based on the condition that those subcontractors will be employed. When two (2) or more subcontractors on one (1) item are proposed by the Builder in the list, the Builder may choose one (1) of them. 
+
+When the subcontractors specified in the Specifications and above-mentioned lists are changed at the Owner's request, the Vessel's Contract price shall be adjusted according to the difference in prices. 
+
+When any material, apparatus and equipment specified in the Specifications can not be obtained, the Builder shall be allowed to use available substitutes with approval of the Owner. 
+
+As regards the warranty of quality, the Contract clause shall be referred to. 
+
+Any details of the particulars including material, described in the Specifications, for subcontractors'/manufactures' machinery and equipment may be subject to change due to the current standards of those subcontractors/manufactures finally adopted. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+

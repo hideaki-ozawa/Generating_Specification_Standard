@@ -1,0 +1,79 @@
+13.4  ALARM SYSTEM .
+
+Alarm of machinery located in engine room shall be able to recognize by alarming and 
+indicating lamps in the engine control room.
+
+On the control console, some auxiliary machines shall be controlled and there shall be 
+provided annunciators for pressure, temperature and level.
+
+Pressure gauges shall be of electric type or direct Bourdon type.
+
+The running indicator and alarm shall be carried out as follows.
+
+        Alarm.
+
+ Condition.
+
+Running 
+indication.
+
+Press., temp., level 
+and other alarm.
+
+Lamp Lamp Buzzer.
+
+Normal.
+
+Light 
+(Green).
+
+Go out.
+
+Silence.
+
+Abnormal.
+
+Go out.
+
+Flickering 
+(Red).
+
+Sound.
+
+Push the buzzer  
+stop button.
+
+Go out.
+
+Flickering 
+(Red).
+
+Silence.
+
+Push the flicker 
+stop button.
+
+Go out.
+
+Light 
+(Red).
+
+Silence.
+
+Return to 
+normal.
+
+Light.
+
+Go out.
+
+Silence.
+
+An alarm buzzer shall be provided on the control console.
+
+A buzzer stop push button and flicker stop push button shall be provided for all alarms, 
+and shall be provided on the control console.
+
+As for details of alarming and instruments which are contained in the engine control room, 
+refer to Subsection 13.5 INSTRUMENTATION AND CONTROL IN ENGINE 
+CONTROL ROOM.

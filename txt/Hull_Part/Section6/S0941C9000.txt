@@ -1,0 +1,943 @@
+SECTION 6    PAINTING AND CATHODIC PROTECTION
+
+6.1    GENERAL
+
+Material of paints shall be of base synthetic resin type in general. 
+
+Paints used throughout the vessel shall be of marine paint. 
+
+As for PSPC, refer to SUBSECTION 6.6 PERFORMANCE STANDARD FOR PROTECTIVE COATINGS FOR DEDICATED SEA WATER BALLAST TANKS. 
+
+6.2    COLOUR SCHEME
+
+Finished colour scheme shall be furnished by the Owner prior commencement of design works, but colour scheme for deck machineries, etc. shall be as follows : 
+
+ 
+
+  Windlass, mooring winch, etc. on weather part  
+  Air conditioning unit, ref. provisions machine  
+
+ 
+
+Mansell No. ---- Red (CS-511) 
+
+Mansell No. ---- 7.5 BG 7/2 
+
+As for main and auxiliary machinery in engine room and electric equipment, refer to the description inⅢ- MACHINERY PART andⅣ- ELECTRIC PART respectively. 
+
+6.3    PRIMARY SURFACE PREPARATION AND SHOP PRIMER
+
+The steel plates and section steels of 5  ㎜ and above in thickness for hull structural members which are to be coated with paint shall be shot-blasted to remove mill scale and rust. 
+
+Other steel plates and section steels, equipment, pipes, forgings, etc. shall not be shot-blasted. 
+
+Generally, the grade of surface preparation shall be of Sa.2.5 of SIS ( Swedish Standard SIS 055900-1967 ) for steel plates and Sa.2 for section steels. 
+
+Steel surfaces treated by the shot-blasting shall be coated immediately after the blasting, with one (1) coat of shop primer except otherwise specified to prevent rusting during the construction. 
+
+As to steel surfaces other than shot-blasting is specified, the steel surfaces shall be cleaned prior to painting by disc sanders and/or wire brushes manually in accordance with the Builder’s practice. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H6 - 2 
+
+6.4    SECONDARY SURFACE PREPARATION
+
+Steel surface shall be cleaned prior to painting by disc sander and/or wire brushes manually according to the Builder’s practice. 
+
+The grade of surface preparation shall be as follows : 
+
+Compartment
+
+Outside of shell and tankStructure and outfitting in weather partInterior area
+
+Damaged part
+
+Pt2Pt2 Pt1
+
+Processed part
+
+Pt2.5Pt2 Pt1
+
+The grade of surface preparation in above list shall be based on JSRA SPSS 1998 ( Standard for the Preparation of Steel Surface prior to Painting ). 
+
+Damaged part means steel surface having white zinc salt or rust in the form of spots. 
+
+Processed part means steel surface in way of hand welding, automatic welding or gas burning. 
+
+Surface treatment shall not be made to the area of F.O. tank, D.O. tank, etc. where rust preventive oil shall be coated. 
+
+The edges and corners of steel structure in fresh water tanks and drinking water tank except rolled sections shall be treated by builder’s standard procedure. ( One pass grinding ) 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H6 - 3 
+
+6.5    PAINTING
+
+Painting schedule shall be as shown on SUBSECTION 6.7 PAINTING SCHEDULE. 
+
+Painting work shall be performed by airless spray as far as possible, and where the use of airless spray is restricted due to lack of working spaces, etc., roller and/or hand brush shall be used. 
+
+Generally, shop primer shall not be touched up wherever taken off due to burnt damage or mechanical damage after fabrication. 
+
+However, in case when over-coating is impracticable immediately after cleaning due to the Builder’s construction schedule, shop primer shall be touched up. 
+
+Generally, galvanized parts, chromium plated parts, brass, bronze, aluminium, stainless steel, plastics, glass, rubber, copper, wooden shelf, etc. shall not be coated with paint except otherwise specified. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H6 - 4 
+
+Application of stripe coat except the water ballast tanks 
+
+Stripe coat shall be applied by brush painting to edge part of following items in fresh water tank and drinking water tank before or after application of the first coat. 
+
+Standard of stripe coat application 
+
+Item 
+
+Air hole:(1) Drain hole:(2) Bracket end:(3) Snipped end of face plate:(4) Lightening hole:(5) Longitudinal (Built up) Longitudinal (Angle) Back of Longitudinal Manhole and access hole 
+
+Treatment 
+
+Grinding 
+
+One (1) pass One (1) pass One (1) pass One (1) pass One (1) pass One (1) pass 
+
+−
+
+−
+
+One (1) pass 
+
+Stripe coat 
+
+○
+
+○
+
+○
+
+○
+
+○
+
+−
+
+−
+
+−
+
+○
+
+Note:  
+ 
+
+  
+
+1. The corner of round section shall not be considered as free edge. 2. Area corresponding to each item: (1)-(5) are illustrated in next page. 3. Meanings of symbols ; applied 
+
+○  :   
+
+−  :   
+
+not applied 
+
+4. For holes of diameter 200mm and below, spray shall not be applied, but 
+
+touch up paint shall be applied. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H6 - 5 
+
+Areas where stripe coat to be applied.
+
+Stripe coat shall be applied to areas shown in the sketch below. 
+
+(1)  Air hole (2)  Drain hole (3)  Bracket end (4)  Snipped end of face plate (5)  Lightening hole 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H6 - 6 
+
+6.6    PERFORMANCE STANDARD FOR PROTECTIVE COATINGS FOR DEDICATED SEA WATER BALLAST TANKS
+
+6.6.1    General
+
+Performance Standard for Protective Coatings (PSPC) for dedicated sea water ballast tanks required by IMO shall be applied. 
+
+6.6.2    Primary surface preparation and shop primer
+
+The grade of surface preparation shall be of Sa.2.5. 
+
+Shop primer shall be of zinc containing inhibitor free zinc silicate based or equivalent. Compatibility with main coating system shall be confirmed by the paint manufacturer. 
+
+6.6.3    Secondary surface preparation
+
+Secondary surface preparation shall be applied by shot blast Sa 2.5 to damaged part of shop primer and welded bead in the water ballast tanks. 
+
+The retained shop primer shall be cleaned by sweep blasting, high pressure water washing or equivalent method. 
+
+After erection, St 3 or better or Sa 2.5 where practicable shall be applied to butts. St 3 shall be applied to small damages up to 2% of total area shall be applied by mechanical tools. However, contiguous damages over 25m2 or over 2% of total area of the water ballast tank, shot blast Sa 2.5 shall be applied. 
+
+Edges inside the water ballast tanks shall be treated to a rounded radius of minimum 2mm, or smoothed by three (3) pass grinding or at least equivalent process before painting. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H6 - 7 
+
+6.6.4    Painting
+
+Nominal dry film thickness of epoxy based paint shall be 320μ  in the water ballast tanks. 
+
+Stripe coat shall be applied to edges and corners of steel structure in the water ballast tanks as per GUIDELINE FOR IMPLEMENTATION OF PERFORMANCE STANDARD OF PROTECTIVE COATINGS. 
+
+Dry film thickness in the water ballast tanks shall be such that 90% of the measurement points shall be greater than or equal to the specified thickness and none of the remaining 10% shall be below 90% of the specified thickness. 
+
+6.6.5    Inspection
+
+Inspections thereto shall be carried out by the qualified inspector(s) of the builder and/or the qualified inspector(s) appointed by the builder, whose determination shall be deemed final so far as the application of the PERFORMANCE STANDARD FOR PROTECTIVE COATINGS to the vessel is concerned, under GUIDELINE FOR IMPLEMENTATION OF PERFORMANCE STANDARD FOR PROTECTIVE COATINGS.
+
+IMABARI SHIPBUILDING CO., LTD
+
+6.7 PAINTING SCHEDULE
+
+( 1 ) OUTSIDE SHELL, RUDDER, ETC. ( 1/1 ) 
+
+Place 
+
+Flat part ( up to bilge keel level ) Riser part ( between bilge keel level and ballast W.L. ) 
+
+Bottom area 
+
+Boottop area ( between ballast W.L. and load W.L. ) Topside area ( above load W.L. ) Rudder 
+
+Outside Inside Outside Inside 
+
+Stern frame Rudder trunk 
+
+Number of coat 
+
+1 
+
+PE A/C  SP A/F 
+
+SP A/F 
+
+2 
+
+＊
+
+3 
+
+＊
+
+PE A/C  SP A/F 
+
+＊
+
+SP A/F 
+
+＊
+
+PE A/C  AR B/T  AR B/T 
+
+PE A/C  AR T/S  AR T/S 
+
+ME 
+
+ME ME 
+
+- 
+
+- - 
+
+Similar to shell 
+
+Similar to shell 
+
+- 
+
+- - 
+
+H6 - 8 
+
+4 - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+5 - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+＊---- Total 30 months (Low friction type) 
+
+IMABARI SHIPBUILDING CO., LTD
+
+( 2 ) SUPERSTRUCTURES AND DECK FITTING IN WEATHER PART ( 1/1 ) 
+
+H6 - 9 
+
+Place 
+
+Upper deck, F’cle deck Accommodation area decks Under machinery ( within coaming ) Under covering Accommodation house    *3 ( out side ) 
+
+Hatch cover 
+
+Hatch coaming 
+
+Funnel *1 
+
+Mast and   post 
+
+Outside Inside 
+
+(cargo hold side) 
+
+Void space 
+
+Outside Inside 
+
+(cargo hold side) 
+
+Outside Inside Outside Inside Outside Inside 
+
+Ventilator Deck machinery foundation Mooring fittings, etc. 
+
+Galv. pipe Other than 
+
+Outside of pipe Deck machinery ( windlass, mooring winch, boat davit ) *1 
+
+above 
+
+1 
+
+2 
+
+BTE AR D/P 
+
+Number of coat 3 - - - 
+
+BTE BTE BTE ( HB )                           No coating 
+
+AR D/P 
+
+- 
+
+BTE BTE BTE 
+
+AR F/P 
+
+BTE AR D/P 
+
+- 
+
+                          No coating 
+
+BTE 
+
+BTE AR D/P 
+
+BTE 
+
+BTE H/R BTE 
+
+BTE BTE BTE 
+
+- 
+
+AR F/P 
+
+H/R 
+
+BTE AR D/P 
+
+- 
+
+BTE 
+
+BTE AR D/P 
+
+- - - 
+
+- 
+
+- 
+
+- - - 
+
+- - - 
+
+4 - - - 
+
+- - - 
+
+- 
+
+- 
+
+- - - 
+
+Remarks BTE total: (160μ)
+
+BTE total: (160μ)
+
+(160μ) *2 
+
+BTE total: (160μ)(160μ) *2 BTE : (160μ)
+
+BTE total: (160μ), *4
+
+- - - 
+
+BTE total: (160μ)
+
+No coating 
+
+Similar to circumference 
+
+Finish paint to be similar to circumference 
+
+Similar to circumference 
+
+Maker standard 
+
+Outside of exh. gas pipe --- H/R  ×  2 coat Inside of exh. gas pipe Under insulation   No.3 cargo hold ---(250μ) Reverse side of bridge wing --- BTE(HB) (250μ)+ AR F/P Radar mast --- BTE(160μ) + AR F/P 
+
+--- No coating --- No coating 
+
+ *2 *3 *4 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H6 - 10 
+
+Remarks 
+
+4 - - - - 
+
+- - - - - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - - - - - 
+
+  ( 3 ) ACCOMMODATION SPACE & STORES ( 1/2 ) 
+
+Living, Public, Office, Corridor space 
+
+Commissary, Sanitary space 
+
+Place 
+
+Ceil- ing 
+
+Wall 
+
+Floor 
+
+Ceil- ing 
+
+Wall 
+
+Floor 
+
+Bare steel Under insulation Bare steel Under insulation Under covering Within gutter way Bare steel Under insulation Bare steel Under insulation Under covering Within gutter way 
+
+Emer. Fire pump room, Air con. & ref. Mach.   room, Emer. gene. room, Steer. gear room 
+
+Ceiling, Wall 
+
+Floor 
+
+Under machinery 
+
+Within coaming 
+
+Provisions store 
+
+Ceil- ing 
+
+Wall 
+
+Floor 
+
+Bare steel Under insulation Bare steel Under insulation Bare steel Under covering 
+
+Number of coat 
+
+2 F/P - F/P - 
+
+- F/P - F/P - 
+
+- 
+
+F/P 
+
+D/P 
+
+- 
+
+1 
+
+R/P(HB)
+
+R/P (HB) R/P(HB)
+
+R/P (HB) 
+
+BTE (HB) R/P(HB)
+
+R/P (HB) R/P(HB)
+
+R/P (HB) 
+
+BTE (HB) R/P (HB) R/P (HB) BTE (HB) BTE (HB) R/P(HB)
+
+R/P (HB) R/P(HB)
+
+- F/P - F/P - R/P(HB) D/P 
+
+R/P (HB) 
+
+3 - - - - 
+
+No coating 
+
+- - - - - 
+
+No coating 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - - - - - 
+
+No coating 
+
+IMABARI SHIPBUILDING CO., LTD
+
+( 3 ) ACCOMMODATION SPACE & STORES ( 2/2 ) 
+
+Battery room  Ceiling, Wall, 
+
+Floor 
+
+Place 
+
+Ceiling, Wall Floor 
+
+Ceiling, Wall 
+
+Floor 
+
+Ceiling, Wall 
+
+Floor 
+
+1 
+
+BTE 
+
+BTE BTE (HB) 
+
+Bare steel 
+
+R/P (HB) 
+
+Bare steel Bare steel  R/P(HB) Under insulation Bare steel  R/P(HB) Under covering Bare steel Bare steel Within coaming 
+
+BTE BTE BTE (HB) 
+
+Ref. prov. chamber 
+
+Store 
+
+Deck house, Bos’n store 
+
+Number of coat 
+
+2 - 
+
+3 - 
+
+- 
+
+- F/P - D/P 
+
+- - - 
+
+- 
+
+- - - - 
+
+No coating 
+
+- - - 
+
+H6 - 11 
+
+Remarks 
+
+4 - 
+
+- 
+
+- - - - 
+
+- - - 
+
+( 4 ) CARGO HOLD ( 1/1 ) 
+
+Place 
+
+Ceiling Wall* Tank top Bilge well 
+
+1 
+
+BTE BTE 
+
+Number of coat 2 3 - - - - 
+
+BTE (HB) 
+
+ 
+
+No coating 
+
+ 
+
+4 - - 
+
+ 
+
+Remarks 
+
+(160μ)(160μ)
+
+(250μ) 
+
+*    Including hopper part 
+
+Except No.3 cargo hold, for which refer to ( 6 ). 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H6 - 12 
+
+Remarks 
+
+4 - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Number of coat 
+
+2 F/P 
+
+3 - 
+
+- 
+
+F/P 
+
+- 
+
+- 
+
+D/P 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+No coating ( except ceiling ) 
+
+- - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+No coating 
+
+No coating No coating 
+
+F/P 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+1 R/P (HB) R/P (HB) R/P (HB) R/P (HB) BTE (HB) R/P (HB) BTE (HB) D/P 
+
+BTE (HB) BTE (HB) BTE (HB) 
+
+F/P 
+
+R/P (HB) R/P (HB) 
+
+( 5 ) ENGINE ROOM ( 1/1 ) 
+
+Place 
+
+Ceiling 
+
+Bare steel Under insulation Bare steel Under insulation Under lower floor  Bare steel Engine flat 
+
+Above lower floor 
+
+Top of double bottom Top Checkered plate Under Under machinery ( within coaming ) Machinery foundation 
+
+Bilge well Under covering Galv. pipe  Above floor Under floor Steam pipe 
+
+Other than above 
+
+Above floor Under floor   and under insulation 
+
+Wall 
+
+Floor 
+
+Outside of pipe 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H6 - 13 
+
+(250μ) Block stage only Block stage only Total(200μ) Average 300μAverage 300μ
+
+- - 
+
+- 
+
+- 
+
+- 
+
+(250μ) 
+
+(100μ) 
+
+(250μ) 
+
+1 
+
+Number of coat 2 3 
+
+Remarks Refer to SUBSECTION 6.6 PERFORMANCE STANDARD FOR PROTECTIVE COATINGS FOR DEDICATED SEA WATER BALLAST TANKS.- - 
+
+ME R/O 
+
+- - 
+
+- - 
+
+4 
+
+R/O P/E 
+
+P/E ( N ) P/E ( N ) 
+
+ME BTE 
+
+BTE 
+
+- P/E - - - - 
+
+- 
+
+- - - - - - 
+
+- 
+
+No coating (inside clean) 
+
+ME 
+
+BTE(HB) 
+
+BTE(HB) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - - - - - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+  ( 6 ) TANKS ( 1/1 ) 
+
+Place 
+
+Water ballast tank 
+
+Dirty water tank Fuel oil tank 
+
+Diesel oil tank L. O. sump tank Fresh water tank Drinking water tank Chain locker Cofferdam 
+
+Void space 
+
+With manhole Without manhole 
+
+Bilge sludge tank Ceiling and wall* Tank top 
+
+No.3 cargo hold 
+
+Bilge well  BTE(HB) 
+
+*    Including hopper part 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H6 - 14 
+
+    Abbreviation 
+
+PE A/C SP A/F  
+ AR B/T AR T/S 
+
+ME BTE PE AR U PE (N) 
+
+R/P F/P D/P H/R R/O O/L 
+
+(HB) 
+
+Epoxy type anti-corrosive paint Self-polishing type anti-fouling paint not containing TBT 
+
+        (low friction type) 
+
+Acrylic resin boot-top paint Acrylic resin top side paint 
+
+Modified epoxy paint Modified epoxy paint Pure epoxy paint Acrylic resin paint Polyurethane paint Non solvent type pure epoxy paint ( Shipyard standard ) 
+
+Rust preventive primer Finish paint Deck paint Heat resisting paint Rust preventive oil Alkyd resin paint 
+
+High-build type 
+
+Note The dry film thickness in parenthesis shows only aim figure for reference. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H6 - 15e 
+
+6.8    GALVANIZING
+
+Small steel fittings coming into contact with wood, canvas and fiber ropes including items described below shall be galvanized. 
+
+Galvanizing shall be carried out initially by hot dipping in principle and shall be touched up with zinc rich paint during outfitting work, where damaged except inside of pipe. 
+
+As for steel plate of 1.6 mm and below in thickness galvanized steel sheet shall be used instead of hot dipping galvanization. 
+
+ 
+
+  
+  
+  
+ 
+
+Galvanized fitting : 
+
+Hand rails for ladder in weather part Top rails for hand rail Steel fitting for refrigerating provisions chamber Steel parts of table and dresser in galley Levers for steel door clips in weather part Fittings for accommodation ladder Fittings for pilot assistant ladder 
+
+6.9    CATHODIC PROTECTION
+
+Suitable number of anode (30 months life) shall be fitted on stern part, sea chest and rudder. 
+
+The anodes shall be fitted with stainless steel bolts and nuts. 
+
+The anodes shall not be fitted in water ballast tanks. 

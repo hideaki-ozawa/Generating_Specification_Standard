@@ -1,0 +1,1465 @@
+H8 - 1 
+
+SECTION 8    PIPING SYSTEM 
+
+  
+8.1    GENERAL  
+Description of Hull part Specifications shall cover all piping system outside of engine room, however CO2 fire extinguishing pipe, deck scupper and plumbing drainage passing through engine room shall be as described in this section.  
+8.1.1    Standard  
+Pipes, valves, cocks, joints, schedule of threads, etc. which are to be fitted throughout the Vessel shall be in accordance with the Japanese Industrial Standard ( JIS ) or equivalent standard and the Builder’s standard, except otherwise specified.  
+8.1.2    Leading procedure  
+Piping shall be designed to allow for stress due to thermal expansion and deflection of the Vessel’s structure and shall be adequately protected against mechanical injury.  
+Pipes shall be led with minimum number of bend as far as practicable. Welded sleeve joint and butt welded joint shall be applied for steel pipe except where necessary to provide flange, union, sleeve coupling and expansion joints for repairing.  
+Pipe passing through watertight bulkhead, deck or tank top plate shall be in accordance with the Builder’s practice. Penetration piece welded to insulated plate shall have sufficient length to permit access to joint without disturbing insulation.  
+Outboard discharge pipes shall be welded to side shell directly.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 2 
+
+8.1.3    Processing  
+Bending work for pipes shall be carried out by electro-hydraulic bender in general.  
+The bending radius at center line of bend of steel pipe shall be about two (2) times of nominal diameter in principle and that of elbows shall be about one (1) time of the nominal size as the manufacturer’s standard.  
+Steel elbows shall be used for the steel pipes where the small bending radius is applied as necessary.  
+Bending radius of copper pipe shall be about three (3) times of pipe diameter.  
+8.1.4    Support  
+In general, pipe shall be supported by U-bolt clip or band without sliding pad.  
+8.1.5    Pipe size and thickness  
+Pipe size of steel, copper, P.V.C. and stainless steel pipes shall be in accordance with the attached TABLE 8 - 1 respectively.  
+Pipe diameter described in the Specifications means“Nominal diameter”except where specially noted.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 3 
+
+8.1.6    Material and application  
+Material, joint, etc. shall be in accordance with the TABLE 8 - 2 PIPING APPLICATION SCHEDULE ( HULL PART ).  
+The steel pipes except the following shall be galvanized.  
+
+( 1 )  Air escape and sounding pipe in fuel oil tank, diesel oil tank and lubricating oil 
+
+tank 
+
+( 2 )  Filling pipe for fuel oil, diesel oil and lubricating oil ( 3 )  Steam and exhaust pipes ( 4 )  Pipes in way of oil tank ( 5 )  Hydraulic oil pipes ( 6 )  Inside of cooling pipe for lobby of provisions ref. chamber 
+
+ Galvanizing shall be carried out after fabricated with flange by welding, but where impracticable or damaged part shall be coated with zinc paint on board the Vessel.  
+8.1.7    Insulation and lagging  
+As for the insulation and lagging of pipe, refer to   Table 8 - 3 PIPING INSULATION AND LAGGING. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+  
+
+ 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 4 
+
+TABLE 8 - 1    PIPE TABLE ( 1/4 ) ( STEEL PIPE ) 
+
+Nominal diameter 
+
+10 15 20 25 32 40 50 65 80 100 125 150 200 250 300 350 400 450 500 550 600 
+
+Outside diameter 
+
+17.3 21.7 27.2 34.0 42.7 48.6 60.5 76.3 89.1 114.3 139.8 165.2 216.3 267.4 318.5 355.6 406.4 457.2 508.0 558.8 609.6 
+
+SGP 2.3 2.8 2.8 3.2 3.5 3.5 3.8 4.2 4.2 4.5 4.5 5.0 5.8 6.6 6.9 7.9 7.9 7.9 - - - 
+
+Unit :  ㎜ 
+
+Pipe wall thickness Sch80 Sch40 2.3 3.2 3.7 2.8 3.9 2.9 3.4 4.5 4.9 3.6 5.1 3.7 3.9 5.5 7.0 5.2 7.6 5.5 6.0 8.6 6.6 9.5 11.0 7.1 8.2 12.7 12.7＊ 9.3 12.7＊ 9.5＊ 9.5＊ 12.7＊ 9.5＊ 12.7＊ 9.5＊ 12.7＊ 9.5＊ 12.7＊ 9.5＊ 12.7＊ 9.5＊ 12.7＊ 
+
+Sch160 
+
+- 4.7 5.5 6.4 6.4 7.1 8.7 9.5 11.1 13.5 15.9 18.2 18.2＊ 18.2＊ 18.2＊ 18.2＊ 18.2＊ 18.2＊ 18.2＊ 18.2＊ 18.2＊ 
+
+STPY-400E shall be adopted for * marked size pipe. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+
+ 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 5 
+
+TABLE 8 - 1    PIPE TABLE ( 2/4 ) ( COPPER PIPE ) 
+
+Outside diameter 
+
+6 8 10 15 20 25 32 40 45 50 
+
+Pipe wall thickness 
+
+Unit :  ㎜ 
+
+1.57 MPa (16  ㎏/㎝ 2) 
+
+& below 
+
+1.0 1.0 1.0 (1.5) 1.2 1.2 1.5 1.5 2.0 2.0 
+
+8.8 MPa 
+
+(90  ㎏/㎝ 2) 
+
+& below 
+
+1.0 1.0 1.2 - - - - - - - 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 6 
+
+TABLE 8 - 1    PIPE TABLE ( 3/4 ) ( P.V.C. PIPE ) 
+
+Nominal diameter 
+
+Outside diameter 
+
+13 16 20 25 30 40 50 65 75 100 125 150 
+
+18 22 26 32 38 48 60 76 89 114 140 165 
+
+  Unit :  ㎜ 
+
+Pipe wall thickness 
+
+V U 
+
+- - - - - 1.8 1.8 2.2 2.7 3.1 4.1 5.1 
+
+V P 2.2 2.7 2.7 3.1 3.1 3.6 4.1 4.1 5.5 6.6 7.0 8.9 
+
+H T 2.5 3.0 3.0 3.5 3.5 4.0 5.0 5.0 5.8 7.0 8.2 9.7 
+
+Note :  VU  ---  Nominal pressure      0.49 MPa (5 ㎏/㎝ 2) ---  Nominal pressure      0.98 MPa (10 ㎏/㎝ 2)  
+ ---  For hot water piping 
+
+VP HT 
+
+HT class pipes shall not be in accordance with the Japanese   Industrial Standard ( JIS ). 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+  
+
+     
+
+ 
+
+H8 - 7 
+
+TABLE 8 - 1    PIPE TABLE ( 4/4 ) ( STAINLESS STEEL PIPE ) 
+
+Nominal diameter 
+
+Outside diameter 
+
+6 8 10 15 20 25 32 40 50 65 80 
+
+10.5 13.8 17.3 21.7 27.2 34.0 42.7 48.6 60.5 76.3 89.1 
+
+Pipe wall thickness 
+
+Unit :  ㎜ 
+
+Sch 5s 1.0 1.2 1.2 1.65 1.65 1.65 1.65 1.65 1.65 2.1 2.1 
+
+Sch 10s 1.2 1.65 1.65 2.1 2.1 2.8 2.8 2.8 2.8 3.0 3.0 
+
+Sch 20s 1.5 2.0 2.0 2.5 2.5 3.0 3.0 3.0 3.5 3.5 4.0 
+
+Sch 40 1.7 2.2 2.3 2.8 2.9 3.4 3.6 3.7 3.9 5.2 5.5 
+
+Sch 80 2.4 3.0 3.2 3.7 3.9 4.5 4.9 5.1 5.5 7.0 7.6 
+
+Sch 160 - - - 4.7 5.5 6.4 6.4 7.1 8.7 9.5 11.0 
+
+ Note :            mark ----- For pressure line    8.8 MPa ( 90 ㎏/㎝ 2) & below.                       mark ----- For pressure line    24.5 MPa ( 250  ㎏/㎝ 2) & below.  
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H8 - 8 
+
+TABLE 8 - 2    PIPING APPLICATION SCHEDULE ( HULL PART 1/4 ) 
+
+NominalpressureMPa 
+
+(  ㎏/㎝ 2 )
+
+- 
+
+0.49 (5) 
+
+0.98 (10) 
+
+- 
+
+- 
+
+- 
+
+System 
+
+Bilge line Ballast line Fuel oil filling line Fresh water filling line Air escape pipe Sounding pipe Fire hyd. line (wash deck line) Electric cable pipe CO2 line (CO2 cylinder  to selection valve) CO2 discharge pipe (Selection valve to discharge nozzle) 
+
+Nominal diameter 
+
+Pipe 
+
+material 
+
+Thick. 
+
+Joint 
+
+Remarks
+
+STPG-370E
+
+＊Sch 80 Sch 40 
+
+All size 
+
+SGP 
+
+- 
+
+50 & below STPG-370E Sch 80 STPG-370E Sch 40 
+
+65 , 80 
+
+100 & above 
+
+SGP 
+
+- 
+
+40 
+
+65 , 80 
+
+STPG-370E  Sch 80 STPG-370E Sch 40 
+
+SGP 
+
+- 
+
+STPG-370E Sch 80 
+
+All size 
+
+SGP 
+
+- 
+
+(＊1 ) 
+
+Flange Sleeve Butt 
+
+(＊2 ) 
+
+- 
+
+- 
+
+- 
+
+＊  ---- Only double bottom ( other : Sch 40 ) 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+    
+
+ 
+
+  
+
+ 
+
+     
+
+ 
+
+H8 - 9 
+
+TABLE 8 - 2    PIPING APPLICATION SCHEDULE ( HULL PART 2/4 ) 
+
+System 
+
+Nominal pressure 
+
+MPa 
+
+(㎏/㎝ 2) 
+
+Nominal diameter 
+
+Pipe 
+
+material 
+
+Thick. 
+
+Joint 
+
+Remarks
+
+Deck mach. and Hatch cover Valve remo. cont. sys. 
+
+Press. line 
+
+Return Line 
+
+Press. line 
+
+24.5 (250) 
+
+0.98 (10) 
+
+8.8 (90) 
+
+25 & below  STPG-370E Sch 80 
+
+32 & above STS-370S
+
+Sch160 
+
+All 
+
+STPG-370E Sch 40
+
+10 & below C1220T 
+
+- 
+
+Flange Sleeve Butt 
+
+Union coupling Sleeve 
+
+- 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 10 
+
+TABLE 8 - 2 PIPING APPLICATION SCHEDULE ( HULL PART 3/4 ) 
+
+System 
+
+Sea water service   line Fresh water service line Drink. water service line Hot water service line 
+
+gene.serv.line 
+
+Steam 
+
+tank heat.line 
+
+Compressed air pipe 
+
+Nominal pressure 
+
+MPa 
+
+(㎏/㎝ 2) 
+
+0.49 (5) 
+
+0.39 (4) 0.83 (8.5) 0.83 (8.5) 
+
+0.98 (10) 
+
+Nominal diameter 
+
+Pipe 
+
+material 
+
+Thick. 
+
+Joint  Remarks
+
+15 , 20 25 ~ 80 
+
+100 & above
+
+STPG-370E Sch 80  Flange STPG-370E Sch 40 Sleeve Butt 
+
+SGP 
+
+- 
+
+All size 
+
+P.V.C. 
+
+Flange Socket 
+
+V P 
+
+H T 
+
+10 & below15 ~ 65 
+
+C1220T 
+
+SGP 
+
+ST/WT  Flange Sleeve Butt 
+
+- 
+
+STPG-370S Sch 80  Sleeve 
+
+All size 
+
+SUS 
+
+Sch 40  Sleeve 
+
+STPG-370E ＊ Sch 80 
+
+Flange Sleeve Butt 
+
+ 
+
+- 
+
+- 
+
+In  fresh water tank 
+
+- 
+
+＊  ---- Only weather part ( other : SGP ) 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H8 - 11 
+
+TABLE 8 - 2    PIPING APPLICATION SCHEDULE ( HULL PART 4/4 ) 
+
+Nominal pressure 
+
+MPa 
+
+(㎏/㎝ 2) 
+
+Nominal diameter
+
+Pipe material
+
+Thick. 
+
+Joint 
+
+Remarks
+
+- 
+
+All size 
+
+SGP 
+
+- 
+
+P.V.C. (＊3) 
+
+V P 
+
+Sleeve Butt 
+
+Flange Socket Butt 
+
+(＊1 ) 
+
+ 
+
+System 
+
+Exposed deck scupper Interior sweat scup., Deck scup., Soil pipe & plumbing pipe 
+
+100 & below    ----    butt welded pipe ( SGP-B ) 125 & above    ----    election resistance welded pipe ( SGP-E ) 
+
+----  Carbon steel pipe for ordinary pipe  
+ 
+
+  
+Note :   1)  Symbols in abovementioned tables means as follows ; SGP  
+  
+  
+STPG-370  ----  Carbon steel pipe for pressure service  
+ STS-370   C1220T P.V.C.  
+ SUS304TP ----  Stainless steel pipe   E  
+S  
+2) 
+
+----  Electric resistance welded pipe ----  Seamless pipe 
+
+----  Carbon steel pipe for high pressure service ----  Phosphorous-deoxidized copper pipe ( seamless ) ----  Unplasticized polyvinyl chloride pipe 
+
+(* 1)    ----  The pipe thickness passing through unintended tank and compartment 
+
+shall be determined in compliance with the requirements of the Classification Society. 
+
+(* 2)    ----  The pipe thickness of suction line for emergency fire pump shall be 
+
+determined in compliance with the requirements of the Classification Society. 
+
+(* 3)    ----  Space of requirements of the rule    :    SGP 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+  
+
+  
+  
+
+ 
+
+     
+
+ 
+
+H8 - 12 
+
+TABLE 8 - 3    PIPING INSULATION AND LAGGING 
+
+Piping system 
+
+Nominal size (  ㎜  )
+
+Steam pipe 
+
+Steam drain pipe Freon return pipe for outside ref. prov. chamber Fresh water, Sea water, Wash deck pipe line in accommo. space Hot water 
+
+All size 
+
+Insulation and lagging Material 
+
+Thickness 
+
+(  ㎜  ) 
+
+Finish cover 
+
+20 
+
+- 
+
+20 
+
+- 
+
+Glass wool 
+
+  Glass cloth 
+
+- 
+
+        ＊1  ＊2
+
+  Glass cloth 
+
+  Synthetic   rubber 
+
+- 
+
+            ＊3Cotton canvas 
+
+- 
+
+- 
+
+*1 ---- Except flange *2 ---- Only frequently touched by human body. *3 ---- Ceiling only 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+ 
+
+ 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 13 
+
+8.2    PUMPING SYSTEM  
+8.2.1    Bilge system  
+Hold bilge system shall be as shown on   Fig. 8 - 1 DIAGRAM OF BILGE, BALLAST LINE.  
+One (1) main bilge line shall be led from each bilge well in cargo holds to engine room through double bottom tanks, and connected to the bilge / ballast pump, fire / G.S. pump and eductor.  
+The pipe shall have butterfly valve, non-return valve and fabricated galvanized rose box except No.5 cargo hold.  
+Branch line from No.5 cargo hold shall have a screw down non-return valve and fabricated galvanized rose box.  
+The butterfly valve shall be operated from upper deck by electro-hydraulic remote control system ( local operating type ) and can be operated in ambient temperature -20deg. C.  
+One (1) water eductor shall be provided for discharging bilge from chain locker, void space and bos’n store, and driving water for eductor shall be taken from wash deck line.  
+Bilge in steering gear room shall be led to bilge well in engine room by hand pump, and bilge in emergency fire pump room shall be led to bilge well in engine room by gravity. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 14 
+
+8.2.2    Water ballast system  
+Water ballast system shall be as shown on   Fig. 8 - 1 DIAGRAM OF BILGE, BALLAST LINE.  
+One (1) main ballast line for double bottom water ballast tanks, fore peak tank and aft. peak tank shall be provided and connected to the ballast pump in engine room.  
+Branch pipe for each double bottom ballast tank (except No.3 cargo hold) shall have stop valve which is operated on upper deck with electro-hydraulic remote control system and can be operated in ambient temperature -20deg. C and shall have steel fabricated bellmouth at the end.  
+Branch pipe for No.3 cargo hold shall have stop valve which is operated from upper deck with electro-hydraulic remote control system ( local operating type ) and can be operated in ambient temperature -20deg. C.  
+One (1) water eductor shall be provided in engine room to take suction from water ballast main line.  
+Ballast water treatment system (BWTS) shall be provided. Ballasting and de-ballasting operation with BWTS shall be assumed as follows;  
+Ballasting operation ・By ballast pump  
+De-ballasting operation ・By ballast pump ・By bilge & ballast pump ・By ballast eductor (Driving pump: bilge & ballast pump )  
+Above operations shall not be actuated simultaneously.  
+Ballasting operation by using bilge & ballast pump shall not be considered.  
+A Fire & G.S. pump shall not be used in conjunction with BWTS. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+H8 - 15
+
+ 
+
+ 
+
+ 
+
+PM
+UP
+TS
+AL
+LA
+BE
+GL
+IB
+
+HT
+m0
+7/
+02
+xh
+/3
+m0
+9/
+02
+2
+
+/
+
+ 
+
+ 
+
+  
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+PM
+UP
+TS
+AL
+LA
+B
+
+HT
+m5
+2x
+h/
+3m
+00
+9
+
+ 
+
+ 
+
+ET
+ON
+
+ 
+
+EN
+IL
+TS
+AL
+LA
+B
+
+ ,
+
+MY
+S
+
+LO
+B
+
+1P
+
+2P
+
+ET
+ON
+
+ 
+
+ME
+TS
+YS
+TN
+EM
+TA
+ER
+T
+
+MY
+S
+
+LO
+B
+
+ST
+WB
+
+h/
+3m
+00
+1
+
+ 
+
+h/
+3m
+05
+
+ 
+
+ 
+
+ 
+
+EG
+LI
+BF
+OM
+AR
+GA
+D1
+-8
+
+I
+
+ 
+
+ .
+gi
+F
+
+2P
+
+1P
+
+1P
+
+ST
+WB
+
+ST
+WB
+
+IMABARI SHIPBUILDING CO., LTD
+
+ 
+
+EV
+LA
+VE
+CA
+FR
+US
+
+DN
+AT
+SK
+CE
+D
+
+ 
+
+HT
+UO
+ML
+LE
+B
+
+ 
+
+XO
+BE
+SO
+R
+
+ 
+
+EV
+LA
+VN
+RE
+TE
+R
+
+-
+
+NO
+N
+
+ 
+
+).
+EP
+OL
+AU
+NA
+M
+
+(
+
+ 
+
+EV
+LA
+VN
+RE
+TE
+R
+
+-
+
+NO
+N
+
+)
+
+ 
+
+KC
+EH
+CG
+NW
+S(
+
+I
+
+EV
+LA
+VP
+OT
+S
+
+ 
+
+ 
+
+).
+EP
+OL
+AU
+NA
+M
+
+(
+
+EV
+LA
+VP
+OT
+S
+
+ 
+
+ 
+
+).
+EP
+OL
+AU
+NA
+M
+
+(
+
+ET
+ON
+
+MY
+S
+
+LO
+B
+
+ET
+ON
+
+MY
+S
+
+LO
+B
+
+ 
+
+EV
+LA
+VY
+LF
+RE
+TT
+UB
+
+) 
+
+ 
+
+ 
+
+/
+
+HW
+MO
+RF
+TU
+HS
+NE
+PO
+
+/
+
+(
+
+).
+
+.
+
+ 
+
+NO
+CM
+ER
+LA
+CO
+LT
+UH
+SN
+EP
+O
+
+/
+
+ 
+
+(
+
+ 
+
+ET
+ON
+
+EV
+LA
+VY
+LF
+RE
+TT
+UB
+M LY
+S
+
+LO
+B
+
+ 
+
+EV
+LA
+VY
+LF
+RE
+TT
+UB
+
+ 
+
+).
+EP
+OL
+AU
+NA
+M
+
+(
+
+H8 - 16
+
+P
+
+P
+
+T
+
+T
+
+T
+
+P
+
+T
+
+P
+
+ET
+ON
+
+LO
+BM
+YS
+
+ET
+ON
+
+LO
+BM
+YS
+
+IMABARI SHIPBUILDING CO., LTD
+
+ 
+
+EG
+UA
+GE
+RU
+TA
+RE
+PM
+ET
+
+ 
+
+EG
+UA
+GE
+RU
+SS
+ER
+P
+
+P
+
+T
+
+ 
+
+EC
+EI
+PE
+LP
+MA
+S
+
+) 
+
+ 
+
+GN
+IT
+AR
+EP
+OL
+AU
+NA
+M
+
+EV
+LA
+VY
+LF
+RE
+TT
+UB
+
+ 
+
+ (
+
+     
+
+ 
+
+H8 - 17 
+
+8.2.3    Fresh water and drinking water filling system  
+A fresh water and drinking water filling line and connection shall be provided with steel blank flange at both side of engine casing aft side.  
+8.2.4    Fuel oil, diesel oil and lubricating oil system  
+Fuel oil piping shall be as shown on Fig. 8 - 2 DIAGRAM OF F.O. & D.O. LINE.  
+Fuel oil filling connection shall be provided with a valve and steel blank flange at each side of accommodation house front on upper deck.  
+Each filling pipes of fuel oil and diesel oil shall be provided independently.  
+A lubricating oil filling connection shall be provided with a steel blank flange at each side of the accommodation house on upper deck.  
+Spill oil tank shall be provided at fuel oil and/or diesel oil and lubricating oil filling stations in compliance with the stipulation of USCG.  
+Volume (litter) shall be indicated to spill oil tank by welded bead and painted.  
+As for fuel oil lines in engine room and fuel oil transfer pump, refer to Ⅲ- MACHINERY PART.  
+8.2.5    Air escape pipe  
+Air escape pipes of suitable size shall be provided at all construction tanks, and shall be terminated above the weather deck in general as required by the Classification Society.  
+Each construction tank shall have one (1) or two (2) air escape pipes.  
+Air escape pipe head shall be of ball type in general, and stainless steel wire net screen shall be fitted as required by the regulatory bodies.  
+Spill oil tank shall be provided on weather deck in way of air escape pipe for fuel oil, diesel oil and lubricating oil tank in compliance with the stipulation of USCG.  
+Construction drawing of air escape pipe head shall be placarded to ship’s office.
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 18 
+
+8.2.6    Sounding pipe and sounding equipment  
+Sounding pipe shall be provided one (1) for each structural tanks, bilge well in holds, cofferdam, chain locker, etc. except fresh water tank and drinking water tank.  
+Sounding pipe shall be of 40A for water ballast tank, chain locker and peak tanks, 80A for fuel oil tanks and 65A for diesel oil tank in general.  
+Sounding pipes shall be led as straight as possible.  
+A striking plate or other effective device shall be fitted at the bottom of each sounding pipe.  
+Sounding pipe shall be terminated on suitable deck with sounding cap marked for identification.  
+Glass gauge shall be fitted for fresh water tanks and drinking water tank and sounding pipe shall not be provided. 
+
+ Temperature sensor for fuel oil tank shall be provided.
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 19 
+
+8.3    DRAIN AND SCUPPER  
+8.3.1    Weather deck scupper  
+Suitable number of scupper shall be fitted on the top of deck house and weather decks.  
+Drain from weather decks shall spill to lower weather deck, and to lowest weather deck, which shall be led overboard around the load water line keeping clear of accommodation ladder and pilot access area.  
+Scupper pipes from weather decks shall be led outsides of deck house.  
+Grating for weather deck scupper shall be of oval type in general, and suitable number of scupper plug ( screw type ) shall be supplied for fuel oil filling.  
+8.3.2    Plumbing and interior deck drain  
+Suitable number of scupper shall be fitted in accommodation.  
+Drain line of galley and refrigerated provisions chamber shall be provided independently and led to outboard through storm valve.  
+Other drain shall be gathered into several mains and led to outboard through a storm valve.  
+Scupper for gutter in accommodation space shall spill to lower interior deck, and to the lowest interior deck.  
+Scupper for washing of passage way in accommodation space shall be fitted.  
+Water seal type rose plate shall be fitted to drain holes for wetted space such as galley, refrigerated provisions chamber and other space, grating of oval type shall be fitted in general except sweat scupper. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 20 
+
+Soil pipes from water closets shall be gathered into mains having proper slope to the Vessel’s side and branched off to sewage treatment unit line and direct discharge line.  
+( a )  Sewage treatment unit line :  
+ 
+
+Sewage treatment unit line shall be led from main line to sewage treatment unit in engine room through three (3)-way changing over valve. 
+
+Capacity of sewage treatment unit shall have 25 persons and the sewage treatment unit shall be of MED type approval. 
+
+  
+
+ ( b )  Direct discharge line :  
+ 
+
+Direct discharge line shall be led from aforementioned main line to outboard through a storm valve. 
+
+ Treated water of sewage and gray water can be stored in clean drain tank and can be led from clean drain tank to dirty water tank by bilge & ballast pump.  
+8.3.3    Bottom plug  
+Each double bottom compartment and peak tanks except oil tanks shall be provided with a stainless steel bottom plug and mild steel boss welded to shell.  
+Bottom plug shall have 50 ㎜  diameter and arranged shall be screwed from outside of the vessel. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 21 
+
+8.4    FRESH AND SEA WATER SERVICE SYSTEM  
+8.4.1    General    
+Water service system shall consist of sea water, fresh water, drinking water and hot water system.  
+Sea water shall be served by continuous running system, and fresh water and drinking water shall be served by hydro-pneumatic system.  
+Pump and pressure tank shall be located in engine room.   As for particulars refer to  Ⅲ- MACHINERY PART.  
+Water service system shall be divided into sections to suit arrangement of accommodation.  
+8.4.2    Sea water service  
+Sea water shall be supplied to condenser of air con. and ref. provisions machine.  
+The sea water shall be supplied by ref. machine cooling sea water pump in engine room.  
+The cooling water line for electro-hydraulic pump unit shall be supplied by cooling sea water pump in engine room.  
+8.4.3    Fresh water service  
+Fresh water service of sanitary and general service line shall be provided.  
+Fresh water shall be supplied to upper deck on weather part, water closets, wash basins, showers, laundry, private lavatory, galley, pantry and washing nozzle for front glass of wheelhouse.  
+The system shall consist of one (1) fresh water service pump and one (1) pressure tank.  
+One (1) fresh water service main line shall be provided (sanitary and general service line shall be common used).  
+Fresh water service line on weather upper deck forward part near No.1 cargo hold shall be provided with drain valve of 15A, and suitable numbers of connection valve (15A) shall be fitted on upper deck.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 22 
+
+8.4.4    Drinking water service  
+Drinking water shall be supplied to galley, pantry, wheelhouse sink and water fountains through water sterilizer.  
+The capacity of water sterilizer shall be of about 1,000 liters/h, and installed in galley.  
+The system shall consist of one (1) drinking water pump and one (1) pressure tank.  
+8.4.5    Hot water service  
+Hot water shall be supplied to galley, pantry, wheelhouse sink, wash basin, hand wash basin, shower, and private lavatory.  
+The system shall consist of one (1) calorifier unit and one (1) circulating pump, necessary valve, etc.  
+Fresh water for hot water shall be supplied to calorifier unit from fresh water system.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 23 
+
+8.5    WASH DECK SYSTEM  
+Wash deck line shall be in common use with fire main line.  
+A chain wash line shall be branched from the wash deck line and led to each hawse pipe.  
+Branch with shut-off valves shall be arranged to drive eductor for bilge of bos’n store and chain locker.  
+An isolation valve shall be provided in front of accommodation.  
+One (1) hydrant shall be placed inside of the accommodation forward to permit connection for hold washing purposes. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 24 
+
+8.6    FIRE FIGHTING SYSTEM  
+8.6.1    Hydrant main system  
+The hydrant main system shall be led fore and aft in common use with wash deck line, which shall be served by one (1) bilge / ballast pump, one (1) fire / G.S. pump and emergency fire pump.  
+The pumps shall take suction from sea and discharge to the fire main system.  
+The fire main in accommodation shall be isolated from the fire main system on weather deck, and shut-off valves and drain valve of 15A shall be provided.  
+Fire hydrant (NAKAJIMA TYPE ) shall be of 65A for weather deck and engine room, 40A for inside accommodation.  
+Fire station shall have emergency stop switches for fans in engine room, emergency shut-off valve for fuel oil tank, etc.  
+Fire hydrant, fire hose, etc. shall be supplied by the rule requirement.  
+Spray nozzle for paint store shall be provided and the handling shall be of manual type.  
+As for the details of emergency fire pump, refer to   SUBSECTION 4.6 EMERGENCY FIRE PUMP.  
+As for the details of bilge & ballast pump and fire & G.S. pump, refer to Ⅲ- MACHINERY PART.  
+8.6.2    CO2 gas fire extinguishing system  
+A fixed type CO2 gas extinguishing system shall be provided for protection of engine room and cargo hold in compliance with the rule requirement.  
+CO2 gas bottles shall be arranged in CO2 bottle room.    
+CO2 gas discharge to engine room shall be done in CO2 bottle room.  
+CO2 gas discharge to cargo hold shall be done in CO2 bottle room.  
+The quantity of CO2 gas shall be sufficient to give a volume of free gas required by the rule.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H8 - 25e 
+
+8.7    STEAM AND EXHAUST PIPING SYSTEM  
+8.7.1    General service  
+Steam shall be used for galley, air con. unit and hot water heater.  
+Necessary drain traps with strainer shall be provided and exhaust pipe shall be led to the cascade tank in engine room.  
+A steam line shall be led in front of accommodation.  
+8.7.2    Tank heating  
+Fixed type heating lines shall be provided in fuel oil tanks and fresh water tank, and shall not be provided in diesel oil tanks.  
+Steam for heating lines shall be taken from auxiliary boiler in engine room and drain from the heating lines in fuel oil tanks, etc. shall be led back to cascade tank through a drain trap.  
+8.8    COMPRESSED AIR SYSTEM  
+Deck service compressed air line shall be led from the air reservoir in engine room to upper deck forward and branched to valve control stand, etc with drain valve of 15A.  
+Necessary hose connections shall be provided.  
+Air connections shall be provided on exposed water piping at high and low points.  
+8.9  TEMPERATURE PIPE  
+Temperature pipe of cargo hold shall be common used to hold bilge sounding pipe.  
+Independent temperature pipe shall not be provided. 
+
+8.10    WATER LEVEL DETECTORS AND DEWATERING SYSTEM  
+Water level detectors in each cargo hold, F.P.T. and boatswain store shall be provided.  
+Alarm panel shall be provided in wheelhouse.  
+Remote control system for drainage of boatswain store and F.P.T. shall be provided as per rule requirement.  
+
+IMABARI SHIPBUILDING CO., LTD 

@@ -1,0 +1,5 @@
+2.1  GENERAL .
+
+The main propulsion unit shall consist of MAN B&W marine diesel engine, 2-stroke, 
+single acting, direct reversible crosshead diesel engine with exhaust turbocharger 
+( model 6S50ME-B9 ).

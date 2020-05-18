@@ -1,0 +1,108 @@
+11.1  INSULATION .
+
+11.1.1  General.
+
+The external surface of the equipment and tanks which shall treat or contain the fluid 
+having temperature above 55℃, except for the jacket cooling fresh water system, lub. oil 
+system and boiler feed water line, shall be insulated as described below.  Jacket cooling 
+F.W. pipes in the location where people can easily touch shall be insulated.
+
+The insulation materials such as glass wool, rock wool, etc. shall be suitably served 
+according to the internal temperature of equipment and tanks concerned.
+
+Where it is necessary to fit removable and replaceable insulation on flanges, valves, 
+fittings, etc., glass wool mattress shall be used.  Where glass wool mattress are used, 
+they shall be secured with steel wires, steel bands and clips.
+
+A-60 insulation shall be provided for engine room fore side bulkhead.
+
+11.1.2  Application for equipment and tank.
+
+Main engine, main diesel generator engines, incinerator and aux. boiler shall be insulated 
+according to Maker’s standard.
+
+Pumps, coolers, condenser and oil heaters shall not be insulated, however oil heaters shall 
+be provided with metal cover for protection.
+
+The external surface of under said tanks which are exposed to the engine room except rear 
+wall and bottom of the tanks shall be insulated in accordance with the following table.
+
+Tank 
+Insulation.
+
+Covering Material Thickness in 
+mm.
+
+Heavy fuel oil settling tank 
+Heavy fuel oil service tank 
+L.S. fuel oil settling tank 
+L.S. fuel oil service tank 
+Waste oil tank.
+
+Glass wool or 
+rock wool.
+
+25.
+
+Galvanized 
+steel plate 
+(abt. 0.2mm) or 
+aluminized glass 
+cloth.
+
+The tanks attached to machinery or equipment, insulation of which are required, shall be 
+insulated in accordance with Maker’s standard. 
+Other tanks shall not be insulated.
+
+11.1.3  Application for piping.
+
+The materials and thickness of insulation for piping except for exhaust gas system, jacket 
+cooling fresh water system and lub. oil system shall be in accordance with the following 
+table.
+
+Temperature range 
+of internal fluid.
+
+Nominal pipe diameter in mm 
+Material Up to 20 25 to 150 200 & above.
+
+Thickness of insulation in mm 
+Up to 100℃ 6 20 20 Glass wool,.
+
+glass mat or  
+glass wool mattress.
+
+101℃ to 183℃ 6 20 20 
+184℃ and above 6 40 40.
+
+The exposed parts of the following pipes which is a danger to the crew shall be insulated 
+with glass cloth irrespective of pipe diameter and internal temperature.
+
+ ・Boiler blow pipe 
+ ・Drain pipe after drain valves, drain traps and safety valves of aux. boiler.
+
+The external surface of insulation material shall be covered with glass cloth or aluminum 
+foil for protection.
+
+The exhaust gas pipes after turbocharger of main engine, main generator diesel engines, 
+incinerator and uptake of aux. boiler shall be insulated up to two (2) meters height from 
+the funnel bottom in accordance with the following table and covered with galvanized 
+steel plate.
+
+Name Material 
+Nominal pipe.
+
+diameter in mm 
+Thickness of.
+
+insulation in mm
+Main engine 
+Diesel gene. engine 
+Aux. Boiler 
+Incinerator.
+
+Rock wool All sizes 50.
+
+In all cases where pipe insulation abut on flanges and fittings the end of insulation shall 
+be suitably terminated to permit free removable of bolts and to allow for movement of 
+pipes at hangers.

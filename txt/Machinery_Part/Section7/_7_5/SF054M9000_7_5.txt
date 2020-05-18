@@ -1,0 +1,13 @@
+7.5  ENGINE ROOM VENTILATING FAN .
+
+The engine room ventilating fan shall be of motor driven vertical axial flow type and 
+motor shall be incorporated in the fan casing.
+
+At the reverse rotation, the capacity and head shall reduced.
+
+The materials shall be as follows:.
+
+ Casing Steel plate 
+ Impeller Aluminum alloy.
+
+ M8 - 1

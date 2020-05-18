@@ -1,0 +1,523 @@
+H7 - 1 
+
+  
+ 
+
+SECTION 7    VENTILATION AND AIR CONDITIONING 
+
+  
+7.1    GENERAL  
+7.1.1    Application  
+The following compartment shall be ventilated by air conditioning system, mechanical ventilating system or natural ventilator according to the characteristics of each room as specified below.  
+
+Terminal System
+
+Terminal Sup. Exh.
+
+ 
+
+Compartment 
+
+Mess room Saloon, Smoking room Ship’s office, Meeting room Tally office Captain class Cabin Hospital Stairway Wheelhouse Radio instruments Room Galley Pantry Provisions store 
+
+W.C., Shower 
+
+Ventilation    Schedule    ( 1/2 ) 
+
+Air cond. or mech. ventilation 
+
+System
+
+Supply Air changerate A  “＊”
+
+A  “＊” DL 
+
+Exhaust Air changerate - 
+
+D 
+
+P 
+
+P D P P - P 
+
+P 
+
+P P - 
+
+P 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - - - - - 
+
+- 
+
+K K K 
+
+K 
+
+K 
+
+- 
+
+- 
+
+- - - - - - 
+
+- 
+
+40 10 10 
+
+10 
+
+10 
+
+A  “＊”
+
+A  “＊”A  “＊”A  “＊”A  “＊”- 
+
+A(＊1)
+
+A 
+
+A(＊2)A(＊1)
+
+- 
+
+*A(＊1)
+
+- 10 
+
+6 
+
+20 6 - 
+
+1 
+
+- 
+
+Private lavatory 
+
+- 
+
+ 
+
+ 
+
+* --- Only for the use more than one person 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+Natural 
+
+- 
+
+- 
+
+- 
+
+- - - - - - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+L 
+
+L 
+
+L 
+
+W L L 
+
+- - - -  MorW-  MorW-  MorW
+
+- 
+
+L 
+
+G  MorW - G - G  MorW - 
+
+L 
+
+G 
+
+G 
+
+L 
+
+L 
+
+- 
+
+- 
+
+  
+ 
+
+ 
+
+Compartment 
+
+Laundry Drying room Bos’n store Paint store, Deck store Emergency generator room Air cond. unit & ref. prov. machine room Steering gear room, Emergency fire pump room Battery room CO2 room Changing (deck) Changing (engine) Fire station Gymnasium 
+
+room 
+
+room 
+
+System
+
+A(＊1)
+
+- - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+A(＊1)
+
+A(＊1)
+
+A(＊1)A(＊1)
+
+Supply Air changerate 1 - - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+1 
+
+6 
+
+1 6 
+
+     
+
+ 
+
+Ventilation    Schedule    ( 2/2 ) 
+
+Air cond. or mech. ventilation 
+
+H7 - 2 
+
+Natural 
+
+Terminal System
+
+Terminal Sup. Exh.
+
+Exhaust Air changerate 10 10 - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+10 
+
+2 - 
+
+P - - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+P 
+
+P 
+
+P P 
+
+K K - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+K 
+
+K - 
+
+G G - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+L 
+
+- LorW - 
+
+M or W 
+
+-  MorW
+
+G  MorW - 
+
+G  MorW - - - 
+
+L 
+
+ 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H7 - 3 
+
+: Air conditioning system : Mechanical ventilating system : Anemostat diffuser : Punkah louver : Grill : Door louver 
+
+ (1)  Abbreviation used in the table means as follows :  
+  
+  
+  
+  
+  
+(2)  Air change rate is shown in time/hour 
+
+A K D P G L M  : Mushroom ventilator or gooseneck ventilator W  : Wall ventilator ( elbow type ) DL : Line diffuser 
+
+Air change rate marked with  “＊”  shall be designed to maintain the condition specified in SUBSECTION 7.2 AIR CONDITIONING SYSTEM.  
+
+(3)  (*1) Spaces shall only be supplied with conditioned air without consideration of 
+
+keeping temperature and relative humidity in the room. 
+
+ (4) (*2) Independent air conditioning unit shall be provided to galley. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H7 - 4 
+
+7.1.2    Ventilator coaming and duct  
+Ventilator coaming shall be built of steel plate and shall have approved height and thickness where required by the rules.  
+Air conditioning and mechanical ventilating ducts shall be made of galvanized steel sheet, and thickness of the duct shall be as follows :  
+
+ Supply, return and exhaust duct 
+
+Diameter of duct (  ㎜  )  Thickness (  ㎜  ) 
+
+200φand less More than 225φ 
+
+0.5   0.6   
+
+ Duct shall be of the circular type normally. Rectangular type duct ( low velocity type ) shall be applied, in case that circular type is unable to be fitted.  
+The dimension of rectangular type duct shall be maker’s standard.  
+Damaged part of galvanizing by welding shall not be regalvanized but coated with zinc rich paint.  
+Ventilator heads shall be of the Builder’s standard type.  
+Suitable connections or collar plates shall be provided where ducts pass through bulkheads, decks and other structure as necessary.  
+Dampers shall be provided for adjusting air volume.  
+Non-return flap shall be provided in branch air supply duct for hospital.  
+7.1.3    Insulation  
+Supply air ducts of air conditioning system shall be insulated by 25 ㎜ thickness glass wool where passing through accommodation space.  
+Finish covering for insulated ducts shall be made of glass cloth and shall be applied only for visible part except duct space.  
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H7 - 5 
+
+7.2    AIR CONDITIONING SYSTEM    
+7.2.1    General  
+Air conditioning system shall be of central, high velocity and single duct system without terminal reheating and recooling.  
+The system shall consist of one (1) central unit and necessary distributing.  
+The system shall be designed under the following conditions.  
+ 
+
+Item 
+
+For coolingFor heating
+
+Inside 
+
+Outside 
+
+Dry-bulb temperature 
+
+(  ℃  ) 
+
+32 －10 
+
+Relativehumidity( % ) 70 - 
+
+Dry-bulb temperature
+
+(  ℃  ) 
+
+27 20 
+
+Relativehumidity( % ) 50 50 
+
+Sea water temp. (  ℃  )32 - 
+
+Recir- culation air ratio ( % ) 70 70 
+
+ When the system works for cooling air temperature at the outlet of supply fan shall be controlled by an automatic expansion valve and a solenoid valve.  
+The automatic expansion valve shall control the evaporation temperature of refrigerant by the temperature of return refrigerant from air cooler.  
+The solenoid valve shall be operated by a thermostat installed at the return air inlet, and control the refrigerant quantity to supply to air cooler.  
+When the system works for heating, air temperature at the outlet of supply fan shall be controlled by the automatic steam regulating valve.  
+The automatic steam regulating valve shall control the steam quantity by a thermostat installed in air supply duct.  
+Air humidity shall be controlled manually by a needle valve at the air conditioning unit.  
+Room air temperature shall be controlled manually by adjusting supply air quantity at punkah louver or diffuser in each room.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H7 - 6 
+
+7.2.2    Air conditioning central unit  
+Central unit shall be installed in air conditioning unit & ref. prov. machine room and shall contain the following equipment.  
+( 1 )  One (1) air supply fan ( electric motor driven, centrifugal type single speed ).  
+( 2 )  One (1) refrigerating plant  
+ 
+
+The plant shall be of R-404a direct expansion system and shall consist of two (2) compressor (100%×2), one (1) condenser, cooling coil and other fittings and piping to complete refrigerating cycle in accordance with the manufacturer’s standard. 
+
+  
+
+  
+  
+
+The compressor shall be of single speed electric motor driven, multi-cylinder, semi-hermetic reciprocating type, and shall be provided with suction and discharge stop valve, dual pressure switch, relief valve and necessary fitting for automatic control by refrigerant pressure and oil pressure. 
+
+Automatic unloading system shall be provided. 
+
+The condenser shall be of horizontal multi-pass shell and tube type and cooled by sea water. 
+
+ ( 3 )  Steam heater  
+( 4 )  Steam spray type humidifier  
+( 5 )  Manual damper to adjust the ratio re-circulation air  
+( 6 )  Valves, cocks and strainers  
+( 7 )  Air filter  
+  
+
+Material of air conditioning central unit shall be to the manufacturer’s standard. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H7 - 7e 
+
+( 1 )  Galley ( 2 )  Sanitary space 
+
+7.3    MECHANICAL VENTILATION  
+Mechanical supply or exhaust system shall be provided for the space mentioned in SUBSECTION 7.1 GENERAL.  
+Each system shall consist of an electric motor driven axial flow fan, air ducts and terminals.  
+The following two (2) groups shall be ventilated separately.  
+  
+  
+7.4    NATURAL VENTILATION  
+( a )  For cargo hold  
+  
+  
+ 
+
+Natural ventilators shall be provided at each cargo hold compartment. 
+
+The natural ventilators shall be provided to fore and aft end plate of hatch cover. 
+
+Each ventilator shall be fitted with weathertight closing apparatus and protective screen of stainless steel wire. 
+
+  
+( b )  For other space  
+ 
+
+  
+
+Suitable ventilator such as mushroom vent., wall vent., etc. shall be provided according to the Builder’s standard. 
+
+IMABARI SHIPBUILDING CO., LTD 

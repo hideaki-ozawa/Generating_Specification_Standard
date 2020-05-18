@@ -1,0 +1,127 @@
+5.2  MAIN DIESEL GENERATOR ENGINE .
+
+5.2.1  General.
+
+The main diesel generator engine shall be vertical single acting, 4-cycle direct injection, 
+air cooled turbocharged diesel engine with air cooler.
+
+5.2.2  Construction and material.
+
+(1) Crankshaft.
+
+The mono-block crankshaft shall be made of forged steel.  The crankpins and 
+journals shall be induction hardened to increase the antiwear character.
+
+(2) Main bearing and oil sump tank.
+
+The oil sump tank integrated in the common bed shall be made of carbon steel and 
+forms crankcase bolted together with cylinder block.  Main bearing shall be two (2) 
+layers of steel back metal, aluminum of surface layer, and each bearing cap shall be 
+bolted with the cylinder block firmly by means of tension bolts.
+
+(3) Cylinder block.
+
+The cylinder block shall be made of cast iron, and has crankcase doors on both sides.  
+A water jacket shall be formed between cylinder and cylinder liner.
+
+(4) Cylinder head.
+
+The cylinder head shall be made of cast iron.  It shall be made to have sufficient 
+rigidity and to form effective cooling jackets.  At its center shall be the fuel injection 
+nozzle, around which two pieces of intake and exhaust valves and indicator cock shall 
+be provided.
+
+(5) Cylinder liner.
+
+The precisely honed cylinder liner shall be made of cast iron.
+
+(6) Piston and piston ring.
+
+The piston shall be made of special cast iron.  The top and 2nd ring grooves shall be 
+hardened with laser alloying process.  Lubricating oil for cooling shall be fed into 
+cooling gallery through center hole of connecting rod and piston pin. 
+The piston shall have two (2) compression rings and one (1) oil scraper ring.
+
+(7) Piston pin.
+
+Case hardened and precisely honed piston pin shall be made of special steel. 
+The pin shall be full-floated type to secure good lubrication and prevent partial wear.
+
+(8) Connecting rod.
+
+The connecting rod shall be of forged steel.  They shall be obliquely split at big end 
+with serrations between the rod and the cap.  Piston pin bush shall be of thin shell 
+lined with leaded-bronze bearing, and crankpin bearing shell shall be of thin steel shell 
+type with aluminum alloy.
+
+(9) Fuel injection pump.
+
+Fuel injection pump shall be of Bosch type and independently fit to each cylinder.  
+The pump shall regulate the amount of fuel injection with its plunger having an 
+oblique notch at its lower part.  Fuel valve tip part shall be non cooled type.  For 
+plunger and barrel of fuel injection pump and for nozzle and nozzle body of fuel 
+injection valve, strictly selected special steel shall be utilized and processed with 
+precision lapping and then sufficiently lapped together.
+
+(10) Intake and exhaust valve.
+
+Four valve system, consisting of each twin exhaust and intake valves shall be made of 
+heat resisting steel.  Valve seat shall be stellite fuse plated, and inserted in the 
+cylinder head.  Valve rotator shall be for both intake and exhaust valves.
+
+(11) Governor.
+
+The governor shall be hydraulic type governor.
+
+5.2.3  Piping.
+
+(1) Cooling water system.
+
+Cooling fresh water pump shall be a centrifugal pump driven by crankshaft gear 
+opposite of the flywheel side.  Cooling water from cooling water distributing pipe 
+shall pass through cylinder jacket and cylinder head of each cylinder.
+
+Lub. oil cooler and air cooler shall be cooled by fresh water circulated by engine 
+driven water pump.
+
+(2) Lub. oil system.
+
+Lub. oil pump shall be gear pump mounted on cylinder gear box opposite of the 
+flywheel side.  It shall be driven by crankshaft gear.  Lub. oil shall pass through oil 
+cooler and filter, then lubricate main bearing, crank pin metals, piston pin metals and 
+piston, and return to oil sump tank.
+
+A branched lub. oil shall lubricate camshaft bearing, fuel injection pump tappets, 
+tappet roller of suction and exhaust valves, rocker arm, bearings of governor, 
+turbocharger and then drop onto oil sump tank.
+
+(3) Staring air system.
+
+Starting of this engine shall be carried out by compressed air and air motor with ring 
+gear to give good starting.
+
+5.2.4  Fitting and accessory.
+
+The following accessories shall be supplied with the engine.
+
+ 1 － turbocharger 
+ 1 － air cooler 
+ 1 － flywheel 
+ 1 － maneuvering gear 
+ 1 － governor 
+ 1 － exhaust gas manifold 
+ 1 － electric tachometer 
+ 1 － set of pressure gauge 
+ 1 － set of thermometer 
+ 1 － lub. oil filter 
+ 1 － lub. oil pump ( gear ) 
+ 1 － lub. oil cooler 
+ 1 － fuel oil final filter 
+ 1 － high temp. fresh water pump ( Centrifugal ) 
+ 1 － low temp. fresh water pump ( Centrifugal ) 
+ 1 － high temp. F.W. temperature control valve 
+ 1 － L.O. temperature control valve 
+ 1 － L.O. priming pump 
+ 1 － turning bar 
+ 1 － common bed 
+ 1 － set of fuel oil shut-off device for emergency trip

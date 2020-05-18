@@ -1,0 +1,305 @@
+10.5  STRAINER .
+
+Line.
+
+Item.
+
+No. x Mesh  
+Remarks Inlet Outlet.
+
+Sea water  
+line.
+
+Cool. S.W. pump.
+
+2 x 4 mm.
+
+-.
+
+Simplex type 
+The element to be  
+stainless, and inner  
+surface to be of epoxy 
+paint.
+
+Bilge &  
+ballast line.
+
+Bilge &  
+ballast pump.
+
+1 x 8 mm.
+
+-.
+
+Simplex type 
+The element to be  
+stainless, and inner  
+surface to be of epoxy 
+paint.
+
+Fire & G.S. pump.
+
+1 x 8 mm.
+
+-.
+
+Ballast pump.
+
+2 x 8 mm.
+
+-.
+
+Bilge pump.
+
+1 x 60.
+
+-.
+
+Simplex type.
+
+Sludge pump.
+
+1 x 10.
+
+-.
+
+Bilge separator.
+
+1 x 100.
+
+-.
+
+Fresh water 
+line.
+
+Drinking water tank.
+
+-.
+
+1 x 10 mm.
+
+Rose box.
+
+Fresh water tank.
+
+-.
+
+1 x 10 mm.
+
+Drain line.
+
+Drain trap.
+
+Each 1.
+
+-.
+
+Y type strainer.
+
+Steam line.
+
+Reducing valve & 
+temp. cont. valve 
+(direct type).
+
+Each 1.
+
+-.
+
+Y type strainer.
+
+ M10 - 9.
+
+Line.
+
+Item 
+No. x Mesh.
+
+Remarks Inlet Outlet.
+
+Fuel oil line.
+
+F.O. transfer pump.
+
+1 x 16.
+
+-.
+
+Simplex.
+
+D.O. transfer pump.
+
+1 x 16.
+
+-.
+
+Simplex.
+
+F.O. purifier.
+
+2 x 60 - Duplex ( F.O. side ) 
+1 x 60 - Simplex ( D.O. side ).
+
+F.O. booster pump.
+
+1 x 100.
+
+-.
+
+Duplex.
+
+Main engine 
+F.O. circ. pump.
+
+-.
+
+1 x 
+ABS.10µm.
+
+Auto. back wash  
+with by-pass filter  
+(E.F.35µm) 
+(Maker supply).
+
+Diesel generator  
+D.O. booster pump.
+
+1 x 100.
+
+-.
+
+Duplex.
+
+Diesel generator 
+F.O. circ. pump.
+
+-.
+
+1 x 
+E.F.10µm.
+
+Auto. back wash 
+with by-pass line.
+
+-.
+
+3 x 
+ABS.75µm.
+
+Notch wire 
+(Maker supply).
+
+Boiler F.O. pump.
+
+1 x 100.
+
+-.
+
+Simplex 
+(Maker supply).
+
+F.O. shifter pump.
+
+1 x 32.
+
+-.
+
+Duplex.
+
+Waste oil incinerator.
+
+1 x 60.
+
+-.
+
+Simplex.
+
+Lub. oil line.
+
+L.O. transfer pump.
+
+1 x 32.
+
+-.
+
+Simplex.
+
+Stern tube 
+L.O. pump.
+
+2 x 100.
+
+-.
+
+Simplex with magnet.
+
+L.O. purifier.
+
+2 x 60.
+
+-.
+
+Duplex.
+
+Main engine  
+L.O. pump.
+
+-.
+
+1 x 
+ABS.40µm.
+
+Manual back wash.
+
+Sludge collector.
+
+1 x 150.
+
+-.
+
+(Maker supply).
+
+Cylinder lubricator.
+
+1 x 32.
+
+-.
+
+Simplex.
+
+Diesel generator 
+L.O. pump.
+
+3.
+
+-.
+
+Simplex 
+(Maker supply).
+
+- 3 x 
+ABS.30µm.
+
+Continuous back wash 
+(Maker supply).
+
+ L.O. Filter 
+Circ. Pump -.
+
+1 x 3μ
+β200.
+
+△1.
+
+M10-10.
+
+No.1 CENTRAL
+C.F.W. COOLER.
+
+COOL. S.W. PUMP.
+
+LOW TEMP.
+
+No.2 CENTRAL
+C.F.W. COOLER

@@ -1,0 +1,134 @@
+5.2  MAIN DIESEL GENERATOR ENGINE .
+
+5.2.1  General.
+
+The main diesel generator engine shall be vertical single acting, 4-cycle direct injection, 
+air cooled turbocharged diesel engine with air cooler.
+
+5.2.2  Construction and material.
+
+(1) Crankshaft.
+
+The crankshaft shall be made of high grade forged steel one piece type.
+
+(2) Main bearing shell.
+
+The main bearing shell shall be made of aluminum alloy metal lined, split in two (2) 
+pieces type mild steel.  It shall be completed thin-shell type, and provided with 
+complete interchangeability.
+
+(3) Engine frame.
+
+Engine frame shall be made of special cast iron, of under sling bearing structure, which 
+is sufficiently rigid for high explosion pressure.
+
+The engine frame shall have big inspection holes on the both side in order to be taken 
+out the main and crank pin bearing shells, and other main moving parts.
+
+The intake air passage shall be provided at the upper part of engine frame on the 
+exhaust manifold side providing a double wall structure, thus substantially enclosing 
+sound insulation. 
+Also passages of cooling water inlet/outlet and Lub. oil inlet shall be built into this 
+engine frame to minimize external piping.
+
+The main bearing cap shall be secured rigidly to the engine frame by hydraulically 
+tightening two mounting bolts and two side bolts.
+
+(4) Cylinder head.
+
+The cylinder head shall be made thick with special cast iron.  It has a fuel injection 
+nozzle on its center, and each 2 pieces of intake and exhaust valves and rocker arms are 
+arranged around the fuel injection nozzle.
+
+(5) Cylinder liner.
+
+The cylinder liner shall be made of high grade cast iron against abnormal wear, and its 
+inside is precisely hone-finished. 
+The cylinder liner cooled by freshwater shall be made thick with ample rigidly so that 
+it is sufficiently endurable even under high combustion pressure and the thermal stress.
+
+(6) Piston, piston pin and piston ring.
+
+The piston shall be made of ductile cast iron as mono-block type and cooled by 
+crankcase lubricating oil through the connecting rod and piston pin inside.
+
+1st and 2nd piston ring grooves of piston shall be surface-hardened to have resistance 
+against wear down.
+
+The piston pin shall be made of carbonizing-hardening chromium-molybdenum steel. 
+A full floating method shall be adopted in fitting the piston pin.
+
+The three piston rings and one oil ring shall be made of cast iron, and piston rings and 
+oil rings shall be chromium plated.
+
+(7) Connecting rod and crank pin bearing shell.
+
+The connecting rod shall be made of forged steel, and it is constructed so that the 
+forging is divided into 3 parts and the large end part is horizontally divided. 
+The piston pin bush shall be of cylindrical steel lined with lead bronze.  The crank pin 
+bearing shell shall be of aluminum alloy metal lined completed thin shell type.
+
+(8) Fuel injection pump and fuel nozzle holder.
+
+Both the pump with a tappet and the nozzle of Bosch type shall be attached to each 
+cylinder.
+
+The circulation type fuel injection pump shall be adopted.
+
+(9) Intake and exhaust valve.
+
+Both intake and exhaust valves shall mushroom type of heat resistance steel, and 
+provided with the valve rotators and removable seat rings respectively.
+
+The exhaust valve shall be made of heat resistance steel. 
+The seat of exhaust valve shall be plated with stellite. 
+The exhaust valve seat shall be cooled by fresh water and the treatment of anti-
+corrosion shall be applied for gas passage.
+
+5.2.3  Piping.
+
+(1)  Cooling system.
+
+Cooler line (LT-FW) 
+The engine driven LT-FW pump shall run cooling water from the external freshwater 
+cooler into the secondary L.O. cooler and air cooler. 
+Under low load condition, charge air inverse warming would be carried out 
+automatically by means of cutting off cooling water from the secondary air cooler.
+
+Cylinder jacket line (HT-FW) 
+The engine driven HT-FW pump shall be circulated cooling water, which is controlled 
+by the attached thermostat, in the primary air cooler, cylinder jacket and cylinder heads.
+
+(2)  Lub. oil system.
+
+A gear pump shall be driven by the auxiliary machinery driving gear of engine. 
+Lub. oil sucked up from the oil sump shall be sent out into cooler and oil filter, and 
+lubricates main bearings, crank pin metals, piston pin metal, camshaft bearings, swing 
+arm, valve rocker arm, timing gear train and turbocharger, while some oil cools pistons 
+and drops back to the oil sump. 
+For the priming of the lubrication system during engine is in rest, electric motor driven 
+pre-priming pump of continuous priming system shall be provided. 
+To safeguard the oil cooler and oil piping against excessive oil pressure, a relief valve 
+shall be attached.
+
+5.2.4  Fitting and accessory.
+
+The following accessories shall be supplied with the engine.
+
+ 1 － turbocharger (type：AT14)  
+ 1 － air cooler  
+ 1 － flywheel 
+ 1 － maneuvering gear 
+ 1 － governor 
+ 1 － exhaust gas manifold 
+ 1 － mechanical tachometer  
+ 1 － set of pressure gauge 
+ 1 － set of thermometer 
+ 1 － lub. oil filter 
+ 1 － lub. oil by-pass filter (centrifugal type) 
+ 1 － lub. oil pump ( gear ) 
+ 1 － lub. oil cooler 
+ 2 － cooling fresh water pump ( centrifugal ) 
+ 1 － turning bar 
+ 1 － common bed 
+ 1 － set of fuel oil shut-off device for emergency trip

@@ -1,0 +1,21230 @@
+ 
+
+SECTION 1  GENERAL DESCRIPTION 
+ 
+ 
+1.1  GENERAL 
+ 
+The vessel shall be arranged for single screw propulsion with directly coupled diesel 
+propelling machinery located in the engine room aft. 
+The main propulsion unit shall consist of one (1) set marine diesel engine, driving a 
+propeller through a line of shafting. 
+ 
+The main engine and aux. boiler shall be able to use the heavy fuel oil of 380 cSt at 50℃. 
+ 
+The main diesel generator engine shall be able to use the heavy fuel oil of 380 cSt at 50℃. 
+Diesel oil shall be used at starting, stopping, low load condition and furious load change 
+condition of diesel gene. engine in accordance with the engine operation manual. 
+ 
+The steam generating plant shall consist of one (1) aux. boiler. 
+ 
+The electric generating plant shall consist of three (3) diesel generator sets. 
+ 
+ 
+ 
+
+
+
+ 1.2  MACHINERY PARTICULAR 
+ 
+ 
+
+Rule NK, NS* and MNS*(M0) 
+
+Kind of Ship 63,000 M.T. D/W TYPE BULK CARRIER 
+ 
+Hull 
+ 
+
+Dimension 
+ 
+
+m 
+Lpp
+195.00 
+
+B
+32.24 
+
+D
+19.15 
+
+d (Ext.)
+13.418 
+
+ 
+ 
+
+Tonnage 
+ 
+
+Ton G.T.      35,832 D.W.   63,533 M.T. 
+
+Speed 
+ 
+
+knot 
+      abt.
+
+Sea Trial  15.647 Service     14.5 
+ 
+Main Engine 
+ 
+
+Type & No. of Set 
+ MITSUI-MAN B&W, 2 stroke cycle , single acting, direct 
+
+reversible, crosshead type diesel engine with 
+turbocharger           6S50ME-B9.3× 1 set 
+
+Output 
+× Speed 
+
+Maximum 
+Rating 
+
+kW×
+ min-1        7,560 × 99.0  
+
+Turbocharger 
+TCA55 
+× 1 set 
+
+ 
+
+Normal 
+Rating 
+
+kW×
+ min-1        6,425 × 93.8 (85 %) 
+
+Brake Mean Effective 
+Press. at Max. Rating 
+
+ 
+MPa 1.76 
+
+Mean Piston Speed at 
+Max. Rating 
+
+ 
+m/s 7.31 
+
+Cylinder No. & Size 
+ 
+
+mm 6 ×φ500 × 2,214 
+
+Turning Motor 
+kW×
+ min-1 2.2 × 1,200 
+
+ 
+MITSUI E&S MACHINERY CO., LTD
+
+ 
+Shafting 
+ 
+
+Thrust Shaft 
+No.×
+mm Attached to Main Engine 
+
+Intermediate Shaft 
+No.×
+mm      1  × φ 415  ×  5,950 
+
+Propeller Shaft 
+No.×
+mm      1  × φ 500  ×  6,550 
+
+Stern Tube Seal 
+ WARTSILA JAPAN LTD. 
+
+OLS4 0530 
+ 
+Propeller 
+ 
+
+Type & No. of Set 
+ 5 Bladed Solid Type
+
+( Ni- Al- Br) × 1 set 
+
+Diameter × Pitch 
+ 
+
+mm 
+       4,527.4 (0.7R) 
+
+  φ 6,300  ×  4,454.7 (MEAN) 
+Exp. Area Ratio × 
+Boss Ratio 
+
+ 
+－ 0.4700  ×  0.1524 
+
+Skew Angle 
+ 
+
+deg. 25 
+ 
+
+ 
+ 
+
+NAKASHIMA PROPELLER CO., LTD.
+
+
+
+ Auxiliary Boiler 
+ 
+
+Type & No. of Set 
+Composite system vertical type boiler 
+GK-2032-1100/680 ×  1 set  
+
+Steam Pressure
+& Temperature 
+
+－
+ ×℃ 
+
+(Design) 0.8 MPa×  Saturated 
+ (Work.) 0.55 MPa×  Saturated 
+
+Heating Surface 
+ 
+
+㎡ 
+(Oil burning side)      (Exh. gas side)
+
+       33.2 ×       198.4 
+
+Evaporation 
+ 
+
+kg/h 
+(Oil burning side)      (Exh. gas side)
+
+      1,100 ×       680 ( M/E 85 % Load ) 
+
+Feed Water Temp. 
+ 
+
+℃                abt. 60 
+
+Burner Type 
+ 
+
+Forced Draft Type Pressure Atomizing Burner 
+
+ 
+ 
+
+MIURA CO., LTD. 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+Service
+ 
+
+No.of 
+Set 
+
+Type Capacity
+(m3 /h×MPa) 
+
+Motor
+(kW×min-1) 
+
+ 
+
+ Main 
+Diesel Generator Engine 3 
+
+4-Cycle
+Diesel Engine 530 kW 900 min-1 
+
+DAIHATSU 
+6DE-18 
+
+Main Generator 3 
+Brushless
+A.C. Generator 600 kVA 480×900 
+
+450V
+× 60 Hz 
+
+  
+
+  
+
+Emergency 
+Generator Engine 1 
+
+4-Cycle
+Diesel Engine 82 kW 1,800 min-1 
+
+MITSUI ZOSEN
+
+TD914L06M 
+
+Emergency Generator 1 
+Brushless
+A.C. Generator 90 kVA 72×1,800 
+
+450V
+× 60 Hz 
+
+  
+
+  
+
+Main Air Compressor 2 
+MD V-Type
+2-Stage 
+
+(F.A.)
+  120 × 2.9  30×1800 
+
+TANABE
+VH-64 
+
+Emergency 
+Air Compressor 1  
+
+MD Vertical
+2-Stage 
+
+(F.A.)
+  13.5 × 2.9 3.7×1200 
+
+MATSUBARA 
+
+MG78ADT
+Deck Service 
+Air Compressor 1 
+
+MD Screw
+Air cooled 
+
+(F.A.) 
+  329 × 0.69 37×1800 
+
+TANABE 
+TASK-1537J-Y 
+
+
+
+ Service
+ 
+
+No.of 
+Set 
+
+Type Capacity
+(m3 /h×MPa) 
+
+Motor
+(kW×min-1) 
+
+ No.1 Cooling
+Sea Water Pump 1 
+
+Self Priming
+MD. V. Cent.
+
+      (T.H.)
+580× 20 m 55×1800 
+
+NANIWA PUMP
+
+FEV-250-2D
+No.2 Cooling
+Sea Water Pump 1 MD. V. Cent. 
+
+      (T.H.)
+580× 20 m 55×1800 
+
+Do. 
+FEV-250-2D 
+
+M.G.O. Cooling 
+Fresh Water pump 1 MD. H. Cent.
+
+      (T.H.)
+5.0× 25 m 1.5×3600 
+
+Do. 
+BHR-40 
+
+Jacket Cooling
+Fresh Water Pump 2 MD. V. Cent.
+
+      (T.H.)
+102× 40 m 22×1800 
+
+Do. 
+FEV-125-2D
+
+Main Air Comp. 
+Cooling F.W. Pump 2 MD. H. Cent. 
+
+      (T.H.)
+3.2× 25 m 1.5×3600 
+
+Do. 
+BHR-32 
+
+Main Lubricating Oil 
+Pump 2 MD. V. Cent.
+
+      (D.P.)
+220 × 0.42 60×1800 
+
+Do. 
+TOM-200E 
+
+Fuel Oil 
+Booster Pump 2 MD.H. Screw 
+
+      (D.P.)
+2.9 × 0.4 2.2×3600 
+
+TAIKO KIKAI
+MSDK-3MA 
+
+Main Engine Fuel Oil 
+Circulating Pump 2 MD.H. Screw
+
+      (D.P.)
+4.2 × 1.0 3.7×3600 
+
+Do. 
+MSDK-5HMA
+
+Fuel Oil 
+Transfer Pump 1 MD. H. Gear 
+
+      (D.P.)
+15 × 0.3 5.5×1200 
+
+Do. 
+NHG-15MA
+
+Diesel Oil 
+Transfer Pump 1 MD. H. Gear 
+
+      (D.P.)
+4 × 0.3 2.2×1200 
+
+Do. 
+NHG-6MA 
+
+Lubricating Oil
+Transfer Pump 1 MD. H. Gear 
+
+      (D.P.)
+4 × 0.3 1.5×1200 
+
+Do. 
+NHG-4MT 
+
+ 
+
+Diesel Gene. Fuel Oil 
+Circulating Pump 2 MD.H. Screw
+
+      (D.P.)
+1.6 × 0.9 1.5×3600 
+
+TAIKO KIKAI 
+MSDK-2HMA
+
+Diesel Gene. Diesel Oil 
+Booster Pump 1 MD.H. Screw
+
+      (D.P.)
+1.5 ×0.75 1.5×3600 
+
+Do. 
+MSDK-2HMA
+
+Stern Tube 
+Lubricating Oil Pump 2 MD. H. Gear 
+
+      (D.P.)
+0.5 × 0.2 0.4×1200 
+
+Do. 
+NHG-0.5M 
+
+Diesel Gene. Lub. Oil 
+Priming Pump 3 MD.H. Screw
+
+      (D.P.)
+2.5 × 0.2 0.94×3600 ※ 
+
+L.O. Purifier
+Supply Pump 1 MD. H. Gear 
+
+      (D.P.)
+2.1 × 0.3 0.75×1200 
+
+TAIKO KIKAI
+NHG-2MT 
+
+D/G L.O. Purifier
+Supply Pump 1 MD. H. Gear 
+
+      (D.P.)
+0.6 × 0.3 0.4×1200 
+
+Do. 
+NHG-1MT 
+
+ 
+
+Bilge & Ballast Pump 1 
+Self Priming
+MD. V. Cent.
+
+      (T.H.)
+220/90×20/70 m 50×3600 
+
+NANIWA PUMP
+
+FGV-200E 
+
+Fire & G.S. Pump 1 
+Self Priming
+MD. V. Cent. 
+
+      (T.H.)
+220/90×20/70 m 50×3600 
+
+Do. 
+FGV-200E 
+
+Ballast Pump 2 MD. V. Cent.
+      (T.H.)
+900× 25 m 90×1800 
+
+Do. 
+FEWV-350D
+
+Bilge Pump 1 
+MD. H.
+Recipro. 
+
+      (T.H.)
+5× 30 m 1.5×1800 
+
+TAIKO KIKAI
+LD-5NS 
+
+Sludge Pump 1 
+MD. H.
+Monros 
+
+      (T.H.)
+2.5× 41 m 1.5×1200 
+
+Do. 
+HNP-301 
+
+  
+ 
+
+Ref. Mach. Cooling 
+Sea Water Pump 1 MD. H. Cent. 
+
+      (T.H.)
+40× 35 m 7.5×3600 
+
+NANIWA PUMP
+
+BHR-65-2 
+
+
+
+ Service
+ 
+
+No.of 
+Set 
+
+Type Capacity
+(m3 /h×MPa) 
+
+Motor
+(kW×min-1) 
+
+ 
+Drinking Water Pump 1 MD. V. Cent.
+
+      (T.H.)
+5× 50 m 3.7×3600 
+
+NANIWA PUMP
+
+BHR-40 
+
+Fresh Water Pump 1 MD. V. Cent. 
+      (T.H.)
+
+5× 50 m 3.7×3600 
+Do. 
+BHR-40 
+
+Hot Water 
+Circulating Pump 1 MD. H. Cent.
+
+      (T.H.)
+2× 10 m 0.4×3600 
+
+Do.  
+BHR-32 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+Boiler H.F.O./M.G.O. 
+Burning Pump 1 
+
+MD.
+H. Trochoid 
+
+(D.P.) 
+268 /h×1.8 0.75×3600 ※ 
+
+Boiler 
+Pilot Burner Pump 1 
+
+MD.
+H. Trochoid 
+
+(D.P.)
+40 /h×0.8 0.09×3600 ※ 
+
+Boiler 
+Forced Draft Fan 1 MD. Turbo 
+
+23 m3/min
+   ×2.94 kPa 2.2×3600 ※ 
+
+Boiler 
+Feed Water Pump 2 MD. H. Cent. 
+
+      (T.H.)
+4× 100 m 7.5×3600 
+
+NANIWA PUMP
+
+EB2H-32D 
+
+  
+ 
+
+  
+ 
+
+Fuel Oil Purifier 2 
+MD. V.
+Centrifuge 
+
+2,100 /h
+(380 cSt at 50℃) 7.5×1800 
+
+MITSUBISHI 
+KAKOKI 
+
+SJ25HH
+
+Lubricating Oil Purifier 1 
+MD. V.
+Centrifuge 2,400 /h 5.5×1800 
+
+Do.
+SJ25H 
+
+D/G
+Lubricating Oil Purifier 1 
+
+MD. V.
+Centrifuge 1,300 /h 3.7×1800 
+
+Do.
+SJ15H 
+
+D/G Lubricating Oil 
+By-pass Filter 3 
+
+      
+* ※ 
+
+ 
+
+Engine Room
+Ventilating Fan 2 
+
+Reversible
+MD. V. Axial
+
+650 m3/min
+   × 0.29 kPa 7.5×1200 
+
+TAIYO ELECT.
+
+FA-B-90-3 
+Engine Room
+Ventilating Fan 1 MD. V. Axial 
+
+650 m3/min
+   × 0.29 kPa 7.5×1200 
+
+Do. 
+
+FA-B-90-3 
+
+ 
+ 
+
+Auxiliary Blower 2 MD. Turbo  45×3600 
+Attach
+to M/E 
+
+Motor for 
+M/E hydraulic system 2 MD. 51×1800 
+
+Attach
+to M/E 
+ 
+ 
+
+Bilge Separator 1 
+with
+Content meter 5 m3/h 
+
+TAIKO KIKAI
+USH-50 
+
+Cu-Fe ion generator 1 Cl Ion Type 
+NIPPON  
+CORROSION
+
+Shaft Grounding
+Equipment 1 
+
+with
+mV-Meter 
+
+Do.
+
+Ballast Water
+Treatment System 1 Electrolysis ECS1000B ×2 
+
+ 
+TECHCROSS 
+
+
+
+ Service
+ 
+
+No.of 
+Set 
+
+Type Capacity
+(m3 /h×MPa) 
+
+Motor
+(kW×min-1) 
+
+ 
+Overhead Travelling  
+Crane 
+
+1 
+MD. 
+Traverse to be 
+hand operate 
+
+3 ton 
+2.2× 900 
+0.2×1800 
+0.2×1800 
+
+-
+
+SEKIGAHARA 
+
+MAA-030059
+
+Lathe 1 MD. 
+Center distance
+
+600 mm 2.2×1800 
+KUSAKABE 
+KL36B-60 
+
+Drilling Machine 1 MD. φ21 0.4×1800 
+Do. 
+KD-21 
+
+Grinding Machine 1 
+MD. 
+2－Wheels 
+
+AC440V 3φ 60Hz
+φ255 × 25t 0.75×1800 
+
+Do. 
+KGL-10 
+
+Electric Welder 2 
+A.C.
+Arc Type 300 Amp 
+
+ 
+
+Gas Cutting Machine 
+ 
+
+1 
+Acetylene 
+Type 
+
+Oxygen B.×2
+Acetylene B. 
+         ×1 
+
+Hose: Each 
+25 m×3 
+
+Foreign 
+made 
+
+Chain Block 
+ 
+
+1 
+2 
+3 
+
+3 ton
+1 ton 
+
+0.5 ton 
+
+ 
+
+  
+ 
+
+Control Room
+Air Conditioner 1 
+
+With E. heater 
+Packaged 
+Type (R404A) 
+
+11.3 kW 2.2×3600 
+USHIO 
+REINETSU 
+UAP-2HS4PL4-1
+
+ 
+ 
+
+Water-based Local
+Fire Fighting System 1 
+
+Low Press.
+Type 
+
+KASHIWA 
+
+Sewage Treatment Unit 1 
+TAIKO KIKAI
+SBH-25 
+
+Ballast Eductor 1 100 m3/h 
+ 
+
+Bilge Eductor 1 50 m3/h 
+ 
+
+F.O. Tank  
+Pre-heating Unit 1  
+
+HOKUSHIN 
+
+ENGINEERING 
+
+ F.O. Shifter Pump 1 MD. H. Gear 
+       (D.P.)
+
+7.2×0.49  3.7×1200 
+   ※
+100%Capa.
+ 
+
+Fresh Water Generator 1  20 T/D  
+MIURA
+WM-20DK 
+
+ Distillate Pump 1 MD. H. Cent.
+      (T.H.)
+1.05× 30 m 0.75×3600 ※ 
+
+ Ejector Pump 1 MD. H. Cent. 
+      (T.H.)
+18× 48 m 5.5×3600 ※ 
+
+ 
+ 
+
+Waste Oil Incinerator 1 
+With garbage
+feeder door 600 kW  
+
+SUNFLAME
+OSV-600SAI
+
+ Main Burner 1 Rotary cap  Max. 75 kg/h  
+0.75×1800 
+
+※ 
+
+ Waste Oil Pump 1 MD. H. Trochoid
+125 kg/h
+
+  × 59 kPa ※ 
+
+ Exhaust Fan 1 MD. Sirocco 
+200 m3/min
+
+  × 245 Pa 7.5×1800 ※ 
+
+
+
+ Service
+ 
+
+No.of 
+Set 
+
+Type Capacity
+(m2) 
+
+Motor
+(kW×min-1)
+
+ Jacket Cooling
+Fresh Water Cooler 1 Plate 11.40 
+
+HISAKA WORKS 
+
+LX-125B-NPM-59
+
+Main 
+Lubricating Oil Cooler 1 Plate 103.75 
+
+Do. 
+LX-595B-NPM-127 
+
+Diesel Gene.
+Cooling F.W. Cooler 2 Plate 15.40 
+
+Do. 
+UX-195B-NPM-79
+
+M.G.O. Cooling 
+F.W. Cooler 1 Plate 1.40 
+
+Do. 
+UX-195B-NJM-9 
+
+Main Engine 
+M.G.O. Cooler 1 Plate 2.20 
+
+Do. 
+UX-116B-NJM-13 
+
+Diesel Generator 
+M.G.O. Cooler 1 Plate 1.00 
+
+Do. 
+UX-116B-NJM-7 
+
+ 
+
+Auxiliary Condenser 1 
+H. Shell
+    & Tube 10 
+
+SHOWA
+300U-2F 
+ 
+
+M/E F.O. 2nd Filter 1 
+Auto 
+Back Wash 
+
+4.2 m3/h 
+ABS.50μ 
+
+KANAGAWA KIKI 
+
+K8FE22VAZS-W50 
+
+D/G F.O. 2nd Filter 1 
+Auto 
+Back Wash 
+
+1.6 m3/h 
+E.F.10μ 
+
+Do.
+K8FE2VAZS-W10
+
+F.O. Fine Filter 1 
+Auto 
+Back Wash E.F.10μ 
+
+BOLLFILTER
+6.72.1DN40 
+
+ 
+ 
+
+Shifter 
+Fuel Oil Heater 1 Steam Heat 
+
+STM 0.55MPa
+ 55 → 85℃ 
+
+KAJIWARA 
+B150/40×15-20
+
+Purifier 
+Lub. Oil Heater 1 Steam Heat 
+
+STM 0.55MPa
+ 45 → 90℃ 
+
+Do. 
+XLV90-150 
+
+D/G Purifier
+Lub. Oil Heater 1 Steam Heat 
+
+STM 0.55MPa
+ 45 → 90℃ 
+
+Do. 
+XLV90-50 
+
+Purifier 
+Fuel Oil Heater 2 Steam Heat 
+
+STM 0.55MPa
+ 55 → 98℃ 
+
+Do. 
+B125/40×15-14 
+
+Main Engine
+Fuel Oil Heater 1 Steam Heat 
+
+STM 0.55MPa
+105 →140℃ 
+
+Do. 
+B125/80×15-14
+
+Boiler 
+Fuel Oil Heater 1 Electric Heat
+
+ 
+7 kW ※ 
+
+Diesel Gene.
+Fuel Oil Heater 1 Steam Heat 
+
+STM 0.55MPa
+105 →140℃ 
+
+KAJIWARA 
+B100/60×15-9 
+
+Calorifier Unit 1 
+Steam &
+Electric Heat
+
+STM 0.3MPa
+ 10 → 70℃ 
+
+ 
+ 
+
+HARISON SANGYO
+
+CFT-300XX-SE 
+
+Main Engine
+Warm-up Heater 1 Steam Heat 
+
+2
+STM 0.55MPa
+
+SHOWA 
+300A-P 
+ 
+
+Main Air Reservoir 2 Cylindrical 
+5.0 m3 × 
+
+  2.9 MPa 
+IMABARI 
+SHIPBUILDING
+AR-5.0V 
+
+Emergency 
+Air Reservoir 1 Cylindrical 
+
+150 ×
+  2.9 MPa 
+
+ 
+※ 
+
+Deck Service 
+Air Reservoir 1 Cylindrical 
+
+0.5 m3 ×
+  0.69 MPa 
+
+ 
+※ 
+
+Control Air Dryer 1 Membrane 50 Nm3/h 
+HARISON SANGYO
+
+UMS-XC2V-T 
+
+
+
+ Service
+ 
+
+No.of 
+Set 
+
+Type Full Capacity
+(m3) 
+
+Heat. Ratio
+(m2/m3) 
+
+ Heavy Fuel Oil
+Settling Tank 1 18.684 
+
+ 
+0.3 Integrated 
+
+Heavy Fuel Oil
+Service Tank 1 18.945 
+
+ 
+0.3 Integrated 
+
+ 
+
+Low Sulphur
+Fuel Oil Service Tank 1 10.810 
+
+ 
+0.3 Integrated 
+
+Diesel Oil Service Tank 2  10.770 
+ 
+ Integrated 
+ 
+
+ 
+
+Sludge Tank 1 2.070(2.07) 
+ 
+
+0.1 
+
+Fuel Oil Drain Tank 1 3.340(3.34) 
+ 
+
+0.1 
+In Double
+Bottom 
+
+Fuel Oil 
+Overflow Tank 1 15.370 
+
+ 
+0.03 
+
+In Double
+Bottom 
+
+ 
+ 
+
+Waste Oil Tank 2 1.400(1.22) 
+ 
+
+0.5 
+
+ 
+ 
+
+Main Engine
+Lub. Oil Storage Tank 1 21.274 
+
+ 
+Integrated 
+
+Main Engine
+Lub. Oil Settling Tank 2 
+
+No.1  8.540
+No.2  8.619 
+
+ 
+0.2 Integrated 
+
+Main Engine
+Lub. Oil Sump Tank 1 17.790 
+
+ In Double
+Bottom 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+Diesel Gene.
+Lub. Oil Storage Tank 1 6.893 
+
+ 
+ 
+
+Diesel Gene.
+Lub. Oil Settling Tank 2 
+
+No.1  2.900
+No.2  2.877 
+
+ 
+0.2 
+
+Diesel Gene. 
+Lub. Oil Sump Tank 
+
+Each 
+1 1.100 
+
+ In Common
+Bed 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+Cylinder Oil 
+Alarm Chamber 1 0.02 
+
+ 
+ 
+
+Cylinder Oil 
+Storage Tank 2 
+
+No.1  15.159
+No.2  30.694 
+
+ 
+Integrated 
+
+ 
+
+ 
+
+(  ) Capacity is written on IOPP supplement 
+ 
+
+
+
+ Service
+ 
+
+No.of 
+Set 
+
+Type Full Capacity
+(m3) 
+
+Heat. Ratio
+(m2/m3) 
+
+   
+ 
+
+  
+ 
+
+Stern Tube 
+Lub. Oil Storage Tank 1 
+
+ 
+ 2.218 
+
+ 
+ 
+
+Stern Tube 
+Lub. Oil Sump Tank 1 
+
+ 
+ 1.420 
+
+ 
+ 
+
+In Double
+Bottom 
+
+  
+ 
+
+  
+ 
+
+Stuffing Box 
+Drain Tank 1 
+
+ 
+1.088(1.08) 
+
+ 
+ 
+
+Scavenging Box
+Drain Tank 1 
+
+ 
+0.478(0.47) 
+
+ 
+0.1 
+
+  
+ 
+
+Jacket Cool. F.W.
+Expansion Tank 1 
+
+ 
+2.016 
+
+ 
+ 
+
+Deaeration Tank 1 
+ 
+
+0.050 
+ 
+
+※ 
+M.G.O. Cooling 
+F.W. Expansion Tank 1 
+
+ 
+0.372 
+
+ 
+
+ 
+  
+
+ 
+  
+
+Fresh Water 
+Pressure Tank 1 
+
+ 
+Cylindrical 1.081 
+
+ 
+
+Drinking water
+Pressure Tank 1 
+
+ 
+Cylindrical 1.081 
+
+ 
+
+ 
+  
+
+Cascade Tank 1 
+ 
+
+2.898 
+ With Inspect.
+
+Section 
+  
+
+  
+
+  
+ 
+
+Bilge Primary Tank 1 
+ 
+
+2.646 
+ 
+ 
+
+Bilge Tank 1 
+ 
+
+23.820(23.82)
+ 
+ 
+
+In Double
+Bottom 
+
+Bilge Sludge Tank 1 
+ 
+
+20.360(20.36)
+ 
+
+0.01 
+In Double
+Bottom 
+
+Clean Drain Tank 1 
+ 
+
+12.580 
+ 
+ 
+
+In Double
+Bottom 
+
+  
+
+  
+  
+
+(  ) Capacity is written on IOPP supplement 
+ 
+
+
+
+ 
+
+Abbreviation :  
+ 
+ 
+ abt.  About 
+ D.  Driven 
+ MD. Motor Driven 
+ Cent. Centrifugal 
+ *  Pending 
+ Vert. Vertical 
+ Hor.  Horizontal 
+ F.A.  Free Air 
+ D.P.  Discharge Pressure 
+ T.H.  Total Head 
+ ※  Maker’s supply 
+ 
+ 
+
+
+
+ 
+
+1.3  SHOP TEST 
+ 
+As regards under said machinery installed in the engine room, the under said running test 
+shall be executed at the Maker’s shop to demonstrate workmanship, proper working order 
+and performance in accordance with the shop test projects. 
+ 
+In case electric current of 60 Hz shall not be available, auxiliaries driven by electric 
+motors shall be tested by supplying available electric current and results on performance 
+shall be converted into these for 60 Hz by proper calculation. 
+ 
+Necessary data shall be recorded during these tests and the results shall be submitted to 
+the Owner. 
+ 
+For main engine 
+ 
+ (1) Ahead running load test 
+ 
+  1/2 load  1/2 hour 
+  3/4 load 1/2 hour 
+  Normal rating  1  hour 
+  Maximum rating 1/2 hour 
+  70% load (Data only) 
+ 
+ At normal rating load the fuel oil consumption test shall be conducted. 
+ 
+ (2) Governor test 
+ 
+ (3) Minimum revolution test 
+ 
+ (4) Starting test and astern confirmation test 
+ 
+ (5) Emergency trip test 
+ 
+ (6) Overhaul inspection 
+ 
+During the shop test, the diesel oil shall be used and the lub. oil shall be used in 
+accordance with Maker’s standard. 
+ 
+
+
+
+ 
+
+For diesel generator engine 
+ 
+ (1) Ahead running load test 
+ 
+   1/2 load ( Data only ) 
+   Maximum rating  1 hour 
+   10% over load 1/3 hour 
+ 
+ (2) Governor test 
+ 
+ (3) Starting test ( Data only ) 
+ 
+ (4) Parallel running test 
+ 
+ (5) Emergency trip test 
+ 
+ (6) Fuel oil consumption measuring  
+ 
+These shop tests shall be carried out after coupling the engine with generator at the engine 
+Maker’s shop.  The said load shall mean the generator load. 
+ 
+For pump and air compressor 
+ 
+ (1) Performance test 
+   Performance test shall be carried out for each set but in case two or more than two 
+   sets of same kind and capacity are installed, performance test shall be carried out 
+   only for one set. 
+ 
+ (2) Continuous running test 
+   Continuous running test at full load for each set shall be carried out. 
+   The said tests shall be executed according to the Maker’s usual practice by using 
+   available facilities in the Maker’s shop. 
+ 
+For oil purifier 
+ 
+The shop test shall be carried out according to the Maker’s standard and usual practice. 
+ 
+For fresh water generator 
+ 
+The shop test shall not be carried out. 
+The operating test shall be carried out onboard during sea trial. 
+ 
+ 
+
+
+
+ 
+
+1.4  FUEL OIL CONSUMPTION OF MAIN ENGINE 
+ 
+The fuel oil consumption of main engine shall be measured at shop test burning diesel oil. 
+ 
+The figure shall be 160.5 g/kWh at normal rating on the basis of fuel net calorific value of 
+42,700 kJ/kg and ISO Standard Reference Conditions (Complying with MARPOL 73/78 
+ANNEX VI Reg.13 - Tier Ⅱ restriction).  This consumption figure shall be subject to a 
+tolerance of 5 % 
+  
+ ISO condition  
+  Suction air temperature 25℃ 
+  Sea water temperature 25℃ 
+  Barometric pressure 1000 hPa 
+ 
+ 
+
+
+
+ 
+
+SECTION 2  MAIN PROPULSION UNIT 
+ 
+ 
+2.1  GENERAL 
+ 
+The main propulsion unit shall consist of MAN B&W marine diesel engine, 2-stroke, 
+single acting, direct reversible crosshead diesel engine with exhaust turbocharger 
+( model 6S50ME-B9 ). 
+ 
+ 
+2.2  CONSTRUCTION AND MATERIAL 
+ 
+The materials and dimensions for diesel engine and its equipment shall be in accordance 
+with Japanese Industrial Standard ( JIS ) and Maker’s standard. 
+ 
+2.2.1  Bedplate and main bearing 
+ 
+The bedplate consists of high, welded, longitudinal girders and welded cross girders with 
+bearing supports. 
+For fitting to the engine seating, long, elastic holding down bolts tightened by hydraulic tools 
+are to be used. 
+The oil pan, which is integrated in the bedplate, collects the return oil from the forced 
+lubricating and cooling oil system. 
+
+ 
+The main bearings consist of Tin-aluminium shells. The bottom shell can, by means of 
+special tools and hydraulic tools for lifting the crankshaft, be rotated out and in. The shells 
+are kept in position by a bearing cap and are fixed by long elastic studs, with nuts tightened 
+by hydraulic tools 
+ 
+2.2.2  Frame box 
+ 
+The frame box is of welded design. On the exhaust side, it is provided with a relief valve for 
+each cylinder while, on the camshaft side, it is provided with a large door for each cylinder. 
+The crosshead guides are welded to the frame box. 
+For each cylinder, a slotted pipe for collecting part of the cooling oil outlet from the piston 
+is bolted into the frame box. 
+The frame box, bedplate and cylinder frame are tightened by twin stay bolts. The stay bolts 
+are tightened hydraulically with use of jacks. 
+ 
+ 
+  
+
+
+
+ 
+
+2.2.3  Cylinder frame, cylinder liner and stuffing box 
+ 
+The cylinder frame unit is of welded type or cast iron (depending on production facility) 
+with integrated camshaft frame. Together with the cylinder liner, they form the scavenge air 
+space. At the chain drive, the upper part of the chain wheel frame is fitted. On the camshaft 
+side of the engine, the cylinder frame units are provided with covers for cleaning the 
+scavenge air space and for inspection of the scavenge ports and piston rings. 
+The gallery brackets are bolted onto the cylinder frame. Furthermore, the outer part of the 
+telescopic pipe is fitted for the supply of piston cooling oil. 
+ 
+A piston rod stuffing box for each cylinder unit is fitted at the bottom of the cylinder frame. 
+The stuffing box is provided with sealing rings for scavenge air, and with oil scraper rings to 
+prevent oil from entering the scavenge air space. 
+ 
+The cylinder liner is made of boron cast iron alloy. The upper part of the liner is surrounded 
+by a cooling jacket. The cylinder liner has scavenge ports and drilled holes for cylinder 
+lubrication. 
+ 
+2.2.4  Cylinder cover 
+ 
+The cylinder cover is of cast or forged steel (depending on production facility), made in one 
+piece, and has bores for cooling water. It has a central bore for the exhaust valve and bores 
+for fuel valves, safety valve, starting valve and indicator valve. 
+The cylinder cover is tightened to the cylinder frame with studs and nuts by hydraulic jacks. 
+ 
+2.2.5  Crankshaft 
+ 
+The crankshaft is of the semi-built type, made of forged steel throws. 
+The crankshaft is built integral with the thrust shaft and is, on the aft end, provided with a 
+flange for the turning wheel and for coupling to the intermediate shaft. At the fore end, the 
+crankshaft can be provided, if needed, with a flange for a counterweights and/or a tuning 
+wheel with additional price. 
+ 
+2.2.6  Axial vibration damper 
+ 
+The engine is fitted with an axial vibration damper, which is mounted on the fore end of the 
+crankshaft. 
+The damper consists of a piston and a split-type housing located forward of the foremost 
+main bearing. The piston is made as an integral collar on the main journal, and the housing 
+is fixed to the main bearing support. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+2.2.7  Thrust bearing 
+ 
+The thrust bearing is of the B&W-Michell type, and consists of a thrust collar on the 
+crankshaft, a bearing support, and segments with white metal. 
+The propeller thrust is transferred through the thrust collar, the segments, and the bedplate 
+to engine seating and end chocks. 
+The thrust bearing is lubricated by the engine's main lubricating oil system. 
+ 
+2.2.8  Connecting rod 
+ 
+The connecting rod is made of cast or forged steel (depending on production facility) and 
+provided with bearing caps for the crosshead and crankpin bearings. 
+The crosshead and crankpin bearing caps are secured to the connecting rod by studs and nuts 
+which are tightened by hydraulic jacks. 
+The crosshead bearing consists of a set of Tin-aluminium shells. The crosshead bearing cap 
+has an angular cut-out for the piston rod. 
+The crankpin bearing consists of Tin-aluminium shells. 
+Lubricating oil is supplied through ducts in the crosshead and connecting rod. 
+ 
+2.2.9  Piston, piston rod and crosshead 
+ 
+The piston consists of piston crown and piston skirt. The piston crown is made of heat-
+resistant steel and has four ring grooves which are hard-chrome plated on both the upper and 
+lower surfaces of the grooves. The piston skirt is of cast iron and provided with bronze 
+bands. 
+ 
+The piston rod is of forged steel and is surface-hardened on the running surface for the 
+stuffing box. The piston rod is connected to the crosshead with four screws. The piston rod 
+has a central bore which, in conjunction with a cooling oil pipe, forms inlet and outlet for 
+cooling oil. 
+ 
+The crosshead is of forged steel and is provided with guide shoes with white metal on the 
+running surface. 
+The telescopic pipe for oil inlet and the pipe for oil outlet are mounted on the top of the 
+guide shoes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+2.2.10  Exhaust valve and valve gear 
+ 
+The exhaust valve consists of a housing with gas channel and spindle guide. The housing is 
+water cooled and made of cast iron. Between the cylinder cover and the housing, there is a 
+bottom piece. 
+The bottom piece is water cooled on its outer surface. 
+The valve spindle is of heat resistant steel with “hard metal” welded onto the seat, and is 
+provided with small vane wheel on which the exhaust gas acts during operation, thus 
+making spindle rotate slightly. 
+ 
+The hydraulic system consists of an actuator, activated by a cam on the camshaft, a high-
+pressure pipe, and an oil cylinder for the exhaust valve spindle, mounted on top of the 
+housing. The hydraulic system opens the exhaust valve, while the closing force is provided 
+by an air spring. The closing of the exhaust valve is damped by means of an oil cushion on 
+top of the spindle. 
+The exhaust valve close timing is controlled by not only the cam but also the electronic 
+valve (ELFI-V valve), which is electronically controlled by the Cylinder Control Units of 
+Engine Control System. 
+ 
+
+ 2.2.11  Fuel valve, starting air valve, safety valve and indicator valve 
+ 
+
+Each cylinder cover is equipped with two fuel valves, one starting valve, one safety valve, 
+and one indicator valve. The opening of the fuel valve is controlled by the fuel oil high 
+pressure created by the fuel pumps, and the valve is closed by a spring. 
+The fuel valves are equipped with a slide and circulating bore, to ensure an adequate flow of 
+heated oil through the fuel pump housing and fuel valves at all loads including stopped 
+engine. By means of the “built-in” circulation of preheated fuel oil, the fuel pumps and fuel 
+valves can be maintained at service temperature, also while the engine is stopped. 
+Consequently, it is not necessary to change to diesel oil when entering harbour, provided 
+that the circulating pump is kept running and preheating of the circulated fuel oil is 
+maintained. 
+ 
+The starting valve is opened by control air from the starting air distributor and closed by a 
+spring. 
+ 
+The safety valve is spring-loaded. 
+ 
+The engine is fitted with an indicator valve to which the PMI pressure transducer can be 
+connected. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+2.2.12  Fuel oil pressure booster and fuel oil high pressure pipe 
+ 
+The engine is provided with one hydraulically activated fuel oil pressure booster for each 
+cylinder. The fuel oil pressure booster consists of a pump housing, a hydraulic piston and 
+plunger. In order to prevent fuel oil from being mixed with the servo oil, the fuel oil pressure 
+booster is provided with a sealing device. 
+The fuel oil injection is controlled by electronic valve (ELFI-V valve), which is electronically 
+controlled by the Cylinder Control Units of Engine Control System. 
+
+ 
+The fuel oil high-pressure pipes are equipped with protective hoses and are neither heated nor 
+insulated. 
+ 
+2.2.13  Hydraulic Cylinder Unit (HCU) 
+ 
+The HCU consists of a base plate on which a distributor block is mounted. 
+The distributor block is fitted with one accumulator to ensure that the necessary 
+hydraulic oil peak flow is available for the electronic fuel injection. 
+The distributor block serves as a mechanical support for the hydraulically activated 
+fuel oil pressure booster and Alpha lubricator. 
+ 
+There is one HCU per two cylinders. The HCU is equipped with two fuel oil pressure 
+boosters, two ELFI-V valves and two Alpha Lubricators. Thereby, one HCU is operating 
+two cylinders. 
+ 
+2.2.14  Hydraulic Power Supply (HPS) 
+ 
+The HPS is installed in the front end of the engine. The HPS is electrically driven and 
+consists of two electric motors each driving a hydraulic pump. 
+ 
+The pressure for the hydraulic oil is approx. 30.0 MPa. Each of the pumps has a capacity 
+corresponding to min. 55% of the engine power. In case of malfunction of one of the pumps, 
+it is still possible to operate the engine with 55% engine power corresponding to 85% speed. 
+ 
+2.2.15  Camshaft and cams 
+ 
+The camshaft is made in one or two pieces depending on the number of cylinders, with 
+exhaust cams shrunk onto the shaft. The exhaust cams are of a hardened roller face. They 
+can be adjusted hydraulically. 
+ 
+2.2.16  Chain drive 
+ 
+The chain drive is integrated with the thrust bearing in the aft end of the engine. The 
+camshaft is driven from the crankshaft by chain drive. The chain drive is provided with 
+chain tightener. The long free lengths of chain are supported by guidebars. 
+The starting air distributor is driven by the camshaft. 
+
+
+
+ 
+
+2.2.17  Reversing 
+ 
+Reversing of the engine is performed electronically and pneumatically, by changing the 
+timing of the Fuel Injection and the starting air valves. 
+The exhaust gear is not reversible. 
+ 
+2.2.18  Engine manoeuvring system 
+ 
+The engine is provided with an electric-pneumatic manoeuvring system. The system 
+transmits orders from the manoeuvring console to the engine. 
+The regulating system makes it possible to start, stop and reverse the engine and to control 
+the engine. The speed control dial on the manoeuvring console gives a speed-setting signal 
+to the Engine Control System. 
+ 
+2.2.19  Main Operating Panel (MOP) 
+ 
+In the engine control room a MOP is located, which is a Personal Computer (PC) with a 
+touch screen as well as a trackball from where the operator can carry out engine commands, 
+adjust the engine parameters, select the running modes, and observe the status of the control 
+system. 
+ 
+2.2.20  Engine Side Console (ESC) 
+ 
+In normal operating the engine is controlled from engine control room. 
+Alternatively, the ESC can be activated. This redundant control is to be considered as a 
+substitute for the previous engine side control console mounted directly onto the MC engine. 
+The ESC is place on the engine. 
+From the ESC, the basic functions are available, such as starting, engine speed control, 
+stopping, reversing, and the most important engine data are displayed. 
+ 
+2.2.21  Governor system 
+ 
+The governor functions equivalents to the conventional governor system are included in the 
+Engine Control System. 
+ 
+2.2.22  Starting air system 
+ 
+The starting air system comprises a main starting valve, a non-return valve, a bursting disc 
+for the branch pipe to each cylinder, a starting air distributor, and starting valves on each 
+cylinder. The main starting valve is connected with the main manoeuvring system, which 
+controls the start of the engine. 
+The starting air distributor regulates the supply of control air to the starting valves so that 
+they supply the engine cylinders with starting air in the correct firing order. 
+ 
+ 
+
+
+
+ 
+
+2.2.23  Scavenging air system 
+ 
+The air intake to the turbocharger takes place direct from the engine room through the intake 
+silencer of the turbocharger. From the turbocharger, the air is led via the charging air pipe, 
+air cooler and scavenging air receiver to the scavenging ports of the cylinder liners. The 
+charging air pipe between turbocharger and air cooler is provided with a compensator and is 
+heat insulated on the outside. 
+ 
+2.2.24  Exhaust turbocharger and air cooler 
+ 
+The engine is fitted with turbocharger arranged on the side of the engine. 
+The turbine side is provided with cleaning device. 
+ 
+The engine is fitted with air cooler mono-block type so arranged for easy cleaning with 
+chemicals at the engine standstill. The air cooler consists of tube plates of rolled brass, 
+cooling tubes with cuprous fins and cast iron covers coated with resin. 
+After the air cooler, a water mist catcher is mounted. 
+ 
+2.2.25  Auxiliary blower 
+ 
+The engine is provided with two electrically-driven auxiliary blowers. The suction sides of the 
+blowers is connected to the scavenge air space after the air cooler. 
+Between the air cooler and the scavenge air receiver, flap valves are fitted with automatically 
+close when the auxiliary blowers supply the air. 
+Both auxiliary blowers will start operating before the engine is started and will ensure 
+sufficient scavenge air pressure to obtain a safe start. 
+During operation of the engine, both auxiliary blowers will start automatically each time the 
+engine load is reduced to about 30–40%, and they will continue operating until the load again 
+exceeds approximately 40–50%. 
+In cases where one of the auxiliary blowers is out of service, the other auxiliary blower will 
+automatically compensate without any manual readjustment of the valves, thus avoiding any 
+engine load reduction. This is achieved by the automatically working non-return valves in the 
+suction pipe of the blowers. 
+ 
+2.2.26  Exhaust gas system 
+ 
+From the exhaust valves, the gas is led to the exhaust gas receiver where the fluctuating 
+pressure from the individual cylinders is equalised, and the total volume of gas led further 
+on to the turbochargers at a constant pressure. After the turbocharger, the gas is led to the 
+exhaust pipe system. 
+Compensators are fitted between the exhaust valves and the receiver, and between the 
+receiver and the turbocharger. 
+The exhaust gas receiver and exhaust pipes are provided with insulation, covered by 
+galvanised steel plating. 
+ 
+
+
+
+ 
+
+2.2.27  Turning wheel and turning gear 
+ 
+The turning wheel has cylindrical teeth and is fitted to the thrust shaft. The turning wheel is 
+driven by a pinion on the terminal shaft of the turning gear, which is mounted on the 
+bedplate. 
+The turning gear is driven by an electric motor with built-in gear and brake. The turning 
+gear is equipped with a blocking device that prevents the main engine from starting when 
+the turning gear is engaged. Engagement and disengagement of the turning gear is effected 
+manually by an axial movement of the pinion. 
+ 
+2.2.28  Gallery arrangement 
+ 
+The engine is provided with gallery brackets, stanchions, railing and platforms (exclusive of 
+ladders). The brackets are placed at such a height that the best possible overhauling and 
+inspection conditions are achieved. Some main pipes of the engine are suspended from the 
+gallery brackets. 
+ 
+2.2.29  Cylinder lubricators  (Alpha Lubricator System; ALS) 
+
+ 
+The cylinder lubricator units, one per engine cylinders, are mounted. The oil is led to the 
+lubricator unit, through a pipe system from an elevated tank (Shipbuilder’s supply). 
+The ALS is electronically controlled by the Cylinder Control Units of Engine Control System. 
+ 
+The setting of Alpha lubricator system can be performed by MOP. 
+ 
+2.2.30  Piping arrangements 
+ 
+The lubricating oil, cylinder cooling fresh water and air coolers are cooled by means of sea 
+water. The pipes for the lubricating oil system and for the fresh water on the engine are of steel, 
+the sea water pipes are of galvanized steel. 
+
+ 
+a) Forced lubrication and oil cooling: 
+
+The main forced lubrication is led to each main bearing through branches from the main 
+lubrication pipe located along the engine. Cooling oil is led to the telescopic pipe through 
+branches from the cooling oil main pipe located along the cooling jackets on the exhaust 
+side of the engine, through which the oil is led to the crossheads. From there, some of the oil 
+is branched off for lubrication of the crosshead shoes and crosshead bearings and is led 
+through the bored connecting rod to the crank bearing.  
+Some of the oil is led through a pipe in the bore of the piston rod for cooling of the piston. 
+The oil returns from here through the piston rod and let out through a duct in the crosshead. 
+The camshaft bearing lubricating oil and the exhaust valve driving gear oil are supplied 
+from cooling oil system. 
+
+ 
+ 
+ 
+
+
+
+ 
+
+b) Cooling water system: 
+Cylinders and exhaust valves are fresh water cooled. 
+The fresh water is led from the main piping along the engine through branches to the each 
+cylinder liner. The fresh water is led from the cylinder liner up through the cylinder cover 
+and exhaust valve housing and from there to a manifold through which it is carried back to 
+the fresh water cooler. 
+
+ 
+ 
+
+
+
+ 
+
+2.3  FITTING AND ACCESSORY 
+ 
+The following accessories shall be supplied together with main engine. 
+ 
+ 1 － set of exhaust gas turbocharger  
+ 1 － set of air cooler 
+ 1 － set of flywheel 
+ 1 － set of turning gear 
+ 1 － set of thrust bearing 
+ 2 － sets of auxiliary blower 
+ 1 － set of main starting valve with non-return valve 
+ 1 － sets of ALPHA lubricator system 
+ 1 － set of grating for engine 
+ 1 － set of piping attached to the engine 
+ 1 － set of manoeuvring device 
+ 1 － set of pressure gauge 
+ 1 － set of thermometer  
+ 1 － set of manometer 
+ 1 － set of fuel oil 2nd filter 
+ 1 － set of oil mist detector 
+ 1 － set of hydraulic power supply unit (HPS) 
+ 1 － set of hydraulic cylinder unit (HCU) 
+ 2 － sets of main operating panel (MOP) 
+ 1 － set of local operating panel (LOP) 
+ 1 － set of cylinder control unit (CCU) 
+ 
+
+
+
+ 
+
+SECTION 3  SHAFTING AND PROPELLER 
+ 
+ 
+3.1  GENERAL 
+ 
+The entire rotating system including main engine, shafting and propeller shall be designed 
+so that the serious torsional vibration requiring barred range shall not occur between 85% 
+and 100% of revolution corresponding to the maximum rating of main engine. 
+ 
+The calculation sheets regarding the torsional vibration shall be submitted to the Owner 
+and the Classification Society for approval. 
+ 
+ 
+3.2  SHAFTING 
+ 
+The shafting shall be one (1) line which consist of one (1) intermediate shaft and one (1) 
+propeller shaft. 
+The shafting shall be of solid type and machined smooth all over except journals and 
+coupled face which shall be finely finished. 
+The coupling flanges shall be integrated with the shaft and protected by sheet steel guards.  
+The shafting shall be bolted together with straight reamer bolts. 
+ 
+The diameter of intermediate shaft shall be determined in accordance with the 
+requirement of the Classification Society. 
+The diameter of shaft at intermediate shaft bearing shall be added 5mm to the determined 
+shaft diameter. 
+The diameter of propeller shaft shall be in accordance with the requirement of the 
+Classification Society. 
+ 
+The aft part of propeller shaft shall be machined with 1/20 taper and threaded at end for 
+fitting the propeller with a steel nut. 
+The propeller shaft shall be withdrawn inboard by removing intermediate shaft, and the 
+eye plate for withdrawing shall be provided. 
+ 
+ 
+3.3  INTERMEDIATE SHAFT BEARING 
+ 
+One (1) intermediate shaft bearing of removable bearing shell type shall be fitted for 
+proper support of the intermediate shaft. 
+ 
+Intermediate shaft bearing shall be provided bearing metal at upper and lower part. 
+
+
+
+ 
+
+The bearing shall be filled with lub. oil from the pipes of branched main engine lub. oil 
+line. 
+Lub. oil shall flow into the bearing clearance from the side of shaft center line through the 
+clearance between housing bore and outside of bearing metal and lubricate the bearing. 
+Lub. oil shall drain off through the both end of bearing metal and flow to the returning 
+main engine lub. oil sump tank. 
+ 
+ 
+3.4  STERN TUBE BEARING AND SEAL 
+ 
+The stern tube shall accommodate two (2) stern tube bearings shell and two (2) stern tube 
+oil sealing devices. 
+ 
+The stern tube sealing device at aft side shall be provided with stand-by seal ring. 
+ 
+The wear down measuring apparatus shall be provided to measure clearance at the aft side 
+bushing of the stern tube. 
+ 
+The rope guard fabricated steel with anode shall be provided between aft end of stern 
+frame boss and propeller boss. 
+ 
+The wire net guard ( propeller boss grooved type ) shall be provided. 
+ 
+ 
+3.5  PROPELLER 
+ 
+There shall be provided one solid type propeller.  The diameter and pitch of propeller 
+shall be suitable for the power and speed.  The propeller shall rotate clockwise, seen 
+from aft when going ahead.  The propeller shall be of key-less type and fitted on the 
+taper end of propeller shaft and secured by a nut. 
+The forward end of boss shall be counterbored and fitted with a sealing gland. 
+ 
+The propeller surface shall be ground smooth.  A propeller cap shall be bolted to the 
+boss and its interior shall be filled with grease. 
+ 
+The performance of propeller shall be designed under the following conditions. 
+ 
+ Main engine output Normal output ( 6,425 kW ) 
+ Main engine revolution abt. 97.6 min-1 ( abt. 4% up ) 
+ Draught Designed loaded draught 
+ Sea condition Calm sea 
+ 
+The propeller shall be swung on a mandril and statically balanced. 
+ 
+
+
+
+ 
+
+3.6  MATERIAL 
+ 
+Shafting : 
+ 
+ Intermediate shaft Forged steel 
+ Propeller shaft Forged steel 
+ Nut for propeller shaft Forged steel 
+ Coupling bolt Forged steel 
+ 
+Stern tube bearing and seal : 
+ 
+ Stern tube bearing Cast iron with white metal ( WJ2 ) 
+ Sealing ring Fluoro rubber ( FPM ) 
+   
+Intermediate shaft bearing : 
+ 
+ Upper and lower shells Cast iron  
+ Bearing metal White metal ( WJ2 ) 
+ 
+Propeller : 
+ 
+ Propeller Nickel aluminum bronze 
+ Propeller cap Bronze 
+ Rope guard Mild steel plate 
+ 
+ 
+ 
+
+
+
+ 
+
+SECTION 4  STEAM GENERATING PLANT 
+ 
+ 
+4.1  GENERAL 
+ 
+The steam generating plant shall be in accordance with the following descriptions and 
+particulars described in Subsection 1.2 MACHINERY PARTICULAR. 
+ 
+ 
+4.2  AUXILIARY BOILER 
+ 
+4.2.1 Construction 
+ 
+The boiler shall consist of the doughnut shaped steam drum and water drum which are 
+connected by two rows of water tubes. 
+ 
+The flame of oil burning side shall transfer heat to water in inside water tubes by radiation.  
+It shall become the combustion gas and be branched into two rows of water tubes and 
+meet at the exit and be discharged from the funnel. 
+Contact heat transfer shall be made when water passes in water tubes and heat be 
+transferred to water efficiently. 
+ 
+The exhaust gas side shall be provided with a group of a water tubes reasonably arranged 
+circumferentially on upper and lower drums to transfer heat efficiently. 
+The exhaust gas inflowed through the flue shall be separated in two directions of left-hand 
+and right-hand to effect heat exchange and discharged through the outlet funnel as low 
+temperature exhaust gas. 
+ 
+Inner and outer casings shall be available.  Heat insulating material shall be placed 
+between inner and outer casings to check radiation of heat. 
+Insulating fire clay shall be placed in the lower part of the furnace and narrowed part of 
+gas shorting. 
+ 
+4.2.2 Material 
+ 
+End plate Boiler steel plate 
+Furnace Boiler steel plate 
+Water tube Boiler tube 
+Shell plate Boiler steel plate 
+ 
+ 
+
+
+
+ 
+
+4.2.3  Fitting and accessory 
+ 
+ 1 － pressure gauge root valve 
+ 2 － sets of water gauge 
+       ( including water level controller ) 
+ 1 － set of oil burning unit 
+ 3 － sets of soot blower ( Compressed air type ) 
+ 2 － safety valve 
+ 1 － main steam stop valve 
+ Each 1 － main and aux. feed check valve 
+ Each 1 － main and aux. feed stop valve 
+ 1 － surface blow-off valve 
+ 1 － bottom blow-off valve 
+ 4 － water level gauge root valve 
+ 1 － boiler water sampling valve 
+ 4 － glass gauge isolation valve 
+ 2 － glass gauge drain valve 
+ 
+
+
+
+ 
+
+SECTION 5  ELECTRIC GENERATING PLANT 
+ 
+ 
+5.1  GENERAL 
+ 
+There shall be provided three (3) sets of main diesel generators. 
+ 
+Regarding the electric generator, refer to PART IV ELECTRIC PART. 
+ 
+ 
+5.2  MAIN DIESEL GENERATOR ENGINE 
+ 
+5.2.1  General 
+ 
+The main diesel generator engine shall be vertical single acting, 4-cycle direct injection, 
+air cooled turbocharged diesel engine with air cooler. 
+ 
+5.2.2  Construction and material 
+
+ 
+(1) Crankshaft 
+ 
+The crankshaft shall be made of high grade forged steel one piece type. 
+ 
+(2) Main bearing shell 
+ 
+The main bearing shell shall be made of aluminum alloy metal lined, split in two (2) 
+pieces type mild steel.  It shall be completed thin-shell type, and provided with 
+complete interchangeability. 
+ 
+(3) Engine frame 
+ 
+Engine frame shall be made of special cast iron, of under sling bearing structure, which 
+is sufficiently rigid for high explosion pressure. 
+ 
+The engine frame shall have big inspection holes on the both side in order to be taken 
+out the main and crank pin bearing shells, and other main moving parts. 
+ 
+The intake air passage shall be provided at the upper part of engine frame on the 
+exhaust manifold side providing a double wall structure, thus substantially enclosing 
+sound insulation. 
+Also passages of cooling water inlet/outlet and Lub. oil inlet shall be built into this 
+engine frame to minimize external piping. 
+ 
+The main bearing cap shall be secured rigidly to the engine frame by hydraulically 
+tightening two mounting bolts and two side bolts. 
+
+
+
+ 
+
+(4) Cylinder head 
+ 
+The cylinder head shall be made thick with special cast iron.  It has a fuel injection 
+nozzle on its center, and each 2 pieces of intake and exhaust valves and rocker arms are 
+arranged around the fuel injection nozzle. 
+ 
+(5) Cylinder liner 
+ 
+The cylinder liner shall be made of high grade cast iron against abnormal wear, and its 
+inside is precisely hone-finished. 
+The cylinder liner cooled by freshwater shall be made thick with ample rigidly so that 
+it is sufficiently endurable even under high combustion pressure and the thermal stress. 
+ 
+(6) Piston, piston pin and piston ring 
+ 
+The piston shall be made of ductile cast iron as mono-block type and cooled by 
+crankcase lubricating oil through the connecting rod and piston pin inside. 
+ 
+1st and 2nd piston ring grooves of piston shall be surface-hardened to have resistance 
+against wear down. 
+ 
+The piston pin shall be made of carbonizing-hardening chromium-molybdenum steel. 
+A full floating method shall be adopted in fitting the piston pin. 
+ 
+The three piston rings and one oil ring shall be made of cast iron, and piston rings and 
+oil rings shall be chromium plated. 
+ 
+(7) Connecting rod and crank pin bearing shell 
+ 
+The connecting rod shall be made of forged steel, and it is constructed so that the 
+forging is divided into 3 parts and the large end part is horizontally divided. 
+The piston pin bush shall be of cylindrical steel lined with lead bronze.  The crank pin 
+bearing shell shall be of aluminum alloy metal lined completed thin shell type. 
+ 
+(8) Fuel injection pump and fuel nozzle holder 
+ 
+Both the pump with a tappet and the nozzle of Bosch type shall be attached to each 
+cylinder. 
+ 
+The circulation type fuel injection pump shall be adopted. 
+ 
+
+
+
+ 
+
+(9) Intake and exhaust valve 
+ 
+Both intake and exhaust valves shall mushroom type of heat resistance steel, and 
+provided with the valve rotators and removable seat rings respectively. 
+ 
+The exhaust valve shall be made of heat resistance steel. 
+The seat of exhaust valve shall be plated with stellite. 
+The exhaust valve seat shall be cooled by fresh water and the treatment of anti-
+corrosion shall be applied for gas passage. 
+ 
+
+5.2.3  Piping 
+ 
+(1)  Cooling system 
+ 
+Cooler line (LT-FW) 
+The engine driven LT-FW pump shall run cooling water from the external freshwater 
+cooler into the secondary L.O. cooler and air cooler. 
+Under low load condition, charge air inverse warming would be carried out 
+automatically by means of cutting off cooling water from the secondary air cooler. 
+ 
+Cylinder jacket line (HT-FW) 
+The engine driven HT-FW pump shall be circulated cooling water, which is controlled 
+by the attached thermostat, in the primary air cooler, cylinder jacket and cylinder heads. 
+ 
+(2)  Lub. oil system 
+ 
+A gear pump shall be driven by the auxiliary machinery driving gear of engine. 
+Lub. oil sucked up from the oil sump shall be sent out into cooler and oil filter, and 
+lubricates main bearings, crank pin metals, piston pin metal, camshaft bearings, swing 
+arm, valve rocker arm, timing gear train and turbocharger, while some oil cools pistons 
+and drops back to the oil sump. 
+For the priming of the lubrication system during engine is in rest, electric motor driven 
+pre-priming pump of continuous priming system shall be provided. 
+To safeguard the oil cooler and oil piping against excessive oil pressure, a relief valve 
+shall be attached. 
+ 
+
+ 
+
+
+
+ 
+
+5.2.4  Fitting and accessory 
+ 
+The following accessories shall be supplied with the engine. 
+ 
+ 1 － turbocharger  
+ 1 － air cooler  
+ 1 － flywheel 
+ 1 － maneuvering gear 
+ 1 － governor 
+ 1 － exhaust gas manifold 
+ 1 － mechanical tachometer  
+ 1 － set of pressure gauge 
+ 1 － set of thermometer 
+ 1 － lub. oil filter 
+ 1 － lub. oil by-pass filter (centrifugal type) 
+ 1 － lub. oil pump ( gear ) 
+ 1 － lub. oil cooler 
+ 2 － cooling fresh water pump ( centrifugal ) 
+ 1 － turning bar 
+ 1 － common bed 
+ 1 － set of fuel oil shut-off device for emergency trip 
+ 
+ 
+
+
+
+
+
+SECTION 6  PUMP 
+ 
+ 
+6.1  GENERAL 
+ 
+The particulars of pumping equipment shall be in accordance with Subsection 1.2 
+MACHINERY PARTICULAR. 
+ 
+The continuous running pumps for propulsive use shall be provided with two (2) sets, 
+each one of them shall be as stand-by in principle. 
+ 
+ 
+6.2  CENTRIFUGAL PUMP 
+ 
+Connection between pump shaft and motor shaft shall be of the pin and buffer type 
+flexible coupling or rigid coupling according to the Maker’s standard. 
+Pump casing except for horizontal pumps, specially constructed type pumps and small 
+vertical pumps shall be split or removed upward only so that the rotating members may be 
+overhauled for inspection or replacement without disturbing the pipe connections. 
+ 
+The pumps which self-priming is necessary shall be provided with self-priming unit. 
+ 
+The materials of main parts of centrifugal pumps shall be as follows:  
+ 
+
+Name Casing Impeller Shaft Shaft seal 
+
+ 
+Cool. S.W. pump 
+
+ 
+Bronze 
+
+Phosphor 
+bronze 
+
+Stainless 
+steel 
+
+Mechanical 
+seal 
+
+Jacket 
+cool. F.W. pump 
+
+ 
+Cast iron 
+
+Phosphor 
+bronze 
+
+Stainless 
+steel 
+
+Mechanical 
+seal 
+
+Fire & G.S. pump 
+(Bilge & ballast pump) 
+
+ 
+Bronze 
+
+Phosphor 
+bronze 
+
+Stainless 
+steel 
+
+Mechanical 
+seal 
+
+ 
+Ballast pump 
+
+ 
+Bronze 
+
+Phosphor 
+bronze 
+
+Stainless 
+steel 
+
+Mechanical 
+seal 
+
+Ref. machine 
+cool. S.W. pump 
+
+ 
+Bronze 
+
+Stainless 
+steel 
+
+Stainless 
+steel 
+
+Mechanical 
+seal 
+
+     
+
+ 
+
+
+
+
+
+ 
+Name Casing Impeller Shaft Shaft seal 
+
+ 
+Drinking water pump 
+
+ 
+Cast iron 
+
+Phosphor 
+bronze 
+
+Stainless 
+steel 
+
+Mechanical 
+seal 
+
+ 
+Fresh water pump 
+
+ 
+Cast iron 
+
+Phosphor 
+bronze 
+
+Stainless 
+steel 
+
+Mechanical 
+seal 
+
+Hot water 
+circulating pump 
+
+ 
+Cast iron 
+
+Phosphor 
+bronze 
+
+Stainless 
+steel 
+
+Mechanical 
+seal 
+
+ 
+Boiler feed water pump 
+
+ 
+Cast iron 
+
+Phosphor 
+bronze 
+
+Stainless 
+steel 
+
+Mechanical 
+seal 
+
+Main air comp.   
+cooling F.W. pump 
+
+ 
+Cast iron 
+
+Phosphor 
+bronze 
+
+Stainless 
+steel 
+
+Mechanical 
+seal 
+
+M.G.O. Cooling  
+Fresh Water pump 
+
+ 
+Cast iron 
+
+Phosphor 
+bronze 
+
+Stainless 
+steel 
+
+Mechanical 
+seal 
+
+ 
+The fittings and accessories shall be as follows: 
+ 
+ 1 － set of coupling bolt, nut and rubber ring, if fitted 
+ 1 － coupling cover for horizontal type pump, if fitted 
+ 1 － drain plug 
+ 1 － gauge board fitted with suction and discharge pressure gauges  
+ Each 1 － root cock or valve for pressure gauge 
+ 1 － air ejector, if fitted 
+ 1 － common bed for horizontal type pump, if fitted 
+ 
+ 
+Main lub. oil pump 
+ 
+The material of main L.O. pump shall be in accordance with maker standard. 
+ 
+The specified capacity and motor of main L.O. pump shall be designed on the following 
+viscosity. 
+ 
+ 
+
+Name Capacity Motor output 
+ 
+
+Main lub. oil pump 
+ 
+
+26 cSt 
+ 
+
+260 cSt 
+ 
+ 
+ 
+
+
+
+
+
+6.3  ROTARY PUMP 
+ 
+Rotary pumps shall develop rated capacity and discharge pressure when operating with the 
+under-said suction conditions. 
+ 
+
+Name 
+Suction 
+vacuum 
+( MPa )
+
+Viscosity 
+(cSt) 
+
+Shaft seal 
+
+Fuel oil transfer pump －0.05 26  - 1,000 Mechanical seal
+
+Diesel oil transfer pump －0.05 2  - 1,000 Mechanical seal
+
+Lub. oil transfer pump －0.05 26  - 1,000 Mechanical seal 
+
+Stern tube L.O. pump －0.05 26  - 1,000 Mechanical seal
+
+L.O. puri. supply pump －0.05 26  -  260 Mechanical seal
+
+D/G L.O. puri. supply pump －0.05 26  - 260 Mechanical seal 
+
+ 
+ 
+ 
+The materials of main parts of the gear pumps shall be as follows:  
+ 
+ Casing Cast iron 
+ Gear Carbon steel 
+ Shaft Carbon steel 
+ 
+The fittings and accessories shall be as follows:  
+ 
+ 1 － set of coupling bolt, nut and rubber ring or coupling bush 
+ 1 － coupling cover for horizontal type pump 
+ 1 － relief valve  
+ 1 － gauge board fitted with suction and discharge pressure gauges 
+ Each 1 － root cock or valve for pressure gauge 
+ 1 － common bed for horizontal type pump 
+ 
+ 
+
+
+
+
+
+6.4  SCREW PUMP 
+ 
+Screw pumps shall develop rated capacity and discharge pressure when operating with the 
+under-said suction conditions. 
+ 
+
+Name 
+Suction 
+vacuum 
+( MPa )
+
+Viscosity 
+(cSt) 
+
+Shaft seal 
+
+Fuel oil booster pump －0.05 1.5  -  260 Mechanical seal
+
+M/E fuel oil circulating pump ＋0.4 1.5  -  260 Mechanical seal
+
+D/G fuel oil circulating pump ＋0.4 1.5  -  260 Mechanical seal 
+
+D/G diesel oil booster pump －0.05 1.5  -  260 Mechanical seal
+
+ 
+The materials of main parts of the screw pumps shall be as follows :  
+ 
+ Casing Cast iron 
+ Casing cover Cast iron 
+ Power rotor Carbon steel 
+ Idle rotor Ductile steel 
+ 
+ 
+ 
+The fittings and accessories shall be as follows :  
+ 
+ 1 － set of coupling bolt, nut and rubber ring or coupling bush 
+ 1 － coupling cover for horizontal type pump 
+ 1 － relief valve  
+ 1 － gauge board fitted with suction and discharge pressure gauges 
+ Each 1 － root cock or valve for pressure gauge 
+ 1 － air vent plug 
+ 1 － common bed for horizontal type pump 
+ 
+ 
+
+
+
+
+
+6.5  RECIPROCATING PUMP 
+ 
+Reciprocating type bilge pump shall be provided with conventional packing type gland 
+seals and develop rated capacity and discharge pressure when operating with suction 
+vacuum of －0.05MPa and viscosity of 1～1000 cSt. 
+ 
+The materials of main parts of reciprocating pump shall be as follows:  
+ 
+ Cylinder cover Cast iron 
+ Cylinder liner Brass casting 
+ Piston Brass 
+ Valve Rubber 
+ Piston rod Stainless steel 
+ 
+The fittings and accessories shall be as follows:  
+ 
+ 1 － safety valve 
+ 1 － air vent plug 
+ 1 － drain plug 
+ 2 － V belt 
+ Each 1 － V pulley 
+ 1 － safety cover 
+ 1 － gauge board fitted with suction and discharge pressure gauges 
+ 2 － gauge cock 
+ 
+ 
+6.6  MONROS PUMP 
+ 
+Monros pump shall be one kind of displacement type screw pump and provided with 
+conventional packing type gland seals. 
+Monros type sludge pump shall develop rated capacity and discharge pressure when 
+operating with suction vacuum of －0.05MPa and viscosity of 1～1000 cSt. 
+ 
+The materials of main parts of monros pump shall be as follows: 
+ 
+ Stator Rubber 
+ Shaft, rotor and con-rod Stainless steel 
+ Pump stand Cast iron 
+ 
+ 
+
+
+
+
+
+The fittings and accessories shall be as follows:  
+ 
+ 1 － safety valve 
+ 2 － V belt 
+ Each 1 － V pulley 
+ 1 － safety cover 
+ 1 － gauge board fitted with suction and discharge pressure gauges 
+ 1 － common bed 
+ 
+ 
+6.7  OTHER PUMP 
+ 
+The construction, materials and design of pumps attached to the main engine, main diesel 
+generator engines, aux. boiler, oil purifiers, air compressors, waste oil incinerator, fresh 
+water generator and etc. shall be in accordance with Maker’s standard. 
+ 
+ 
+
+
+
+
+
+SECTION 7  AIR COMPRESSOR AND FAN 
+ 
+ 
+7.1  MAIN AIR COMPRESSOR 
+ 
+There shall be provided two (2) sets of main air compressor for main engine and main 
+diesel generator engine starting and for control air and general air service. 
+ 
+Control air and general air service shall be supplied through the air reducing valve from 
+main air reservoir. 
+ 
+The main air compressor shall be of electric motor driven two stage compression, 
+reciprocating type and shall be completed with air coolers and unloader. 
+The cylinders, cylinder covers and air coolers shall be cooled by fresh water. 
+ 
+The materials shall be as follows: 
+ 
+ Cylinder Cast iron 
+ Piston Aluminum 
+ Connecting rod Forged steel  
+ Crank shaft Forged steel  
+ Crank case Cast iron 
+ 
+The fittings and accessories shall be as follows: 
+ 
+ 1 － coupling with bolts and nuts 
+ 1 － coupling cover 
+ 1 － set air cooler after each stage 
+ 1 － pressure gauge after each stage 
+ 1 － relief valve after each stage 
+ 1 － set of drain valve 
+ 1 － unloader 
+ 1 － suction air filter 
+ 1 － oil level indicator or sounding rod 
+ 1 － oil drain plug for crank case 
+ 
+ 
+
+
+
+
+
+7.2  EMERGENCY AIR COMPRESSOR 
+ 
+The emergency air compressor shall be of electric motor driven. 
+The materials of emergency air compressor shall be in accordance with Maker’s standard. 
+ 
+7.3  MAIN AIR RESERVOIR 
+ 
+The main air reservoir shall be made of cylindrical welded steel construction.  The 
+capacity of each air reservoir shall be sufficient to ensure six (6) starts of the main engine 
+from rest in either direction without replenishment. 
+ 
+The fittings and accessories shall be as follows: 
+ 
+ 1 － safety valve 
+ 1 － charging valve 
+ 1 － main stop valve 
+ 1 － aux. stop valve 
+ 1 － drain valve of double shut type 
+ 1 － manhole 
+ 1 － pressure gauge 
+ 
+7.4  EMERGENCY AIR RESERVOIR 
+ 
+The emergency air reservoir shall be made of cylindrical welded steel construction. 
+ 
+The fittings and accessories shall be as follows: 
+ 
+ 1 － safety valve 
+ 1 － charging valve 
+ 1 － stop valve 
+ 1 － pressure gauge 
+ 
+7.5  ENGINE ROOM VENTILATING FAN 
+ 
+The engine room ventilating fan shall be of motor driven vertical axial flow split type and 
+motor shall be incorporated in the fan casing. 
+ 
+At the reverse rotation, the capacity and head shall reduced. 
+ 
+The materials shall be as follows: 
+ 
+ Casing Steel plate 
+ Impeller Aluminum alloy 
+ 
+
+
+
+
+
+SECTION 8  HEAT EXCHANGER 
+ 
+ 
+8.1  COOLER AND CONDENSER 
+ 
+8.1.1  Shell and tube type heat exchanger 
+ 
+One (1) auxiliary condenser shall have a sufficient capacity to condense excess steam 
+from the exhaust gas section of aux. boiler. 
+ 
+This heat exchanger shall be of horizontal shell and tube type.  Tube shall be straight, 
+and tube end of sea water inlet side shall be expanded into tube plates. 
+ 
+The materials shall be as follows: 
+ 
+ Shell Steel plate or steel pipe 
+ Shell cover Cast iron ( inside epoxy paint ) 
+ Tube plate Naval brass 
+ Tube Aluminum brass 
+ 
+The fittings and accessories shall be as follows: 
+ 
+ 3 － thermometers 
+ 1 － compound gauge for condenser 
+ 1 － peep hole for shell except small size cooler 
+ Necessary number － air cock and drain cock for shell and shell cover 
+ 1 － set of protecting anode ( Zn ) for each water chest of sea water 
+ 1 － set of chemical clean. flange for both tube and shell side except small size cooler 
+ 
+ 
+8.1.2  Plate type heat exchanger 
+ 
+Each one (1) set of jacket cool. F.W. cooler and main L.O. cooler respectively shall have a 
+sufficient capacity to meet max. output requirement of main engine. 
+Two (2) sets of D/G cool. F.W. cooler shall have a sufficient capacity to meet max. output 
+requirement of three (3) sets of main diesel generator engine and two (2) sets of main air 
+compressor. 
+One (1) set of M/E M.G.O. cooler, one (1) set of D/G M.G.O. cooler, one (1) set of  
+M.G.O. cool. F.W. cooler shall be provided. 
+ 
+The materials shall be as follows:  
+ 
+ Frame plate Mild steel 
+ Plate Titanium (in case of sea water cooling)  
+    Stainless steel (in case of fresh water cooling) 
+
+
+
+
+
+The heat exchangers attached to main engine, main diesel generator engines and other 
+machinery shall be in accordance with Maker’s standard. 
+ 
+The design conditions for heat exchangers shall be as following table. 
+ 
+
+HEAT EXCHANGER CALCULATION SHEET 
+ 
+ SHELL AND TUBE TYPE HEAT EXCHANGER 
+
+Name 
+
+Design condition 
+
+Tube side ( S.W.) Shell side Clean.
+factor 
+ (%) Quantity 
+
+(m3/h) 
+
+Temperature (℃)
+Quantity 
+
+Temperature (℃) 
+
+Inlet Outlet Inlet Outlet 
+ 
+ 
+
+       
+
+ 
+Aux. condenser 
+
+ 
+40 
+
+ 
+32 
+
+ 
+49.2 
+
+1,100 
+ kg/h 
+
+ 
+100 
+
+ 
+60 
+
+ 
+85 
+
+Remarks : 
+ 1) Out diameter of tube shall be 16 mm and thickness shall be 1.0 mm. 
+ 2) As a result of particular calculation, above said value may be altered. 
+ 
+ 
+
+ 
+ 
+ PLATE TYPE HEAT EXCHANGER 
+
+Name 
+
+Design condition 
+
+Cold side Hot side Clean.
+factor 
+ (%) Quantity 
+
+(m3/h) 
+
+Temperature (℃) Quantity 
+(m3/h) 
+
+Temperature (℃) 
+
+Inlet Outlet Inlet Outlet 
+Main  
+lub. oil cooler 
+
+ 
+160 
+
+ 
+32.0 
+
+ 
+36.3 
+
+ 
+220 
+
+ 
+52.4 
+
+ 
+45.0 
+
+ 
+85 
+
+Jacket cooling 
+F.W. cooler 
+
+ 
+160 
+
+ 
+36.3 
+
+ 
+43.5 
+
+ 
+102 
+
+ 
+90.0 
+
+ 
+79.0 
+
+ 
+85 
+
+D/G 
+cool. F.W. cooler 
+
+ 
+54 
+
+ 
+32.0 
+
+ 
+41.4 
+
+ 
+48.2 
+
+ 
+48.2 
+
+ 
+38.0 
+
+ 
+85 
+
+M.G.O. cooling 
+F.W. cooler 
+
+(S.W.) 
+5.0 
+
+ 
+32.0 
+
+ 
+36.6 
+
+(F.W.) 
+5.0 
+
+ 
+40.4 
+
+ 
+36.0 
+
+ 
+85 
+
+M/E 
+M.G.O. cooler 
+
+(F.W.) 
+4.0 
+
+ 
+36.0 
+
+ 
+40.0 
+
+(MGO) 
+
+4.2 
+ 
+
+50.0 
+ 
+
+40.0 
+ 
+
+85 
+D/G 
+M.G.O. cooler 
+
+(F.W.) 
+1.0 
+
+ 
+36.0 
+
+ 
+41.7 
+
+(MGO) 
+
+1.5 
+ 
+
+50.0 
+ 
+
+40.0 
+ 
+
+85 
+Remarks : 
+ 1) As a result of particular calculation, above said value may be altered. 
+ 
+
+
+
+
+
+8.2  OIL HEATER 
+ 
+There shall be provided one (1) main engine fuel oil heater, two (2) purifier fuel oil 
+heaters, one (1) purifier lub. oil heater, one (1) diesel gene. purifier lub. oil heater, one (1) 
+diesel gene. fuel oil heater and one (1) shifter fuel oil heater. 
+ 
+Boiler fuel oil heater shall be in accordance with Maker’s standard. 
+ 
+The design conditions for there heaters shall be as following table. 
+ 
+
+ 
+Name 
+
+Design condition Heating 
+steam press. 
+
+( MPa ) 
+Quantity 
+( Lit/h ) 
+
+Temperature (℃) 
+Inlet Outlet 
+
+Main engine 
+F.O. heater 
+
+ 
+4,200 
+
+ 
+105 
+
+ 
+140 
+
+ 
+0.55 
+
+Purifier 
+F.O. heater 
+
+ 
+2,100 
+
+ 
+55 
+
+ 
+98 
+
+ 
+0.55 
+
+Purifier 
+L.O. heater 
+
+ 
+2,100 
+
+ 
+45 
+
+ 
+90 
+
+ 
+0.55 
+
+Diesel gene. 
+F.O. heater 
+
+ 
+1,600 
+
+ 
+105 
+
+ 
+140 
+
+ 
+0.55 
+
+Shifter 
+F.O. heater 
+
+ 
+3,400 
+
+ 
+55 
+
+ 
+85 
+
+ 
+0.55 
+
+D/G purifier 
+L.O. heater 
+
+ 
+600 
+
+ 
+45 
+
+ 
+90 
+
+ 
+0.55 
+
+ 
+The materials of oil heaters shall be as follows: 
+ 
+ Shell Steel tube 
+ Tube Steel tube with rod or coil tube 
+ 
+The fittings and accessories shall be as follows: 
+ 
+ 1 － drain plug 
+ 1 － air vent cock 
+ 1 － relief valve 
+ 2 － thermometer 
+ 
+ 
+
+
+
+
+
+SECTION 9  FRESH WATER GENERATOR 
+ 
+ 
+9.1  GENERAL 
+ 
+There shall be installed one fresh water generator, utilizing the waste heat in the jacket 
+water from the main engine. 
+ 
+The fresh water generator shall produce fresh water of salinity not exceeding 10 P.P.M of 
+salt at abt. 90℃ main engine jacket water temperature and 32℃ cooling sea water 
+temperature. 
+ 
+The distilling cycle shall be as follows: 
+ 
+Jacket water from the main engine cooling F.W. outlet shall be led to the evaporator. 
+Sea water branched from condenser cooling sea water outlet shall be led to the evaporator 
+and heated by the fresh water from the main engine cooling system. 
+ 
+Sea water shall be evaporated in separator shell at a comparatively low temperature due to 
+the vacuum produced by means of the water ejector. 
+ 
+The vapour shall be led into the condenser through the deflector and demister and then 
+condensed by the cooling sea water. 
+The brine, concentrated sea water, shall be constantly taken out from the evaporator and 
+discharged to over board. 
+ 
+The ejector pump shall supply sea water to water ejector.  The distillate pump shall take 
+the fresh water produce from the condenser of the fresh water generator and transfer it to 
+the fresh water tank. 
+ 
+ 
+9.2  FITTING AND ACCESSORY 
+ 
+ 1 － ejector  
+ 1 － set of distillate pump 
+ 1 － set of ejector pump 
+ 1 － set of salinity alarm device 
+ 1 － solenoid valve 
+ 1 － vacuum gauge 
+ 1 － set of pressure gauge 
+ 1 － flow meter 
+ 1 － chemical injection unit 
+ Other necessary fittings 
+ 
+The construction and materials shall be in accordance with Maker’s standard. 
+
+
+
+
+
+SECTION 10  PIPING GENERAL 
+ 
+ 
+10.1  GENERAL 
+ 
+Consideration shall be given in design so that the piping shall be led as directly as 
+practicable with a minimum of bends. 
+ 
+Care shall be taken to avoid as far as possible pockets in pipe lines.  Where pockets do 
+occur, they shall be fitted with bosses having valves or screwed plugs or other means for 
+draining if necessary.  The drain plugs shall not be fitted in way of cofferdams or voids.  
+The lines which necessitate draining frequently shall be fitted with valves or traps, or both. 
+ 
+The radius of bends in steel pipe shall be about two times the nominal diameter except for 
+bend elbow.  But in case it is difficult to make good piping arrangement with two times, 
+bend elbow may be used.  Welding fittings may be employed in place of pipe bends. 
+ 
+In case that the bend elbows are used, the radius of bends shall be one or one and half 
+times of nominal diameter. 
+ 
+The system shall be designed to allow for all stresses due to thermal expansions and 
+deflections of ship’s structure. 
+Except where otherwise noted, expansion shall be compensated by using bends. 
+Expansion joints in exhaust gas pipes shall be of bellows type. 
+ 
+The pipes shall be supported suitably against excessive vibration. 
+ 
+The oil piping shall be kept as far as away from hot surface as practicable.  The pipe 
+shall, as far as possible, not be arranged directly above or in front of or behind the switch 
+board.  If unavoidable, suitable protection shall be provided. 
+ 
+Where piping passes through water or oil tight bulkheads and decks, the connection shall 
+be made tight by means of three spool flanges or direct welded pipes.  
+Connections through insulated bulkheads shall be of sufficient length to permit access to 
+flanged connection without disturbing the insulation.  
+ 
+The directly welded pipes shall be employed for piping penetrated through tank walls 
+constructed with hull, such as sounding pipes, pump suction pipes and vent pipes. 
+ 
+Where galvanized piping is specified, the galvanizing shall be done after the pipe is 
+fabricated and flanges are attached thereon in shop, except for screwed ends which may be 
+attached after galvanizing. 
+ 
+
+
+
+
+
+Where it is impracticable or welding has destroyed galvanization the surface shall be 
+touched up with coat of zinc rich paint. 
+ 
+Unions joints, screw joints or bite joints may be used for connecting the small pipes, 
+valves and cocks. 
+ 
+After fabrication in shop for subsequent assembly, the lubricating oil pipes of main engine 
+forced circulation system shall be pickled before installation.  After fitting out onboard, 
+they shall be cleaned by flushing with the lubricating oil which is prepared as system oil. 
+ 
+Packing used for all pipe lines, in general, shall be of multipurpose type or reinforced 
+rubber sheet type. 
+ 
+ 
+10.2  SEA CHEST 
+ 
+The number of sea chest shall be kept to a minimum by combining the system. 
+The suction sea chest shall be of welded steel construction and fitted with sea valve of 
+angle, globe and butterfly type. 
+ 
+The distance piece for overboard and sea suction connection shall be of extra heavy steel 
+pipe or fabricated steel construction.  The thickness of distance piece shall be determined 
+according to the requirement of the Classification Society. 
+ 
+In general, suction sea chest shall be fitted with grid type strainer which shall be 
+fabricated from flat steel bars and galvanized after fabrication.  For small suction sea 
+chest, perforated strainer plates of galvanized steel may be used. 
+ 
+Strainer grids or plates shall have a clear area not less than two times cross sectional area 
+of the connected pipe, and shall be secured so that no part extends beyond the shell.  The 
+bolts or studs and nuts for securing strainer grid or plates shall be of stainless steel.  The 
+studs and nuts for securing sea valve shall be of stainless steel. 
+ 
+Steam blow valve with coupling and air vent shall be fitted to each suction sea chest. 
+ 
+
+
+
+
+
+10.3  VALVE AND COCK 
+ 
+In general, the valves and cocks of marine use which are specified in accordance with 
+Japanese Industrial Standard ( JIS ) or equivalent standard shall be used except that the 
+valves and cocks for control system which have special construction and shape shall be in 
+accordance with Maker’s standard. 
+ 
+Generally, globe and angle valve shall be used on engine room piping system, but as to 
+fresh water and sea water lines of pipe diameter 80 mm and above, butterfly valve shall be 
+adopted.  
+ 
+ 
+
+ 
+Pipe line 
+
+ 
+Material of 
+valve body 
+
+ 
+Joint 
+
+ 
+Nominal 
+
+Bilge, ballast and 
+sea water line 
+  50 mm & above 
+  40 mm & below 
+
+ 
+ 
+ Cast iron 
+ Bronze 
+
+ 
+Steel slip on  
+welded flange 
+or sleeve 
+
+ 
+ 
+
+5K STD 
+
+Fire line 
+  50 mm & above 
+  40 mm & below 
+
+ 
+ Cast iron 
+ Bronze 
+
+Steel slip on  
+welded flange 
+or sleeve 
+
+ 
+10K STD 
+
+Fresh, drinking and 
+cooling F.W. line 
+  50 mm & above 
+  40 mm & below 
+
+ 
+ 
+ Cast iron 
+ Bronze 
+
+ 
+Steel slip on  
+welded flange 
+or sleeve 
+
+ 
+ 
+
+5K STD 
+
+M/E F.O. circulating pump 
+discharge line 
+  50 mm & above          
+  40 mm & below 
+
+ 
+ Special 
+ cast iron      
+ Bronze 
+
+ 
+Steel slip on  
+welded flange 
+
+ 
+ 
+
+16K STD 
+
+D/G F.O. circulating pump 
+discharge line 
+  50 mm & above          
+  40 mm & below 
+
+ 
+ Special 
+ cast iron      
+ Bronze 
+
+ 
+Steel slip on  
+welded flange 
+
+ 
+ 
+
+16K STD 
+
+F.O. and L.O. line 
+ 50 mm & above 
+ 40 mm & below 
+
+ 
+ Cast iron 
+ Bronze 
+
+Steel slip on  
+welded flange 
+or sleeve 
+
+ 
+5K STD 
+
+F.O. purified line 
+  50 mm & above          
+  40 mm & below 
+
+ Special 
+ cast iron      
+ Bronze 
+
+Steel slip on  
+welded flange 
+or sleeve 
+
+ 
+5K STD 
+
+ 
+
+
+
+
+
+ 
+
+ 
+Pipe line 
+
+ 
+Material of 
+valve body 
+
+ 
+Joint 
+
+ 
+Nominal 
+
+Steam ( 0.7MPa ) line 
+  50 mm & above 
+  40 mm & below 
+
+ 
+ Cast iron 
+ Bronze 
+
+Steel slip on 
+welded flange 
+or sleeve 
+(Note:4) 
+
+ 
+10K STD 
+
+Steam ( 0.4MPa ) line 
+  50 mm & above 
+  40 mm & below 
+
+ 
+ Cast iron 
+ Bronze 
+
+Steel slip on 
+welded flange 
+or sleeve 
+
+ 
+5K STD 
+
+ 
+Feed water line 
+
+ 
+ Bronze 
+
+ 
+Steel slip on 
+welded flange  
+
+ 
+16K STD 
+
+Compressed air  
+( 2.9MPa ) line 
+  32 mm & above 
+  25 mm & below 
+
+ 
+ 
+ Cast steel 
+ Forged steel 
+
+ 
+Steel slip on 
+welded flange 
+
+ 
+ 
+
+20K STD 
+
+Compressed air  
+( 0.8MPa ) line 
+
+ 
+ Bronze 
+
+Steel slip on 
+welded flange 
+or sleeve 
+
+ 
+10K STD 
+
+ 
+ 
+ 
+
+   
+
+ 
+Note : 
+ 1) Valves on hull construction of 40 mm bore and below shall be of cast bronze and 
+
+those of 50 mm and above shall be of cast steel. 
+ 
+ 2) Main suction valves fitted on outside walls of fuel oil and lub. oil tanks except 
+
+double bottom tanks shall be of special cast iron except those of 40 mm bore and 
+below of cast bronze. 
+
+ 
+ 3) Valves and pipe fittings in the piping system of groupⅡexcept steam line shall be  
+
+of casting with on elongation of 12% and over. 
+ 
+ 4) Sleeve welded joint is not to be used for steel pipes having a nominal diameter for 
+
+more than 80A for steam line. 
+ 
+ 5) Mechanical joints shall be of NK-approved type and the construction and type shall 
+
+be in accordance with Table D12.8 and Table D12.9 (12.3.3, Part D of the Rules). 
+ 
+ 
+
+ 
+
+
+
+
+
+10.4  PIPING SCHEDULE 
+ 
+(1) LIST OF MATERIAL ( PIPE LIST ) 
+
+ 
+Pipe line 
+
+ 
+Kind of 
+
+pipe 
+
+Design Test pressure  
+Remarks Press 
+
+(MPa)
+Temp.
+(℃) 
+
+Shop 
+(MPa)
+
+After 
+inst. 
+
+Bilge line 
+  65 mm & above 
+
+ 50 mm & below 
+
+STPG370E 
+ (Sch.40) 
+
+(Sch.80) 
+
+ 
+0.32 
+
+ 
+Ambi-
+ence 
+
+ 
+- 
+
+ 
+Work.
+Cond.
+
+ 
+To be 
+galvanized
+
+Ballast line 
+  65 mm & above 
+  50 mm & below 
+
+STPG370E 
+ (Sch.40) 
+ (Sch.80) 
+
+ 
+0.30 
+
+ 
+Ambi-
+ence 
+
+ 
+- 
+
+ 
+Work.
+Cond.
+
+ 
+To be 
+galvanized 
+
+Fire line 
+  65 mm & above 
+  50 mm & below 
+
+STPG370E 
+ (Sch.40) 
+ (Sch.80) 
+
+ 
+0.75 
+
+ 
+Ambi-
+ence 
+
+ 
+- 
+
+ 
+Work.
+Cond.
+
+ 
+To be 
+galvanized 
+
+Cooling S.W. & 
+S.W. service line 
+  65 mm & above 
+  50 mm & below 
+
+ 
+STPG370E 
+ (Sch.40) 
+ (Sch.80) 
+
+ 
+ 
+
+0.45 
+
+ 
+Below 
+
+55 
+
+ 
+ 
+- 
+
+ 
+ 
+
+Work.
+Cond.
+
+ 
+ 
+To be 
+galvanized 
+
+Cooling F.W. line 
+ 125 mm & above 
+ 100 mm & below 
+
+ 
+SGP-E 
+SGP-B 
+
+ 
+0.45 
+
+ 
+92 
+
+ 
+- 
+
+ 
+Work.
+Cond.
+
+ 
+To be 
+pickled 
+
+F.O. sett. tank to 
+F.O. purifier 
+
+STPG370E 
+ (Sch.40) 
+
+0.30 60 - 0.45 
+
+To be  
+pickled & 
+to be 
+insulated 
+
+F.O. puri. to tank 0.30 98 0.45 0.45
+Tank to F.O.boost.P 0.30 90 0.45 0.45
+F.O. boost. pump to 
+M/E F.O. circ.pump 
+
+0.40 140 0.60 0.60 
+
+M/E F.O. circ. pump 
+to main engine 
+
+KSTPG38E
+ (Sch.40) 
+
+1.40 140 2.10 2.10 
+
+Main engine to 
+mix. tube 
+
+STPG370E 
+ (Sch.40) 
+
+0.40 140 0.60 0.60 
+
+D/G F.O. circ. pump 
+to diesel generator 
+
+KSTPG38E
+ (Sch.40) 
+
+1.40 140 2.10 2.10 
+
+Boiler F.O. serv. line STPG370E 
+ (Sch.40) 
+
+0.30 98 0.45 0.45 
+
+Boiler F.O. burning 
+pump to burner 
+
+KSTPG38E
+ (Sch.40) 
+
+1.80 130 2.70 2.70 
+
+F.O. transfer line 
+ 125 mm & above 
+ 100 mm & below 
+
+ 
+SGP-E 
+SGP-B 
+
+0.32 50 - 0.48 - 
+
+L.O. line 
+ 125 mm & above 
+ 100 mm & below 
+
+ 
+SGP-E 
+SGP-B 
+
+0.42 55 - 
+Work.
+Cond.
+
+To be pick. 
+(except 
+trans. line) 
+
+L.O. purified line 
+ 125 mm & above 
+ 100 mm & below 
+
+ 
+SGP-E 
+SGP-B 
+
+0.35 90 0.53 
+Work.
+Cond.
+
+To be 
+pickled 
+
+
+
+
+
+ 
+ 
+
+Pipe line 
+ 
+
+Kind of 
+pipe 
+
+Design Test pressure  
+Remarks Press 
+
+(MPa) 
+Temp. 
+(℃) 
+
+Shop 
+(MPa) 
+
+After 
+inst. 
+
+ 
+Steam line 
+
+ 
+SGP-B 
+
+0.80 175 1.20 Work.
+Cond.
+
+To be 
+insulated 0.45 155 0.68 
+
+ 
+Boiler blow line 
+
+STPG370E 
+ (Sch.80) 
+
+ 
+1.00 
+
+ 
+175 
+
+ 
+1.50 
+
+Work.
+Cond.
+
+To be 
+insulated 
+
+Tank heating pipe 
+(In engine room) 
+
+STPG370E 
+ (Sch.40) 
+
+ 
+0.8 
+
+ 
+175 
+
+ 
+1.20 
+
+ 
+1.2 
+
+ 
+    - 
+
+Exh. steam  
+& drain 
+
+ 
+SGP-B 
+
+Below
+0.10 
+
+Below
+100 
+
+ 
+- 
+
+Work.
+Cond.
+
+To be 
+insulated 
+
+Compressed air line 
+
+KSTPG38E
+ (Sch.40) 
+
+ 
+2.99 
+
+Ambi- 
+ence 
+
+ 
+4.49 
+
+ 
+Work.
+Cond.
+
+To be 
+galvanized 
+for 
+main pipe  
+
+ 
+SGP-B 
+
+ 
+0.90 
+
+Ambi-
+ence 
+
+ 
+1.35 
+
+Feed water  
+line 
+
+Suc. 
+line 
+
+ 
+SGP-B 
+
+Below 
+0.10 
+
+ 
+60 
+
+ 
+- 
+
+ 
+Work.
+Cond.
+
+ 
+ 
+    - Dis. 
+
+line 
+STPG370E 
+(Sch.40) 
+
+ 
+1.10 
+
+ 
+60 
+
+ 
+1.65 
+
+ 
+Drinking water line 
+
+SUS304-A 
+(Sch.20S) 
+
+ 
+0.55 
+
+Ambi- 
+ence 
+
+ 
+- 
+
+Work.
+Cond.
+
+ 
+    - 
+
+Fresh water service 
+line 
+
+ 
+SGP-B 
+
+ 
+0.55 
+
+Ambi-
+ence 
+
+ 
+- 
+
+Work.
+Cond.
+
+To be 
+galvanized 
+
+F.W. gene. distillate 
+water line 
+
+SUS304-A 
+ (Sch.20S) 
+
+ 
+- 
+
+ 
+- 
+
+ 
+- 
+
+Work.
+Cond.
+
+ 
+    - 
+
+ 
+Gauge pipe line 
+
+ 
+Copper 
+
+ 
+- 
+
+ 
+- 
+
+ 
+- 
+
+Work.
+Cond.
+
+ 
+    - 
+
+Oily drain, 
+deck scupper & 
+open ended pipe 
+
+ 
+SGP-B 
+
+ 
+- 
+
+ 
+- 
+
+ 
+- 
+
+ 
+- 
+
+ 
+    - 
+
+ 
+Exhaust gas pipe 
+ 
+
+SGP-E 
+STPY-400 
+SS400 
+
+ 
+- 
+
+ 
+- 
+
+ 
+- 
+
+ 
+- 
+
+ 
+    - 
+
+       
+
+Cu-Fe ion generator 
+distribution line 
+
+STS370 
+(Sch.160) 
+
+ 
+- 
+
+ 
+- 
+
+ 
+- 
+
+Work.
+Cond.
+
+To be 
+galvanized 
+
+  
+    
+
+ 
+
+ 
+Pipe line Bore Kind of pipe Remarks
+
+Overflow pipe, sounding pipe 
+and vent. pipe fitted to  
+the hull constructed tank
+
+40mm, 50mm 
+65mm & above 
+
+STPG370E (Sch.80) 
+SGP - 
+
+
+
+
+
+(2) THICKNESS OF STEEL PIPE 
+   Unit : mm 
+
+Nominal 
+diameter 
+
+Outside 
+diameter 
+
+Steel pipe SGP-E 
+SGP-B Sch.40 Sch.80 
+
+10 
+15 
+20 
+25 
+32 
+40 
+
+ 
+50 
+65 
+80 
+
+100 
+ 
+
+125 
+150 
+
+ 
+200 
+250 
+300 
+350 
+
+ 
+400 
+
+ 
+
+17.3 
+21.7 
+27.2 
+34.0 
+42.7 
+48.6 
+
+ 
+60.5 
+76.3 
+89.1 
+
+114.3 
+ 
+
+139.8 
+165.2 
+
+ 
+216.3 
+267.4 
+318.5 
+355.6 
+
+ 
+406.4 
+
+ 
+
+2.3 
+2.8 
+2.9 
+3.4 
+3.6 
+3.7 
+
+ 
+3.9 
+5.2 
+5.5 
+6.0 
+
+ 
+6.6 
+7.1 
+
+ 
+8.2 
+9.3 
+
+*9.5 
+*9.5 
+
+ 
+*9.5 
+
+3.2 
+3.7 
+3.9 
+4.5 
+4.9 
+5.1 
+
+ 
+5.5 
+7.0 
+7.6 
+8.6 
+
+ 
+9.5 
+
+11.0 
+ 
+
+12.7 
+*12.7 
+*12.7 
+*12.7 
+
+ 
+*12.7 
+
+2.3 
+2.8 
+2.8 
+3.2 
+3.5 
+3.5 
+
+ 
+3.8 
+4.2 
+4.2 
+4.5 
+
+ 
+4.5 
+5.0 
+
+ 
+5.8 
+6.6 
+6.9 
+7.9 
+
+ 
+7.9 
+
+ 
+ 
+   Unit : mm 
+
+Exhaust gas pipe Thickness of copper pipe 
+Nominal dia. Thickness Material Outside dia. Thickness 
+650 & above 
+400 to 600 
+
+350 & below 
+ 
+ 
+
+6.0 
+6.4 
+- 
+
+SS 400 
+STPY-400 
+
+SGP-E 
+
+6 
+10 
+12 
+16 
+
+ 
+
+1.0 
+1.0 
+1.2 
+1.2 
+
+ 
+
+ 
+Note : 
+ 1) 10 mm and below pipes in nominal diameter shall be of seamless copper pipe. 
+ 
+ 2) STPY-400 shall be adopted for marked * size pipe. 
+ 
+ 3) The material of M/E exh. gas pipe above one (1) meter under the funnel top plate 
+
+shall be anti-corrosive steel. 
+ 
+
+
+
+
+
+10.5  STRAINER 
+ 
+
+ 
+Line 
+
+ 
+Item 
+
+No.×Mesh  
+Remarks Inlet Outlet 
+
+ 
+ 
+ 
+Sea water  
+line 
+
+ 
+Cool. S.W. pump 
+
+ 
+2× 8 mm
+
+ 
+- 
+
+Simplex type 
+The element to be  
+stainless, and inner  
+surface to be of epoxy 
+paint 
+
+Ref. mach. 
+cool. S.W. pump 
+
+ 
+1× 8 mm
+
+ 
+- 
+
+M.G.O. 
+C.F.W.cooler 
+
+1× 
+abt. 4 mm
+
+ 
+
+ 
+Main L.O. cooler 
+
+1× 
+abt. 4 mm
+
+ 
+ 
+
+Inner strainer 
+(Maker supply) 
+
+D/G low temp.  
+F.W. cooler 
+
+2× 
+abt. 4 mm
+
+ 
+
+ 
+ 
+ 
+Bilge &  
+ballast line 
+
+Bilge &  
+ballast pump 
+
+ 
+1× 8 mm
+
+ 
+- 
+
+Simplex type 
+The element to be  
+stainless, and inner  
+surface to be of epoxy 
+paint 
+
+ 
+Fire & G.S. pump 
+
+ 
+1× 8 mm
+
+ 
+- 
+
+ 
+Ballast pump 
+
+ 
+2× 8 mm
+
+ 
+- 
+
+ 
+Bilge pump 
+
+ 
+1×60 
+
+ 
+- 
+
+Simplex type 
+
+ 
+Sludge pump 
+
+ 
+1×10 
+
+ 
+- 
+
+ 
+Bilge separator 
+
+ 
+1×100 
+
+ 
+- 
+
+ 
+Fresh water 
+line 
+
+ 
+Drinking water tank 
+
+ 
+- 
+
+ 
+1×10 mm
+
+Rose box 
+
+ 
+Fresh water tank 
+
+ 
+- 
+
+ 
+1×10 mm
+
+ 
+ 
+
+  
+
+ 
+Drain line 
+
+ 
+Drain trap 
+
+ 
+Each 1 
+
+ 
+- 
+
+Y type strainer 
+
+ 
+Steam line 
+
+Reducing valve & 
+temp. cont. valve 
+(direct type) 
+
+ 
+Each 1 
+
+ 
+- 
+
+Y type strainer 
+
+ 
+
+4 mm
+1△
+
+
+
+
+
+ 
+ 
+
+Line 
+ 
+
+Item 
+No.×Mesh  
+
+Remarks Inlet Outlet 
+
+Fuel oil line 
+
+ 
+F.O. transfer pump 
+
+ 
+1× 16 
+
+ 
+- 
+
+ 
+Simplex 
+
+ 
+D.O. transfer pump 
+
+ 
+1× 16 
+
+ 
+- 
+
+ 
+Simplex 
+
+ 
+F.O. purifier 
+
+1× 60 - Duplex ( F.O. side ) 
+1× 60 - Simplex ( D.O. side ) 
+
+ 
+F.O. booster pump 
+
+1×100 - Duplex 
+ 
+- 
+
+1× 
+E.F.10μ 
+
+Auto Back Wash 
+with by-pass filter 
+
+Main engine 
+F.O. circ. pump 
+ 
+
+ 
+- 
+
+1× 
+ABS.50μ
+
+Auto. back wash 
+with by-pass filter 
+(Maker supply) 
+
+Diesel generator  
+D.O. booster pump 
+
+ 
+1×100 
+
+ 
+- 
+
+ 
+Duplex 
+
+Diesel generator 
+F.O. circ. pump 
+
+ 
+- 
+
+1× 
+E.F.10μ 
+
+Auto. back wash  
+with by-pass line 
+
+ 
+- 
+
+3× 
+ABS.75μ
+
+Notch wire 
+(Maker supply) 
+
+ 
+Boiler F.O. pump 
+
+ 
+1×100 
+
+ 
+- 
+
+Simplex 
+(Maker supply) 
+
+ 
+Waste oil incinerator
+
+ 
+1× 25 
+
+ 
+- 
+
+Simplex 
+(Maker supply) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lub. oil line 
+
+ 
+L.O. transfer pump 
+
+ 
+1× 32 
+
+ 
+- 
+
+ 
+Simplex 
+
+Stern tube  
+L.O. pump 
+
+ 
+2× 60 
+
+ 
+- 
+
+ 
+Simplex with magnet 
+
+ 
+L.O. purifier 
+
+ 
+1× 60 
+
+ 
+- 
+
+ 
+Duplex 
+
+Main engine 
+L.O. pump 
+
+ 
+- 
+
+1× 
+ABS.40μ
+
+Auto. back wash 
+with by-pass filter 
+
+ 
+Sludge collector 
+
+ 
+1×150 
+
+ 
+- 
+
+ 
+(Maker supply) 
+
+ 
+Cylinder lubricator 
+
+ 
+1 
+
+ 
+- 
+
+Y type strainer 
+(Maker supply) 
+
+Diesel generator 
+L.O. pump 
+ 
+
+ 
+3 
+
+ 
+- 
+
+Simplex 
+(Maker supply) 
+
+- 3× 
+ABS.30μ
+
+Continuous back wash 
+(Maker supply) 
+
+ 
+
+
+
+ 
+
+10.6  SEA WATER DISTRIBUTION CHART 
+ 
+ 1 COOL. S.W. PUMP 
+ 
+ 2 
+COOL. S.W. 
+PUMP 3 
+
+580 m3/h 
+   × 20 m 
+
+ 4 
+ 
+ 5 
+ 
+ 6 
+ 
+ 7 
+ 
+ 8 
+ 
+ 9 
+ 
+ 
+ 10 
+ 
+ 11 
+
+ 
+ 12 
+
+ 
+ 
+ 
+ 
+ 
+REF. MACH.  REF. MACH. C.S.W. PUMP 
+C.S.W. PUMP 
+  40 m3/h 
+     × 35 m 13 
+ 
+ 14 
+ 
+ 15 
+ 
+ 
+ 
+
+ 
+No.
+
+Flow quantity (m3/h)
+ Sea 
+
+going 
+
+ Port 
+
+in/out 
+
+ At 
+
+ port
+
+Load-
+
+ing
+
+1 - - - -
+2 160 160 0 0
+3 00160 160 
+
+ 
+
+AIR COOLER
+
+ 
+
+F.W. GENERATOR
+
+DECK MACHINERY
+
+C/R AIR CON.
+
+AUX. CONDENSER
+
+BWTS(for HEU)
+
+MAIN L.O. 
+
+COOLER 
+JACKET 
+
+C.F.W. CLR
+
+4 - - - -
+5 39 0 0 0
+6 7 7 7 7
+7 5 5 5 5
+8 40 40 40 40
+9 108 108 108 108
+
+10 15 15 15 15
+11 5 5 5 5
+12 - - - 16
+
+AIR CON. MACH.
+
+PROV. REF. MACH.
+
+GALLEY AIR COND.
+
+ 
+No.
+
+Flow quantity (m3/h)
+ Sea 
+
+going 
+
+ Port 
+
+in/out 
+
+ At 
+
+ port
+
+Load-
+
+ing
+
+13 21 21 21 21
+14 7 7 7 7
+15 7 7 7 7
+
+ 
+
+sum 35 35 35 35
+
+sum 539 500 180 196
+
+D/G L.T. C.F.W. COOLER
+
+M.G.O. C.F.W. COOLER
+
+Cu-Fe ION GENERATOR
+
+
+
+
+
+10.7  PIPING SYSTEM 
+ 
+Schematic diagrams of piping system shall be shown as follow. 
+ 
+ FIG. 1 BILGE LINE   M10 - 12 
+ FIG. 2 COOLING SEA WATER LINE   M10 - 13 
+ FIG. 3a COOLING FRESH WATER LINE   M10 – 14a 
+ FIG. 3b M.G.O. COOLING FRESH WATER LINE   M10 – 14b 
+ FIG. 4 FRESH WATER SERVICE LINE   M10 - 15 
+ FIG. 5 FUEL OIL TRANSFER LINE   M10 - 16 
+ FIG. 6 FUEL OIL PURIFYING LINE   M10 - 17 
+ FIG. 7 M/E AND BOILER FUEL OIL SERVICE LINE   M10 - 18 
+ FIG. 8 DIESEL GENERATOR FUEL OIL SERVICE LINE   M10 - 19 
+ FIG. 9 LUB. OIL TRANSFER & FURIFYING LINE   M10 - 20 
+ FIG. 10 LUB. OIL SERVICE LINE   M10 - 21 
+ FIG. 11 STERN TUBE LUB. OIL LINE   M10 - 22 
+ FIG. 12 STEAM LINE   M10 - 23 
+ FIG. 13 COMPRESSED AIR LINE   M10 - 24 
+ FIG. 14 EXHAUST GAS LINE   M10 - 25 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SECTION 11  INSULATION AND PAINTING 
+ 
+ 
+11.1  INSULATION 
+ 
+11.1.1  General 
+ 
+The external surface of the equipment and tanks which shall treat or contain the fluid 
+having temperature above 55℃, except for the jacket cooling fresh water system, lub. oil 
+system and boiler feed water line, shall be insulated as described below.  Jacket cooling 
+F.W. pipes in the location where people can easily touch shall be insulated. 
+ 
+The insulation materials such as glass wool, rock wool, etc. shall be suitably served 
+according to the internal temperature of equipment and tanks concerned. 
+ 
+Where it is necessary to fit removable and replaceable insulation on flanges, valves, 
+fittings, etc., glass wool mattress shall be used.  Where glass wool mattress are used, 
+they shall be secured with steel wires, steel bands and clips. 
+ 
+A-60 insulation shall be provided for engine room fore side bulkhead. 
+ 
+11.1.2  Application for equipment and tank 
+ 
+Main engine, main diesel generator engines, incinerator and aux. boiler shall be insulated 
+according to Maker’s standard. 
+ 
+Pumps, coolers, condenser and oil heaters shall not be insulated, however oil heaters shall 
+be provided with metal cover for protection. 
+ 
+The external surface of under said tanks which are exposed to the engine room except rear 
+wall and bottom of the tanks shall be insulated in accordance with the following table. 
+ 
+
+Tank 
+Insulation 
+
+Covering Material Thickness in 
+mm 
+
+Heavy fuel oil settling tank 
+Heavy fuel oil service tank 
+L.S. fuel oil service tank 
+Waste oil tank 
+Cool. F.W. Expansion tank 
+(passage side only) 
+
+ 
+Glass wool or 
+rock wool 
+ 
+ 
+
+25 
+
+Galvanized 
+steel plate 
+(abt. 0.2mm) or 
+aluminized glass 
+cloth 
+
+The tanks attached to machinery or equipment, insulation of which are required, shall be 
+insulated in accordance with Maker’s standard. 
+Other tanks shall not be insulated. 
+ 
+
+
+
+
+
+11.1.3  Application for piping 
+ 
+The materials and thickness of insulation for piping except for exhaust gas system, jacket 
+cooling fresh water system and lub. oil system shall be in accordance with the following 
+table. 
+ 
+
+Temperature range 
+of internal fluid 
+
+Nominal pipe diameter in mm 
+Material Up to 20 25 to 150 200 & above 
+
+Thickness of insulation in mm 
+Up to 100℃ 6 20 20 Glass wool,  
+
+glass mat or  
+glass wool mattress
+
+101℃ to 183℃ 6 20 20 
+184℃ and above 6 40 40 
+
+ 
+The exposed parts of the following pipes which is a danger to the crew shall be insulated 
+with glass cloth irrespective of pipe diameter and internal temperature. 
+ 
+ ・Boiler blow pipe 
+ ・Drain pipe after drain valves, drain traps and safety valves of aux. boiler. 
+ 
+The external surface of insulation material shall be covered with glass cloth or aluminum 
+foil for protection. 
+ 
+The exhaust gas pipes after turbocharger of main engine, main generator diesel engines, 
+incinerator and uptake of aux. boiler shall be insulated up to two (2) meters height from 
+the funnel bottom in accordance with the following table and covered with galvanized 
+steel plate. 
+ 
+
+Name Material 
+Nominal pipe 
+
+diameter in mm 
+Thickness of 
+
+insulation in mm
+Main engine 
+Diesel gene. engine 
+Aux. Boiler 
+Incinerator 
+ 
+
+Rock wool All sizes 50 
+
+ 
+In all cases where pipe insulation abut on flanges and fittings the end of insulation shall 
+be suitably terminated to permit free removable of bolts and to allow for movement of 
+pipes at hangers. 
+ 
+ 
+
+
+
+
+
+11.2  PAINTING 
+ 
+Machinery and piping in engine room shall be painted expect following parts. 
+ 
+ 1. Working surface of machinery, brass surface, and other parts which are finished  
+
+bright. 
+ 2. Surface of insulation which are not covered with steel plates. 
+ 3. Internal surface of machinery, piping and tanks except otherwise mentioned. 
+ 
+The colour of finished coat for external surface shall be in accordance with the following 
+table. 
+ 
+
+Name of machinery or equipment Colour 
+Diesel engine  
+Main air compressor 
+Cooler 
+Aux. condenser 
+Fresh water generator 
+Intermediate shaft bearing 
+ 
+
+Light blue green 
+( Munsel notation : 7.5BG7/2 ) 
+
+Turbocharger 
+ 
+
+Silver 
+
+C/R packaged air conditioner 
+ 
+
+Light blue green 
+( Munsel notation : 7.5BG7/2 ) 
+
+Aux. boiler 
+Incinerator 
+ 
+
+Maker’s standard 
+
+Tank 
+Pipe ( Not insulated ) 
+Air trunk 
+Main air reservoir 
+ 
+
+White 
+( Munsel notation : N-9.5 ) 
+
+ 
+Other machinery and equipment shall be painted in accordance with Maker’s standard. 
+ 
+The piping system shall be discriminated with colour bands. 
+ 
+
+
+
+
+
+SECTION 12  MISCELLANEOUS EQUIPMENT 
+ 
+ 
+12.1  OIL PURIFYING DEVICE 
+ 
+12.1.1  Fuel oil purifier 
+ 
+Two (2) fuel oil purifiers shall be disc bowl type. 
+ 
+One (1) of these purifiers shall be able to use as diesel oil purifier. 
+ 
+The materials of main parts shall be as follows: 
+ 
+ Bowl disc Stainless steel 
+ Bowl body Special stainless steel 
+ Frame Cast iron 
+ Vertical shaft Special alloy steel 
+ 
+The fittings and accessories shall be as follows:  
+ 
+ 1 － oil level gauge 
+ 1 － multi monitor 
+ 1 － set of disc 
+ 1 － oil feed pump 
+  
+ 
+As to automatic system, refer to Subsection 13.5 INSTRUMENTATION AND 
+CONTROL IN ENGINE CONTROL ROOM. 
+ 
+12.1.2  Lubricating oil purifier 
+ 
+One (1) lubricating oil purifier and one (1) D/G lubricating oil purifier shall be disc bowl 
+type. 
+ 
+The materials of main parts shall be as follows: 
+ 
+ Bowl disc Stainless steel 
+ Bowl body Special stainless steel 
+ Frame Cast iron  
+ Vertical shaft Special alloy steel 
+ 
+
+
+
+
+
+The fittings and accessories shall be as follows: 
+ 
+ 1 － oil level gauge  
+ 1 － multi monitor   
+ 1 － set of disc  
+ 
+ 
+As to automatic system, refer to Subsection 13.5 INSTRUMENTATION AND 
+CONTROL IN ENGINE CONTROL ROOM.  
+ 
+ 
+12.2  BILGE SEPARATOR 
+ 
+One (1) bilge separator shall be provided in engine room. 
+ 
+The materials of main parts shall be as follows: 
+ 
+ Casing Steel plate 
+ 
+The fittings and accessories shall be as follows: 
+ 
+ 1 － solenoid valve 
+ 1 － relief valve 
+ 2 － drain plug  
+ 2 － test cock 
+ 2 － sets of pressure gauge with cock 
+ 1 － set of bilge alarm device 
+ 1 － set of automatic 3-way valve 
+
+
+
+
+
+12.3  ENGINEER’S WORKSHOP AND STORE ROOM 
+ 
+The engineer’s workshop shall be provided at suitable location in engine room and shall 
+be provided with the machine tools as listed in the Subsection 1.2 MACHINERY 
+PARTICULAR, a work table combined with vice and etc. as Builder’s practice.  Tool 
+cabinet shall be provided two (2) sets in the workshop. 
+ 
+Metal shelves shall be provided in the store room to hold small spare parts and tools. 
+ 
+Oxygen & acetylene bottles shall be located on outside of engine room and it’s shall be 
+led to engineer’s workshop by means of fixed piping. 
+ 
+ 
+12.4  LIFTING GEAR AND TOOL 
+ 
+One (1) overhead traveling crane, having as electrically hoist shall be installed over the 
+main engine for overhauling cylinder cover, cylinder liner and piston. 
+ 
+Hoisting and longitudinal travelling shall be electrically performed, and transverse 
+travelling shall be performed by hands by means of link chain pulley and reduction gear. 
+ 
+Plane trolleys and I beams shall be provided for overhauling diesel generator engine and 
+purifiers respectively. 
+ 
+Eye plate shall be suitably fitted for overhauling pumps, heat exchangers and strainers of 
+heavy weight. 
+ 
+ 
+12.5  TANK IN ENGINE ROOM 
+ 
+Tanks as listed in the Subsection 1.2 MACHINERY PARTICULAR shall be provided in 
+the engine room. 
+ 
+All tanks shall be made of welded steel plate. 
+ 
+Regarding the insulation and painting of tanks, refer to SECTION 11 INSULATION 
+AND PAINTING. 
+ 
+All tanks shall be fitted with necessary connections and fittings as following table. 
+ 
+
+
+
+
+
+ 
+
+Name of tank 
+
+Fitting 
+Emerg.
+Shut-
+off 
+valve 
+
+Self 
+closing
+valve 
+
+Air 
+vent 
+
+Level 
+gauge
+
+Heat. 
+coil 
+
+Heat. 
+coil 
+ratio 
+(m2/m3)
+
+Boiling
+connec
+-tion 
+
+Remarks
+
+(Thermo
+
+-meter)
+
+Heavy fuel oil settling tank O O O F O 0.3 o* O 
+Heavy fuel oil service tank O O O F O 0.3 o* O 
+         
+L.S. fuel oil service tank O O O F O 0.3 o* O 
+Diesel oil service tank O O O F - - o*  
+         
+Sludge tank - O O S O 0.1 o*  
+Fuel oil drain tank - - O S O 0.1 o*  
+Fuel oil overflow tank - - O F O 0.03 o*  
+         
+M/E lub. oil sump tank - - O F&S - - -  
+M/E lub. oil storage tank - - O F - - -  
+M/E lub. oil settling tank O O O F O 0.2 o* O 
+D/G lub. oil storage tank - - O F - - -  
+D/G lub. oil settling tank O O O F O 0.2 o* O 
+         
+S/T lub. oil sump tank - - O F - - -  
+S/T lub. oil storage tank - - O F - - -  
+S/T lub. oil seal pot - - O F - - -  
+         
+Cylinder oil storage tank O - O F - - -  
+Cylinder oil alarm chamber - - O - - - -  
+         
+Stuffing box drain tank - - O S - - -  
+         
+Scavenging box drain tank - - O S O 0.1 o*  
+         
+M.G.O. C.F.W. expansion tank - - - G - - - Open
+Cool. F.W. expansion tank - - - G - - - Open
+Deaeration tank - - O - - - -  
+Cascade tank (Inspect. tank) - - - SG - - - Open 
+         
+Fresh water pressure tank - - - G - - -  
+Drinking water press. tank - - - G - - -  
+         
+
+ 
+
+
+
+
+
+ 
+
+Name of tank 
+
+Fitting 
+Emerg
+Shut-
+off 
+valve 
+
+Self 
+closing
+valve 
+
+Air 
+vent 
+
+Level 
+gauge
+
+Heat. 
+Coil 
+
+Heat. 
+coil 
+ratio 
+(m2/m3)
+
+Boiling
+connec
+-tion 
+
+Remarks
+
+(Thermo
+
+-meter)
+
+         
+Waste oil tank O - O F O 0.5 o* O 
+         
+         
+Bilge primary tank - - - - - - - Open
+Bilge tank - - O S - - o*  
+Bilge sludge tank - - O S O 0.01 o*  
+Clean drain tank - - O S - - -  
+         
+
+ 
+Note : Abbreviation 
+ F : Float gauge  G : Glass gauge G* : Flat type glass gauge 
+ SG : Sight glass S : Sounding pipe o* : Seat only 
+ O : To be fitted 
+ 
+ 
+
+
+
+
+
+12.6  FLOOR, LADDER AND GRATING 
+ 
+The engine room floor and operation platform shall be of 4.5 mm checkered pattern steel 
+plate, supported on suitable angle. 
+ 
+Removable sections shall be provided as required for proper access for handling and 
+inspection of the equipment located under floor and manholes.  
+ 
+Engine room gratings shall be provided at the place where are required for proper access 
+to the equipment.  
+ 
+The gratings shall have steel bars of Maker’s standard pattern and which shall be suitably 
+spaced and properly fitted in flat steel bar counterframes. 
+ 
+Ladders shall be fitted as required for convenient access to various grating levels. 
+Main ladders shall have foot grating and the vertical ladders shall have steps of round 
+section steel bars.  The inclination of main ladders shall be about 55゜where applicable.  
+The width of main ladders shall be 600 mm and that of sub-ladders shall be 500 mm.  
+Vertical ladders shall be used only for unimportant, access to provisionally. 
+ 
+Handrails shall be fitted at gratings, ladders and floors where are necessary for the safety 
+and convenience of operating personnel.  Handrails shall be of steel pipe carried in steel 
+pipe stanchions and shall be fitted with portable sections where required or overhauling 
+machinery.  Double handrails shall be fitted only at the main engine top and middle 
+grating and above upper deck level in engine room.  M/E overhauling platform 
+arrangement shall be provided as Maker’s standard.  
+ 
+ 
+12.7  VENTILATION FOR ENGINE ROOM 
+ 
+Mechanical supply ventilating system shall be provided for the engine room.  The fresh 
+air for each ventilating fan shall be taken from separate ventilating air inlets and shall be 
+distributed to the engine room through ducts. 
+ 
+Total supply capacity of ventilating fans shall be determined based on the amount of air 
+consumed by the main engine running at maximum output, taking the air consumption of 
+diesel generator engine.  
+ 
+As to detail of ventilating fan, refer to Subsection 7.5 ENGINE ROOM VENTILATING 
+FAN. 
+ 
+ 
+
+
+
+
+
+12.8  FIRE FIGHTING SYSTEM IN ENGINE ROOM 
+ 
+The ship shall be provided with fire fighting system in accordance with the rule 
+requirement. 
+ 
+There shall be provided two (2) fire pumps ( Bilge & ballast pump and Fire & G.S. 
+pump ), fire valve and hose the suitable place in engine room. 
+ 
+Portable foam fire extinguisher and removal foam fire extinguisher etc. shall be provided 
+in accordance with the rule requirement. 
+Details of fire fighting system, refer to PARTⅡ HULL PART. 
+ 
+Fixed water-based local fire fighting system shall be provided in accordance with the rule 
+requirement. 
+ 
+The emergency stop switch shall be provided outside of engine room.  Details of the  
+emergency stop switch, refer to PARTⅣ ELECTRIC PART. 
+ 
+The emergency shut off valve device shall be provided outside engine room for fuel oil 
+and lub. oil tanks which air described on Subsection 12.5 TANK IN ENGINE ROOM. 
+ 
+ 
+12.9  INCINERATOR 
+ 
+There shall be installed one (1) set of waste oil incinerator for dispose of sludge and waste 
+oil. 
+The construction, materials and accessories shall be in accordance with Maker’s standard. 
+ 
+ 
+12.10  NAME PLATE AND CAUTION PLATE 
+ 
+Name plate for machinery shall be in English and in SI unit. 
+ 
+Caution plate for machinery shall be in English. 
+In principle, name plate written in English shall be fitted to each valve which nominal 
+diameter 15A and above. 
+ 
+Tanks in engine room shall be fitted with name plate. 
+ 
+ 
+
+
+
+
+
+SECTION 13  AUTOMATION AND REMOTE CONTROL 
+ 
+ 
+13.1  GENERAL 
+ 
+The control and monitoring system specified in this specification shall be designed to 
+comply with the requirement of the Rule applicable, so as to operate the ship with 
+unattended machinery space for period of proper hours under all sailing condition 
+including maneuvering. 
+ 
+There shall be provided an engine control room in the engine room. 
+ 
+The main engine shall be remotely controlled from either bridge or engine control room. 
+ 
+The control and monitoring equipment for propulsion plant and associated ship service 
+system shall be assembled and installed in the engine control room in order to obtain same 
+effect on the handling which could be done at normal control and local monitoring. 
+ 
+Emergency running shall be also be able to do at local by means of control device of 
+necessary minimum number. 
+ 
+As to communication equipment etc., refer to PART IV ELECTRIC PART. 
+ 
+ 
+13.2  MAIN ENGINE REMOTE CONTROL SYSTEM 
+ 
+The main engine remote control system shall be provided performance of reversing, 
+starting, stopping and speed setting of the main engine, electrically-pneumatically with a 
+micro-computer from the bridge by operating a single telegraph transmitter, and 
+electrically-pneumatically with a micro computer from the engine control room by 
+operating the telegraph receiver and maneuvering dial for reversing, speed setting and 
+starting. 
+ 
+When the main engine control is carried out from the engine control room or local, the 
+telegraph handle on bridge control console shall be used as conventional type engine 
+telegraph. 
+ 
+The local control system shall be provided on the main engine for the case of emergency 
+in failure of the remote control system or the governor. 
+ 
+ 
+
+
+
+
+
+13.3  ENGINE CONTROL ROOM 
+ 
+The independent engine control room well-illuminated, air conditioned and of sound-
+proof, shall be located suitable place in engine room, and shall serve various purposes, 
+such as centralized controls, supervision and date collecting, and improving the 
+circumstance for crew and the reliability on instruments. 
+ 
+The engine control room shall have a sufficient space to install the following.  
+Space and electric socket for refrigerator shall be provided. 
+ 
+ ・ Control console 1 set 
+ ･ Air conditioning unit 1 set 
+ ･ White board 1 
+ ・ Sounding board 1 
+ ･ Chair 2 
+ ･ Drawing locker 1 set 
+ ･ Main switch board 1 set 
+ ･ Group starter panel 1 set 
+ ･ Meeting table and bench 1 set 
+ 
+Ventilation of the engine control room shall be of semi-forced ventilating system.  A 
+branch duct from the engine room ventilating air supply duct shall be led to the engine 
+control room. 
+The exhaust air from the engine control room shall be released to engine room by means 
+of natural ventilation. 
+ 
+The engine control room shall have two (2) sound-proof doors with a fixed glass window, 
+and one (1) glass window. 
+ 
+ 
+13.4  ALARM SYSTEM 
+ 
+Alarm of machinery located in engine room shall be able to recognize by indicating lamps 
+or display in engine control room. 
+ 
+As for details of the alarming and other instruments, refer to Subsection 13.5 
+INSTRUMENTATION AND CONTROL IN ENGINE CONTROL ROOM. 
+ 
+When the abnormal condition happen in engine room during “Unattended machinery 
+spaces” running, indicating of group shall be done with alarm at following places. 
+ 
+
+
+
+
+
+1) Alarm indicating place 
+ 
+ ・ Bridge ・ Chief engineer’s room 
+ ･ Ship’s office ・ 1st engineer’s room 
+ ･ Officer’s mess room ・ 2nd engineer’s room 
+ ・ Saloon ・ 3rd engineer’s room 
+ 
+Alarm for 1st, 2nd and 3rd engineer’s room shall be selected only for the duty engineer’s 
+room by select switch, provided in engine control room. 
+ 
+Extension alarm panel shall be of identification of group “A”, “B”, “C”, “D” and “E”. 
+ 
+ 
+2) Group of indicating 
+ 
+ “A” group : Main engine emergency shut down 
+ “B” group : Main engine slow down 
+ “C” group : Main engine and propulsion auxiliaries trouble  
+    except “A” and “B” group 
+ “D” group : Electric and steam generating plants trouble 
+ “E” group : Other trouble 
+ 
+The smoke type or temperature type fire detector shall be fitted in the engine room, and 
+sectionalized into proper groups to cover specified zone of engine room which shall be 
+identified in the fire alarm panel provided in bridge. 
+ 
+The audible fire alarm shall be provided to engine room, engine control room, bridge and 
+each storey passage of accommodation quarter. 
+ 
+
+
+
+
+
+3) Operation of extension alarm 
+ 
+
+Control room Bridge Duty engineer 
+
+Officer’s mess 
+room,  
+
+Chief engineer’s 
+room and etc. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Push the buzzer 
+ stop button 
+ 
+ 
+ 
+ 
+ 
+ Push the flicker 
+ stop button 
+ 
+ 
+ 
+ 
+    
+   Trouble cause 
+   is removed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Do. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Do. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      Do. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+Trouble
+
+Bz sound 
+Lamp flicker 
+
+Bz sound 
+Lamp flicker
+
+Bz stop 
+Lamp flicker
+
+Lamp light 
+
+Lamp go out 
+
+Bz sound 
+Lamp flicker
+
+Bz stop 
+Lamp flicker
+
+Bz sound 
+Lamp flicker
+
+Bz stop 
+Lamp light 
+
+Bz stop 
+Lamp go out
+
+Bz stop 
+Lamp flicker
+
+Bz stop 
+Lamp light 
+
+Bz stop 
+Lamp light 
+
+Bz stop 
+Lamp go out
+
+Bz stop 
+Lamp go out
+
+Bz stop 
+Lamp flicker
+
+
+
+
+
+4) Operation of alarm lamp and buzzer in engine control room 
+ 
+
+           Alarm 
+ 
+Condition 
+
+Running indication 
+and stop alarm 
+
+Press., temp., level 
+and other alarm 
+
+Lamp Buzzer Lamp Buzzer 
+
+Normal 
+Stopping Go out Silence 
+
+Go out Silence  
+Running 
+
+Light 
+( Green ) 
+
+ 
+Silence 
+
+ 
+Abnormal 
+
+Flickering 
+( Red ) 
+
+ 
+Sound 
+
+Flickering 
+( Red ) 
+
+ 
+Sound 
+
+Push the buzzer stop 
+button 
+
+Flickering 
+( Red ) 
+
+ 
+Silence 
+
+Flickering 
+( Red ) 
+
+ 
+Silence 
+
+Push the flicker stop 
+button 
+
+Light 
+( Red ) 
+
+ 
+－ 
+
+Light 
+( Red ) 
+
+ 
+－ 
+
+Push the reset 
+button at  
+starter panel 
+
+Go out － － － 
+
+ 
+Return to normal 
+
+ 
+－ 
+
+ 
+－ 
+
+ 
+Go out 
+
+ 
+Silence 
+
+ 
+ 
+13.5  INSTRUMENTATION AND CONTROL IN ENGINE CONTROL ROOM 
+ 
+ Abbreviation: 
+  ① ………… Item to be provided 
+  H ………… High alarm 
+  L ………… Low alarm 
+    ………… Monitor 
+ 
+ Note: 
+ (1) Details of Display shall be as follows: 
+  Size of display  : 15 inches ( Color ) 
+  Number of set :  2 sets 
+  Operating panel :  2 sets 
+  Log printer (log & alarm) : 1 set 
+ 
+  Indicating pattern shall be in accordance with Maker’s standard. 
+ 
+  
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+6
+
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+M
+A
+
+IN
+ 
+
+ 
+E
+
+N
+G
+
+IN
+E
+
+ 
+
+M
+a
+n
+
+e
+u
+
+v
+e
+ri
+
+n
+g
+
+ s
+y
+
+st
+e
+m
+
+ 
+
+ 
+Start & stop 
+
+ 
+ 
+
+ 
+◯
+
+    
+◯
+
+        1) 
+◯
+
+     
+1) Common control lever 
+
+with engine telegraph 
+ 
+2) Due to follows 
+・ Over speed 
+・ L.O. press. Drop 
+・ Manual emergency trip 
+
+(Steering gear room,E/S, 
+C/R, W/ H) 
+
+ 
+3) On C/R display  
+ 
+4) Due to follows 
+・ Crank case high oil mist 
+・ Scavenging box fire 
+・ Piston cool. oil non-flow 
+・ L.O. low press. 
+・ Jacket C.F.W. low press 
+・ Jacket C.F.W. out. H.T. 
+・ Piston cool.oil out. H.T. 
+・ Exh.gas cyl. out. H.T. 
+・ Thrust pad high temp. 
+・ Slow down from EICU 
+ (Inc.cyl.lub.oil non-flow) 
+ 
+5) Including ”Pre-warning” 
+ 
+6) In case of E/S maneuv. 
+ 
+
+ 
+Reversing 
+
+ 
+ 
+
+ 
+◯
+
+    
+◯  
+
+        1) 
+◯  
+
+     
+ 
+
+ 
+Speed control 
+
+ 
+ 
+
+ 
+◯
+
+    
+◯  
+
+  
+ 
+
+      1) 
+◯  
+
+     
+ 
+
+ 
+Load up program 
+
+ 
+◯
+
+     
+◯  
+
+   3)
+①
+
+     
+◯  
+
+  
+①
+
+   
+ 
+
+ 
+Load up program cancel 
+
+         3)
+①
+
+     
+◯  
+
+  
+①
+
+   
+ 
+
+ 
+Upper speed limit 
+
+ 
+ 
+
+        3)
+①
+
+       
+①
+
+   
+ 
+
+                     
+ 
+
+ 
+Emergency trip 
+
+2) 
+◯
+
+    
+ 
+①
+
+    3)
+②
+
+   
+ 
+①
+
+ 
+ 
+①
+
+    
+ 
+①  
+
+  
+ 
+A
+ 
+
+ 
+Manual emerg. trip 
+
+  
+◯
+
+  
+①
+
+ 
+◯  
+
+   3)
+③
+
+   
+◯
+
+  
+①
+
+ 
+
+ 
+Emergency trip reset 
+
+  
+◯
+
+    
+◯  
+
+         
+◯  
+
+  
+ 
+
+   
+ 
+
+                     
+
+ 
+Auto. slow down 
+
+4) 
+◯
+
+        3)
+⑩
+
+   
+①
+
+ 
+①
+
+   5) 
+②  
+
+  
+B
+
+ 
+Auto. slow down reset 
+
+      
+◯  
+
+         
+◯  
+
+     
+ 
+
+ 
+Auto. slow down cancel 
+
+      
+◯  
+
+   3)
+①
+
+     
+◯  
+
+  
+①
+
+   
+ 
+
+ 
+Slow down request 
+
+            6)
+①
+
+ 
+①
+
+    
+①  
+
+  
+B
+
+ 
+Increase limit 
+
+  
+◯
+
+ 
+ 
+
+ 
+①
+
+  
+◯  
+
+   3)
+①
+
+     
+ 
+
+     
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+7
+
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+M
+A
+
+IN
+ 
+
+ 
+E
+
+N
+G
+
+IN
+E
+
+ 
+
+M
+a
+n
+
+e
+u
+
+v
+e
+ri
+
+n
+g
+
+ s
+y
+
+st
+e
+m
+
+ 
+
+ 
+Control position 
+
+ 
+ 
+
+1)
+◯
+
+ 1) 
+②
+
+ 2) 
+◯
+
+   3)
+③
+
+    4) 
+◯
+
+ 3)
+③
+
+   
+1) Engine side－Remote 
+ 
+2) E/S－C/R－W/H  
+ 
+3) ”E/S”,“C/R”,“W/H” 
+ 
+4) Confirmation 
+ 
+5) 
+    A  NAV.FULL 
+    H  FULL 
+    E  HALF 
+    A  SLOW 
+    D  D. SLOW 
+       STOP 
+    A  D. SLOW 
+    S  SLOW 
+    T  HALF 
+    E  FULL 
+    R  E. FULL 
+    N 
+ 
+6) ”F/E”,”S/B”,”R/U” 
+ 
+7) Recording the order and 
+
+time 
+8) Telegraph repeater 
+ 
+9) On C/R display 
+ 
+10) “Service” & “Block” 
+ 
+
+                     
+
+Imperfect Bridge
+control condition 
+
+ 
+ 
+
+ 
+ 
+
+    
+ 
+
+       
+①
+
+ 
+①
+
+ 
+ 
+
+   
+①  
+
+  
+C
+
+ 
+Engine telegraph 
+
+ 
+ 
+
+ 
+◯
+
+5) 
+◯  
+
+   
+◯  
+
+5) 
+◯
+
+   
+ 
+
+     
+◯  
+
+5)
+◯
+
+8)
+◯
+
+ 7)
+◯
+
+ 
+ 
+
+ 
+Sub－ telegraph 
+
+      
+◯  
+
+   6)
+③
+
+     
+◯  
+
+ 6)
+③
+
+ 7)
+◯
+
+ 
+ 
+
+ 
+Handle matching 
+
+      
+ 
+
+   9)
+①
+
+     
+ 
+
+  
+①
+
+   
+ 
+
+ 
+Turning gear engaged 
+
+  
+ 
+◯
+
+  
+①
+
+      
+①
+
+          
+
+ 
+Turning gear disengaged 
+
+   
+①
+
+      
+①
+
+          
+
+       
+ 
+
+    
+ 
+
+     
+ 
+
+  
+ 
+
+   
+ 
+
+ 
+ME EICU slow down 
+
+             
+①
+
+ 
+①
+
+      
+B
+
+ 
+ME ECS abnormal 
+
+             
+①
+
+ 
+①
+
+      
+C
+
+ 
+Starting air valve 
+
+  
+◯
+
+    
+ 
+
+   10)
+②
+
+     
+ 
+
+  
+ 
+
+   
+ 
+
+ 
+Main engine revolution 
+
+ 
+ 
+
+  
+①  
+
+    
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+  
+④
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+Main engine
+revolution counter 
+
+      
+ 
+
+ 
+①
+
+        
+ 
+
+     
+ 
+
+Turbocharger
+revolution 
+
+      
+ 
+
+ 
+ 
+
+   
+ 
+
+     
+ 
+
+  
+ 
+
+   
+ 
+
+ 
+Fuel index 
+
+   
+ 
+
+    
+ 
+
+ 
+ 
+
+ 
+①  
+
+           
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+8
+
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+M
+A
+
+IN
+ 
+
+ 
+E
+
+N
+G
+
+IN
+E
+
+ 
+
+M
+a
+n
+
+e
+u
+
+v
+e
+ri
+
+n
+g
+
+ s
+y
+
+st
+e
+m
+
+ 
+
+ 
+Starting failure 
+
+             
+①
+
+ 
+①
+
+ 
+ 
+
+   
+①  
+
+  
+C 1) Critical speed 
+
+  continuous running 
+ 
+2) On C/R display 
+ 
+3) Source failure 
+ 
+4) “System failure” 
+ 
+
+ 
+Wrong way 
+
+ 
+ 
+
+ 
+ 
+
+    
+ 
+
+     2) 
+①  
+
+ 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+C
+
+ 
+Critical speed 
+
+ 
+◯
+
+ 
+ 
+
+    
+ 
+
+  
+ 
+
+   2) 
+①  
+
+1)
+①
+
+ 
+①
+
+ 
+ 
+
+  1) 
+①  
+
+  
+C
+
+ 
+AC/DC power source 
+
+ 
+ 
+
+           3)
+②
+
+ 
+②
+
+ 
+ 
+
+  
+ 
+
+   
+C
+
+                     
+
+ 
+RCS power 
+
+         2)
+①
+
+ 2)3)
+①  
+
+3)
+①
+
+ 
+①
+
+ 
+ 
+
+  
+ 
+
+ 
+ 
+ 
+ 
+ 
+4) 
+①  
+
+  
+C
+
+ 
+RCS failure 
+
+ 
+ 
+
+            
+①
+
+ 
+①
+
+   
+ 
+
+  
+C
+
+ 
+EPS power 
+
+         2)
+①
+
+ 2)3)
+①  
+
+3)
+①
+
+ 
+①
+
+     
+C
+
+ 
+EPS failure 
+
+ 
+ 
+
+            
+①
+
+ 
+①
+
+     
+C
+
+ 
+BUCS power 
+
+         2)
+①
+
+ 2)3)
+①  
+
+3)
+①
+
+ 
+①
+
+     
+C
+
+ 
+BUCS failure 
+
+ 
+ 
+
+            
+①
+
+ 
+①
+
+     
+C
+
+                     
+
+ 
+ETS power 
+
+         2)
+①
+
+ 2)3)
+①  
+
+3)
+①
+
+ 
+①
+
+    
+3) 
+①  
+
+  
+C
+
+ 
+ETS failure 
+
+ 
+ 
+
+            
+①
+
+ 
+①
+
+     
+C
+
+                     
+
+ 
+LOP power 
+
+ 
+ 
+
+ 
+ 
+
+      
+ 
+
+    3)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+C
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+9
+
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+M
+A
+
+IN
+ 
+
+ 
+E
+
+N
+G
+
+IN
+E
+
+ 
+
+M
+a
+n
+
+e
+u
+
+v
+e
+ri
+
+n
+g
+
+ s
+y
+
+st
+e
+m
+
+ 
+
+                     1) Auto. start & stop by  
+  scavenging air press. 
+ 
+2) “M0” 
+ 
+3) “MAN-1/E-2/E-3/E” 
+ 
+4) “1/E”,”2/E”,”3/E” 
+ 
+5) “Auto. position request” 
+ 
+6) Running hour meter 
+ 
+
+                     
+
+ 
+Start block 
+
+             
+①
+
+ 
+①
+
+   
+ 
+
+ 
+①  
+
+  
+C
+
+                     
+
+                     
+
+                     
+
+ 
+Auxiliary blower 
+
+1) 
+◯
+
+ 
+◯
+
+    
+◯  
+
+ 6)
+ 
+
+ 
+②  
+
+ 
+②
+
+ 5) ①
+②
+
+①
+②
+
+      
+C
+
+                     
+
+                     
+
+                     
+
+Unattended
+machinery space 
+
+      
+3) 
+◯  
+
+   2)
+①
+
+      2)
+①
+
+   
+ 
+
+ 
+Duty engineer 
+
+        4)
+③
+
+      4)
+③
+
+   
+ 
+
+                     
+
+                     
+
+                     
+
+                     
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+1
+
+0
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+M
+A
+
+IN
+ 
+
+ 
+E
+
+N
+G
+
+IN
+E
+
+ 
+
+P
+re
+
+ss
+u
+
+re
+ 
+
+ 
+Fuel oil inlet 
+
+ 
+ 
+
+ 1) 
+①
+
+    
+ 
+
+ 
+ 
+
+ 
+①
+
+   L 
+ 
+
+ 
+①
+
+      
+C 1) To be fitted with strainer 
+
+outlet 
+ 
+2) System failure 
+ 
+
+ 
+Lub. oil inlet 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+  
+ 
+
+L 
+ 
+
+ 
+①
+
+ 
+ 
+
+     
+B
+
+ 
+Piston cooling oil inlet 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+   
+ 
+
+    
+ 
+
+  L 
+①
+
+ 
+①
+
+ 
+ 
+
+   
+ 
+
+  
+C
+
+Turbocharger
+lub. oil inlet 
+
+ 
+ 
+
+  
+①  
+
+    
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+  L 
+ 
+
+ 
+①
+
+ 
+ 
+
+  
+ 
+
+   
+C
+
+                     
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+       
+ 
+
+   
+ 
+
+    
+ 
+
+   
+ 
+
+ 
+Jacket cooling F.W. inlet 
+
+   
+①  
+
+     
+ 
+
+ 
+①  
+
+ 
+ 
+
+  L 
+ 
+
+ 
+①
+
+      
+B
+
+Air cooler
+sea water inlet 
+
+ 
+ 
+
+  
+ 
+
+     
+ 
+
+ 
+①  
+
+ 
+ 
+
+  L 
+ 
+
+ 
+①
+
+      
+C
+
+Exhaust valve
+spring air 
+
+  
+ 
+
+ 
+ 
+
+   
+ 
+
+    
+ 
+
+  L 
+①
+
+ 
+①
+
+ 
+ 
+
+  
+ 
+
+   
+C
+
+ 
+Scavenging air 
+
+  
+ 
+
+ 
+①  
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+     
+ 
+
+  
+ 
+
+   
+ 
+
+Starting air
+main valve inlet 
+
+   
+①  
+
+    
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+  L 
+ 
+
+ 
+①
+
+   
+ 
+
+L 
+①  
+
+  
+C
+
+ 
+Maneuvering air 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+  
+ 
+
+L 
+ 
+
+ 
+①
+
+   2) 
+○  
+
+  
+C
+
+                     
+
+    
+ 
+
+   
+ 
+
+ 
+ 
+
+   
+ 
+
+     
+ 
+
+  
+ 
+
+   
+ 
+
+    
+ 
+
+    
+ 
+
+   
+ 
+
+       
+ 
+
+   
+ 
+
+    
+ 
+
+    
+ 
+
+   
+ 
+
+       
+ 
+
+   
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+1
+
+1
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+M
+A
+
+IN
+ 
+
+ 
+E
+
+N
+G
+
+IN
+E
+
+ 
+
+P
+re
+
+ss
+u
+
+re
+ 
+
+Fuel oil 2nd filter
+difference 
+
+ 
+○
+
+  
+◯
+
+         H 
+①
+
+ 
+①
+
+      
+C 1) U tube type 
+
+ Lub. oil 2nd filter
+difference 
+
+ 
+○
+
+ 
+ 
+
+ 
+◯  
+
+   
+ 
+
+      
+ 
+
+H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+C
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+   
+ 
+
+  
+ 
+
+     
+ 
+
+  
+ 
+
+   
+ 
+
+  
+ 
+
+Turbocharger air filter 
+difference 
+
+ 
+ 
+
+ 1) 
+①  
+
+       
+ 
+
+     
+ 
+
+  
+ 
+
+   
+ 
+
+Air cooler in/out
+difference 
+
+  1) 
+①  
+
+       
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+   
+ 
+
+  
+ 
+
+         
+ 
+
+   
+ 
+
+ 
+ 
+
+   
+ 
+
+   
+ 
+
+                     
+
+                     
+
+   
+ 
+
+    
+ 
+
+    
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+   
+ 
+
+HPS filter
+difference 
+
+  
+ 
+
+    
+ 
+
+      H 
+①
+
+ 
+①
+
+      
+C
+
+HPS by-pass filter
+difference 
+
+  
+ 
+
+    
+ 
+
+      H 
+①
+
+ 
+①
+
+      
+C
+
+  
+ 
+
+ 
+ 
+
+    
+ 
+
+    
+ 
+
+  
+ 
+
+ 
+ 
+
+ 
+ 
+
+    
+ 
+
+  
+ 
+
+       
+ 
+
+         
+ 
+
+     
+ 
+
+       
+ 
+
+    
+ 
+
+     
+ 
+
+  
+ 
+
+   
+ 
+
+           
+ 
+
+       
+ 
+
+   
+ 
+
+           
+ 
+
+       
+ 
+
+   
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+1
+
+2
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+M
+A
+
+IN
+ 
+
+ 
+E
+
+N
+G
+
+IN
+E
+
+ 
+
+T
+e
+m
+
+p
+e
+ra
+
+tu
+re
+
+ 
+
+ 
+Fuel oil inlet 
+
+1) 
+◯
+
+  
+①
+
+     
+ 
+
+ 
+①
+
+   HL
+ 
+
+ 
+②
+
+      
+C 1) By the pneumatic type 
+
+  temp. control valve 
+ 
+ 
+
+ 
+Lub. oil inlet 
+
+1) 
+◯
+
+ 
+ 
+
+ 
+①  
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+  
+ 
+
+H 
+ 
+
+ 
+①
+
+ 
+ 
+
+     
+C
+
+Piston cooling oil 
+each cylinder outlet 
+
+ 
+ 
+
+ 
+ 
+
+ 
+⑥  
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+⑥  
+
+ 
+ 
+
+  H 
+ 
+
+ 
+⑥
+
+ 
+ 
+
+   
+ 
+
+  
+B
+
+Turbocharger
+lub. oil outlet 
+
+ 
+ 
+
+  
+①  
+
+    
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+  H 
+ 
+
+ 
+①
+
+ 
+ 
+
+  
+ 
+
+   
+C
+
+ 
+ 
+
+   
+ 
+
+    
+ 
+
+   
+ 
+
+   
+ 
+
+  
+ 
+
+  
+ 
+
+   
+ 
+
+ 
+Jacket cooling F.W. inlet 
+
+ 
+ 
+
+  
+①  
+
+    
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+   
+ 
+
+    
+ 
+
+   
+ 
+
+Jacket cooling F.W. 
+each cylinder outlet 
+
+ 
+1) 
+◯
+
+  
+ 
+
+    
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+⑥  
+
+ 
+ 
+
+  H 
+ 
+
+ 
+⑥
+
+      
+C
+
+Jacket cooling F.W. 
+each cylinder outlet(SD) 
+
+  
+ 
+
+    
+ 
+
+ 
+ 
+
+  H 
+ 
+
+ 
+⑥
+
+      
+B
+
+                     
+
+ 
+Thrust pad 
+
+  
+ 
+
+ 
+①  
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+  H 
+ 
+
+ 
+①
+
+ 
+ 
+
+  
+ 
+
+   
+B
+
+Air cooler
+air inlet 
+
+   
+①  
+
+    
+ 
+
+   
+ 
+
+   
+ 
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+  
+ 
+
+Air cooler
+air outlet 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+   
+ 
+
+ 
+ 
+
+   
+ 
+
+  
+ 
+
+ 
+ 
+
+ 
+ 
+
+    
+ 
+
+  
+ 
+
+ 
+Scavenging air 
+
+   
+①  
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+Air cooler
+sea water inlet 
+
+   
+①  
+
+   
+ 
+
+ 
+ 
+
+   
+ 
+
+     
+ 
+
+  
+ 
+
+   
+ 
+
+Air cooler
+sea water outlet 
+
+   
+①  
+
+    
+ 
+
+   
+ 
+
+       
+ 
+
+   
+ 
+
+                  
+ 
+
+   
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+1
+
+3
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+M
+A
+
+IN
+ 
+
+ 
+E
+
+N
+G
+
+IN
+E
+
+ 
+
+T
+em
+
+p
+e
+ra
+
+tu
+re
+
+ 
+
+Exhaust gas
+each cylinder outlet 
+
+ 
+ 
+
+       
+ 
+
+1) 
+⑦
+
+   H 
+ 
+
+ 
+⑥
+
+      
+B 1) Including mean 
+
+ 
+ 
+
+Exhaust gas each 
+cylinder outlet deviation 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+  H 
+ 
+
+ 
+⑥
+
+ 
+ 
+
+   
+ 
+
+  
+C
+
+Exhaust gas
+turbocharger inlet 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+  
+ 
+
+H 
+ 
+
+ 
+①
+
+ 
+ 
+
+     
+C
+
+Exhaust gas
+turbocharger outlet 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+  H 
+ 
+
+ 
+①
+
+ 
+ 
+
+   
+ 
+
+  
+C
+
+ 
+Scavenging box fire 
+
+   
+ 
+
+    
+ 
+
+ 
+ 
+
+ 
+⑥  
+
+ 
+ 
+
+  H 
+ 
+
+ 
+⑥
+
+ 
+ 
+
+  
+ 
+
+   
+B
+
+Fuel oil 
+flow meter inlet 
+
+   
+①  
+
+                 
+
+Cylinder oil
+flow meter inlet 
+
+   
+①  
+
+          
+ 
+
+       
+ 
+
+T
+a
+n
+
+k
+ l
+
+e
+v
+
+e
+l 
+
+ 
+Lub. oil sump tank 
+
+ 
+ 
+
+  
+①  
+
+    
+ 
+
+   
+ 
+
+  L 
+①
+
+ 
+①
+
+      
+C
+
+Jacket cool. F.W.
+expansion tank 
+
+  
+ 
+
+ 
+①  
+
+   
+ 
+
+ 
+ 
+
+   
+ 
+
+  L 
+①
+
+ 
+①
+
+ 
+ 
+
+  
+ 
+
+   
+C
+
+ 
+ 
+
+  
+ 
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+   
+ 
+
+  
+ 
+
+  
+ 
+
+   
+ 
+
+Cylinder oil
+alarm chamber 
+
+  
+ 
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+   
+ 
+
+  
+ 
+
+L 
+①
+
+ 
+①
+
+    
+ 
+
+  
+C
+
+ 
+Fuel oil leakage tank 
+
+   
+ 
+
+   
+ 
+
+ 
+ 
+
+   
+ 
+
+  H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+C
+
+ 
+Mist catcher drain 
+
+   
+ 
+
+   
+ 
+
+ 
+ 
+
+   
+ 
+
+  H 
+①
+
+ 
+①
+
+ 
+ 
+
+  
+ 
+
+   
+C
+
+ 
+Scav. box drain tank 
+
+            H 
+①
+
+ 
+①
+
+ 
+ 
+
+  
+ 
+
+   
+C
+
+ 
+Stuff. box drain tank 
+
+            H 
+①
+
+ 
+①
+
+ 
+ 
+
+  
+ 
+
+   
+C
+
+ 
+HCU 
+
+            H 
+①
+
+ 
+①
+
+ 
+ 
+
+  
+ 
+
+   
+C
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+1
+
+4
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+M
+A
+
+IN
+ 
+
+ 
+E
+
+N
+G
+
+IN
+E
+
+ 
+
+E
+tc
+
+. 
+
+Piston cooling oil
+non-flow 
+
+ 
+ 
+
+            
+⑥
+
+ 
+⑥
+
+      
+B 1) Abnormal 
+
+ 
+2)Slow down request 
+
+ 
+Crank case oil mist 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+ 
+⑦
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+  H 
+①
+
+ 
+①
+
+ 
+ 
+
+   
+ 
+
+  
+B
+
+ 
+Oil mist detector 
+
+ 
+ 
+
+  
+ 
+
+    
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+  1)
+①
+
+ 
+①
+
+ 
+ 
+
+  
+ 
+
+   
+C
+
+ 
+A-C oil change-over 
+
+  
+◯
+
+ 
+ 
+
+    
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+   
+ 
+
+                     
+
+ 
+M/E hydraulic pump 
+
+ 
+◯
+
+ 
+◯
+
+    
+◯  
+
+     
+②
+
+ 1)
+②
+
+ 
+②
+
+      
+C
+
+ 
+M/E Axial vibration 
+
+   
+  
+
+     
+ 
+
+ 
+①  
+
+   2)H
+ 
+
+ 
+①
+
+      
+B
+
+M/E Axial vibration
+abnormal 
+
+             
+①
+
+ 
+①
+
+      
+C
+
+        
+ 
+
+   
+ 
+
+   
+ 
+
+ 
+ 
+
+      
+ 
+
+ 
+Fuel oil flow meter 
+
+ 
+ 
+
+  
+①  
+
+   
+ 
+
+ 
+ 
+
+   
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+   
+ 
+
+ 
+Cylinder oil flow meter 
+
+   
+①  
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+   
+ 
+
+ 
+Deaeration tank 
+
+            1)
+①
+
+ 
+①
+
+      
+C
+
+                     
+
+M/E PSU
+AC power failure 
+
+             
+②
+
+ 
+②
+
+      
+C
+
+M/E PSU UPS controller 
+abnormal 
+
+             
+②
+
+ 
+②
+
+      
+C
+
+M/E PSU
+24V DC battery mode 
+
+             
+②
+
+ 
+②
+
+      
+C
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+1
+
+5
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+S
+H
+
+A
+F
+
+T
+IN
+
+G
+ 
+
+T
+e
+m
+
+p
+e
+ra
+
+tu
+re
+
+ 
+
+Intermediate shaft
+bearing 
+
+ 
+ 
+
+  
+①  
+
+   
+ 
+
+  
+ 
+
+ 
+①  
+
+ 
+ 
+
+ 
+ 
+
+ H 
+ 
+
+ 
+①
+
+      
+C  
+
+ 
+ 
+ 
+ 
+
+Stern tube bearing
+lub. oil outlet 
+
+   
+①  
+
+                 
+
+ 
+Stern tube bearing 
+
+        
+ 
+
+ 
+②  
+
+   H 
+ 
+
+ 
+②
+
+      
+C
+
+ 
+ 
+
+          
+ 
+
+ 
+ 
+
+  
+ 
+
+       
+ 
+
+ 
+ 
+
+          
+ 
+
+ 
+ 
+
+  
+ 
+
+       
+ 
+
+T
+a
+n
+
+k
+ l
+
+e
+v
+
+e
+l 
+
+ 
+ 
+
+ 
+ 
+
+         
+ 
+
+ 
+ 
+
+  
+ 
+
+       
+ 
+
+Stern tube lub. oil
+sump tank 
+
+   
+①  
+
+       
+ 
+
+ 
+ 
+
+ L 
+①
+
+ 
+①
+
+      
+C
+
+ 
+Stern tube seal pot 
+
+   
+①  
+
+         HL
+②
+
+ 
+②
+
+      
+C
+
+                     
+
+ 
+ 
+
+          
+ 
+
+ 
+ 
+
+  
+ 
+
+       
+ 
+
+E
+tc
+
+. 
+
+Stern tube lub. oil
+non-flow 
+
+          
+ 
+
+ 
+ 
+
+  
+①
+
+ 
+①
+
+      
+C
+
+Stern tube fwd seal
+lub. oil non-flow 
+
+          
+ 
+
+   
+①
+
+ 
+①
+
+      
+C
+
+           
+ 
+
+   
+ 
+
+ 
+ 
+
+      
+ 
+
+              
+ 
+
+ 
+ 
+
+      
+ 
+
+ 
+ 
+
+          
+ 
+
+   
+ 
+
+ 
+ 
+
+      
+ 
+
+ 
+ 
+
+             
+ 
+
+ 
+ 
+
+      
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+1
+
+6
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+E
+L
+
+E
+C
+
+T
+R
+
+IC
+ 
+
+ 
+G
+
+E
+N
+
+E
+R
+
+A
+T
+
+IN
+G
+
+ 
+ 
+
+P
+L
+
+A
+N
+
+T
+ 
+
+D
+ie
+
+se
+l 
+
+e
+n
+
+g
+in
+
+e
+ 
+
+ 
+Start 
+
+1) 
+◯
+
+ 
+◯
+
+    
+◯  
+
+   2)
+③
+
+  3)
+③
+
+ 
+③
+
+      
+D 1) Due to follows 
+
+・ Over current 
+・ High voltage 
+・ Low voltage 
+・ Low frequency 
+・ D/G emerg. trip 
+ 
+2) Running lamp 
+ 
+3) Due to start failure 
+ 
+4) Auto.-Manual 
+ 
+5) Due to follows 
+・F.O. handle “Run”  
+  position 
+ 
+6) Due to follows 
+・ Over speed 
+・ L.O. press. drop 
+・ F.W. high temp. 
+ 
+
+ 
+Stop 
+
+ 
+ 
+
+ 
+◯
+
+    
+◯  
+
+              
+ 
+
+ 
+Change-over 
+
+ 
+ 
+
+ 
+◯
+
+   4) 
+◯  
+
+  
+ 
+
+            
+ 
+
+ 
+Ready for start 
+
+ 
+ 
+
+        5)
+③
+
+          
+ 
+
+ 
+ 
+
+                    
+ 
+
+ 
+Emergency trip 
+
+6) 
+◯
+
+            
+⑨
+
+ 
+⑨
+
+      
+D
+
+                     
+ 
+
+                     
+ 
+
+                     
+
+ 
+Fuel oil flow meter 
+
+ 
+ 
+
+  
+①  
+
+                 
+ 
+
+ 
+Diesel oil flow meter 
+
+ 
+ 
+
+  
+①  
+
+                 
+ 
+
+ 
+Fuel oil leakage tank 
+
+ 
+ 
+
+           H 
+③
+
+ 
+③
+
+      
+D
+
+                     
+
+ 
+Speed relay abnormal 
+
+             
+③
+
+ 
+③
+
+      
+D
+
+ 
+ 
+
+                    
+ 
+
+ 
+ 
+
+                    
+ 
+
+ 
+
+△3 ③Running hour meter △2
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+1
+
+7
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+E
+L
+
+E
+C
+
+T
+R
+
+IC
+ 
+
+ 
+G
+
+E
+N
+
+E
+R
+
+A
+T
+
+IN
+G
+
+ 
+ 
+
+P
+L
+
+A
+N
+
+T
+ 
+
+D
+/G
+
+ p
+re
+
+ss
+u
+
+re
+ 
+
+ 
+Lub. oil inlet 
+
+ 
+ 
+
+ 
+ 
+
+ 
+③  
+
+ 
+ 
+
+  
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+③
+
+   L 
+ 
+
+ 
+③
+
+ 
+ 
+
+     
+D 1) By the wax type temp. 
+
+control valve 
+ 
+2) By the pneumatic type 
+  temp. control valve 
+ 
+ 
+ 
+ 
+ 
+
+High temp.
+cooling F.W. inlet 
+
+ 
+ 
+
+ 
+ 
+
+ 
+③  
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+③
+
+   L 
+ 
+
+ 
+③
+
+ 
+ 
+
+     
+D
+
+Low temp.
+cooling F.W. inlet 
+
+ 
+ 
+
+ 
+ 
+
+ 
+③  
+
+     
+ 
+
+ 
+③
+
+   L 
+ 
+
+ 
+③
+
+      
+D
+
+Turbocharger
+lub. oil inlet 
+
+ 
+ 
+
+ 
+ 
+
+ 
+③  
+
+   
+ 
+
+ 
+ 
+
+   
+ 
+
+  L 
+③
+
+ 
+③
+
+ 
+ 
+
+     
+D
+
+ 
+Starting air inlet 
+
+   
+ 
+
+   
+ 
+
+    
+ 
+
+  L 
+③
+
+ 
+③
+
+ 
+ 
+
+     
+D
+
+ 
+Control air inlet 
+
+ 
+ 
+
+     
+ 
+
+    
+ 
+
+  L 
+③
+
+ 
+③
+
+ 
+ 
+
+  
+ 
+
+   
+D
+
+ 
+Fuel oil inlet 
+
+   
+③  
+
+ 
+ 
+
+      
+ 
+
+     
+ 
+
+     
+
+Fuel oil 2nd filter
+difference 
+
+ 
+○
+
+         
+ 
+
+  H 
+①
+
+ 
+①
+
+ 
+ 
+
+   
+ 
+
+  
+D
+
+Lub. oil filter
+difference 
+
+ 
+○
+
+         
+ 
+
+  H 
+③
+
+ 
+③
+
+ 
+ 
+
+   
+ 
+
+  
+D
+
+D
+/G
+
+ t
+e
+m
+
+p
+e
+ra
+
+tu
+re
+
+ 
+
+ 
+Lub. oil inlet 
+
+1) 
+◯
+
+ 
+ 
+
+ 
+③  
+
+   
+ 
+
+  
+ 
+
+ 
+③
+
+   H 
+ 
+
+ 
+③
+
+ 
+ 
+
+  
+ 
+
+   
+D
+
+High temp.
+cooling F.W. outlet 
+
+1) 
+◯
+
+  
+③  
+
+     
+ 
+
+ 
+③
+
+ 
+ 
+
+  H 
+ 
+
+ 
+③
+
+  
+ 
+
+ 
+ 
+
+ 
+ 
+
+  
+D
+
+Exhaust gas
+each cylinder outlet 
+
+   
+⑱  
+
+                 
+
+Exhaust gas
+turbocharger inlet 
+
+ 
+ 
+
+  
+⑥  
+
+     
+ 
+
+ 
+⑥  
+
+   H 
+ 
+
+ 
+⑥
+
+      
+D
+
+ 
+Fuel oil inlet 
+
+2) 
+◯
+
+  
+③  
+
+     
+ 
+
+ 
+③
+
+ 
+ 
+
+  HL
+ 
+
+ 
+⑥
+
+ 
+ 
+
+  
+ 
+
+   
+D
+
+Low temp.
+cooling F.W. inlet 
+
+2) 
+◯
+
+  
+①  
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+ 
+ 
+
+  HL
+ 
+
+ 
+②
+
+      
+D
+
+ 
+Boost air inlet 
+
+   
+③  
+
+                 
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+1
+
+8
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+E
+L
+
+E
+C
+
+T
+R
+
+IC
+ 
+
+ 
+G
+
+E
+N
+
+E
+R
+
+A
+T
+
+IN
+G
+
+ 
+ 
+
+P
+L
+
+A
+N
+
+T
+ 
+
+G
+e
+n
+
+e
+ra
+
+to
+r 
+
+ 
+Current 
+
+ 
+ 
+
+ 
+ 
+
+    
+ 
+
+ 
+③
+
+     H 
+③
+
+ 
+③
+
+ 
+ 
+
+     
+D 1) “Stand-by” & “Run” 
+
+ 
+2) “MSB & FORE” 
+  & ”ESB” 
+ 
+ 
+ 
+ 
+
+ 
+Voltage 
+
+ 
+ 
+
+ 
+ 
+
+    
+ 
+
+ 
+③
+
+     HL
+②
+
+ 
+②
+
+ 
+ 
+
+     
+D
+
+ 
+Frequency 
+
+ 
+ 
+
+ 
+ 
+
+    
+ 
+
+ 
+②
+
+ 
+ 
+
+    HL
+②
+
+ 
+②
+
+ 
+ 
+
+     
+D
+
+ 
+Electric power 
+
+ 
+ 
+
+     
+ 
+
+ 
+③
+
+        
+ 
+
+     
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+        
+ 
+
+     
+ 
+
+MSB
+control source failure 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+      
+①
+
+ 
+①
+
+ 
+ 
+
+     
+D
+
+MSB circ. breaker
+trip source failure 
+
+             
+①
+
+ 
+①
+
+      
+D
+
+MSB
+control system failure 
+
+             
+①
+
+ 
+①
+
+      
+D
+
+  
+ 
+
+ 
+ 
+
+    
+ 
+
+         
+ 
+
+     
+
+ 
+ACB non-close 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+      
+③
+
+ 
+③
+
+ 
+ 
+
+     
+D
+
+ 
+ACB abnormal 
+
+ 
+ 
+
+     
+ 
+
+       
+③
+
+ 
+③
+
+ 
+ 
+
+     
+D
+
+ 
+Preferential trip 
+
+ 
+ 
+
+ 
+ 
+
+    
+ 
+
+       
+①
+
+ 
+①
+
+ 
+ 
+
+     
+D
+
+ 
+AC440V insulation 
+
+ 
+ 
+
+     
+ 
+
+       
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+AC100V insulation 
+
+ 
+ 
+
+     
+ 
+
+      2)
+②
+
+ 
+②
+
+ 
+ 
+
+     
+E 
+
+Emergency generator
+engine abnormal 
+
+ 
+ 
+
+     
+ 
+
+   1)
+②
+
+   
+①
+
+ 
+①
+
+ 
+ 
+
+     
+D
+
+  
+ 
+
+     
+ 
+
+         
+ 
+
+     
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+1
+
+9
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+A
+U
+
+X
+IL
+
+IA
+R
+
+Y
+ 
+
+ 
+B
+
+O
+IL
+
+E
+R
+
+ 
+
+G
+e
+n
+
+er
+a
+l 
+
+ 
+Running 
+
+ 
+◯
+
+ 
+◯
+
+  
+①
+
+  
+ 
+
+    
+ 
+
+ 
+①
+
+  
+ 
+
+       
+ 1) Due to follows 
+
+・ Miss fire & flame failure 
+・ F.D. fan stop 
+・ Drum level lowest 
+・ F.O. temp. drop 
+・ F.O. press. drop 
+・ Source failure 
+・Exh. gas high temp. 
+ 
+2) Common alarm 
+ 
+3) Controlled by “ON-OFF” 
+
+system 
+ 
+4) Auto. start & stop by 
+  detect. the drum water 
+  level 
+ 
+5) By the thermostat 
+ 
+6) Select switch 
+ “No.1” - “Both” - “No.2”  
+ 
+7) One side water level  
+ control 
+
+ 
+Emergency trip 
+
+1) 
+◯
+
+ 
+◯
+
+    
+ 
+
+      2)
+①
+
+ 
+①
+
+      
+D
+
+ 
+Water level sensor select 
+
+ 
+ 
+
+6)
+◯
+
+ 7) 
+①
+
+    
+ 
+
+            
+ 
+
+           
+ 
+
+          
+ 
+
+R
+u
+
+n
+n
+
+in
+g
+
+ 
+
+ 
+F.O. burning pump 
+
+  
+◯
+
+                  
+ 
+
+ 
+Forced draft fan 
+
+3) 
+◯
+
+ 
+◯
+
+           
+①
+
+ 
+①
+
+      
+D
+
+ 
+Feed water pump 
+
+4) 
+◯
+
+ 
+◯
+
+                  
+
+ 
+ 
+
+ 
+ 
+
+                   
+ 
+
+ 
+ 
+
+  
+ 
+
+ 
+ 
+
+                 
+ 
+
+P
+re
+
+ss
+u
+
+re
+ 
+
+ 
+Drum steam 
+
+3) 
+◯
+
+ 
+ 
+
+ 
+①  
+
+    
+ 
+
+ 
+ 
+
+ 
+①  
+
+   L 
+ 
+
+ 
+①
+
+      
+D
+
+ 
+Burner F.O. inlet 
+
+ 
+ 
+
+  
+①  
+
+                 
+ 
+
+ 
+ 
+
+ 
+ 
+
+            
+ 
+
+       
+ 
+
+ 
+ 
+
+                    
+ 
+
+T
+e
+m
+
+p
+. 
+
+ 
+F.O. heater outlet 
+
+5) 
+◯
+
+  
+①  
+
+         HL
+②
+
+ 
+②
+
+      
+D
+
+ 
+ 
+
+                    
+ 
+
+ 
+ 
+
+                    
+ 
+
+ 
+
+△1 ①
+8)
+
+8) Running hour meter
+
+△2
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+2
+
+0
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+A
+U
+
+X
+IL
+
+IA
+R
+
+Y
+ 
+
+ 
+B
+
+O
+IL
+
+E
+R
+
+ 
+
+L
+ev
+
+el
+ 
+
+ 
+Drum 
+
+ 
+◯
+
+ 
+ 
+
+ 
+◯  
+
+ HL
+②
+
+ 
+ 
+
+ 
+ 
+
+     HL
+②
+
+ 
+②
+
+ 
+ 
+
+     
+D 1) By the float valve 
+
+ 
+2) By the pneumatic type 
+  press. control valve 
+ 
+ 
+ 
+ 
+
+ 
+Cascade tank 
+
+1) 
+◯
+
+ 
+ 
+
+    
+ 
+
+ 
+ 
+
+     L 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+D
+
+  
+ 
+
+ 
+ 
+
+    
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+  
+ 
+
+     
+ 
+
+ 
+ 
+
+      
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+
+E
+tc
+
+. 
+
+ 
+Excess steam dumping 
+
+2) 
+◯
+
+ 
+◯
+
+    
+ 
+
+ 
+ 
+
+      
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+Soot blower 
+
+ 
+ 
+
+ 
+◯
+
+    
+ 
+
+ 
+ 
+
+      
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+      
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+Fuel oil flow meter 
+
+ 
+ 
+
+  
+①  
+
+   
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+  
+ 
+
+ 
+ 
+
+    
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+    
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+  
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+  
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+  
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+  
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+  
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+  
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+2
+
+1
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+F
+U
+
+E
+L
+
+ 
+ 
+
+O
+IL
+
+ 
+ 
+
+S
+Y
+
+S
+T
+
+E
+M
+
+ 
+
+R
+u
+
+n
+n
+
+in
+g
+
+ 
+
+ 
+Fuel oil purifier 
+
+1) 
+◯
+
+ 
+◯
+
+  
+②
+
+  
+ 
+
+    
+ 
+
+ 
+②
+
+ 2)
+②
+
+ 
+②
+
+ 
+ 
+
+     
+E 1) Auto. sludge discharge 
+
+  system 
+ 
+2) Due to follows 
+・ Oil leakage 
+ 
+3) By the direct type temp. 
+  control valve 
+ 
+4) By the pneumatic type 
+  temp. control valve 
+ 
+5) Auto. start & stop by 
+  detecting fuel oil trans. 
+  pump running 
+ 
+6) Common alarm 
+ 
+7) Difference press. high 
+
+ 
+Fuel oil fine filter 
+
+ 
+◯
+
+  
+◯  
+
+ 7)H
+①
+
+ 
+ 
+
+      7)H
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+Fuel oil shifter 
+
+5) 
+◯
+
+ 
+◯
+
+  
+②
+
+  
+ 
+
+  
+ 
+
+     
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+ 
+
+ 
+ 
+
+         
+ 
+
+     
+ 
+
+     
+ 
+
+  
+ 
+
+              
+ 
+
+     
+ 
+
+  
+ 
+
+              
+ 
+
+     
+ 
+
+T
+e
+m
+
+p
+e
+ra
+
+tu
+re
+
+ 
+
+Heavy fuel oil
+settling tank 
+
+3) 
+◯
+
+ 
+ 
+
+ 
+①  
+
+         H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+Heavy fuel oil
+service tank 
+
+ 
+ 
+
+  
+①  
+
+         H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+                     
+
+L.S. fuel oil
+service tank 
+
+ 
+ 
+
+  
+①  
+
+         H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+F.O. tank 
+
+ 
+ 
+
+  
+ 
+
+    
+⑥
+
+     
+⑥  
+
+6)H
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+Purifier fuel oil inlet 
+
+4) 
+◯
+
+ 
+ 
+
+ 
+②  
+
+ 
+ 
+
+   
+ 
+
+     H 
+②
+
+ 
+②
+
+ 
+ 
+
+     
+E 
+
+Shifter fuel oil
+heater outlet 
+
+4) 
+◯
+
+ 
+ 
+
+ 
+①  
+
+         H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+                     
+ 
+
+ 
+Waste oil tank 
+
+ 
+ 
+
+  
+②  
+
+ 
+ 
+
+        H 
+②
+
+ 
+②
+
+ 
+ 
+
+     
+E 
+
+ 
+ 
+
+                    
+ 
+
+ 
+
+△2 ②
+8)
+
+8) Running hour meter
+
+△2
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+2
+
+2
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+F
+U
+
+E
+L
+
+ 
+ 
+
+O
+IL
+
+ 
+ 
+
+S
+Y
+
+S
+T
+
+E
+M
+
+ 
+
+T
+a
+n
+
+k
+ l
+
+e
+v
+
+e
+l 
+
+Heavy fuel oil
+settling tank 
+
+1) 
+◯
+
+ 
+ 
+
+ 
+①  
+
+  
+ 
+
+ 
+ 
+
+ 
+ 
+
+     HL
+②
+
+ 
+②
+
+ 
+ 
+
+     
+E 1) By auto. start & stop of 
+
+  F.O. transfer pump 
+ 
+2) Over flow system 
+ 
+3) By auto. start & stop of  
+  D.O. transfer pump 
+ 
+4) Overflow 
+ 
+
+Heavy fuel oil
+service tank 
+
+2) 
+◯
+
+  
+①
+
+         L 
+①
+
+ 
+①
+
+      
+E
+
+                     
+
+L.S. fuel oil
+service tank 
+
+2) 
+◯
+
+  
+①
+
+         L 
+①
+
+ 
+①
+
+      
+E
+
+ 
+Diesel oil service tank 
+
+3) 
+◯
+
+  
+②
+
+         HL
+④
+
+ 
+④
+
+      
+E
+
+                     
+
+ 
+Waste oil tank 
+
+ 
+ 
+
+  
+②
+
+         L 
+②
+
+ 
+②
+
+      
+E
+
+                     
+
+                     
+
+                     
+
+ 
+Fuel oil drain tank 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+   
+ 
+
+      H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+Fuel oil overflow tank 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+   
+ 
+
+      H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+E
+tc
+
+. 
+
+                     
+
+ 
+Fuel oil overflow line 
+
+            4)
+①
+
+ 
+①
+
+      
+E
+
+                     
+
+ 
+
+
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+2
+
+3
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+L
+U
+
+B
+. 
+
+ 
+O
+
+IL
+ 
+
+ 
+S
+
+Y
+S
+
+T
+E
+
+M
+ 
+
+R
+u
+
+n
+n
+
+in
+g
+
+ 
+
+ 
+Lub. oil purifier 
+
+1) 
+◯
+
+ 
+◯
+
+ 
+ 
+
+ 
+①
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+    
+①
+
+ 2)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 1) Auto. sludge discharge 
+
+  system 
+ 
+2) Due to follows 
+・ Oil leakage 
+ 
+3) By the pneumatic type 
+  temp. control valve 
+ 
+ 
+
+ 
+D/G Lub. oil purifier 
+
+1) 
+◯
+
+ 
+◯
+
+ 
+ 
+
+ 
+①
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+    
+①
+
+ 2)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+  
+ 
+
+     
+ 
+
+ 
+ 
+
+   
+ 
+
+   
+ 
+
+ 
+ 
+
+        
+ 
+
+     
+ 
+
+T
+e
+m
+
+p
+e
+ra
+
+tu
+re
+
+ 
+
+ 
+Purifier lub. oil inlet 
+
+3) 
+◯
+
+  
+①  
+
+   
+ 
+
+ 
+ 
+
+     H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+D/G Purifier 
+lub. oil inlet 
+
+3) 
+◯
+
+  
+①  
+
+   
+ 
+
+ 
+ 
+
+     H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+      
+ 
+
+  
+ 
+
+     
+ 
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+   
+ 
+
+       
+ 
+
+  
+ 
+
+     
+ 
+
+ 
+
+                     
+
+                     
+
+                     
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+       
+ 
+
+  
+ 
+
+     
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+
+△1 ①
+4)
+
+4) Running hour meter
+
+△1 ①
+4)
+
+△2
+
+△2
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+2
+
+4
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+C
+O
+
+M
+P
+
+R
+E
+
+S
+S
+
+E
+D
+
+ 
+ 
+
+A
+IR
+
+ 
+ 
+
+S
+Y
+
+S
+T
+
+E
+M
+
+ 
+
+R
+u
+
+n
+n
+
+in
+g
+
+ 
+
+ 
+Main air compressor 
+
+1) 
+◯
+
+ 
+◯
+
+  
+ 
+
+ 2) 
+◯  
+
+ 5)
+ 
+
+ 
+②  
+
+ 
+②
+
+ 
+②
+
+ 3)②
+6)①
+
+②
+①
+
+ 
+ 
+
+     
+E 1) Auto. start & stop 
+
+ 
+2) Auto.- Manual and 
+  start - stop 
+ 
+3) Abnormal stop 
+・ Compress. air outlet  
+  high temp. 
+ 
+4) Abnormal 
+ 
+5) Running hour meter 
+ 
+6) C.F.W. pump running  
+  request 
+
+Emergency 
+air compressor 
+
+ 
+ 
+
+ 
+◯
+
+    
+ 
+
+         
+ 
+
+     
+ 
+
+Deck service 
+air compressor 
+
+ 
+ 
+
+ 
+○
+
+    
+ 
+
+ 5)
+ 
+
+ 
+①  
+
+   4)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+ 
+
+ 
+ 
+
+         
+ 
+
+     
+ 
+
+     
+ 
+
+P
+re
+
+ss
+u
+
+re
+ 
+
+ 
+Main air reservoir 
+
+ 
+ 
+
+  
+②  
+
+    
+ 
+
+ 
+ 
+
+ 
+②  
+
+   L 
+ 
+
+ 
+②
+
+ 
+ 
+
+     
+E 
+
+ 
+Control air 
+
+ 
+ 
+
+  
+①  
+
+         L 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+Emergency shut off
+valve operating air 
+
+ 
+ 
+
+ 
+ 
+
+ 
+①  
+
+         L 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+Deck service 
+air reservoir 
+
+ 
+ 
+
+  
+①  
+
+            
+ 
+
+     
+ 
+
+T
+e
+m
+
+p
+. Main air compressor 
+
+cooling F.W. inlet 
+   
+
+②  
+            
+
+ 
+     
+
+ 
+Main air compressor 
+cooling F.W. outlet 
+
+  
+ 
+
+ 
+②  
+
+          
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+B
+IL
+
+G
+E
+
+ 
+ 
+
+S
+Y
+
+S
+T
+
+E
+M
+
+ 
+
+L
+e
+v
+
+e
+l 
+
+ 
+Bilge well 
+
+ 
+ 
+
+  
+ 
+
+         H 
+③
+
+ 
+③
+
+ 
+ 
+
+  H 
+①  
+
+  
+E 
+
+ 
+Bilge tank 
+
+ 
+ 
+
+  
+ 
+
+ 
+ 
+
+        H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+Bilge sludge tank 
+
+            H 
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+Sludge tank 
+
+            H 
+①
+
+ 
+①
+
+      
+E 
+
+ 
+Clean drain tank 
+
+            H 
+①
+
+ 
+①
+
+      
+E 
+
+ 
+ 
+
+                    
+ 
+
+ 
+
+4)
+① ①1△
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+2
+
+5
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+A
+U
+
+X
+IL
+
+IL
+A
+
+R
+Y
+
+ 
+ 
+
+M
+A
+
+C
+H
+
+IN
+E
+
+ 
+
+G
+e
+n
+
+e
+ra
+
+l 
+
+ 
+Fresh water generator 
+
+1) 
+◯
+
+ 
+◯
+
+  
+①
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+     2)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 1) Dump to evaporator by 
+
+high salinity 
+ 
+2) Due to high salinity 
+ 
+3) Due to high oil content 
+  and separator abnormal 
+ 
+4) Due to abnormal 
+ 
+5) Due to follows 
+・ Non-voltage 
+・ Over load 
+・ Hyd. oil tank low level 
+・ Phase failure 
+ 
+6) By the pneumatic type 
+  temp. control valve 
+ 
+7) Auto. shut by thermostat 
+ 
+8) Auto. 3-way valve 
+ 
+9) Running hour meter 
+ 
+
+ 
+Bilge separator 
+
+8) 
+◯
+
+ 
+◯
+
+  
+①
+
+  
+ 
+
+ 
+ 
+
+     3)
+②
+
+ 
+②
+
+ 
+ 
+
+     
+E 
+
+ 
+Sewage treatment unit 
+
+ 
+ 
+
+  
+ 
+
+   
+ 
+
+ 
+ 
+
+     4)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+Ballast water
+treatment system
+
+            4)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+Waste oil incinerator 
+
+ 
+ 
+
+ 
+◯
+
+  
+①
+
+4)
+①
+
+ 
+ 
+
+ 
+ 
+
+    
+①
+
+ 4)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+Cu-Fe ion generator 
+
+ 
+ 
+
+ 
+◯
+
+ 
+◯  
+
+ 
+◯
+
+  
+ 
+
+ 
+ 
+
+     4)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+Hot water heater
+steam valve 
+
+7) 
+◯
+
+     
+ 
+
+ 
+ 
+
+        
+ 
+
+     
+ 
+
+T
+e
+m
+
+p
+. 
+
+ 
+Hot water heater outlet 
+
+6) 
+◯
+
+  
+①  
+
+   
+ 
+
+       
+ 
+
+  
+ 
+
+     
+ 
+
+Sea water (Ref. mach.  
+C.S.W. pump outlet) 
+
+ 
+ 
+
+ 
+ 
+
+    
+ 
+
+  
+ 
+
+ 
+①  
+
+    
+ 
+
+  
+ 
+
+     
+ 
+
+       
+ 
+
+       
+ 
+
+  
+ 
+
+     
+ 
+
+E
+tc
+
+. 
+
+Hydraulic pump
+for deck machinery 
+
+ 
+ 
+
+     
+ 
+
+ 9)
+ 
+
+ 
+②  
+
+    
+ 
+
+  
+ 
+
+     
+ 
+
+ 
+Steering gear 
+
+ 
+ 
+
+ 
+◯
+
+    
+ 
+
+ 9)
+ 
+
+ 
+②  
+
+ 
+②
+
+ 
+②
+
+ 5)
+⑧
+
+ 
+⑧
+
+ 
+◯  
+
+  
+②
+
+ 
+◯  
+
+  
+E 
+
+Air conditioner 
+ref. machine 
+
+ 
+◯
+
+ 
+◯
+
+    
+ 
+
+     
+①
+
+ 4)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+Provision ref. machine 
+
+ 
+◯
+
+ 
+◯
+
+    
+ 
+
+     
+②
+
+ 4)
+②
+
+ 
+②
+
+ 
+ 
+
+     
+E 
+
+Local fire
+fighting system  
+
+            4)
+①
+
+ 
+①
+
+      
+E 
+
+Local fire
+fighting system start 
+
+ 
+◯
+
+            
+①
+
+ 
+①
+
+      
+E 
+
+ 
+
+△1 ①
+9)
+
+①△2
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+2
+
+6
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+G
+E
+
+N
+E
+
+R
+A
+
+L
+ 
+
+ 
+
+Lamp & buzzer
+test switch 
+
+     
+ 
+
+ 
+◯  
+
+ 
+ 
+
+        
+◯  
+
+     
+1) Source failure 
+ 
+ 
+
+ 
+Buzzer stop button 
+
+      
+◯  
+
+ 
+ 
+
+        
+◯  
+
+     
+
+ 
+Flicker stop button 
+
+      
+◯  
+
+ 
+ 
+
+ 
+ 
+
+       
+ 
+
+     
+
+ 
+Function test button 
+
+      
+◯  
+
+ 
+ 
+
+        
+ 
+
+     
+
+ 
+ 
+
+      
+ 
+
+ 
+ 
+
+        
+ 
+
+     
+
+Automatic exchange
+telephone 
+
+ 
+ 
+
+ 
+◯
+
+    
+◯  
+
+ 
+ 
+
+        
+◯  
+
+     
+
+Common battery
+telephone 
+
+ 
+ 
+
+     
+◯  
+
+ 
+ 
+
+        
+◯  
+
+     
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+   
+ 
+
+         
+ 
+
+     
+
+ 
+Patrol man call 
+
+ 
+ 
+
+ 
+ 
+
+    
+◯  
+
+         
+ 
+
+     
+
+ 
+Engineer’s call 
+
+ 
+ 
+
+ 
+ 
+
+    
+◯  
+
+              
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+         
+ 
+
+     
+
+ 
+Clock 
+
+ 
+ 
+
+     
+ 
+
+ 
+①
+
+        
+ 
+
+ 
+①
+
+    
+ 
+
+ 
+Rudder angle 
+
+ 
+ 
+
+     
+ 
+
+ 
+①
+
+      
+ 
+
+  
+ 
+
+ 
+③
+
+    
+ 
+
+Console electric source 
+(AC & DC) 
+
+ 
+ 
+
+     
+◯  
+
+    
+②
+
+ 
+②
+
+ 1)
+②
+
+ 
+②
+
+ 
+ 
+
+     
+E 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+2
+
+7
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+P
+U
+
+M
+P
+
+ 
+ 
+
+A
+N
+
+D
+ 
+
+ 
+F
+
+A
+N
+
+ 
+
+ 
+
+ 
+Main lub. oil pump 
+
+1) 
+◯
+
+ 
+◯
+
+  
+ 
+
+  
+◯  
+
+    
+②
+
+ 
+②
+
+ 3)
+②
+
+ 
+②
+
+      
+C 1) Auto. change by detect. 
+
+the non-voltage and 
+  pressure 
+ 
+2) Auto. change by detect. 
+
+the non-voltage 
+ 
+3) Abnormal stop 
+ 
+4) Auto. start and stop 
+  detect. by D/G running 
+ 
+5) Auto. start by restart of 
+
+D/G via black-out 
+ 
+6) Auto. change by detect. 
+
+the non-voltage and 
+  non-flow 
+ 
+7) Auto. stop by starting 
+
+fixed water- based local 
+fire fighting system 
+
+ 
+8) Auto. start and stop by  
+  detect. main air comp.  
+  running 
+ 
+ 
+
+                     
+
+ 
+Fuel oil booster pump 
+
+2) 
+◯
+
+ 
+◯
+
+  
+ 
+
+  
+◯  
+
+    
+②
+
+ 
+②
+
+ 3)
+②
+
+ 
+②
+
+      
+C
+
+M/E fuel oil
+circulating pump 
+
+2) 
+◯
+
+ 
+◯
+
+  
+ 
+
+  
+◯  
+
+    
+②
+
+ 
+②
+
+ 3)
+②
+
+ 
+②
+
+      
+C
+
+ 
+Jacket cool. F.W. pump 
+
+2) 
+◯
+
+ 
+◯
+
+  
+ 
+
+  
+◯  
+
+    
+②
+
+ 
+②
+
+ 3)
+②
+
+ 
+②
+
+      
+C
+
+ 
+Cooling S.W. pump 
+
+2) 
+◯
+
+ 
+◯
+
+  
+ 
+
+  
+◯  
+
+    
+②
+
+ 
+②
+
+ 3)
+②
+
+ 
+②
+
+      
+C
+
+ 
+Stern tube lub. oil pump 
+
+6) 
+◯
+
+ 
+◯
+
+  
+ 
+
+  
+◯  
+
+    
+②
+
+ 
+②
+
+ 3)
+②
+
+ 
+②
+
+      
+C
+
+                     
+
+D/G fuel oil
+circulating pump 
+
+2) 
+◯
+
+ 
+◯
+
+  
+ 
+
+  
+◯  
+
+    
+②
+
+ 
+②
+
+ 3)
+②
+
+ 
+②
+
+      
+D
+
+D/G diesel oil
+booster pump 
+
+5) 
+◯
+
+ 
+◯
+
+  
+ 
+
+  
+◯  
+
+    
+①
+
+ 
+①
+
+ 3)
+①
+
+ 
+①
+
+      
+D
+
+L.O. purifier 
+supply pump 
+
+ 
+ 
+
+ 
+◯
+
+ 
+ 
+
+ 
+ 
+
+                
+ 
+
+D/G L.O. purifier 
+supply pump 
+
+ 
+ 
+
+ 
+◯
+
+  
+ 
+
+         
+ 
+
+       
+ 
+
+Main air comp. 
+cooling F.W. pump 
+
+8) 
+◯
+
+ 
+◯
+
+  
+ 
+
+  
+◯  
+
+    
+②
+
+ 
+②
+
+ 3)
+②
+
+ 
+②
+
+      
+E 
+
+D/G lub. oil
+priming pump 
+
+4) 
+◯
+
+ 
+◯
+
+ 
+ 
+
+ 
+③
+
+       
+③
+
+ 3)
+③
+
+ 
+③
+
+      
+D
+
+Engine room
+ventilating fan 
+
+7) 
+◯
+
+     
+◯  
+
+    
+③
+
+ 
+③
+
+ 3)
+③
+
+ 
+③
+
+      
+C
+
+                     
+ 
+
+ 
+
+△3 ③
+9)
+
+9) Running hour meter
+
+△2 ②
+9)
+
+△2 ②
+9)
+
+△2 ②
+9)
+
+△1 ①
+9)
+
+△2 ②
+9)
+
+△2 ②
+9)
+
+△2 ②
+9)
+
+△2 ②
+9)
+
+△2
+
+△2
+
+△2
+
+△2
+
+△2
+
+△2
+
+△2
+
+△2
+
+△2
+
+
+
+ 
+
+ 
+
+Divi- 
+sion 
+
+Item 
+
+A
+u
+
+to
+m
+
+a
+ti
+
+o
+n
+
+ 
+
+LOCAL CENTRAL CONTROL STATION BRIDGE 
+
+A
+la
+
+rm
+ g
+
+ro
+u
+
+p
+ 
+
+Remarks 
+
+M
+1
+
+3
+ 
+－
+
+ 
+2
+
+8
+e
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+INDICAT. LAMP ALARM 
+
+H
+a
+n
+
+d
+li
+
+n
+g
+
+ 
+
+In
+d
+
+ic
+a
+to
+
+r 
+
+In
+d
+
+ic
+a
+t.
+
+ L
+a
+m
+
+p
+ 
+
+A
+la
+
+rm
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+In
+d
+
+e
+p
+
+e
+n
+
+d
+e
+n
+
+t 
+
+D
+is
+
+p
+la
+
+y
+ 
+
+R
+e
+c
+o
+
+rd
+in
+
+g
+ 
+
+P
+U
+
+M
+P
+
+ 
+ 
+
+A
+N
+
+D
+ 
+
+ 
+F
+
+A
+N
+
+ 
+
+ 
+
+ 
+Fuel oil transfer pump 
+
+1) 
+◯
+
+ 
+◯
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+◯  
+
+ 
+ 
+
+   
+①
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 1) Auto. start and stop by 
+
+  detecting the H.F.O. 
+  settling tank level 
+ 
+2) Auto. start and stop by 
+  detecting the D.O. 
+  service tank level 
+ 
+3) Auto. stop by 
+  bilge separator abnormal 
+ 
+4) Auto. change by detect. 
+
+the non-voltage 
+ 
+5) Abnormal stop 
+ 
+6) Auto. start and stop by 
+
+detecting the press. tank 
+pressure 
+
+ 
+7) Due to long running 
+ 
+8) “No.1 D.O. serv. tank”  
+  -“No.2 D.O. serv. tank” 
+ 
+ 
+
+ 
+Diesel oil transfer pump 
+
+2) 
+◯
+
+ 
+◯
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+8) 
+◯  
+
+ 
+ 
+
+   
+①
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+Lub. oil transfer pump 
+
+ 
+ 
+
+ 
+◯
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+◯  
+
+ 
+ 
+
+   
+①
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+Bilge pump 
+
+3) 
+◯
+
+ 
+◯
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+◯  
+
+ 
+ 
+
+   
+①
+
+  7)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+Sludge pump 
+
+  
+◯
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+◯  
+
+ 
+ 
+
+   
+①
+
+   
+ 
+
+  
+ 
+
+     
+ 
+
+              
+ 
+
+  
+ 
+
+     
+ 
+
+ 
+Boiler feed water pump 
+
+4) 
+◯
+
+ 
+◯
+
+  
+②
+
+  
+ 
+
+     
+②
+
+ 5)
+②
+
+ 
+②
+
+ 
+ 
+
+     
+D
+
+ 
+Fire & G.S. pump 
+
+ 
+ 
+
+ 
+◯
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+◯  
+
+ 
+ 
+
+   
+①
+
+     
+◯  
+
+     
+ 
+
+ 
+Bilge & ballast pump 
+
+ 
+ 
+
+ 
+◯
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+◯  
+
+ 
+ 
+
+   
+①
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+Ballast pump 
+
+ 
+ 
+
+ 
+◯
+
+  
+ 
+
+  
+◯  
+
+    
+②
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+Ref. mach. C.S.W. pump 
+
+ 
+ 
+
+ 
+◯
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+◯  
+
+ 
+ 
+
+   
+①
+
+ 
+①
+
+ 5)
+①
+
+ 
+①
+
+ 
+ 
+
+     
+E 
+
+ 
+M.G.O. C.F.W. pump 
+
+ 
+ 
+
+ 
+◯
+
+  
+ 
+
+  
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+Fresh water pump 
+
+6) 
+◯
+
+ 
+◯
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+◯  
+
+ 
+ 
+
+   
+①
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+Drinking water pump 
+
+6) 
+◯
+
+ 
+◯
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+◯  
+
+ 
+ 
+
+   
+①
+
+   
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+Hot water
+circulating pump 
+
+ 
+ 
+
+ 
+◯
+
+ 
+ 
+
+ 
+ 
+
+  
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+  
+ 
+
+     
+ 
+
+       
+ 
+
+ 
+ 
+
+ 
+ 
+
+     
+ 
+
+ 
+
+△2 ②
+9)
+
+9) Running hour meter
+
+△1 ①
+9)
+
+△2
+
+△2
+
+
+
+
+
+SECTION 14  SPARE PARTS 
+ 
+ 
+14.1  GENERAL 
+ 
+Spare parts shall be provided according to the requirement of the Classification rule and 
+Maker’s standard. 
+Smaller spare parts shall be stowed in suitable boxes with contents, on suitable position 
+where convenient to the crew in engine room, but larger one shall be mounted and the 
+stored directly on the wall of the ship. 
+Spare parts shall include the following at least. 
+Quantities shall be for one (1) ship. 
+Additional spare required by the Owner, if any, shall be supplied at extra cost. 
+ 
+14.2  MAIN ENGINE 
+ 
+ (1) Cylinder cover and their fittings 
+ 
+ Cylinder cover complete with studs, nuts, disk spring for valves  
+ ( excluding valves ) 1 cyl. 
+ Studs and nuts for cylinder cover tightening  1/2 cyl. 
+ Fuel valve complete 1 engine+1cyl. 
+ O－ring for fuel valve 1 cyl. 
+ Exhaust valve complete 3 cyl. 
+ Piston rings for exhaust valve ( driving side ) 1 cyl. 
+ Starting air valve complete 2 cyl. 
+ Bursting disk for starting air valve 1 cyl. 
+ Cylinder safety valve complete 2 cyl. 
+ Indicator valve complete 1 cyl. 
+ 
+ (2) Main bearing 
+ 
+ Main bearing shell 1 journal 
+ Studs and nuts for one main bearing 1 set 
+ 
+ (3) Cylinder liner 
+ 
+ Cylinder liner 1 cyl. 
+ O－ring for cylinder liner 1 cyl. 
+ Non－return valves for lubrication 1/2 cyl. 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+ (4) Thrust bearing 
+ 
+ Thrust bearing segments for ahead 1 set 
+ 
+
+(5) Piston  
+ 
+ Piston complete with piston rings, cooling pipe and piston rod 1 cyl. 
+ Piston rings 1 cyl. 
+ Piston rod stuffing box complete with sealing rings and scraping rings 1 cyl. 
+ Telescopic pipe for piston cooling oil 1 cyl. 
+ O－ring for stuffing box 1 cyl. 
+ 
+ (6) Connecting rod  
+ 
+ Crank pin bearing shell 1 cyl. 
+ Studs and nuts for crankpin bearing 1 cyl. 
+ Crosshead bearing shell lower part 1 cyl. 
+ Studs and nuts for crosshead bearing 1 cyl. 
+ 
+ (7) Fuel pump 
+ 
+ Fuel pump barrel assembly with plunger 1 cyl. 
+ Suction valve complete 1 cyl. 
+ High pressure pipe, each type 1 cyl. 
+ 
+ (8) Camshaft chain 
+ 
+ Camshaft chain 6 links 
+ Bearing shells with guide ring for camshaft at chain wheel 1 each 
+  
+ (9) Cylinder lubricator  
+ 
+ Maker’s standard spare 1 set 
+  
+ (10) Hydraulic cylinder unit (HCU) 
+
+  
+ Maker’s standard spare 1 set 
+ 
+ (11) Hydraulic system – Hydraulic power supply (HPS) 
+
+  
+ Maker’s standard spare 1 set 
+ (Accumulator diaphragm(s) of each size   2 sets) 
+ 
+ 
+ 
+
+
+
+
+
+ (12) Engine control system (ECS) 
+  
+
+ Maker’s standard spare 1 set 
+ 
+ (13) Exhaust gas turbocharger  
+ 
+ Maker’s standard spare 1 set 
+ 
+
+ (14) Auxiliary blower 
+ 
+ Maker’s standard spare parts 1 set 
+ 
+ (15) Turning gear 
+ 
+ Maker’s standard spare parts 1 set 
+ 
+ (16) Air cooler 
+ 
+ Zinc plate 1 engine 
+ Maker’s standard spare ( except the above ) 1 set 
+ 
+ (17) Miscellaneous  
+ 
+ Special packing of each size for one engine not specified elsewhere 1cyl. or 1set 
+ 
+ 
+ 
+
+
+
+
+
+14.3  SHAFTING AND PROPELLER 
+ 
+ Stern tube seal device Maker’s standard 
+ 
+ 
+14.4  STEAM GENERATING PLANT 
+ 
+ (1) Aux. boiler  
+ 
+ Safety valve spring  1 
+ Case for water level gauge  1 
+ Gauge glass and packing for water level gauge  2 
+ Packing for drum manhole  1 
+ Nozzle tip  1 set 
+ Spare parts of fuel oil burning unit without above said Maker’s standard 
+ 
+ Other necessary spare parts shall be in accordance with Maker’s standard. 
+ 
+
+
+
+
+
+14.5  DIESEL GENERATOR ENGINE ( for one ship ) 
+ 
+ Piston ring 1 cyl. 
+ Oil ring 1 cyl. 
+ 
+ Crank pin metal 1 cyl. 
+ Piston pin 1 cyl. 
+ Piston pin metal assembly 1 cyl. 
+ Bolts for connecting rod 1 cyl. 
+ 
+ Suction valve ( complete )  1 cyl. 
+ Exhaust valve ( complete ) 2 cyl. 
+ High pressure pipe for fuel oil ( complete ) 1 cyl. 
+ Fuel injection pump ( complete ) 1 cyl. 
+ Fuel injection valve ( complete ) 3 cyl. 
+ 
+ Main bearing metal for each kind 1 brg. 
+ 
+ Bolt assembly for main bearing 1 brg 
+ Relief valve and spring for lub. oil 1 set 
+ Special packing for each kind 1/4 eng. 
+ O ring of each kind 1/4 eng. 
+ 
+ Main bearing for turbocharger 1 eng. 
+ Packing for rotor shaft of turbocharger 1 eng. 
+ 
+ Other necessary spare parts shall be in accordance with Maker’s standard. 
+ 
+
+
+
+
+
+14.6  PUMP 
+ 
+(1) Centrifugal pump ( for each size of pump ) 
+ 
+For Cooling S.W. pump (2 sets) and Jacket cooling F.W. pump (2 sets) 
+ 
+Impeller shaft 1 set 
+Ball bearing ( if fitted ) 1 set 
+Casing ring 1 set 
+Gland packing or mechanical seal 1 set 
+Coupling bolt and nut ( if fitted )  1 set 
+ 
+For Fire & G.S. pump and Bilge & ballast pump 
+ 
+Ball bearing ( if fitted ) 1 set 
+Casing ring 1 set 
+Gland packing  1 set 
+Coupling bolt and nut ( if fitted )  1 set 
+ 
+For Fresh water pump & Drinking water pump (2 sets), Ref. machine C.S.W. pump  
+(1 set), Boiler feed water pump (2 sets), Ballast pump (2 sets), Hot water circ. pump (1 
+set), Main air comp. cooling F.W. pump (2 sets) and M.G.O. C.F.W. pump (1 set) 
+ 
+ 
+Ball bearing ( if fitted ) 1 set 
+Casing ring 1 set 
+Gland packing or mechanical seal 1 set 
+Coupling bolt and nut ( if fitted )  1 set 
+ 
+For main L.O. pump (2 sets) 
+ 
+Ball bearing ( if fitted ) 1 set 
+Casing ring 1 set 
+Oil seal  1 set 
+Coupling bolt and nut  1 set 
+
+
+
+
+
+(2) Gear pump ( for each size of pump ) 
+ 
+For F.O. trans. pump (1 set), D.O. & L.O. trans. pump (2 sets), S/T L.O. pump (2 sets),  
+L.O. Puri. supply pump (1 set) 
+ 
+Bearing metal 1 set 
+Gland packing or mechanical seal 1 set 
+Safety valve spring 1 
+Coupling bolt and nut or coupling bush 1 set 
+ 
+(3) Screw pump ( for each size of pump ) 
+ 
+For F.O. booster pump (2 sets), M/E F.O. circ. pump (2 sets), D/G F.O. circ. pump (2 
+sets) and D/G D.O. booster pump (1 set) 
+ 
+Ball bearing 1 
+Safety valve spring 1 
+Mechanical seal 1 set 
+“O” ring 1 
+Coupling bush 1 set 
+ 
+(4) Reciprocating pump  
+ 
+For Bilge pump (1 set) 
+ 
+Piston ring 2 
+Valve and valve seat 4 sets 
+Gland packing 1 set 
+Safety valve spring 1 
+V belt 2 
+ 
+(5) Monros pump 
+ 
+For Sludge pump (1 set) 
+ 
+Ball bearing 1 
+Safety valve spring 1 
+Gland packing 1 set 
+O ring 1 
+V belt 2 
+ 
+ 
+
+
+
+
+
+14.7  MAIN AIR COMPRESSOR 
+ 
+ 1st stage valve complete 1 set 
+ 2nd stage valve complete 1 set 
+ Piston ring 1 set 
+ Connecting rod bearing 1 set 
+ Piston pin bush 1 set 
+ Special packing each 1 
+ Other Maker’s standard spare 1 set 
+ 
+ 
+14.8  HEAT EXCHANGER 
+ 
+ (1) Cooler and condenser (shell & tube type) 
+ 
+ Protecting anode Total number 
+ Packing 1 set 
+ 
+ (2) Oil heater  
+ 
+ Relief valve spring each 1 
+ M/E FO heater element   1set 
+ 
+14.9  OTHER MACHINERY 
+ 
+ Spare parts for machinery except above shall be in accordance with Maker’s standard. 
+ 
+
+
+
+ 
+
+SECTION 15  TOOLS AND OUTFITS 
+ 
+ 
+15.1  GENERAL 
+ 
+Tools and outfits shall be provided as necessary for proper maintenance and overhauling of 
+equipment according to Maker’s standard. 
+ 
+Smaller tools shall be stowed in suitable boxes with contents on suitable position where 
+convenient to the crew in engine room, but larger ones shall be mounted and stored direcly on 
+the wall of the ship. 
+Tools and outfits shall include the following at least. 
+Quantities shall be for one (1) ship. 
+ 
+ 
+15.2  MAIN ENGINE 
+ 
+ Hydraulic tightening tools with pump 1 set 
+  for cylinder cover stud 
+  for exhaust valve stud 
+  for stay bolt 
+  for main bearing stud  
+  for crosshead bearing stud 
+  for crankpin bearing stud 
+ Grinding machine for exhaust valve spindle and seat 1 set 
+ Fuel valve injection testing device  1 set 
+ Indicator 1 set 
+ Deflection gauge 1 set 
+ Gauge for measuring and adjusting for the engine 1 set 
+ Maker’s standard tool for the accessories such as turbocharger, 
+ air cooler, governor and aux. blower 1 set 
+ Air driven pump for M/E air cooler cleaning 1 set 
+ Other necessary tools for overhaul and reassembling of the engine 1 set 
+ 
+ 
+
+
+
+ 
+
+15.3  SHAFTING AND PROPELLER 
+ 
+ Spanner for shaft coupling bolt each 1 
+ 
+ 
+15.4  AUXILIARY BOILER 
+ 
+ Tube stopper  12 
+ Standard pressure gauge 1 
+ Water tester  1 set 
+ 
+Other necessary special tools shall be in accordance with Maker’s standard. 
+ 
+ 
+15.5  DIESEL GENERATOR ENGINE 
+ 
+ Special tool for overhauling and reassembling 1 set 
+ Lapping tool for suction and exhaust valves 1 set 
+ Fuel valve testing device 1 set 
+ Cylinder bore gauge 1 set 
+ Deflection gauge 1 set 
+ Indicator 1 set 
+ 
+Other necessary special tools shall be in accordance with Maker’s standard. 
+ 
+ 
+15.6  HEAT EXCHANGER 
+ 
+For shell & tube type heat exchanger:  
+ Tube expander each kind 1 
+ Tube cleaning tool 1 set 
+ Brass plug 10 
+ 
+ 
+15.7  OTHER MACHINERY 
+ 
+ Other necessary special tools for dismantling and assembling shall be in accordance with 
+ Maker’s standard. 
+ 
+ 
+
+
+
+ 
+
+15.8  GENERAL TOOLS AND OUTFITS 
+ 
+       Item   No. of set  Remarks 
+ 
+Thermometer ( alcohol )  2 100℃ 
+Thermometer ( mercury )  1 500℃ 
+Parallel bench vice  1 150 ㎜ 
+Hand lantern  3 
+Shackle Each 2 ( total 8 ) 1, 2, 3, 5 T 
+Eye bolt Each 2 (total 8) M10, M12, M16, M20 
+Hexagon head bolt & nut Each 10 ( total 40 ) M10, M12, M16, M20 
+Plain washer Each 10 ( total 40 ) M10, M12, M16, M20 
+Split pin Each 10 ( total 30 ) 2×12 ㎜, 3.2×18 ㎜, 4×25 ㎜ 
+Tap & dies Each 1       Tap  M6, M8, M10, M12, M16, M20, M24 
+ Each 1       Dies M6, M8, M10, M12, M16, M20, M24 
+Steel tape measure  1 30 m 
+Scaffolding plate ( wood )  2 4000 ㎜×300 ㎜×50 ㎜ 
+Steel plate Each 2 ( total 4 ) 1.6 ㎜×914 ㎜×1829 ㎜ 
+   3.2 ㎜×914 ㎜×1829 ㎜ 
+Steel bar Each 2 ( total 8 ) φ9 ㎜, φ13 ㎜, φ16 ㎜, φ19 ㎜ 
+   Length : 2000 ㎜ 
+Surface plate  1   500 ㎜×500 ㎜ 
+Copper plate or brass plate  1   0.3 ㎜×365 ㎜×1200 ㎜ 
+Listening rod  2 
+Valve handle spanner  8 
+White board and eraser  3 450 ㎜×600 ㎜ 
+Hand hammer Each 1 ( total 2 ) 0.91 ㎏, 0.45 ㎏ 
+Steel wire  1 φ1 ㎜ ( 1 ㎏ ) 
+Tool cabinet (in the workshop)  2 
+ 
+ 
+The following machine tools are listed in the Subsection 1.2 MACHNERY PARTICULAR. 
+ 
+Lathe   1 Center distance 600 ㎜ 
+Drilling machine  1 φ21 ㎜ 
+Grinding machine  1 φ255×25t 
+Electric welder  2 300Amp 
+Chain block   1 / 2 / 3 3 ton / 1 ton / 0.5ton 
+Gas cutting machine  1 Oxygen B.×2, Acetylene B.×1 
+   Flame arrestor for Acetylene B. × 1 
+   Flame arrestor for Oxygen B. × 1 
+   Hose : Each 25m×3 
+ 
+ 
+
+

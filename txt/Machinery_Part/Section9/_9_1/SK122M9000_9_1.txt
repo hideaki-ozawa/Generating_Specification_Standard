@@ -1,0 +1,26 @@
+9.1  GENERAL .
+
+There shall be installed one fresh water generator, utilizing the waste heat in the jacket 
+water from the main engine.
+
+The fresh water generator shall produce fresh water of salinity not exceeding 10 P.P.M of 
+salt at abt. 90℃ main engine jacket water temperature and 32℃ cooling sea water 
+temperature. (Setting point of high salinity alarm shall be 5 P.P.M.).
+
+The distilling cycle shall be as follows:.
+
+Jacket water from the main engine cooling F.W. outlet shall be led to the evaporator. 
+Sea water branched from condenser cooling sea water outlet shall be led to the evaporator 
+and heated by the fresh water from the main engine cooling system.
+
+Sea water shall be evaporated in separator shell at a comparatively low temperature due to 
+the vacuum produced by means of the water ejector.
+
+The vapour shall be led into the condenser through the deflector and demister and then 
+condensed by the cooling sea water. 
+The brine, concentrated sea water, shall be constantly taken out from the evaporator and 
+discharged to over board.
+
+The ejector pump shall supply sea water to water ejector.  The distillate pump shall take 
+the fresh water produce from the condenser of the fresh water generator and transfer it to 
+the fresh water tank.

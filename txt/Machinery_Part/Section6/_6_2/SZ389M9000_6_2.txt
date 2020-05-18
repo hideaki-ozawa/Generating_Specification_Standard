@@ -1,0 +1,173 @@
+6.2  CENTRIFUGAL PUMP .
+
+Connection between pump shaft and motor shaft shall be of the pin and buffer type 
+flexible coupling or rigid coupling according to the Maker’s standard. 
+Pump casing except for horizontal pumps, specially constructed type pumps and small 
+vertical pumps shall be split or removed upward only so that the rotating members may be 
+overhauled for inspection or replacement without disturbing the pipe connections.
+
+The pumps which self-priming is necessary shall be provided with self-priming unit.
+
+The materials of main parts of centrifugal pumps shall be as follows:.
+
+Name Casing Impeller Shaft Shaft seal.
+
+Cool. S.W. pump.
+
+Bronze 
+(Epoxy paint).
+
+Stainless 
+steel.
+
+Stainless 
+steel.
+
+Gland 
+packing.
+
+Jacket 
+cool. F.W. pump.
+
+Cast iron.
+
+Phosphor 
+bronze.
+
+Stainless 
+steel.
+
+Mechanical 
+seal.
+
+Fire & G.S. pump 
+(Bilge & ballast pump).
+
+Bronze 
+Stainless 
+steel.
+
+Stainless 
+steel.
+
+Gland 
+packing.
+
+Ballast pump.
+
+Bronze 
+Stainless 
+steel.
+
+Stainless 
+steel.
+
+Gland 
+packing.
+
+Ref. machine 
+cool. S.W. pump.
+
+Bronze 
+Stainless 
+steel.
+
+Stainless 
+steel.
+
+Gland 
+packing.
+
+Name Casing Impeller Shaft Shaft seal.
+
+Drinking water pump.
+
+Cast iron.
+
+Phosphor 
+bronze.
+
+Stainless 
+steel.
+
+Gland 
+packing.
+
+Fresh water pump.
+
+Cast iron.
+
+Phosphor 
+bronze.
+
+Stainless 
+steel.
+
+Gland 
+packing.
+
+Hot water 
+circulating pump.
+
+Cast iron.
+
+Phosphor 
+bronze.
+
+Stainless 
+steel.
+
+Gland 
+packing.
+
+Boiler feed water pump.
+
+Cast iron.
+
+Phosphor 
+bronze.
+
+Stainless 
+steel.
+
+Gland 
+packing.
+
+Main air comp.   
+cooling F.W. pump.
+
+Cast iron.
+
+Phosphor 
+bronze.
+
+Stainless 
+steel.
+
+Gland 
+packing.
+
+The fittings and accessories shall be as follows:.
+
+ 1 － set of coupling bolt, nut and rubber ring, if fitted 
+ 1 － coupling cover for horizontal type pump, if fitted 
+ 1 － drain plug 
+ 1 － gauge board fitted with suction and discharge pressure gauges  
+ Each 1 － root cock or valve for pressure gauge 
+ 1 － air ejector, if fitted 
+ 1 － common bed for horizontal type pump, if fitted.
+
+Main lub. oil pump.
+
+The material of main L.O. pump shall be accordance with maker standard.
+
+The specified capacity and motor of main L.O. pump shall be designed on the following 
+viscosity.
+
+Name Capacity Motor output.
+
+Main lub. oil pump.
+
+26 cSt.
+
+260 cSt

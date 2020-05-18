@@ -1,0 +1,602 @@
+
+SECTION 2    HULL CONSTRUCTION 
+
+  
+2.1    GENERAL  
+2.1.1    Scantling and material  
+The hull shall be of welded construction and the scantlings of the structural members shall be in compliance with the requirements of the Classification Society for the Vessel which having the scantling draught of 13.40 m ( moulded ).  
+Scantlings  not  specified  by  the  Classification  Society  shall  be  in  accordance  with  the Builder’s practice.  
+Large sized steel plates may be used for the construction of hull as far as practicable to the Builder.  
+Structural  steel  of  hull  construction  shall  be  of  mild  steel  and/or  high  tensile  steel approved by the Classification Society, and steel including castings and forgings shall be of qualities complying with the requirements of the Classification Society.  
+Steel  materials  not  specified  by  the  Classification  Society  shall  be  in  accordance  with Japanese Industrial Standard ( JIS ) or equivalent standard or the Builder’s practice.  
+Any  special  strengthening  and  quality  of  material  exceeding  those  approved  by  the Classification  Society,  except  those  specially  noted  in  the  Specifications  and  the  Plans submitted to the Owner for approval, shall be applied on the Owner’s account, so long as the work will not disturb the Builder’s working schedule. 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 2 
+
+ 
+
+ 
+
+ (b)   Advance outfitting : 
+
+2.1.2    Construction practice  
+Works shall be executed under the survey of the Classification Society and in accordance with  the  Builder’s  current  construction  method  including  those  specially  mentioned hereunder.  
+(1)   Erection  
+
+(a)   Large sized assembly unit : 
+
+  Size  of  blocks  shall  be  as  large  as  practicable  within  the  limit  of  the  Builder’s facilities. 
+
+  Trunks,  pipes,  valves,  pumps,  motor  seats,  deck  fittings,  etc.  which  are  to  be fitted to the hull structure shall be fitted as far as practicable during subassembly with necessary precaution being taken for the protection of them from damage. 
+
+ Numerically  controlled  marking  and/or  Electro-photo-marking  and/or  Optical marking shall be generally applied for structural members according to the Builder’s practice.  
+Automatic  cutting  machines  shall  be  applied  for  a  part  of  hull  structural  members according to the Builder’s practice and marking shall not be executed in general. However, in some cases marking may be executed with hand. 
+
+ (2)   Marking 
+
+ (3)   Cutting 
+
+ Cutting  of  steel  structural  material  shall  be  executed  by  means  of  gas  cutting  and numerically controlled oxygen plasma jet cutting system. 
+
+(4)   Bending 
+
+ 
+
+ Bending of plates, bars and sections shall be executed by means of press, roller and line heating/water cooling as case may be. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 3 
+
+(5)  Welding 
+
+Electric  welding  shall  be  applied  extensively  for  the  connection  of  steel  structural members. 
+
+Welding  procedure  including  edge  preparation  and  welding  scheme  shall  be  in accordance  with  the  Builder’s  current  practice  which  has  been  approved  by  the Classification Society. 
+
+Manual welding shall be executed with coated electrode. Automatic and semi-automatic welding shall be executed by the following methods as the case may be, 
+
+                   Automatic welding                         Submerged arc welding                             each side welding                             one side welding                             including CO2 gas one side welding                         Electro-gas welding                         Electro-slag welding                         CO2 gas welding ( mechanical automatic welding )                   Semi-automatic welding                         Gravity welding                         CO2 gas welding                             one side welding                             fillet welding  
+
+Back chipping shall be carried out by arc air gouging where necessary. 
+
+Clamps, dogs and other suitable process of the Builder’s practice shall be applied for execution of welding. 
+
+Outstanding distortion of hull structure after fabrication due to welding shall be cured by means of cold press, line or spot heating/water cooling or hammering as the case may be in accordance with the Builder’s practice. 
+
+ (6)   Stress relieving 
+
+ Stress relieving of hull structure shall not be executed except cast parts of stern frame and rudder which shall be annealed before fabrication at the casting shop. 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H2 - 4 
+
+(7)  Miscellaneous 
+
+ Temporary access opening may be provided on shell, bulkheads, decks, walls, etc. for the  convenience  of  work  and  shall  be  closed  by  welding  under  the  approval  of  the Classification Society.  
+Eye plates or similar small pieces fitted to the hull structure for hoisting the structure, staging and so on may be left so long as they are not injurious against appearance and intended service of the Vessel.   
+
+2.1.3    Slot and hole  
+Slots, air holes, drain holes, scallops and lightening holes shall be provided in accordance with the Builder’s practice and under the approval of the Classification Society.  
+Longitudinal,  transverse  and  horizontal  stiffening  members  shall  have  air  holes  and/or drain holes in adequate position as far as the strength of these members are not adversely affected.  
+Drain holes in bottom longitudinal at the aftermost bay in double bottom tank around bell mouth shall have bigger area than usual.  
+Scallops shall be arranged where necessary for the execution of welding.  
+2.1.4    Local strengthening  
+Carling  or  suitable  stiffening  shall  be  provided,  if  necessary,  under  deck  machinery, bollards, boat davits, etc. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 5 
+
+2.2    MAIN HULL  
+2.2.1    General  
+Main hull consists of shell, upper deck, topside tank and double bottom.  
+Topside tank and double bottom shall be generally constructed with longitudinal framing system except double bottom in engine room and etc.  
+Longitudinally profiled steel plate may be used, if necessary.  
+2.2.2    Shell plating  
+Shell  shall  be  plated  with  the  thickness  approved  by  the  Classification  Society  and  the thickness  shall  be  tapered  from  midship  part  to  both  ends  in  compliance  with  the requirements of the Classification Society.  
+Stem throughout shall be of fair formed welded steel plate construction with bulbous form under water line and well raked forward with round face above water line.  
+Stem shall be provided with suitable breast hooks and shall be connected to shell and keel plating.  
+Shell plating in way of tug push marks shall be reinforced ( Pushing force 50 ton ).  
+Bottom  forward  strength  shall  be  decided  in  compliance  with  the  requirements  of  the Classification Society.  
+2.2.3    Deck plating  
+Upper deck shall be plated with the thickness approved by the Classification Society and the  thickness  shall  be  tapered  from  midship  part  to  both  ends  in  compliance  with  the requirements of the Classification Society.  
+Deck plating shall be increased in thickness or reinforced with outside doubling plate for opening where required by the Classification Society.  
+Cargo  hatch  openings  on  upper  deck  shall  have  well-round  corners  smooth  edges  for prevention from stress concentration.  
+Gunwale  connection  shall  be  of“T”connection  type  as  approved  by  the  Classification Society.  
+Lower decks and platforms except crown of tanks shall be non-tight construction. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 6 
+
+2.2.4    Bulkhead  
+Transverse bulkheads shall be arranged as shown on the General Arrangement.  
+Transverse  bulkheads  within  cargo  hold  compartments  shall  be  of  steel  welded  vertical corrugated type and shall be provided with upper and lower bulkhead stools.    
+Fore and aft bulkheads of No.3 cargo hold shall be designed as deep tank.  
+Engine  room  forward  and  peak  tank  bulkhead  shall  be  of  flat  plate  type  with  vertical stiffeners.  
+Other  bulkheads  shall  be  of  steel  welded  construction  of  flat  plate  type  and  shall  be  of watertight, oiltight, gastight or non-tight according to their respective character.  
+2.2.5    Frame, beam and stiffener    
+Frame, beam and stiffener shall be of slab, rolled section or built-up section.  
+Hold frames shall be transverse system.  
+Beams of upper deck shall be longitudinal system supported by deck transverse and those for the space between hatch opening shall be of transverse system.  
+Longitudinal  stiffeners  shall  pass  through  transverse  bulkhead  with  slot  which  shall  be closed with lapped plate by welding in accordance with the Builder’s practice.  
+2.2.6    Web construction, pillar and girder  
+In engine room, adequate web frames shall be provided in conjunction with  web  beams and pillars.  
+  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 7 
+
+2.2.7    Topside tank  
+Topside  tank  in  way  of  cargo  holds  shall  be  subdivided  into  tanks  as  shown  on  the General Arrangement.  
+Topside tank construction shall be generally longitudinal framing system with transverse web rings.  
+2.2.8    Double bottom  
+Double  bottom  under  cargo  holds  and  engine  room  shall  be  subdivided  into  tanks  and cofferdams as shown on the General Arrangement.  
+Double  bottom  with  bilge  hopper  in  way  of  cargo  holds  shall  be  longitudinal  framing system with transverse floor and gradually transferred into transverse framing system in engine room.  
+Transverse floor in engine room shall be extended at every frame space, and side girders shall be arranged to suit the seating for main engine.  
+Bilge well or hat shall be provided for proper drainage.  
+The  Vessel  shall  be  able  to  carry  steel  coil  on  each  cargo  hold  subject  to  following condition ; 
+
+Steel coil loading 
+
+  
+  
+
+  Size   Weight   Loading condition 
+
+ 
+
+:  1.5m  ×  1.5mφ :  15 t :  Two (2) tiers with four (4) lines of wooden 
+
+dunnages per one (1) coil 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 8 
+
+  
+ 
+
+2.2.9    Tank and chain locker  
+(1)   Peak tanks 
+
+  
+  
+(2)   Deep tanks 
+
+ (3)   Chain locker 
+
+ Fore peak tank shall be stiffened by longitudinal, web frame and side stringer. 
+
+Aft peak tank shall be stiffened by floor, stringer and center swash bulkhead. 
+
+ 
+
+ Boundary  bulkhead  and  top  plate  shall  be  made  oiltight  or  watertight  according  to their respective character and strengthened as required by the Classification Society. 
+
+ The Chain locker having ample capacity shall be arranged as shown on the General Arrangement.  
+
+  Manhole shall be provided on each chain locker for access from bos’n store.  
+ 
+
+A bilge well with perforated cover plate shall be provided at the bottom of each chain locker. 
+
+   Manhole shall be provided in fore peak tank for access to bilge well.  
+2.2.10    Stern frame  
+Stern frame shall be of“Mariner type”welded construction fabricated of steel plates and steel casting as mentioned below :  
+(1)   Neck bearing 
+
+ Neck bearing shall be of steel casting with phenol resin bush ( self lubricating type ). 
+
+ Gudgeon shall be of steel casting with phenol resin bush. 
+
+ Stern tube shall be of welded construction fabricated of steel plate and steel casting. ( refer to Fig. 2 - 1 STERN FRAME AND RUDDER ) 
+
+  
+(2)   Gudgeon 
+
+  
+(3)   Stern tube 
+
+  
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H2 - 9 
+
+2.2.11    Rudder  
+(1)   Rudder ( refer to Fig. 2 - 1 STERN FRAME AND RUDDER )  
+ 
+
+Rudder  shall  be  of  double  plated  hanging  type  forming  stream  line  section  in conjunction  with  mariner  type  stern  frame  and  shall  have  an  area  ratio  about  1/63 ( without rudder horn ) of an area of length between perpendiculars multiplied by the scantling draught. 
+
+Rudder shall be of welded construction fabricated of steel plates and two (2) pieces of upper and lower rudder castings. 
+
+Jumping  stopper  shall  be  provided  between  lower  rudder  casting  and  gudgeon  to prevent rudder from undue lifting. 
+
+Drain and air plug of stainless steel shall be fitted on top and bottom of rudder. 
+
+  
+ (2)   Rudder pintle  
+ 
+
+ (3)   Rudder stock  
+ 
+
+Pintle  shall  be  of  forged  steel  with  cast  stainless  steel  (  SCS13  )  or  stainless  steel ( SUS304 ) sleeve and shall be secured by forged steel nut to lower rudder casting. 
+
+Rudder  stock  shall  be  forged  steel  straight  type  with  key  way  at  the  top  to  take connection  with  the  steering  gear  and  tapered  lower  end  having  key  to  take connection with upper rudder casting by forged steel nut. 
+
+Bronze ( BC3 ) sleeve shall be provided on rudder stock in way of rudder bearer. 
+
+Cast stainless steel ( SCS13 ) or stainless steel ( SUS304 ) sleeve shall be provided on rudder stock in way of neck bearing. 
+
+Rudder trunk of steel welded construction shall be provided below steering gear flat. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+
+  
+
+  
+  
+
+  
+ 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 10 
+
+(4)   Rudder carrier and rudder bearer  
+
+A combined rudder carrier and rudder bearer shall be provided on steering gear flat to carry weight of the rudder.  
+The unit shall consist of carrier fixed to rudder stock and rudder bearer fixed to the hull which is arranged to receive the carrier.  
+Rudder carrier and rudder bearer shall be of steel casting.  
+Rudder carrier shall be of split type in halves.  
+Non-split type rudder bearer shall be provided with horizontal bronze ( BC3 ) bearing liner and vertical bronze ( BC2 ) bush in way of bearing surface with the carrier and the rudder stock respectively.  
+The horizontal bearing liner shall be provided with oil groove and lubricated by oil bath system.  
+The  vertical  bush  shall  be  provided  with  grease  groove  and  lubricated  by  grease supplied by grease hand pump.  
+Rudder stock seal shall be provided at the lowest part of rudder bearer for water/oil seal. 
+
+  
+ 
+
+ 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+     
+
+ 
+
+H2 - 11 
+
+Fig. 2 - 1 STERN FRAME & RUDDER 
+
+  
+ 
+
+RUDDER CARRIER
+
+RUDDER BEARER
+
+STEERING GEAR FLAT
+
+STOCK SEAL
+
+RUDDER TRUNK
+
+RUDDER HORN
+
+GUDGEON
+
+PINTLE
+
+STERN TUBE
+
+S.C.L.
+
+RUDDER STOCK
+
+NECK BEARING
+
+AIR PLUG
+
+UPPER RUDDER CASTING
+
+COVER PLATE
+
+REMOVABLE COVER PLATE
+
+LOWER RUDDER CASTING
+
+JUMPING STOPPER
+
+COVER PLATE
+
+AIR PLUG
+
+A.P.
+
+DRAIN PLUG
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+     
+
+ 
+
+H2 - 12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DECK 
+
+WALL 
+
+WALL 
+
+Stiffener on exposed wall from upper deck to A deck Stiffener on front wall from A deck to B deck Stiffener on engine casing Exposed beam Under beam of installed heavy machine Beam and stiffener of wet part ( sanitary space and battery room, etc. ) 
+
+2.3    SUPERSTRUCTURE AND DECK HOUSE  
+2.3.1    General  
+External steel wall shall be of the following constructions.  
+  
+            EDGES TO BE GROUND  
+  
+ Ordinary deck beam and wall stiffener of superstructure shall be carried out by one side welding except as follows.  
+  
+  
+  
+2.3.2    Deck  
+Decks  of  superstructure  and  deck  house  shall  be  of  steel  welded  plating  stiffened  with beams and girders.  
+The thickness of deck plating shall be in general 6 mm unless otherwise required by the Classification Society.  
+2.3.3    Steel wall  
+Steel wall of deck house including engine casing, shall be of welded steel construction.  
+The thickness of wall plating shall be in general 6 mm unless otherwise required by the Classification Society.  
+These steel wall shall be of corrugated type except front wall.  
+Steel  wall  shall  be  welded  to  the  other  structural  members  to  be  watertight,  gastight  or non-tight according to their respective character.  
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 13 
+
+2.4    MISCELLANEOUS  
+2.4.1    Foundation  
+Foundation  of  main  engine  shall  be  of  welded  steel  construction  in  conjunction  with double bottom structure of thicker bed plate, floors and girders.  
+Foundation  of  auxiliary  machinery,  deck  machinery,  etc.  shall  be  of  welded  steel construction with girders or carlings underneath if necessary.  
+Small tank may be fitted directly on base without foundation.  
+2.4.2    Bulwark and bow chock  
+Steel bulwark and bow chock shall be provided as shown on the General Arrangement.  
+A portion of front bulwark of about 1,100 mm high with wind deflector shall be fitted on navigation bridge deck.  
+Bow chock of about 1,050 mm high shall be fitted on the top of forward part of forecastle deck.  
+2.4.3    Bilge keel  
+Bilge keel of angle bar shall be provided for about 25% of the Vessel’s length amidships and shall be intermittent at block joint.  
+Bilge keel shall have 400 mm depth and welded to pad plate on the bilge shell.  
+The bilge keel shall be tapered into shell at both ends. 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 14 
+
+2.4.4    Manhole  
+Two  (2)  manholes  shall  be  provided  for  each  topside  tank  and  double  bottom  tank  in cargo hold, and one (1) manhole shall be provided for each double bottom in engine room, peak tank, cofferdam and the other small compartment.  
+Manhole for double bottom tank in cargo hold shall be of flush type.  
+Manhole for double bottom tank in engine room shall have 100 mm high coaming.  
+Manhole  covers  shall  be  fitted  with  synthetic  rubber  packings  and  fixed  with  stainless steel ( SUS304 ) bolt and mild steel nut.  
+But, as for manhole cover of exposed place and in cargo hold  ( including inside of lower stool ), they shall be fitted with brass nut.  
+Opening shall be generally 600 mm×400 mm.  
+2.4.5    Cargo hatch coaming  
+Cargo hatches shall be arranged as shown on the General Arrangement.  
+Coaming height shall be about 1,400 mm at the Vessel’s center line.  
+Hatch  coaming  shall  be  fitted  with  horizontal  stiffeners  near  the  coaming  top  and         stay at proper interval.  
+As for the cargo hatch cover, refer to SECTION 3    EQUIPMENT AND OUTFIT.  
+ 
+
+IMABARI SHIPBUILDING CO., LTD 
+
+  
+ 
+
+ 
+
+     
+
+ 
+
+H2 - 15e 
+
+2.4.6    Ladder and step  
+Two  (2)  steel  ladders  of  vertical  and  spiral  type  for  each  cargo  hold  shall  be  fitted  on transverse bulkhead.  
+Vertical ladders or steps shall be fitted for topside tanks, double bottom tanks and peak tanks.  
+
+Item 
+
+Width 
+
+Step 
+
+Side stringer 65 mm×9 mm steel flat bar 100 mm×75 mm ×10 mm steel angle bar 200 mm×10 mm steel bulb plate 
+
+Vertical hold ladder 
+
+350 mm 
+
+22 mm square bar 1 - rung 
+
+Spiral hold ladder Other vertical ladder Step 
+
+600 mm 
+
+- 
+
+350 mm 
+
+65 mm×9 mm   steel flat bar 
+
+- 
+
+22 mm square bar Inside of the tank 19 mm square bar 1 - rung Others 19 mm round bar 1 - rung 
+
+Hold  side  bulkhead  of  engine  room  and  collision  bulkhead  shall  be  fitted  with  vertical ladder having slant plates.  
+Permanent Means of Access in accordance with the requirements of Classification Society shall be provided.  

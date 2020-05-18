@@ -1,0 +1,19 @@
+13.1  GENERAL.
+
+The control and monitoring system specified in this specification shall be designed to 
+comply with the requirement of the Rule applicable, so as to operate the ship with 
+unattended machinery space for period of proper hours under all sailing condition 
+including maneuvering.
+
+There shall be provided an engine control room in the engine room.
+
+The main engine shall be remotely controlled from either bridge or engine control room.
+
+The control and monitoring equipment for propulsion plant and associated ship service 
+system shall be assembled and installed in the engine control room in order to obtain same 
+effect on the handling which could be done at normal control and local monitoring.
+
+Emergency running shall be also be able to do at local by means of control device of 
+necessary minimum number.
+
+As to communication equipment etc., refer to PART IV ELECTRIC PART.

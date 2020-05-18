@@ -1,0 +1,125 @@
+10.6  SEA WATER DISTRIBUTION CHART .
+
+ 1 COOL. S.W. PUMP.
+
+ 2 
+COOL. S.W. 
+PUMP 3.
+
+580 m3/h 
+   × 20 m.
+
+ 4.
+
+ 5.
+
+ 6.
+
+ 7.
+
+ 8.
+
+ 9.
+
+ 10.
+
+ 11.
+
+ 12.
+
+REF. MACH.  REF. MACH. C.S.W. PUMP 
+C.S.W. PUMP 
+  40 m3/h 
+     × 35 m 13.
+
+ 14.
+
+ 15.
+
+No.
+
+Flow quantity (m3/h)
+ Sea.
+
+going.
+
+ Port.
+
+in/out.
+
+ At.
+
+ port.
+
+Load-.
+
+ing.
+
+1 - - - -
+2 160 160 0 0
+3 00160 160.
+
+AIR COOLER.
+
+F.W. GENERATOR.
+
+C/R AIR CON.
+
+AUX. CONDENSER.
+
+M.G.P.S.
+
+MAIN L.O.
+
+COOLER 
+JACKET.
+
+C.F.W. CLR.
+
+4 - - - -
+5 33 0 0 0
+6 - - - -
+7 5 5 5 5
+8 40 40 40 40
+9 112 112 112 112.
+
+10 6 6 6 6
+11 5 5 5 5
+12 - - - -.
+
+AIR CON. MACH.
+
+PROV. REF. MACH.
+
+GALLEY AIR COND.
+
+No.
+
+Flow quantity (m3/h)
+ Sea.
+
+going.
+
+ Port.
+
+in/out.
+
+ At.
+
+ port.
+
+Load-.
+
+ing.
+
+13 21 21 21 21
+14 7 7 7 7
+15 7 7 7 7.
+
+sum 35 35 35 35.
+
+sum 521 488 168 168.
+
+D/G L.T. C.F.W. COOLER.
+
+M.G.O. C.F.W. COOLER

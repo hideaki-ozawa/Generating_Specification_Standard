@@ -1,0 +1,69 @@
+5.4    SEA TRIAL.  
+When the Vessel is substantially completed, the Vessel shall be subjected to the sea trial as described below, provided that minor items of work which, at the discretion of the Owner, may be left unfinished until the trial are over. ( No final docking of the Vessel shall be carried out. )  
+The sea trial shall be carried out by and at the expense of the Builder who is to provide all necessary material and services for the operation of the Vessel, during the sea trial and the Vessel's trip to and from the Builder's shipyard.  
+The sea trial shall be carried out in accordance with the sea trial schedule submitted by the Builder and approved by the Owner.  
+The sea trial shall be carried out on the Builder’s favourable draught and trim condition, under the weather condition which is deemed favourable enough by the judgement of the Builder.  
+During the sea trial, heavy fuel oil and diesel oil shall be used for main engine.  
+
+The test shall be made under the following machinery loads, and each test shall include one (1) consecutive run alternating in direction, one (1) up and one (1) down, over about one (1) mile on the measured test course. 
+  
+The trial consists of the following tests.  
+ 
+(1)  Progressive speed test.
+
+The Vessel's speed shall be measured by using “Differential Global Positioning  System ( DGPS )”.
+Machinery load  :  1/2 load of maximum output   3/4 load of maximum output   Normal output   Maximum revolution ( Revolution corresponding to maximum output or revolution   permitted by the engine manufacturer, whichever is less ) .
+ 
+ 
+(2)  Endurance test.  
+The endurance test shall be carried out at maximum revolution for one (1) hour including above progressive speed test run at maximum revolution. 
+  
+(3)  Maneuvering test.  
+   
+The following tests shall be carried out to check maneuverability of the Vessel. 
+
+(a)  Crash stop astern and ahead test. Revolution of main engine :  From ahead maximum revolution to astern revolution corresponding to about 70% of ahead maximum revolution and then to ahead normal revolution.  
+ 
+(b)  Turning test of 360 degrees with helm angle of 35 degrees port and starboard. 
+Revolution of main engine:  At ahead maximum revolution. 
+(c)  Zig-zag (Z) test of helm angle/heading angle ( 10゜/10゜and 20゜/20゜). 
+
+ 
+Revolution of main engine :  At ahead normal revolution. 
+
+(4)  Other test at sea.
+The following tests shall be conducted. 
+
+(a)  Steering gear test according to the requirement of the Classification Society. 
+
+(b)  Anchor windlass test ( refer to page H1 – 5e ). 
+
+(c)  Adjustment of navigation equipment and instrument such as magnetic compass,  
+
+etc.. 
+
+(d)  Starting test of main engine. 
+
+(e)  Minimum revolution test of main engine. 
+
+(f)  Emergency trip test of main engine. 
+
+(g)  Torsional vibration measurement for propeller shafting. 
+
+(h)  M0 demonstration test.  
+
+(i)  Ahead test for main engine (Full astern to Full ahead). 
+
+
+Fuel oil consumption of main engine shall be measured for reference. 
+
+(5)  Maneuvering data.  
+
+During the sea trial, maneuvering data including aforementioned item (3) shall be obtained for drawing up the “MANEUVERING INFORMATION” which is required by the US rules as follows,  
+
+CFR 33    PART 164.35. Equipment : All vessels ; item (g) in the rule book. 
+
+
+
+
+

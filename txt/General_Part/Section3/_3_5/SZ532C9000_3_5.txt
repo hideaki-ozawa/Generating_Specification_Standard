@@ -1,0 +1,17 @@
+3.5    MAIN ENGINE AND PROPELLER.
+  
+Main engine     :  MAN B&W 6S50ME-B9.3 ( Japanese make ) 1 set. 
+
+Maximum  continuous  rating  7,560 kW  x  99.0 min-1 .
+
+Normal output rating  6,425 kW  x  93.8 min-1 ( 85% M.C.R. ). 
+  
+Part-load optimize with exhaust gas bypass shall be applied.
+  
+Propeller  :  Solid type, Nickel Aluminium Bronze casting 1 set.
+ 
+Neither spare propeller nor spare propeller shaft shall be provided.
+  
+As for detail Specifications for the above-mentioned items and other machineries in engine room, refer to III- MACHINERY PART. 
+
+

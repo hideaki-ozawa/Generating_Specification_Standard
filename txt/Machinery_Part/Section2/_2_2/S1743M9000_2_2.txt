@@ -1,0 +1,328 @@
+2.2  CONSTRUCTION AND MATERIAL .
+
+The materials and dimensions for diesel engine and its equipment shall be in accordance 
+with Japanese Industrial Standard ( JIS ) and Maker’s standard.
+
+2.2.1  Bedplate and main bearing.
+
+The bedplate consists of high, welded, longitudinal girders and welded cross girders with 
+bearing supports. 
+For fitting to the engine seating, long, elastic holding down bolts tightened by hydraulic tools 
+are to be used. 
+The oil pan, which is integrated in the bedplate, collects the return oil from the forced 
+lubricating and cooling oil system.
+
+The main bearings consist of Tin-aluminium shells. The bottom shell can, by means of 
+special tools and hydraulic tools for lifting the crankshaft, be rotated out and in. The shells 
+are kept in position by a bearing cap and are fixed by long elastic studs, with nuts tightened 
+by hydraulic tools.
+
+2.2.2  Frame box.
+
+The frame box is of welded design. On the exhaust side, it is provided with a relief valve for 
+each cylinder while, on the camshaft side, it is provided with a large door for each cylinder. 
+The crosshead guides are welded to the frame box. 
+For each cylinder, a slotted pipe for collecting part of the cooling oil outlet from the piston 
+is bolted into the frame box. 
+The frame box, bedplate and cylinder frame are tightened by twin stay bolts. The stay bolts 
+are tightened hydraulically with use of jacks.
+
+2.2.3  Cylinder frame, cylinder liner and stuffing box.
+
+The cylinder frame unit is of welded type or cast iron (depending on production facility) 
+with integrated camshaft frame. Together with the cylinder liner, they form the scavenge air 
+space. At the chain drive, the upper part of the chain wheel frame is fitted. On the camshaft 
+side of the engine, the cylinder frame units are provided with covers for cleaning the 
+scavenge air space and for inspection of the scavenge ports and piston rings. 
+The gallery brackets are bolted onto the cylinder frame. Furthermore, the outer part of the 
+telescopic pipe is fitted for the supply of piston cooling oil.
+
+A piston rod stuffing box for each cylinder unit is fitted at the bottom of the cylinder frame. 
+The stuffing box is provided with sealing rings for scavenge air, and with oil scraper rings to 
+prevent oil from entering the scavenge air space.
+
+The cylinder liner is made of boron cast iron alloy. The cylinder liner is bore cool type. The 
+cylinder liner has scavenge ports and drilled holes for cylinder lubrication.
+
+2.2.4  Cylinder cover.
+
+The cylinder cover is of cast or forged steel (depending on production facility), made in one 
+piece, and has bores for cooling water. It has a central bore for the exhaust valve and bores 
+for fuel valves, safety valve, starting valve and indicator valve. 
+The cylinder cover is tightened to the cylinder frame with studs and nuts by hydraulic jacks.
+
+2.2.5  Crankshaft.
+
+The crankshaft is of the semi-built type, made of forged steel throws. 
+The crankshaft is built integral with the thrust shaft and is, on the aft end, provided with a 
+flange for the turning wheel and for coupling to the intermediate shaft. At the fore end, the 
+crankshaft can be provided, if needed, with a flange for a counterweights and/or a tuning 
+wheel with additional price.
+
+2.2.6  Axial vibration damper.
+
+The engine is fitted with an axial vibration damper, which is mounted on the fore end of the 
+crankshaft. 
+The damper consists of a piston and a split-type housing located forward of the foremost 
+main bearing. The piston is made as an integral collar on the main journal, and the housing 
+is fixed to the main bearing support.
+
+2.2.7  Thrust bearing.
+
+The thrust bearing is of the B&W-Michell type, and consists of a thrust collar on the 
+crankshaft, a bearing support, and segments with white metal. 
+The propeller thrust is transferred through the thrust collar, the segments, and the bedplate 
+to engine seating and end chocks. 
+The thrust bearing is lubricated by the engine's main lubricating oil system.
+
+2.2.8  Connecting rod.
+
+The connecting rod is made of cast or forged steel (depending on production facility) and 
+provided with bearing caps for the crosshead and crankpin bearings. 
+The crosshead and crankpin bearing caps are secured to the connecting rod by studs and nuts 
+which are tightened by hydraulic jacks. 
+The crosshead bearing consists of a set of Tin-aluminium shells. The crosshead bearing cap 
+has an angular cut-out for the piston rod. 
+The crankpin bearing consists of Tin-aluminium shells. 
+Lubricating oil is supplied through ducts in the crosshead and connecting rod.
+
+2.2.9  Piston, piston rod and crosshead.
+
+The piston consists of piston crown and piston skirt. The piston crown is made of heat-
+resistant steel and has four ring grooves which are hard-chrome plated on both the upper and 
+lower surfaces of the grooves. The piston skirt is of cast iron and provided with bronze 
+bands.
+
+The piston rod is of forged steel and is surface-hardened on the running surface for the 
+stuffing box. The piston rod is connected to the crosshead with four screws. The piston rod 
+has a central bore which, in conjunction with a cooling oil pipe, forms inlet and outlet for 
+cooling oil.
+
+The crosshead is of forged steel and is provided with guide shoes with white metal on the 
+running surface. 
+The telescopic pipe for oil inlet and the pipe for oil outlet are mounted on the top of the 
+guide shoes.
+
+2.2.10  Exhaust valve and valve gear.
+
+The exhaust valve consists of a housing with gas channel and spindle guide. The housing is 
+water cooled and made of cast iron. Between the cylinder cover and the housing, there is a 
+bottom piece. 
+The bottom piece is water cooled on its outer surface. 
+The valve spindle is of heat resistant steel with “hard metal” welded onto the seat, and is 
+provided with small vane wheel on which the exhaust gas acts during operation, thus 
+making spindle rotate slightly.
+
+The hydraulic system consists of an actuator, activated by a cam on the camshaft, a high-
+pressure pipe, and an oil cylinder for the exhaust valve spindle, mounted on top of the 
+housing. The hydraulic system opens the exhaust valve, while the closing force is provided 
+by an air spring. The closing of the exhaust valve is damped by means of an oil cushion on 
+top of the spindle. 
+The exhaust valve close timing is controlled by not only the cam but also the electronic 
+valve (ELFI-V valve), which is electronically controlled by the Cylinder Control Units of 
+Engine Control System.
+
+ 2.2.11  Fuel valve, starting air valve, and indicator valve.
+
+Each cylinder cover is equipped with two fuel valves, one starting valve and one indicator 
+valve. The opening of the fuel valve is controlled by the fuel oil high pressure created by the 
+fuel pumps, and the valve is closed by a spring. 
+The fuel valves are equipped with a slide and circulating bore, to ensure an adequate flow of 
+heated oil through the fuel pump housing and fuel valves at all loads including stopped 
+engine. By means of the “built-in” circulation of preheated fuel oil, the fuel pumps and fuel 
+valves can be maintained at service temperature, also while the engine is stopped. 
+Consequently, it is not necessary to change to diesel oil when entering harbour, provided 
+that the circulating pump is kept running and preheating of the circulated fuel oil is 
+maintained.
+
+The starting valve is opened by control air from the starting air distributor and closed by a 
+spring.
+
+The engine is fitted with an indicator valve to which the PMI pressure transducer can be 
+connected.
+
+2.2.12  Fuel oil pressure booster and fuel oil high pressure pipe.
+
+The engine is provided with one hydraulically activated fuel oil pressure booster for each 
+cylinder. The fuel oil pressure booster consists of a pump housing, a hydraulic piston and 
+plunger. In order to prevent fuel oil from being mixed with the servo oil, the fuel oil pressure 
+booster is provided with a sealing device. 
+The fuel oil injection is controlled by electronic valve (ELFI-V valve), which is electronically 
+controlled by the Cylinder Control Units of Engine Control System.
+
+The fuel oil high-pressure pipes are equipped with protective hoses and are neither heated nor 
+insulated.
+
+2.2.13  Hydraulic Cylinder Unit (HCU).
+
+The HCU consists of a base plate on which a distributor block is mounted. 
+The distributor block is fitted with one accumulator to ensure that the necessary 
+hydraulic oil peak flow is available for the electronic fuel injection. 
+The distributor block serves as a mechanical support for the hydraulically activated 
+fuel oil pressure booster and Alpha lubricator.
+
+There is one HCU per two cylinders. The HCU is equipped with two fuel oil pressure 
+boosters, two ELFI-V valves and two Alpha Lubricators. Thereby, one HCU is operating 
+two cylinders.
+
+2.2.14  Hydraulic Power Supply (HPS).
+
+The HPS is installed in the front end of the engine. The HPS is electrically driven and 
+consists of two electric motors each driving a hydraulic pump.
+
+The pressure for the hydraulic oil is approx. 30.0 MPa. Each of the pumps has a capacity 
+corresponding to min. 55% of the engine power. In case of malfunction of one of the pumps, 
+it is still possible to operate the engine with 55% engine power corresponding to 85% speed.
+
+2.2.15  Camshaft and cams.
+
+The camshaft is made in one or two pieces depending on the number of cylinders, with 
+exhaust cams shrunk onto the shaft. The exhaust cams are of a hardened roller face. They 
+can be adjusted hydraulically.
+
+2.2.16  Chain drive.
+
+The chain drive is integrated with the thrust bearing in the aft end of the engine. The 
+camshaft is driven from the crankshaft by chain drive. The chain drive is provided with 
+chain tightener. The long free lengths of chain are supported by guidebars. 
+The starting air distributor is driven by the camshaft.
+
+2.2.17  Reversing.
+
+Reversing of the engine is performed electronically and pneumatically, by changing the 
+timing of the Fuel Injection and the starting air valves. 
+The exhaust gear is not reversible.
+
+2.2.18  Engine manoeuvring system.
+
+The engine is provided with an electric-pneumatic manoeuvring system. The system 
+transmits orders from the manoeuvring console to the engine. 
+The regulating system makes it possible to start, stop and reverse the engine and to control 
+the engine. The speed control dial on the manoeuvring console gives a speed-setting signal 
+to the Engine Control System.
+
+2.2.19  Main Operating Panel (MOP).
+
+In the engine control room a MOP is located, which is a Personal Computer (PC) with a 
+touch screen as well as a trackball from where the operator can carry out engine commands, 
+adjust the engine parameters, select the running modes, and observe the status of the control 
+system.
+
+2.2.20  Engine Side Console (ESC).
+
+In normal operating the engine is controlled from engine control room. 
+Alternatively, the ESC can be activated. This redundant control is to be considered as a 
+substitute for the previous engine side control console mounted directly onto the MC engine. 
+The ESC is place on the engine. 
+From the ESC, the basic functions are available, such as starting, engine speed control, 
+stopping, reversing, and the most important engine data are displayed.
+
+2.2.21  Governor system.
+
+The governor functions equivalents to the conventional governor system are included in the 
+Engine Control System.
+
+2.2.22  Starting air system.
+
+The starting air system comprises a main starting valve, a non-return valve, a bursting disc 
+for the branch pipe to each cylinder, a starting air distributor, and starting valves on each 
+cylinder. The main starting valve is connected with the main manoeuvring system, which 
+controls the start of the engine. 
+The starting air distributor regulates the supply of control air to the starting valves so that 
+they supply the engine cylinders with starting air in the correct firing order.
+
+2.2.23  Scavenging air system.
+
+The air intake to the turbocharger takes place direct from the engine room through the intake 
+silencer of the turbocharger. From the turbocharger, the air is led via the charging air pipe, 
+air cooler and scavenging air receiver to the scavenging ports of the cylinder liners. The 
+charging air pipe between turbocharger and air cooler is provided with a compensator and is 
+heat insulated on the outside.
+
+2.2.24  Exhaust turbocharger and air cooler.
+
+The engine is fitted with turbocharger arranged on the side of the engine. 
+The turbine side is provided with cleaning device.
+
+The engine is fitted with air cooler mono-block type so arranged for easy cleaning with 
+chemicals at the engine standstill. The air cooler consists of tube plates of rolled brass, 
+cooling tubes with cuprous fins and cast iron covers coated with resin. 
+After the air cooler, a water mist catcher is mounted.
+
+2.2.25  Auxiliary blower.
+
+The engine is provided with two electrically-driven auxiliary blowers. The suction sides of the 
+blowers is connected to the scavenge air space after the air cooler. 
+Between the air cooler and the scavenge air receiver, flap valves are fitted with automatically 
+close when the auxiliary blowers supply the air. 
+Both auxiliary blowers will start operating before the engine is started and will ensure 
+sufficient scavenge air pressure to obtain a safe start. 
+During operation of the engine, both auxiliary blowers will start automatically each time the 
+engine load is reduced to about 30–40%, and they will continue operating until the load again 
+exceeds approximately 40–50%. 
+In cases where one of the auxiliary blowers is out of service, the other auxiliary blower will 
+automatically compensate without any manual readjustment of the valves, thus avoiding any 
+engine load reduction. This is achieved by the automatically working non-return valves in the 
+suction pipe of the blowers.
+
+2.2.26  Exhaust gas system.
+
+From the exhaust valves, the gas is led to the exhaust gas receiver where the fluctuating 
+pressure from the individual cylinders is equalised, and the total volume of gas led further 
+on to the turbochargers at a constant pressure. After the turbocharger, the gas is led to the 
+exhaust pipe system. 
+Compensators are fitted between the exhaust valves and the receiver, and between the 
+receiver and the turbocharger. 
+The exhaust gas receiver and exhaust pipes are provided with insulation, covered by 
+galvanised steel plating.
+
+2.2.27  Turning wheel and turning gear.
+
+The turning wheel has cylindrical teeth and is fitted to the thrust shaft. The turning wheel is 
+driven by a pinion on the terminal shaft of the turning gear, which is mounted on the 
+bedplate. 
+The turning gear is driven by an electric motor with built-in gear and brake. The turning 
+gear is equipped with a blocking device that prevents the main engine from starting when 
+the turning gear is engaged. Engagement and disengagement of the turning gear is effected 
+manually by an axial movement of the pinion.
+
+2.2.28  Gallery arrangement.
+
+The engine is provided with gallery brackets, stanchions, railing and platforms (exclusive of 
+ladders). The brackets are placed at such a height that the best possible overhauling and 
+inspection conditions are achieved. Some main pipes of the engine are suspended from the 
+gallery brackets.
+
+2.2.29  Cylinder lubricators  (Alpha Lubricator System; ALS).
+
+The cylinder lubricator units, one per engine cylinders, are mounted. The oil is led to the 
+lubricator unit, through a pipe system from an elevated tank (Shipbuilder’s supply). 
+The ALS is electronically controlled by the Cylinder Control Units of Engine Control System.
+
+The setting of Alpha lubricator system can be performed by MOP.
+
+2.2.30  Piping arrangements.
+
+The lubricating oil, cylinder cooling fresh water and air coolers are cooled by means of sea 
+water. The pipes for the lubricating oil system and for the fresh water on the engine are of steel, 
+the sea water pipes are of galvanized steel.
+
+a) Forced lubrication and oil cooling:.
+
+The main forced lubrication is led to each main bearing through branches from the main 
+lubrication pipe located along the engine. Cooling oil is led to the telescopic pipe through 
+branches from the cooling oil main pipe located along the cooling jackets on the exhaust 
+side of the engine, through which the oil is led to the crossheads. From there, some of the oil 
+is branched off for lubrication of the crosshead shoes and crosshead bearings and is led 
+through the bored connecting rod to the crank bearing.  
+Some of the oil is led through a pipe in the bore of the piston rod for cooling of the piston. 
+The oil returns from here through the piston rod and let out through a duct in the crosshead. 
+The camshaft bearing lubricating oil and the exhaust valve driving gear oil are supplied 
+from cooling oil system.
+
+b) Cooling water system: 
+Cylinders and exhaust valves are fresh water cooled. 
+The fresh water is led from the main piping along the engine through branches to the each 
+cylinder liner. The fresh water is led from the cylinder liner up through the cylinder cover 
+and exhaust valve housing and from there to a manifold through which it is carried back to 
+the fresh water cooler.

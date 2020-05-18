@@ -1,0 +1,212 @@
+SECTION 1    HULL GENERAL 
+
+  
+1.1    HULL FORM  
+The Vessel's lines and propeller shall be determined by the Builder in view of sea going characteristics.  
+Bulbous bow shall be provided at the stem under water to improve the resistance characteristics.  
+Estimated power curves shall be submitted to the Owner prior to the official sea trial.  
+ 1.2    DECK HEIGHT, ETC.  
+(a)  Deck height (at center line) :  
+  
+  
+  
+  
+  
+(b)  Sheer :  
+ 
+
+ Upper deck to A deck  
+A deck to B deck  
+B deck to C deck C deck to D deck  
+D deck to Navigation bridge deck Navigation bridge deck to Compass deck  
+
+Upper deck to Forecastle deck  
+
+Nil on center line ( Due to camber only ) 
+
+( at F.P. ) ( at Fr. No. 228 ) 
+
+On upper deck 
+
+; 
+
+ 
+
+3.000  m 2.800  m 
+
+3.000  m 2.700  m 2.700  m 2.700  m 2.700  m 2.600  m
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD
+
+  
+  
+
+H1 - 2 
+
+ 
+
+;  Nil 
+
+;  Nil 
+
+On exposed decks 
+
+;  7.5/1000 (Slope ratio) 
+
+On decks below upper deck 
+
+On upper deck  
+
+On other decks above upper deck 
+
+On forecastle deck  
+
+In accommodation house (incl. engine casing top) 
+
+;  Straight camber with flat top of 4.00 m breadth,   0.30 m for 32.24 m breadth moulded 
+
+;  Straight camber with flat top of 4.00 m breadth,   0.30 m for 32.24 m breadth moulded 
+
+(c)  Deck camber :  
+  
+  
+  
+  
+  
+  
+  
+  
+ 1.3    FREEBOARD  
+The Vessel shall be designed to meet the requirement of International Convention on Load Lines, 1966 for type  “B”  ship.  
+The freeboard marks without timber freeboard marks will be positioned at the level corresponding to the assigned draught after approved by the Classification Society on behalf of the registered country.  
+ 1.4    TRIM AND STABILITY  
+The Vessel shall be designed to be afloat approximately on an even keel or slightly trim by the stern when loaded to the designed loaded draught with cargo, proper amount of bunker, crew stores, fresh water and water ballast aboard, in departure condition.  
+Preliminary trim and stability calculation sheets shall be submitted to the Owner to demonstrate that the Vessel will have suitable trim in normal service conditions.  
+The Vessel shall have positive metacentric heights under usual service conditions.  
+Loading conditions shall be designed as follows; 
+
+ 
+
+IMABARI SHIPBUILDING CO., LTD
+
+  
+  
+
+H1 - 3 
+
+ 
+
+(1) Ore alternated loading 
+
+Slack loaded cargo holds :  Nos. 1, 3 and 5 cargo holds Empty cargo holds Cargo Density Bunker Draught 
+
+:  Nos. 2 and 4 cargo holds :  3.0 t/m3 :  Half bunker ( 45% consumption ) :  Not more than assigned draught 
+
+Stowage factor Bunker Draught 
+
+  
+  
+  
+ (2) Homogeneous loading  
+  
+  
+ (3) Cement alternated loading    
+  
+  
+  
+ (4) Two (2) ports loading/unloading   
+
+:  about 46 CF/LT :  Half bunker ( 45% consumption ) :  Not more than assigned draught 
+
+Slack loaded cargo holds :  Nos. 1, 3 and 5 cargo holds Empty cargo holds Stowage factor Bunker Draught 
+
+:  Nos. 2 and 4 cargo holds :  26 CF/LT :  Half bunker ( 45% consumption ) :  Not more than assigned draught 
+
+  
+  
+
+Full loaded cargo hold Empty cargo hold Stowage factor Bunker 
+
+:  Nos.1, 3 and 5 cargo hold or Nos.2 and 4 cargo hold :  Nos.2 and 4 cargo hold or Nos.1, 3 and 5 cargo hold :  Homogeneous cargo on assigned draught :  Half bunker ( 45% consumption ) 
+
+(5) Grain cargo loading  
+  
+ 
+
+Stowage factor Bunker Draught 
+
+:  42 CF/LT  ～  65 CF/LT :  Half bunker ( 45% consumption ) :  Not more than assigned draught 
+
+As regards the description of hot steel coil loading, refer to Subsection 2.2.8  DOUBLE BOTTOM.  
+
+IMABARI SHIPBUILDING CO., LTD
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+  
+  
+
+H1 - 4 
+
+ 
+
+1.5    CONSTRUCTION TEST  
+Tight test for the hull structure in way of tank and watertight compartments in main hull shall be carried out by air in general, using a detective reagent on the building berth in accordance with the requirement of the Classification Society and the Builder's practice.  
+Hydrostatic test by sea water shall be carried out after launching as required by the Classification Society.  
+Tight test for rudder, non built-in tanks, etc. shall be carried out as required by the Classification Society or according to the Builder's practice.  
+Weathertight work shall be hose tested with water jet at the pressure specified by the Classification Society and/or the Builder's practice.  
+Radiographic or ultrasonic examination for welding shall be carried out in accordance with the Builder's practice under the approval of the Classification Society.  
+ 1.6    EQUIPMENT TEST  
+1.6.1    Shop test  
+Major equipment, such as deck machinery, refrigerating plant, etc. shall be tested according to the manufacturer's usual practice by using available facilities in the manufacturer's shop.  
+In general, these tests shall be carried out by the manufacturers on their responsibility without attendance of the Owner's supervisor and/or the Builder's inspector unless the Owner's supervisor request to attend such test.  
+Notice of approximate date of shop test shall be given to the Owner's supervisor two (2) weeks in advance and accurate date one (1) week in advance. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+ 
+
+ 
+
+  
+  
+
+H1 - 5e 
+
+ 
+
+1.6.2    Onboard test  
+Anchor windlass test shall be carried out during sea trial. The test shall consist of hoisting/dropping operation test and brake test which shall comply with the requirements of the Classification Society. Dropping operation test shall be conducted so that anchor shall be lowered gradually from the housing position to water level, then immediately dropped into water.  
+Steering gear test shall be carried out during sea trial. The test shall be conducted at maximum revolution of main engine in compliance with the requirements of the Classification Society.  
+Air conditioning tests shall be carried out, but cooling test in winter season and heating test in summer season may be omitted.  
+Cooling test of refrigerating plant for refrigerating provisions chamber shall be carried out. The compartments are cooled down to the specified temperature and then the refrigerating machine shall be stopped for six (6) hours to check the effectiveness of insulation.  
+Piping shall be tested under working conditions after installation.  
+Hydrostatic test for piping systems shall be carried out as required by the Classification Society.  
+ Operation test or demonstration test shall be carried out for the following items to check and examine their satisfactory running.  
+  
+  
+  
+
+:  Deck crane, Windlass, mooring winch, emergency  
+
+:  Lifeboat davits, davit for rescue boat,  
+
+Equipment and outfitting  
+
+Deck machinery  
+
+fire pump, provision crane, etc. 
+
+accommodation ladder, etc. 
+
+ 

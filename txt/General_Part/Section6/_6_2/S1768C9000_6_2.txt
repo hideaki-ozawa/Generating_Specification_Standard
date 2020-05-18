@@ -1,0 +1,40 @@
+6.2    DEADWEIGHT. 
+
+The Builder shall guarantee that the deadweight of the Vessel upon completion is not less than the specified figure in sea water of specific gravity of 1.025 on the draught specified above. 
+
+“Deadweight” is the difference between the fully loaded displacement and the light weight. 
+
+“Fully loaded displacement” is the total displacement at the draught specified above in sea water including shell and all appendages and shall be determined from the relation between draught and displacement, under the conditions of no trim, no heel and no deflection of the Vessel. 
+
+“Light weight” is the weight of the Vessel completed, and shall consist of weights of hull, machinery and electric parts, including all equipment and fittings required by the rules, regulations and these Specifications, and shall be determined by the light weight measurement described in SUBSECTION 5.5 LIGHT WEIGHT MEASUREMENT AND INCLINING TEST. 
+
+The guaranteed figure of the deadweight shall be adjusted due to any alteration by the Owner's requirement beyond the scope of the original specifications described herein. 
+
+The deadweight shall include the following weights besides the cargo weight. 
+
+(1)  Fuel oil, diesel oil, lubricating oil and water in tanks, pipes and machinery except those included in light weight as noted below.
+
+(2)  Men and their effects onboard. 
+
+(3)  All consumable stores, chandlery, charts and books, cook's and steward's utensils, napery, blankets, covers, etc..
+
+(4)  Spare parts in addition to those required by the rules and regulations. 
+
+(5)  Owner furnished equipment, if any, in addition to those required by the rules and  regulations. 
+
+(6)  Four (4) sets of grab buckets. 
+
+The light weight shall consist of the followings. 
+
+Other items and details not shown hereunder shall follow the standard scope of light weight established by the Society of Naval Architects of Japan. 
+
+(1)  Weight of hull, machinery and electric part including all equipment and fittings required by the rules, regulations and these Specifications, but not including the  
+ above-mentioned items belonging to the deadweight.
+
+(2)  Water and oil in main machineries and pipes directly related to the main propulsion system as enumerated under. 
+
+(a)  Lubricating oil in main engine, main generator engines, lubricating oil coolers for main and generator engines and circulating piping from sump tank to each engine. 
+
+(b)  Sea water in air cooler for main and generator engines, fresh water coolers for main and generator engines and circulating piping from sea chests to overboard. 
+
+(c)  Fresh water in main engine, generator engines, fresh water coolers for main and  generator engines and closed circulating piping from cooling fresh water pump to each engine. 

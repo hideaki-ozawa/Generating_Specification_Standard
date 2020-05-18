@@ -1,0 +1,53 @@
+12.10  VENTILATION FOR ENGINE ROOM .
+
+Mechanical supply ventilating system shall be provided for the engine room.  The fresh 
+air for each ventilating fan shall be taken from separate ventilating air inlets and shall be 
+distributed to the engine room through ducts.
+
+Total supply capacity of ventilating fans shall be determined based on the amount of air 
+consumed by the main engine running at maximum output, taking the air consumption of 
+diesel generator engine.
+
+As to detail of ventilating fan, refer to Subsection 7.5 ENGINE ROOM VENTILATING 
+FAN.
+
+ M12 - 8e.
+
+12.11  FIRE FIGHTING SYSTEM IN ENGINE ROOM.
+
+The ship shall be provided with fire fighting system in accordance with the rule 
+requirement.
+
+There shall be provided two (2) fire pumps ( Bilge & ballast pump and Fire & G.S. 
+pump ), fire valve and hose the suitable place in engine room.
+
+Portable foam fire extinguisher and removal foam fire extinguisher etc. shall be provided 
+in accordance with the rule requirement. 
+Details of fire fighting system, refer to PART II HULL PART.
+
+Fixed water-based local fire fighting system shall be provided in accordance with the rule 
+requirement.
+
+The emergency stop switch shall be provided outside of engine room.  Details of the  
+emergency stop switch, refer to PART IV ELECTRIC PART.
+
+The emergency shut off valve device shall be provided outside engine room for fuel oil 
+and lub. oil tanks which air described on Subsection 12.8 TANK IN ENGINE ROOM.
+
+12.12  INCINERATOR.
+
+There shall be installed one (1) set of waste oil incinerator for dispose of sludge and waste 
+oil. 
+The construction, materials and accessories shall be in accordance with Maker’s standard.
+
+12.13  NAME PLATE AND CAUTION PLATE.
+
+Name plate for machinery shall be in English and in SI unit.
+
+Caution plate for machinery shall be in English and Japanese. 
+In principle, name plate written in English shall be fitted to each valve which nominal 
+diameter 15A and above.
+
+Tanks in engine room shall be fitted with name plate.
+
+ M13 - 1

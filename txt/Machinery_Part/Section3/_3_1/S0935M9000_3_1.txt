@@ -1,0 +1,8 @@
+3.1  GENERAL .
+
+The entire rotating system including main engine, shafting and propeller shall be designed 
+so that the serious torsional vibration requiring barred range shall not occur between 85% 
+and 100% of revolution corresponding to the maximum rating of main engine.
+
+The calculation sheets regarding the torsional vibration shall be submitted to the Owner 
+and the Classification Society for approval.

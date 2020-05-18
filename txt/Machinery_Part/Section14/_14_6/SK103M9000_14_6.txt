@@ -1,0 +1,78 @@
+14.6  PUMP .
+
+(1) Centrifugal pump ( for each size of pump ).
+
+For Cooling S.W. pump (2 sets) and Jacket cooling F.W. pump (2 sets).
+
+Impeller shaft 1 set 
+Ball bearing ( if fitted ) 1 set 
+Casing ring 1 set 
+Gland packing 1 set 
+Coupling bolt and nut ( if fitted )  1 set.
+
+For Fire & G.S. pump and Bilge & ballast pump.
+
+Ball bearing ( if fitted ) 1 set 
+Casing ring 1 set 
+Gland packing  1 set 
+Coupling bolt and nut ( if fitted )  1 set.
+
+For Fresh water pump & Drinking water pump (2 sets), Ref. machine C.S.W. pump  
+(1 set), Boiler feed water pump (2 sets), Ballast pump (2 sets), Hot water circ. pump (1 
+set) and MGO C.F.W. pump (1 set).
+
+Ball bearing ( if fitted ) 1 set 
+Casing ring 1 set 
+Gland packing or mechanical seal 1 set 
+Coupling bolt and nut ( if fitted )  1 set.
+
+For main L.O. pump (2 sets).
+
+Ball bearing ( if fitted ) 1 set 
+Casing ring 1 set 
+Oil seal  1 set 
+Coupling bolt and nut  1 set.
+
+and Port use C.S.W pump (1 set) 1△.
+
+(2) Gear pump ( for each size of pump ).
+
+For L.O. trans. and L.O. puri. supply pump (1 set), S/T L.O. pump (2 sets) and D/G 
+L.O. puri. supply pump (1 set).
+
+Bearing metal 1 set 
+Gland packing or mechanical seal 1 set 
+Safety valve spring 1 
+Coupling bolt and nut or coupling bush 1 set.
+
+(3) Screw pump ( for each size of pump ).
+
+For F.O. booster pump (2 sets), F.O. trans. pump (1 set), D.O. trans. pump (1 sets), 
+M/E F.O. circ. pump (2 sets), D/G F.O. circ. pump (2 sets) and D/G D.O. booster 
+pump (1 set).
+
+Ball bearing 1 
+Safety valve spring 1 
+Mechanical seal 1 set 
+“O” ring 1 
+Coupling bush 1 set.
+
+(4) Reciprocating pump.
+
+For Bilge pump (1 set).
+
+Piston ring 2 
+Valve and valve seat 4 sets 
+Gland packing 1 set 
+Safety valve spring 1 
+V belt 2.
+
+(5) Monros pump.
+
+For Sludge pump (1 set).
+
+Ball bearing 1 
+Safety valve spring 1 
+Gland packing 1 set 
+O ring 1 
+V belt 2

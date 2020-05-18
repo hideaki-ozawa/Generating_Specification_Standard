@@ -1,0 +1,157 @@
+8.1  COOLER AND CONDENSER .
+
+8.1.1  Shell and tube type heat exchanger.
+
+One (1) auxiliary condenser shall have a sufficient capacity to condense excess steam 
+from the exhaust gas section of aux. boiler.
+
+This heat exchanger shall be of horizontal shell and tube type.  Tube shall be straight, 
+and tube end of sea water inlet side shall be expanded into tube plates.
+
+The materials shall be as follows:.
+
+ Shell Steel plate or steel pipe 
+ Shell cover Cast iron ( inside epoxy paint ) 
+ Tube plate Naval brass 
+ Tube Aluminum brass.
+
+The fittings and accessories shall be as follows:.
+
+ 4 － thermometers ( 3 － for condenser ) 
+ 1 － compound gauge for condenser 
+ 1 － peep hole for shell except small size cooler 
+ Necessary number － air cock and drain cock for shell and shell cover 
+ 1 － set of protecting anode ( Zn ) for each water chest of sea water 
+ 1 － set of chemical clean. flange for both tube and shell side except small size cooler.
+
+8.1.2  Plate type heat exchanger.
+
+Each one (1) set of jacket cool. F.W. cooler and main L.O. cooler respectively shall have a 
+sufficient capacity to meet max. output requirement of main engine. 
+Two (2) sets of D/G cool. F.W. cooler shall have a sufficient capacity to meet max. output 
+requirement of three (3) sets of main diesel generator engine and two (2) sets of main air 
+compressor.
+
+The materials shall be as follows:.
+
+ Frame plate Mild steel 
+ Plate Titanium.
+
+The heat exchangers attached to main engine, main diesel generator engines and other 
+machinery shall be in accordance with Maker’s standard.
+
+The design conditions for heat exchangers shall be as following table.
+
+HEAT EXCHANGER CALCULATION SHEET.
+
+ SHELL AND TUBE TYPE HEAT EXCHANGER.
+
+Name.
+
+Design condition.
+
+Tube side ( S.W.) Shell side Clean.
+factor 
+ (%) Quantity.
+
+(m3/h).
+
+Temperature (℃) Quantity 
+(m3/h).
+
+Temperature (℃).
+
+Inlet Outlet Inlet Outlet.
+
+Aux. condenser.
+
+40.
+
+32.
+
+49.2.
+
+1,100 
+ kg/h.
+
+100.
+
+60.
+
+85.
+
+Remarks : 
+ 1) Out diameter of tube shall be 16 mm and thickness shall be 1.0 mm. 
+ 2) As a result of particular calculation, above said value may be altered.
+
+ PLATE TYPE HEAT EXCHANGER.
+
+Name.
+
+Design condition.
+
+Cooling S.W. side L.O. or F.W. side Clean.
+factor 
+ (%) Quantity.
+
+(m3/h).
+
+Temperature (℃) Quantity 
+(m3/h).
+
+Temperature (℃).
+
+Inlet Outlet Inlet Outlet 
+Main  
+lub. oil cooler.
+
+160.
+
+32.0.
+
+36.6.
+
+220.
+
+52.9.
+
+45.0.
+
+85.
+
+Jacket cooling 
+F.W. cooler.
+
+160.
+
+36.6.
+
+43.8.
+
+102.
+
+90.0.
+
+79.0.
+
+85.
+
+D/G 
+cool. F.W. cooler.
+
+54.
+
+32.0.
+
+41.4.
+
+48.2.
+
+48.2.
+
+38.0.
+
+85.
+
+Remarks : 
+ 1) As a result of particular calculation, above said value may be altered.

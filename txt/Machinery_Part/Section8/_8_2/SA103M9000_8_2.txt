@@ -1,0 +1,46 @@
+8.2  OIL HEATER.
+
+There shall be provided one (1) main engine fuel oil heater, two (2) purifier fuel oil 
+heaters, one (1) purifier lub. oil heater, one (1) diesel gene. purifier lub. oil heater, one (1) 
+diesel gene. fuel oil heater and one (1) shifter fuel oil heater.
+
+Boiler fuel oil heater shall be in accordance with Maker’s standard.
+
+The design conditions for there heaters shall be as following table.
+
+Name 
+Design condition Heating.
+
+steam press. 
+( MPa ).
+
+Quantity 
+( Lit/h ).
+
+Temperature (℃) 
+Inlet Outlet.
+
+Main engine 
+F.O. heater 4,200 105 140 0.55 
+Purifier 
+F.O. heater 2,100 55 98 0.55 
+Purifier 
+L.O. heater 2,100 45 90 0.55 
+Diesel gene. 
+F.O. heater 1,400 105 140 0.55 
+Shifter 
+F.O. heater 3,400 55 85 0.55 
+D/G purifier 
+L.O. heater 600 45 90 0.55.
+
+The materials of oil heaters shall be as follows:.
+
+ Shell Steel tube 
+ Tube Steel tube with rod or coil tube.
+
+The fittings and accessories shall be as follows:.
+
+ 1 － drain plug 
+ 1 － air vent cock 
+ 1 － relief valve 
+ 2 － thermometer

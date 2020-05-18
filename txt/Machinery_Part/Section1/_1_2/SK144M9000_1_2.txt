@@ -1,0 +1,943 @@
+1.2  MACHINERY PARTICULAR .
+
+Kind of Ship.
+
+64,000 M.T. D/W TYPE BULK CARRIER.
+
+Main Engine.
+
+Type & No. of Set 
+ MITSUI-MAN B&W, 2 stroke cycle , single acting, direct.
+
+reversible, crosshead type diesel engine with turbocharger 
+   6S50ME-C9.6 x 1 set.
+
+Output 
+x Speed.
+
+Maximum 
+Rating.
+
+kWx
+min-1  7,560 x 99.0.
+
+Normal 
+Rating.
+
+kWx
+min-1  6,425 x 93.8 (85 %).
+
+Brake Mean Effective 
+Press. at Max. Rating.
+
+MPa *.
+
+Mean Piston Speed at 
+Max. Rating.
+
+m/s 7.31.
+
+Cylinder No. x
+Bore x Stroke.
+
+mm  6 x  500 x 2,214.
+
+Turbocharger 
+Type
+x No.  A165-L x  1 set.
+
+Turning Motor.
+
+ 2.2 kW x 1,200 min-1 x 1 set.
+
+Auxiliary Blower.
+
+ 45 kW x 3,600 min-1  x 2 sets 
+Start-up pump for
+hydraulic system.
+
+ 26 kW  x 1,800 min-1  x 2 sets.
+
+LDCL  
+Recirculation Pump.
+
+ 2.6 kW  x  1,200 min-1  x 1 set.
+
+ M1 - 3.
+
+Shafting.
+
+Thrust Shaft 
+No. x
+mm Attached to Main Engine.
+
+Intermediate Shaft 
+No. x
+mm  1 x   * x *.
+
+Propeller Shaft 
+No. x
+mm  1 x   * x *.
+
+Propeller.
+
+Type & No. of Set 
+ * Bladed Solid Type.
+
+( Ni- Al- Br) x 1 set.
+
+Diameter x Pitch.
+
+mm    * x * 
+Exp. Area Ratio x
+Boss Ratio.
+
+-  * x *.
+
+Skew Angle.
+
+degree *.
+
+Auxiliary Boiler.
+
+Type & No. of Set Composite system vertical type x 1 set 
+Steam Pressure
+& Temperature.
+
+MPa
+ x °C.
+
+ (Design) 0.8 MPa x Saturated 
+ (Work.) 0.6 MPa x Saturated.
+
+Evaporation 
+for oil burning side.
+
+kg/h 1,000.
+
+Evaporation 
+for exhaust gas side.
+
+kg/h               640 (M/E 85% Load).
+
+Feed Water Temp.
+
+°C abt. 60.
+
+Burner Type.
+
+Forced draft type pressure atomizing burner.
+
+ M1 - 4.
+
+Service.
+
+No.of 
+ Set.
+
+Type Capacity
+(m3 /h x MPa).
+
+Motor
+(kW x min-1).
+
+ Main 
+Diesel Generator Engine 3.
+
+4-Cycle
+Diesel Engine 610 kW 900 min-1.
+
+6DE-18.
+
+Main Generator 3 
+Brushless 
+AC Generator 700 kVA 560 x 900.
+
+450V
+ x 60 Hz.
+
+Emergency 
+Generator Engine 1.
+
+4-Cycle
+Diesel Engine * kW 1,800 min-1.
+
+Emergency Generator 1 
+Brushless 
+AC Generator * kVA  * x 1800.
+
+450V
+ x 60 Hz.
+
+Main Air Compressor 2 
+M.D. Vertical
+2-Stage.
+
+(F.A.)
+ 155 x 2.9  37 x 1800.
+
+H-73.
+
+Emergency 
+Air Compressor 1.
+
+M.D. Vertical
+2-Stage.
+
+(F.A.)
+ 13.5 x 2.9  3.7 x 1200.
+
+Main Lubricating Oil 
+Pump 2 M.D. V. Cent.
+
+(D.P.)
+ 210 x 0.42  60 x 1800.
+
+Fuel Oil 
+Booster Pump 2 M.D. H. Gear.
+
+(D.P.)
+ 3.3 x 0.4  2.2 x 1200.
+
+Main Engine Fuel Oil 
+Circulating Pump 2 M.D. H. Gear.
+
+(D.P.)
+ 4.3 x 1.0  3.7 x 1200.
+
+Fuel Oil 
+Transfer Pump 1 M.D. H. Gear.
+
+(D.P.)
+ 15 x 0.3  5.5 x 1200.
+
+Diesel Oil 
+Transfer Pump 1 M.D. H. Gear.
+
+(D.P.)
+ 4 x 0.3  2.2 x 1200.
+
+Lubricating Oil
+Transfer Pump 1 M.D. H. Gear.
+
+(D.P.)
+ 5 x 0.3  2.2 x 1200.
+
+Stern Tube 
+Lubricating Oil Pump 2 M.D. H. Gear.
+
+(D.P.)
+ 0.5 x 0.2  0.4 x 1200.
+
+Diesel Gene. Fuel Oil 
+Circulating Pump 2 M.D. H. Gear.
+
+(D.P.)
+ 1.6 x 0.9  1.5 x 1200.
+
+Diesel Gene. Diesel Oil 
+Booster Pump 1 M.D. H. Gear.
+
+(D.P.)
+ 1.5 x 0.75  3.7 x 1200.
+
+Diesel Gene. Lub. Oil 
+Priming Pump 3 M.D. H. Screw.
+
+(D.P.)
+ 2.5 x 0.2 0.94 x 3600.
+
+Maker’s 
+supply.
+
+L.O. Purifier
+Supply Pump 1 M.D. H. Gear.
+
+(D.P.)
+ 2.0 x 0.3 0.75 x 1200.
+
+D/G L.O. Purifier
+Supply Pump 1 M.D. H. Gear.
+
+(D.P.)
+ 0.8 x 0.3  0.4 x 1200.
+
+Bilge Pump 1 
+M.D. H.
+Recipro.
+
+(T.H.)
+ 2 x 30 m 0.75 x 1200.
+
+Sludge Pump 1 
+M.D. H.
+Monros.
+
+(T.H.)
+ 2.5 x 41 m  1.5 x 1200.
+
+ M1 - 5.
+
+Service.
+
+No.of 
+Set.
+
+Type Capacity
+(m3 /h x MPa).
+
+Motor
+(kW x min-1).
+
+ Cooling 
+Sea Water Pump 2.
+
+(Each 100% Cap.).
+
+M.D. V. Cent.
+(T.H.).
+
+ 700 x 20 m  55 x 1800 
+Self-priming 
+(No.1).
+
+Low Temp. Cooling  
+Fresh Water Pump 3.
+
+(Each 50% Cap.)
+M.D. V. Cent.
+
+(T.H.)
+ 195 x 25 m  22 x 1800.
+
+High Temp. Cooling  
+Fresh Water Pump 2 M.D. V. Cent.
+
+(T.H.)
+ 83 x 30 m  15 x 1800.
+
+Ballast Pump 2 M.D. V. Cent. 
+(T.H.).
+
+ 900 x 25 m  90 x 1800.
+
+Bilge & Ballast Pump 1 M.D. V. Cent.
+(T.H.).
+
+220/90x20/70 m  50 x 3600.
+
+Self-priming.
+
+Fire & G.S. Pump 1 M.D. V. Cent. 
+(T.H.).
+
+220/90x20/70 m  50 x 3600.
+
+Self-priming.
+
+Drinking Water Pump 1 M.D. V. Cent.
+(T.H.).
+
+ 5 x 50 m  3.7 x 3600.
+
+Fresh Water Pump 1 M.D. V. Cent. 
+(T.H.).
+
+ 5 x 50 m  3.7 x 3600.
+
+Hot Water 
+Circulating Pump 1 M.D. H. Cent.
+
+(T.H.)
+ 2 x 10 m  0.4 x 3600.
+
+Boiler F.O./D.O.
+Burning Pump 1.
+
+M.D. H.
+Internal Gear.
+
+(D.P.)
+268 L/h x 1.8 0.75 x 3600.
+
+Maker’s 
+supply.
+
+Boiler 
+Pilot Burner Pump 1.
+
+M.D.
+H. Trochoid.
+
+(D.P.)
+ 40 L/h x 0.8 0.09 x 3600.
+
+Maker’s 
+supply.
+
+Boiler 
+Forced Draft Fan 1 M.D. Turbo.
+
+23 m3/min
+ x2.94 kPa  2.2 x 3600.
+
+Maker’s 
+supply.
+
+Boiler 
+Feed Water Pump 2 M.D. H. Cent.
+
+(T.H.)
+ 4 x 100 m  7.5 x 3600.
+
+Ballast Eductor 1 100 m3/h.
+
+Bilge Eductor 1 50 m3/h.
+
+Bilge Separator 1 
+with oil
+content meter 2 m3/h.
+
+Cu-Fe Ion Generator 1.
+
+Shaft Grounding
+Equipment  1.
+
+with
+mV-Meter.
+
+Ballast Water
+Management System 1.
+
+Filter & 
+Electrolysis.
+
+SUNRUI.
+
+ M1 - 6.
+
+Service.
+
+No.of 
+Set.
+
+Type Capacity
+(m3 /h x m).
+
+Motor
+(kW x min-1).
+
+Overhead Travelling  
+Crane.
+
+1 M.D. 3 ton 
+2.2 x 900.
+
+ 0.2 x 1800 
+ 0.2 x 1800 
+ -.
+
+Traverse
+to be hand 
+operate.
+
+Universal machine tool 1 M.D.
+
+Center distance : 
+600 mm.
+
+Drilling capacity :
+  21.
+
+ 1.5 x 1800.
+
+Grinding Machine 1 
+M.D.
+2-Wheels  255 x 25t 0.75 x 1800.
+
+AC440V
+3  60Hz.
+
+Electric Welder 2 
+AC
+Arc Type 300 A.
+
+Gas Cutting Machine 1 
+Acetylene 
+Type.
+
+Oxygen B. x 2
+Acetyl. B. x 1.
+
+Hose: Each 
+25 m x 3.
+
+Foreign 
+made.
+
+Chain Block.
+
+1 
+2 
+3.
+
+3 ton
+ 1 ton 
+ 0.5 ton.
+
+Control Room
+Air Conditioner 1.
+
+Packaged Type 
+(R-404A) 10.4 kW  2.2 x 3600.
+
+with
+E. heater.
+
+Water-based Local
+Fire Fighting System 1.
+
+Low Press.
+Type.
+
+Sewage Treatment Unit 1.
+
+M/E F.O. 2nd Filter 1 
+ABS.10μ
+4.3 m3/h.
+
+D/G F.O. 2nd Filter 1 
+E.F.10μ 
+1.6 m3/h.
+
+Fresh Water Generator 1  15 t/day.
+
+WM-15DK.
+
+ Distillate Pump 1 M.D. H. Cent.
+(T.H.).
+
+ 1.05 x 30 m 0.75 x 3600 
+Maker’s 
+supply.
+
+ Ejector Pump 1 M.D. H. Cent.
+(T.H.).
+
+ 18 x 48 m  5.5 x 3600 
+Maker’s 
+supply.
+
+Waste Oil Incinerator 1  349 kW.
+
+BGW-30N.
+
+ Waste Oil Pump 1 M.D. H. Trochoid 
+160 L/h.
+
+  x 0.2 MPa  0.1 x 1800 
+Maker’s 
+supply.
+
+ Exhaust & Cooling Fan 1 M.D.  
+95 m3/min.
+
+  x 2.65 kPa  7.5 x 3600 
+Maker’s 
+supply.
+
+ Burning Fan 1 M.D.  
+11.4 m3/min.
+
+  x 1.18 kPa  1.5 x 3600 
+Maker’s 
+supply.
+
+M/E Fuel Oil Viscosity 
+& Temp. Controller.
+
+D/G Fuel Oil Viscosity 
+& Temp. Controller.
+
+1.
+
+1.
+
+5m3/h.
+
+5 x 0.35 
+(D.P.).
+
+2.2 x 1200
+Maker’s  
+supply M.D. H. 1.
+
+1
+L.O. Circ. Clean Filter.
+
+L.O. Filter Circ. Pump.
+
+△1.
+
+△1.
+
+1△
+1△.
+
+ M1 - 7.
+
+Service.
+
+No.of 
+Set.
+
+Type Capacity
+(m2).
+
+Motor
+(kW x min-1).
+
+ Main 
+Lubricating Oil Cooler 1 Plate *.
+
+Central Cooling 
+Fresh Water Cooler 2 Plate *.
+
+Auxiliary Condenser 1 
+H. Shell
+    & Tube 18.
+
+Shifter 
+Fuel Oil Heater 1 Steam Heat.
+
+STM 0.6MPa
+55 to 85°C.
+
+Purifier 
+Lub. Oil Heater 1 Steam Heat.
+
+STM 0.6MPa
+45 to 90°C.
+
+D/G Purifier
+Lub. Oil Heater 1 Steam Heat.
+
+STM 0.6MPa
+45 to 95°C.
+
+Purifier 
+Fuel Oil Heater 2 Steam Heat.
+
+STM 0.6MPa
+55 to 98°C.
+
+Main Engine
+Fuel Oil Heater 1 Steam Heat.
+
+STM 0.6MPa
+105 to 140°C.
+
+Boiler 
+Fuel Oil Heater 1 Electric Heat.
+
+7 kW.
+
+Maker’s 
+supply.
+
+Diesel Gene.
+Fuel Oil Heater 1 Steam Heat.
+
+STM 0.6MPa
+105 to 140°C.
+
+Calorifier Unit 1 Steam Heat.
+
+STM 0.3MPa
+10 to 70°C.
+
+Main Engine
+Warm-up Heater 1 Steam Heat 2.
+
+STM 0.6MPa.
+
+Fuel Oil Purifier 2 
+M.D. V.
+Centrifuge.
+
+3,900 L/h
+(380 cSt at 50°C)  7.5 x 1800.
+
+SJ35HH.
+
+Lubricating Oil Purifier 1 
+M.D. V.
+Centrifuge 2,400 L/h  5.5 x 1800.
+
+SJ25H.
+
+D/G
+Lubricating Oil Purifier 1.
+
+M.D. V.
+Centrifuge 1,300 L/h  3.7 x 1800.
+
+SJ15H.
+
+Engine Room
+Ventilating Fan 2.
+
+M.D.
+V. Axial.
+
+750 m3/min 
+x 0.29 kPa  15 x 1800.
+
+Reversible.
+
+Engine Room
+Ventilating Fan 1.
+
+M.D.
+V. Axial.
+
+750 m3/min 
+x 0.29 kPa  15 x 1800.
+
+F.O. Tank  
+Pre-heating Unit 1.
+
+ F.O. Shifter Pump 1 
+(100% Cap.)
+M.D. H. Gear.
+
+ (D.P.)
+ 7.2 x 0.49  3.7 x 1800.
+
+Maker’s 
+supply.
+
+Main Air Reservoir 2 Cylindrical 
+5.0 m3 x.
+
+  2.9 MPa.
+
+Emergency 
+Air Reservoir 1 Cylindrical.
+
+100 L x
+  2.9 MPa.
+
+Maker’s 
+supply.
+
+Control Air Dryer 1 Membrane 50 Nm3/h.
+
+ M1 - 8.
+
+Service.
+
+No.of 
+Set.
+
+Type Capacity
+(m3).
+
+Heat. Ratio
+(m2/m3).
+
+ No.1 Fuel Oil
+Settling Tank 1 14.
+
+0.3.
+
+No.1 Fuel Oil
+Service Tank 1 14.
+
+0.3.
+
+No.2 Fuel Oil
+Settling Tank 1 14.
+
+0.3.
+
+No.2 Fuel Oil
+Service Tank 1 14.
+
+0.3.
+
+Diesel Oil Service Tank 2  7.
+
+ Integrated.
+
+Sludge Tank 1 1.5.
+
+0.1.
+
+Fuel Oil Drain Tank 1 1.
+
+0.1 
+In Double
+Bottom.
+
+Fuel Oil 
+Overflow Tank 1 abt *.
+
+0.03.
+
+In Double
+Bottom.
+
+Waste Oil Tank 2 2.
+
+1.0.
+
+Main Engine
+Lub. Oil Storage Tank 1 abt. 15.
+
+Integrated.
+
+Main Engine
+Lub. Oil Settling Tank 2 abt.7.5.
+
+0.2 Integrated.
+
+Main Engine
+Lub. Oil Sump Tank 1 abt. 15.
+
+ In Triple
+Bottom.
+
+Diesel Gene.
+Lub. Oil Storage Tank 1 5.
+
+Diesel Gene.
+Lub. Oil Settling Tank 2 2.5.
+
+0.2.
+
+Diesel Gene. 
+Lub. Oil Sump Tank.
+
+Each 
+1 1.1.
+
+ In Common
+Bed.
+
+Diesel Gene. 
+Lub. Oil Overflow Tank 1 1.2.
+
+Cylinder Oil 
+Alarm Chamber 1 0.02.
+
+Cylinder Oil 
+Storage Tank 2 12.
+
+Integrated.
+
+ M1 - 9.
+
+Service.
+
+No.of 
+Set.
+
+Type Capacity
+(m3).
+
+Heat. Ratio
+(m2/m3).
+
+ Stern Tube Lub. Oil 
+Tank Unit 1 0.1.
+
+Stern Tube FWD Seal 
+Lub. Oil Tank 1 abt. *.
+
+ Maker’s 
+supply.
+
+Stern Tube 
+Drain Collect. Unit 1 abt. *.
+
+ Maker’s 
+supply.
+
+Stern Tube 
+Lub. Oil Collect Tank 1 abt. 1.
+
+ In Double 
+Bottom.
+
+Stuffing Box 
+Drain Tank 1 0.6.
+
+Scavenging Box
+Drain Tank 1 0.3.
+
+0.1.
+
+Deaeration Tank 1 abt. * 
+ Maker’s.
+
+supply 
+Jacket Cool. F.W.
+Expansion Tank 1 1.5.
+
+Fresh Water 
+Pressure Tank 1.
+
+Cylindrical 1.
+
+Drinking water
+Pressure Tank 1.
+
+Cylindrical 1.
+
+Cascade Tank 1 1 
+ With Inspect.
+
+Section.
+
+Bilge Primary Tank 1 2.
+
+0.1.
+
+Bilge Tank 1 abt. *.
+
+In Double
+Bottom.
+
+Bilge Sludge Tank 1 
+abt. *.
+
+(Min. 18).
+
+0.01 
+In Double
+Bottom.
+
+Clean Drain Tank 1 abt. *.
+
+In Double
+Bottom.
+
+ M1 - 10.
+
+Capacity, type and etc. shall be subject to change on the way of detail design.
+
+Abbreviation :.
+
+ abt.  About 
+ D.  Driven 
+ M.D. Motor Driven 
+ Cent. Centrifugal 
+ *  Pending 
+ Vert. Vertical 
+ Hor.  Horizontal 
+ F.A.  Free Air 
+ D.P.  Discharge Pressure 
+ T.H.  Total Head.
+
+ M1 - 11

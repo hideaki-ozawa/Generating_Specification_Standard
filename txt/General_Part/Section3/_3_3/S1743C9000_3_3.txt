@@ -1,0 +1,17 @@
+3.3    CAPACITY.
+
+Cargo hold and tank capacities ( 100% ) shall be as follows.
+
+Cargo Holds  (Grain) abt. 77,400  m3.
+
+(Bale) abt. 73,500  m3.
+
+Fuel oil tanks abt. 2,100  m3.
+
+Diesel oil tanks abt.385  m3.
+
+Fresh water tank abt.330  m3.
+
+Drinking water tank abt.  330  m3.
+
+Water ballast tanks ( incl. No.3 cargo hold ) abt.  34,050  m3.

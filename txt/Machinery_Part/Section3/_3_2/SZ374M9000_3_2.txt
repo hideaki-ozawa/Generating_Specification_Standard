@@ -1,0 +1,25 @@
+3.2  SHAFTING .
+
+The shafting shall be one (1) line which consist of one (1) intermediate shaft and one (1) 
+propeller shaft. 
+The shafting shall be of solid type and machined smooth all over except journals and 
+coupled face which shall be finely finished. 
+The coupling flanges shall be integrated with the shaft and protected by sheet steel guards.  
+The shafting shall be bolted together with straight reamer bolts.
+
+The diameter of intermediate shaft shall be determined in accordance with the 
+requirement of the Classification Society. 
+The diameter of shaft at intermediate shaft bearing shall be added 5mm to the determined 
+shaft diameter. 
+The diameter of propeller shaft shall be in accordance with the requirement of the 
+Classification Society.
+
+The aft part of propeller shaft shall be machined with 1/20 taper and threaded at end for 
+fitting the propeller with a steel nut. 
+The propeller shaft shall be withdrawn inboard by removing intermediate shaft, and the 
+eye plate for withdrawing shall be provided.
+
+I-beam shall be provided for propeller shaft and intermediate shaft drawing.
+
+Special requirement for Postponement Survey of propeller shaft kind 1C ( Survey 
+intervals 10 years ) shall be adopted.

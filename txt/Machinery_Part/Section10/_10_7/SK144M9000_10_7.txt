@@ -1,0 +1,1758 @@
+10.7  PIPING SYSTEM .
+
+Schematic diagrams of piping system shall be shown as follow.
+
+ FIG. 1 BILGE LINE   M10 - 12 
+ FIG. 2 COOLING SEA WATER LINE   M10 - 13 
+ FIG. 3 COOLING FRESH WATER LINE   M10 - 14 
+ FIG. 4 FRESH WATER SERVICE LINE   M10 - 15 
+ FIG. 5 FUEL OIL TRANSFER LINE   M10 - 16 
+ FIG. 6 FUEL OIL PURIFYING LINE   M10 - 17 
+ FIG. 7 M/E AND BOILER FUEL OIL SERVICE LINE   M10 - 18 
+ FIG. 8 DIESEL GENERATOR FUEL OIL SERVICE LINE   M10 - 19 
+ FIG. 9 LUB. OIL TRANSFER & FURIFYING LINE   M10 - 20 
+ FIG. 10 LUB. OIL SERVICE LINE   M10 - 21 
+ FIG. 11 STERN TUBE LUB. OIL LINE   M10 - 22 
+ FIG. 12 STEAM LINE   M10 - 23 
+ FIG. 13 COMPRESSED AIR LINE   M10 - 24 
+ FIG. 14 EXHAUST GAS LINE   M10 - 25e.
+
+S
+L.
+
+U
+D.
+
+G
+E.
+
+ T
+.
+
+W
+A.
+
+S
+T.
+
+E
+ O.
+
+IL
+T.
+
+A
+N.
+
+K.
+
+S
+E.
+
+P
+A.
+
+.
+B.
+
+IL
+G.
+
+E.
+
+B
+IL.
+
+G
+E.
+
+ P
+R.
+
+IM
+A.
+
+R
+Y.
+
+T
+A.
+
+N
+K.
+
+FIG.1  BILGE LINE.
+
+(S
+E.
+
+L
+F.
+
+-P
+R.
+
+IM
+IN.
+
+G
+).
+
+C
+O.
+
+O
+L.
+
+. 
+S.
+
+.W
+. P.
+
+U
+M.
+
+P.
+
+B
+IL.
+
+G
+E.
+
+ S
+U.
+
+C
+.
+
+E
+M.
+
+E
+R.
+
+G
+E.
+
+N
+C.
+
+Y.
+
+F
+R.
+
+O
+M.
+
+ L
+.O.
+
+.
+
+D
+R.
+
+A
+IN.
+
+ T
+.
+
+S
+C.
+
+A
+V.
+
+E
+N.
+
+G
+. B.
+
+O
+X.
+
+F
+.O.
+
+. 
+D.
+
+R
+A.
+
+IN
+ T.
+
+.
+
+B
+O.
+
+X
+ D.
+
+R
+A.
+
+IN
+ T.
+
+. 
+S.
+
+T
+U.
+
+F
+F.
+
+IN
+G.
+
+P
+U.
+
+M
+P.
+
+S
+L.
+
+U
+D.
+
+G
+E T
+A.
+
+N
+K.
+
+S
+L.
+
+U
+D.
+
+G
+E.
+
+B.
+
+IL
+G.
+
+E
+B.
+
+IL
+G.
+
+E
+ T.
+
+.
+B.
+
+IL
+G.
+
+E
+W.
+
+E
+L.
+
+L.
+
+D
+R.
+
+A
+IN.
+
+ L
+IN.
+
+E.
+
+(A
+F.
+
+T
+).
+
+C
+O.
+
+F
+F.
+
+E
+R.
+
+D
+A.
+
+M.
+
+B
+IL.
+
+G
+E.
+
+ &
+ B.
+
+A
+L.
+
+L
+A.
+
+S
+T.
+
+P
+U.
+
+M
+PF
+IR.
+
+E
+ &.
+
+ G
+.S.
+
+.
+P.
+
+U
+M.
+
+P.
+
+B
+IL.
+
+G
+E.
+
+P
+U.
+
+M
+P.
+
+B
+IL.
+
+G
+E.
+
+W
+E.
+
+L
+L.
+
+(F
+W.
+
+D
+ S.
+
+.)
+W.
+
+E
+L.
+
+L
+B.
+
+IL
+G.
+
+E.
+
+(F
+W.
+
+D
+ P.
+
+.)
+B.
+
+IL
+G.
+
+E
+H.
+
+O
+L.
+
+D.
+
+C
+L.
+
+E
+A.
+
+N
+D.
+
+R
+A.
+
+IN
+T.
+
+A
+N.
+
+K.
+
+M10-12.
+
+FIG.2  SEA WATER AND LOW TEMP. C.F.W. LINE.
+
+No.1 CENTRAL
+C.F.W. COOLER.
+
+COOL. S.W. PUMP.
+
+LOW TEMP.
+
+No.2 CENTRAL
+C.F.W. COOLER.
+
+F.W. GENERATOR.
+
+HIGH TEMP.
+
+C.F.W. PUMP.
+
+F.W. GENERATOR.
+
+M/E CYL. JACKET.
+
+M/E WARM UP HEATER HIGH TEMP.
+C.F.W. PUMP.
+
+F.W. GENERATOR.
+
+AIR CON. ( C/R ).
+
+AUX. CONDENSER.
+
+No.1 MAIN AIR COMP.
+
+AIR CON. ( ACCOM. ).
+
+PROV. REF. MACHINE.
+
+AIR CON. ( GALLEY ).
+
+M/E L.O. COOLER.
+
+M/E AIR COOLER.
+
+No.1, 2, 3 DIESEL GENE. ENGINE.
+
+No.2 MAIN AIR COMP.
+
+S.C.
+
+S.C.
+
+M10-13.
+
+Cu-Fe Ion GENERATOR.
+
+C
+L.
+
+R
+C.
+
+L
+R.
+
+A
+IR.
+
+C
+L.
+
+R
+L.
+
+.O
+.
+
+A
+IR.
+
+FIG.3  HIGH. TEMP. COOL.F.W. LINE.
+
+T
+O.
+
+ L
+O.
+
+W
+ T.
+
+E
+M.
+
+P
+.
+
+C
+O.
+
+O
+L.
+
+. F
+.W.
+
+. L
+IN.
+
+E.
+
+C
+O.
+
+O
+L.
+
+. F
+.W.
+
+.
+E.
+
+X
+P.
+
+. T
+A.
+
+N
+K.
+
+F
+.W.
+
+.
+G.
+
+E
+N.
+
+E
+-.
+
+R
+A.
+
+T
+O.
+
+R.
+
+M
+/E.
+
+ W
+A.
+
+R
+M.
+
+-U
+P.
+
+H
+E.
+
+A
+T.
+
+E
+R F.
+
+R
+O.
+
+M.
+
+L
+O.
+
+W
+ T.
+
+E
+M.
+
+P
+.
+
+C
+.F.
+
+.W
+. L.
+
+IN
+E.
+
+H
+IG.
+
+H
+ T.
+
+E
+M.
+
+P
+.
+
+C
+O.
+
+O
+L.
+
+. 
+F.
+
+.W
+. P.
+
+U
+M.
+
+P
+N.
+
+o.
+1.
+
+D
+/G.
+
+N
+o.
+
+2 
+D.
+
+/G.
+
+N
+o.
+
+3 
+D.
+
+/G.
+
+C
+Y.
+
+L
+. C.
+
+O
+V.
+
+E
+R.
+
+C
+Y.
+
+L
+. L.
+
+IN
+E.
+
+R.
+
+M
+A.
+
+IN
+ E.
+
+N
+G.
+
+IN
+E.
+
+L
+D.
+
+C
+L.
+
+C
+IR.
+
+C
+. 
+P.
+
+U
+M.
+
+P.
+
+C
+L.
+
+R
+C.
+
+L
+R.
+
+A
+IR.
+
+C
+L.
+
+R
+L.
+
+.O
+.
+
+A
+IR.
+
+C
+L.
+
+R
+C.
+
+L
+R.
+
+A
+IR.
+
+C
+L.
+
+R
+L.
+
+.O
+.
+
+A
+IR.
+
+M10-14.
+
+F
+R.
+
+O
+M.
+
+ L
+O.
+
+W
+ T.
+
+E
+M.
+
+P
+.
+
+C
+O.
+
+O
+L.
+
+. F
+.W.
+
+. L
+IN.
+
+E.
+
+FIG.4  FRESH W. SERVICE LINE.
+
+FRESH W. PUMP.
+
+DRINK. W. PUMP.
+
+FRESH
+W.
+PRESS.
+TANK.
+
+DRINK.
+W.
+PRESS.
+TANK.
+
+( ACCOM. )
+F.W. SERVICE.
+
+SANITARY.
+
+HOT WATER HEATER.
+
+COOL. F.W. EXP. TANK.
+
+PURIFIER.
+
+BASIN ( ENGINE ROOM ).
+
+DRINK. W.T.
+
+F.W.
+GENE-
+RATOR.
+
+FRESH W.T.
+
+SEWAGE TREATMENT 
+UNIT.
+
+( ACCOM. )
+DRINK. W. SERVICE.
+
+(ENGINE ROOM)
+COLD W. FOUNTAIN.
+
+M10-15.
+
+CASCADE TANK.
+
+FIG.5  F.O.TRANSFER LINE.
+
+TANK
+F.O. OVERFLOW.
+
+D.O. TRANS.
+PUMP.
+
+TANK
+SERV.
+D.O.
+
+TANK
+D.O.
+
+DRAIN T.
+F.O.
+
+F.O. TRANS.
+PUMP.
+
+SERV.
+F.O.
+SETT.
+
+F.O.
+
+TANK TANK.
+
+No.1 No.1
+F.O.
+TANKSERV.
+
+D.O.
+
+TANK.
+
+F.O. OVERFLOW
+ALARM CHAMBER.
+
+SHIFTER.
+
+F.O. SHIFTER
+PUMP.
+
+F.O.
+HEATER.
+
+SERV.
+F.O.
+SETT.
+
+F.O.
+
+TANK TANK.
+
+No.2 No.2.
+
+M10-16.
+
+FIG.6  F.O. PURIFYING LINE.
+
+PURIFIER
+No.2 F.O.
+
+HEATER
+PURIF. F.O.
+
+PURIFIER
+No.1 F.O.
+
+HEATER
+PURIF. F.O.
+
+TANK
+SERV.
+F.O.
+No.2.
+
+TANK
+SERV.
+F.O.
+
+TANK
+SETT.
+F.O.
+No.1No.1.
+
+TANK
+SERV.
+D.O.
+
+TANK.
+
+D.O.
+SERV.
+
+TANK
+SETT.
+F.O.
+No.2.
+
+M10-17.
+
+ENGINE
+MAIN.
+
+CIRC. PUMP
+M/E F.O.
+
+FIG.7  M/E & BOILER F.O. SERVICE LINE.
+
+BURNER.
+
+BOILER
+AUX.
+
+F.O. BURN.
+F.O. HEATER.
+
+SERV.
+D.O.
+
+FM.
+
+2ND FILTER
+M/E F.O.
+
+FLOW METER.
+
+HEATER
+M/E F.O.
+
+BOOST. PUMP
+F.O.
+
+MIX. TUBE.
+
+TO D/G.
+
+TANK
+SERV.
+F.O.
+No.2.
+
+TANK
+SERV.
+F.O.
+No.1.
+
+TANK.
+
+D.O.
+SERV.
+TANK.
+
+FM.
+
+PUMP.
+
+M10-18.
+
+VISCO.
+CONTROLLER.
+
+△1.
+
+FIG.8  D/G F.O. SERVICE LINE.
+
+GENERATOR
+ENGINE.
+
+DIESEL
+No.1,2,3.
+
+BOOST. PUMP 
+D/G D.O.
+
+D/G F.O.
+
+2ND FILTER.
+
+CIRC. PUMP 
+D/G F.O.
+
+D/G F.O.
+
+FLOW METER.
+
+FM.
+
+HEATER.
+
+BOOST. PUMP 
+F.O.
+
+MIX. TUBE.
+
+TO M/E.
+
+F.O.
+SERV.
+TANK.
+
+F.O.
+SERV.
+TANK.
+
+No.2 No.1.
+
+FM.
+
+AIR SEPA.
+
+TO AIR ESCAPE.
+
+SERV.
+D.O.
+
+TANK TANK
+SERV.
+D.O.
+
+M10-19.
+
+VISCO.
+CONTROLLER.
+
+△1.
+
+D/G L.O.
+
+FIG.9  L.O. TRANS. & PURIF. LINE.
+
+L.O. SUMP. T.
+
+L.O. SUMP. T.
+
+L.O. SUMP. T.
+
+No.1 D/G.
+
+No.2 D/G.
+
+No.3 D/G.
+
+OIL
+CYL.
+
+STOR. T.
+D/G L.O.
+
+SETT. T.
+
+L.O. PURIF.
+
+HEATER
+PURIF. L.O.
+
+SUMP TANK
+M/E L.O.
+
+SUPPLY PUMP
+D/G L.O. PURIF.
+
+L.O. PURIF.
+
+L.O. H.T.R.
+D/G PURIF.
+
+  D/G.
+
+S/T L.O.
+COLLECT. T.
+
+SETT. T.
+M/E L.O.
+
+SETT. T.
+D/G L.O.
+
+SETT. T.
+M/E L.O.
+
+STOR. T.
+M/E L.O.
+
+STOR.
+TANK.
+
+CYL.
+
+STOR.
+TANK.
+
+OIL.
+
+PUMP.
+
+L.O. TRANS.
+
+SUPPLY PUMP
+L.O. PURIF.
+
+OVERFLOW T.
+D/G L.O.
+
+M10-20.
+
+L.O. Circ. 
+Clean Filter.
+
+L.O. Filter 
+Circ. Pump.
+
+△1.
+
+FIG.10  L.O. SERVICE LINE.
+
+M
+A.
+
+IN
+ E.
+
+N
+G.
+
+IN
+E.
+
+2
+N.
+
+D
+ F.
+
+IL
+T.
+
+E
+R.
+
+M
+/E.
+
+ L
+.O.
+
+.
+T.
+
+/C P
+IS.
+
+T
+O.
+
+N.
+
+O
+IL.
+
+C
+H.
+
+A
+M.
+
+B
+.
+
+A
+L.
+
+A
+R.
+
+M.
+
+IN
+T.
+
+E
+R.
+
+. 
+S.
+
+H
+A.
+
+F
+T.
+
+ B
+E.
+
+A
+R.
+
+IN
+G.
+
+M
+/E.
+
+ L
+.O.
+
+. P
+U.
+
+M
+P.
+
+M
+/E.
+
+ L
+.O.
+
+. C
+O.
+
+O
+L.
+
+E
+R.
+
+M
+A.
+
+IN
+ B.
+
+E
+A.
+
+R
+IN.
+
+G.
+
+M
+/E.
+
+ L
+.O.
+
+. 
+S.
+
+U
+M.
+
+P
+ T.
+
+A
+N.
+
+K.
+
+L
+U.
+
+B
+R.
+
+IC
+A.
+
+T
+O.
+
+R.
+
+T
+A.
+
+N
+K.
+
+S
+T.
+
+O
+R.
+
+.
+
+C
+Y.
+
+L
+.
+
+O
+IL.
+
+T
+A.
+
+N
+K.
+
+S
+T.
+
+O
+R.
+
+.
+O.
+
+IL
+C.
+
+Y
+L.
+
+.
+
+C
+Y.
+
+L
+.
+
+F
+M.
+
+H
+Y.
+
+D
+.
+
+P
+O.
+
+W
+E.
+
+R
+ S.
+
+U
+P.
+
+P
+L.
+
+Y.
+
+E
+X.
+
+H
+. A.
+
+C
+T.
+
+U
+A.
+
+T
+O.
+
+R.
+
+M10-21.
+
+FIG.11  STERN TUBE L.O. LINE.
+
+S
+/T.
+
+ L
+.O.
+
+.
+T.
+
+A
+N.
+
+K
+ U.
+
+N
+IT.
+
+C
+O.
+
+L
+L.
+
+E
+C.
+
+T
+.T.
+
+A
+N.
+
+K
+S.
+
+/T
+ L.
+
+.O
+.
+
+S
+/T.
+
+ L
+.O.
+
+. P
+U.
+
+M
+P.
+
+S
+/T.
+
+ F
+W.
+
+D
+ S.
+
+E
+A.
+
+L
+L.
+
+.O
+.
+
+T
+A.
+
+N
+K.
+
+A
+IR.
+
+ C
+O.
+
+N
+T.
+
+R
+O.
+
+L
+U.
+
+N
+IT.
+
+U
+N.
+
+IT
+C.
+
+O
+L.
+
+L
+E.
+
+C
+T.
+
+.
+D.
+
+R
+A.
+
+IN.
+
+C
+O.
+
+N
+T.
+
+. A
+IR.
+
+F
+R.
+
+O
+M.
+
+T
+O.
+
+ L
+.O.
+
+. S
+E.
+
+T
+T.
+
+.
+T.
+
+A
+N.
+
+K.
+
+M10-22.
+
+PRESS. CONTROL.
+
+M/E L.O. SETT. TANK.
+
+SLUDGE TANK.
+
+D/G L.O. SETT. TANK.
+
+WASTE OIL TANK.
+
+BILGE SLUDGE TANK.
+
+SEA CHEST.
+
+HOSE VALVE.
+
+SCAV. BOX DRAIN TANK.
+
+L.O. PURIF. HEATER.
+
+FIG.12  STEAM LINE.
+
+BOILER
+AUX.
+
+VALVE.
+
+HOT WATER HEATER.
+
+M/E WARM UP HEATER.
+
+D/G F.O. 2nd FILTER.
+
+D/G F.O. HEATER.
+
+F.O. DRAIN TANK.
+
+ACCOMM. HEATING.
+
+VALVE
+REDUC.
+
+0.7/0.4 MPa
+GALLEY SERVICE.
+
+STEAM TRACING.
+
+F.O. SERV. TANK.
+
+F.O. SETT. TANK.
+
+PURIF. F.O. HEATER.
+
+M/E F.O. HEATER.
+
+M/E F.O. 2nd FILTER.
+
+F.O. TANK.
+
+AUX. CONDENSER.
+
+F.O. OVERFLOW TANK.
+
+SHIFTER F.O. HEATER.
+
+D/G L.O. PURIF. HEATER.
+
+M10-23.
+
+BILGE PRIMARY TANK.
+
+AUTO.STOP VALVE
+STARTING AIR.
+
+FILTER.
+
+CONTROL AIR DRYER.
+
+FIG.13  COMPRESSED AIR LINE.
+
+COMPRESSOR
+MAIN AIR.
+
+COMPRESSOR
+MAIN AIR.
+
+MAIN ENGINE.
+
+RESERVOIR
+EMERG.AIR.
+
+ENGINE
+GENERATOR.
+
+CONTROL AIR LINE.
+
+2.9/0.8
+REDUCING VALVE.
+
+COMPRESSOR
+EMERGENCY AIR.
+
+MPa.
+
+SOOT BLOWER.
+
+RESERVOIR
+MAIN AIR.
+
+RESERVOIR
+MAIN AIR.
+
+EMERG.SHUT-OFF V.
+AIR TANK FOR F.O.
+
+DRINK. W. PRESS.T.
+
+F. W.PRESS.T.
+
+HOSE VALVE.
+
+DECK SERVICE.
+
+M10-24.
+
+T/C.
+
+T/C.
+
+DIESEL GENERATOR
+NO.1.
+
+DIESEL GENERATOR.
+
+DIESEL GENERATOR.
+
+NO.2.
+
+NO.3.
+
+T/C.
+
+SILENCER.
+
+FIG.14  EXH. GAS LINE.
+
+T/C.
+
+MAIN ENGINE.
+
+INCINERATOR
+WASTE OIL.
+
+BOILER
+AUX.
+
+FUNNEL.
+
+M10-25e.
+
+ M11 - 1

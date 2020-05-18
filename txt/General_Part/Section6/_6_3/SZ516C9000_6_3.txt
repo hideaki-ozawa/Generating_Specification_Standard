@@ -1,0 +1,6 @@
+6.3    TRIAL SPEED. 
+The Builder shall guarantee that the trial speed of the Vessel is not less than the specified figure aforementioned.  
+The measured speeds at the sea trial shall be corrected to that on calm sea under no wind and no current condition in accordance with Taniguchi-Tamura method.  
+The trial speed shall be determined on the “Speed-Power Curve” furnished by the Builder being based on the above-mentioned correction, as the speed on the curve corresponding to the specified horse power of main engine.  
+  
+

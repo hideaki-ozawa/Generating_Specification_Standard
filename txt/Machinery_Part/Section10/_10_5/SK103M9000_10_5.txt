@@ -1,0 +1,333 @@
+10.5  STRAINER .
+
+Line.
+
+Item.
+
+No.×Mesh  
+Remarks Inlet Outlet.
+
+Sea water  
+line.
+
+Cool. S.W. pump.
+
+(※1,※2)
+2× 8 mm.
+
+-.
+
+Simplex type 
+The element to be  
+stainless, and inner  
+surface to be of epoxy 
+paint.
+
+Ref. mach. 
+cool. S.W. pump.
+
+(※2) 
+1× 8 mm.
+
+-.
+
+Main L.O. cooler.
+
+1× 
+abt. 4 mm.
+
+Inner strainer 
+(Maker supply).
+
+D/G low temp.  
+F.W. cooler.
+
+2× 
+abt. 4 mm.
+
+Bilge &  
+ballast line.
+
+Bilge &  
+ballast pump.
+
+1× 8 mm.
+
+-.
+
+Simplex type 
+The element to be  
+stainless, and inner  
+surface to be of epoxy 
+paint.
+
+Fire & G.S. pump.
+
+1× 8 mm.
+
+-.
+
+Ballast pump.
+
+(※1) 
+2× 8 mm.
+
+-.
+
+Bilge pump.
+
+1×32.
+
+-.
+
+Simplex type.
+
+Sludge pump.
+
+1×10.
+
+-.
+
+Bilge separator.
+
+1×100.
+
+-.
+
+From galley  
+to clean drain tank.
+
+1×16.
+
+-.
+
+Fresh water 
+line.
+
+Drinking water tank.
+
+-.
+
+1×10 mm.
+
+Rose box.
+
+Fresh water tank.
+
+-.
+
+1×10 mm.
+
+Drain line.
+
+Drain trap.
+
+Each 1.
+
+-.
+
+Y type strainer.
+
+Steam line.
+
+Reducing valve & 
+temp. cont. valve 
+(direct type).
+
+Each 1.
+
+-.
+
+Y type strainer.
+
+※1 : One (1) set of spare element shall be provided.  
+※2 : Zink anode shall be fitted.
+
+Port Use Cooling 
+Sea Water Pump.
+
+ (※2) 
+1× 8 mm.
+
+1△.
+
+Line.
+
+Item 
+No.×Mesh.
+
+Remarks Inlet Outlet.
+
+Fuel oil line.
+
+F.O. transfer pump 1× 60 - Simplex.
+
+D.O. transfer pump.
+
+1× 60.
+
+-.
+
+Simplex.
+
+F.O. purifier.
+
+1× 60 - Duplex ( F.O. side ) 
+1× 60 - Simplex ( D.O. side ).
+
+F.O. booster pump.
+
+1×100 - Duplex 
+- 1×.
+
+E.F.10μ.
+
+Auto Back Wash.
+
+Main engine 
+F.O. circ. pump.
+
+-.
+
+1× 
+ABS.50μ.
+
+Gauze wire 
+Auto. back wash 
+with by-pass filter 
+(Maker supply).
+
+Diesel generator  
+D.O. booster pump.
+
+1×100.
+
+-.
+
+Duplex.
+
+Diesel generator 
+F.O. circ. pump.
+
+-.
+
+1× 
+E.F.10μ.
+
+Gauze wire 
+Auto. back wash 
+with by-pass line.
+
+-.
+
+3× 
+ABS.75μ.
+
+Notch wire 
+(Maker supply).
+
+Boiler F.O. pump.
+
+1×100.
+
+-.
+
+Simplex 
+(Maker supply).
+
+F.O. shifter pump.
+
+1× 32.
+
+-.
+
+Duplex.
+
+Waste oil incinerator.
+
+1× 60.
+
+-.
+
+Simplex.
+
+Lub. oil line.
+
+L.O. trans. and L.O. 
+puri. supply pump.
+
+1× 60.
+
+-.
+
+Duplex.
+
+Stern tube  
+L.O. pump.
+
+2× 100.
+
+-.
+
+Simplex with magnet.
+
+M/E L.O. purifier.
+
+-.
+
+1×*.
+
+Flushing Filter 
+(Owner supply).
+
+D/G L.O. purifier.
+
+1× 60.
+
+-.
+
+Duplex.
+
+Main engine  
+L.O. pump.
+
+-.
+
+1× 
+ABS.40μ.
+
+Gauze wire 
+Continuous back wash.
+
+Sludge collector.
+
+1×30.
+
+-.
+
+(Maker supply).
+
+Cylinder lubricator.
+
+1.
+
+-.
+
+Y type strainer 
+(Maker supply).
+
+Diesel generator 
+L.O. pump.
+
+3.
+
+-.
+
+Simplex 
+(Maker supply).
+
+- 3× 
+ABS.30μ.
+
+Continuous back wash 
+(Maker supply)

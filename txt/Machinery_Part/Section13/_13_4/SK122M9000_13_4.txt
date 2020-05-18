@@ -1,0 +1,191 @@
+13.4  ALARM SYSTEM .
+
+Alarm of machinery located in engine room shall be able to recognize by indicating lamps 
+or display in engine control room.
+
+As for details of the alarming and other instruments, refer to Subsection 13.5 
+INSTRUMENTATION AND CONTROL IN ENGINE CONTROL ROOM.
+
+When the abnormal condition happen in engine room during “Unattended machinery 
+spaces” running, indicating of group shall be done with alarm at following places.
+
+1) Alarm indicating place.
+
+ ・ Bridge ・ Chief engineer’s room 
+ ･ Ship’s office ・ 1st engineer’s room 
+ ･ Officer’s mess room ・ 2nd engineer’s room 
+ ・ Saloon ・ 3rd engineer’s room.
+
+Alarm for 1st, 2nd and 3rd engineer’s room shall be selected only for the duty engineer’s 
+room by select switch, provided in engine control room.
+
+Extension alarm panel shall be of identification of group “A”, “B”, “C”, “D”, “E” and “F”.
+
+2) Group of indicating.
+
+ “A” group : Main engine emergency shut down 
+ “B” group : Main engine slow down 
+ “C” group : Main engine and propulsion auxiliaries trouble  
+    except “A” and “B” group 
+ “D” group : Electric and steam generating plants trouble 
+ “E” group : E/R bilge level high 
+ “F” group : Other trouble.
+
+The smoke type or temperature type fire detector shall be fitted in the engine room, and 
+sectionalized into proper groups to cover specified zone of engine room which shall be 
+identified in the fire alarm panel provided in bridge.
+
+The audible fire alarm shall be provided to engine room, engine control room, bridge and 
+each storey passage of accommodation quarter.
+
+3) Operation of extension alarm.
+
+Control room Bridge Duty engineer.
+
+Officer’s mess 
+room,.
+
+Chief engineer’s 
+room and etc.
+
+ Push the buzzer 
+ stop button.
+
+ Push the flicker 
+ stop button.
+
+   Trouble cause 
+   is removed.
+
+      Do.
+
+      Do.
+
+      Do.
+
+Trouble.
+
+Bz sound 
+Lamp flicker.
+
+Bz sound 
+Lamp flicker.
+
+Bz stop 
+Lamp flicker.
+
+Lamp light.
+
+Lamp go out.
+
+Bz sound 
+Lamp flicker.
+
+Bz stop 
+Lamp flicker.
+
+Bz sound 
+Lamp flicker.
+
+Bz stop 
+Lamp light.
+
+Bz stop 
+Lamp go out.
+
+Bz stop 
+Lamp flicker.
+
+Bz stop 
+Lamp light.
+
+Bz stop 
+Lamp light.
+
+Bz stop 
+Lamp go out.
+
+Bz stop 
+Lamp go out.
+
+Bz stop 
+Lamp flicker.
+
+4) Operation of alarm lamp and buzzer in engine control room.
+
+           Alarm.
+
+Condition.
+
+Running indication 
+and stop alarm.
+
+Press., temp., level 
+and other alarm.
+
+Lamp Buzzer Lamp Buzzer.
+
+Normal 
+Stopping Go out Silence.
+
+Go out Silence  
+Running.
+
+Light 
+( Green ).
+
+Silence.
+
+Abnormal.
+
+Flickering 
+( Red ).
+
+Sound.
+
+Flickering 
+( Red ).
+
+Sound.
+
+Push the buzzer stop 
+button.
+
+Flickering 
+( Red ).
+
+Silence.
+
+Flickering 
+( Red ).
+
+Silence.
+
+Push the flicker stop 
+button.
+
+Light 
+( Red ).
+
+－.
+
+Light 
+( Red ).
+
+－.
+
+Push the reset 
+button at  
+starter panel.
+
+Go out － － －.
+
+Return to normal.
+
+－.
+
+－.
+
+Go out.
+
+Silence

@@ -1,0 +1,24 @@
+3.6  MATERIAL .
+
+Shafting :.
+
+ Intermediate shaft Forged steel 
+ Propeller shaft Forged steel 
+ Nut for propeller shaft Forged steel 
+ Coupling bolt Forged steel.
+
+Stern tube bearing and seal :.
+
+ Stern tube bearing Cast iron with white metal ( WJ2 ) 
+ Sealing ring Fluoro rubber ( FPM ).
+
+Intermediate shaft bearing :.
+
+ Upper and lower shells Cast iron  
+ Bearing metal White metal ( WJ2 ).
+
+Propeller :.
+
+ Propeller Nickel aluminum bronze 
+ Propeller cap Bronze 
+ Rope guard Mild steel plate

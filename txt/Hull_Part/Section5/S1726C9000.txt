@@ -1,0 +1,1711 @@
+SECTION 5    ACCOMMODATION
+
+5.1    GENERAL
+
+5.1.1    Arrangement of accommodation
+
+Accommodation such as public space, living space, office space, navigation space, corridor space, sanitary space, commissary space, provisions space and sundry space shall be arranged as shown on the General Arrangement. 
+
+Each space shall consist of the following rooms : 
+
+Officer’s mess room, Saloon, Crew’s mess room, Crew’s smoking room Ship’s office, Meeting room, Tally office All cabins including hospital 
+
+Public space Office space Living space Navigation space  Wheelhouse including chart space, Corridor space Sanitary space 
+
+Radio instruments room Corridor, Stair way, Step-in compartment Laundry, Drying room, W.C., Shower room, Private lavatory Galley, Pantry Provisions store, Refrigerating provisions chamber Air conditioning unit & ref. prov. machine room, Battery room, Changing room, Emergency generator room, Locker, Store, Paint store, Fire station, Seal locker, Gymnasium, etc. 
+
+Commissary space Provisions space 
+
+Sundry space 
+
+Accommodation space shall be designed to have a clear height of about 2,050 ㎜ from the top of floor covering to the bottom of overhead ceiling except protruding parts such as diffuser, ceiling lamp, louver, etc. 
+
+At wheelhouse, a clear height shall be of 2,100 ㎜. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 2 
+
+5.1.2    Layout of living room
+
+All rooms shall be arranged as shown on the General Arrangement. 
+
+The class shall be ranked as follows : 
+
+                      place Class   Captain   Senior officer   Junior officer   Petty officer   Crew   Hospital 
+
+Cabin 
+
+Lavatory 
+
+Day and bed room 
+
+  Private with shower 
+
+Single room 
+
+  Common   Private with shower 
+
+5.1.3    Material of joiner wood
+
+Hard wood : Hard wood, so described in the Specifications, shall be of red lauan, in general. 
+
+Soft wood : Soft wood, so described in the Specifications, shall be of needleleaved tree. 
+
+Plywood : Plywood shall be glued with synthetic resin. Lauan plywood shall be used in general. 
+
+Non-combustible board : Non-combustible board means the board made from non-combustible materials approved by the Administration and the Classification Society. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 3 
+
+5.2    JOINER WORK
+
+5.2.1    General
+
+Joiner work shall be applied according to the Builder’s practice as specified in this SUBSECTION. 
+
+Wall and ceiling treatment, unless otherwise noted in this SUBSECTION, shall be finished with paint on bare steel. 
+
+As for the engine control room, refer to SUBSECTION 5.12 SUNDRY SPACE. 
+
+5.2.2    Joiner bulkhead
+
+Corridor bulkhead and partition bulkhead shall be generally steel wall or B - O class wall finished with paint in compliance with rule requirements for fire protection. 
+
+5.2.3    Joiner lining and ceiling
+
+Joiner lining and ceiling shall be generally applied as follows : Lining panel and ceiling panel shall be fitted to steel wall or steel deck with steel joists. 
+
+Place 
+
+Material 
+
+Finished 
+
+Navigation space, Office space (except tally off.), Public space (except saloon), Living space, Radio instruments Room,Gymnasium Saloon Corridor ( Above A deck ) 
+
+Wall lining 
+
+25  ㎜  N.B. 
+
+P.V.C. 
+
+Ceiling 
+
+25  ㎜  N.B. 
+
+P.V.C. 
+
+Wall lining Ceiling Ceiling 
+
+25  ㎜  N.B. 6  ㎜  N.B. 25  ㎜  N.B. 
+
+P.V.C. P.V.C. P.V.C. 
+
+    N.B.     P.V.C.  ---  Polyvinyl chloride overlay 
+
+---  Non-combustible board 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 4 
+
+5.3    DECK COVERING, CEMENTING, ETC.
+
+5.3.1    General
+
+Deck covering including cementing and tiling shall be applied according to the Builder’s practice as specified in this SUBSECTION. 
+
+The floor not specified in this SUBSECTION shall be finished with paint on bare steel, in general. 
+
+As for engine control room, refer to SUBSECTION 5.12 SUNDRY SPACE. 
+
+5.3.2    Deck covering
+
+Deck covering shall be generally applied as follows : 
+
+All weather deck surface shall have no covering. 
+
+Finish coating on deck composition shall not be applied in enclosed spaces under furnitures, such as bed, wardrobes, etc. 
+
+Place 
+
+Saloon 
+
+Captain class day and bed room, Public space ( except Saloon ), Office space (except tally office), Navigation space Tally office, Living space (except Captain class), Bridge wing 
+
+Hospital, Gymnasium 
+
+Material 7  ㎜ tile carpet on 6  ㎜ thickness latex base deck composition 2  ㎜ thickness vinyl sheet on 6  ㎜ thickness latex base deck composition 8  ㎜ thickness latex base deck composition Non slip paint with sand 8  ㎜ thickness latex base deck composition with acoustic insulation (camber adjustment) 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 5 
+
+5.3.3    Cementing and tiling
+
+Cementing and tiling shall be generally applied as follows : 
+
+Place 
+
+Common water closet, Shower room, Pantry Lavatory* Galley Laundry 
+
+Material 
+
+35 ㎜ thickness cement and mosaic tile 
+
+35 ㎜ thickness cement and non-slip tile 8 ㎜ thickness latex base deck composition 
+
+ 
+
+* 
+
+----  Unit type lavatory shall be of maker’s standard     
+
+Galley shall have tile gutter without cover. 
+
+Other space in above list shall have slope to scupper without gutter. 
+
+Joining of cement or tile with side wall shall be covered up to horizontal. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 6 
+
+5.4    HEAT, SOUND AND FIRE INSULATION
+
+5.4.1    General
+
+Heat and sound insulation shall be applied according to the Builder’s practice as specified in this SUBSECTION. 
+
+As for ref. provisions chamber and engine control room, refer to   SUBSECTION 5.11 PROVISIONS SPACE and   SUBSECTION 5.12 SUNDRY SPACE respectively. 
+
+5.4.2    Heat and sound insulation
+
+Heat and sound insulation shall be applied as follows : 
+
+Place 
+
+Adjacent to weather 
+
+Public space, Living space, Office space Navigation space Provisions  space (except ref. provision chamber), Locker Corridor 
+
+Stairway 
+
+Overhead ** Side wall Overhead Side wall Overhead 
+
+Side wall 
+
+50 ㎜ glass wool 
+
+50 ㎜ glass wool ＋cloth 
+
+Overhead Overhead Side wall 
+
+50 ㎜ glass wool 50 ㎜ glass wool      * ＋cloth 
+
+    * ---  Gutter coaming for sweat water shall be provided on the floor.   ** ---  If bed shall be arranged to weather side, 100 ㎜ glass wool shall be provided. 
+
+Beam in way of directly exposed to weather in public space, living space, navigation space and office space shall be insulated with 25 ㎜ thickness glass wool, but stiffener shall not be insulated face. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 7 
+
+5.4.3    Fire insulation
+
+Fire insulation shall be done in compliance with rule requirements. 
+
+Detail construction shall be in accordance with the Builder’s practice. 
+
+“MethodⅠ- C”shall be applied for fire protection, and details of construction shall be in accordance with rule requirement and the Builder’s practices. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+5.5    DOOR
+
+Door shall be fitted as follows : 
+
+Type 
+
+Material 
+
+Door 
+
+clearance 
+
+(㎜) 
+
+weathertight ( A ) 
+
+weathertight ( B ) 
+
+weathertight ( C ) 
+
+Non-weathertight 
+
+※  A-60  class or   A-15  class or class or   A-0   B-0 class or   C class 
+
+Steel plate 
+
+** Aluminum Steel plate *** Aluminum 
+
+Non- combustible or hollow steel or plywood 
+
+800 
+
+700 
+
+600 700 700 
+
+600 
+
+1000 
+
+700 
+
+600 
+
+H5 - 8 
+
+Location 
+
+Hospital, Provisions handling space Upper deck house entrance, Bos’n store entrance Paint store, Deck store, Tally office Entrance to A deck Entrance to B deck and above Sundry space faced to   weather part Wheelhouse sides ( Sliding type ) Public space, Ship’s office, Step-in compartment, Galley, Pantry, Hospital, Captain class day room, Engine room entrance Entrance other than abovementioned 
+
+As for  ※  marked, door type and material shall be decided to meet the rule requirement. 
+
+--- With 250 ㎜ diameter fixed glass 
+
+** ***  --- With fixed square glass 
+
+Slot lock shall be provided to accommodation entrance door inside except wheelhouse sliding door. 
+
+Pentagon lock shall be provided to deck store entrance door. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 9 
+
+All doors except wheelhouse sides shall be of hinge type, and sliding door shall be equipped for wheelhouse sides. 
+
+The steel weathertight doors (A) shall be fitted with clips and rubber packings. 
+
+While weathertight doors (B) and (C) shall be similar to the weathertight (A) except for reduced number of clips and stiffeners according to the purpose intended. 
+
+Door coaming of weather entrance except wheelhouse shall be of 200 ㎜ in height above the deck where is no rule requirement. 
+
+Other door coaming shall be constructed according to the rule. 
+
+For all cabins and public spaces, the top of opening shall be of 1,900 ㎜ from steel deck plate including sill. 
+
+Door sill top for joiner door shall be covered with stainless steel plate except for sundry space. 
+
+Self closing device shall be fitted according to the rule requirement. 
+
+As for the door of refrigerated provisions chamber, refer to   SUBSECTION 5.11 PROVISIONS SPACE. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+5.6    SIDE SCUTTLE AND WINDOW
+
+Side scuttles and windows shall be fitted as follows : 
+
+Material of frame 
+
+Side clear 
+
+B×H (  ㎜  ) 1200×800 
+
+Aluminum alloy 
+
+400×600   (350φ) ** 
+
+2370×815 1870×815 1370×815   715×815 1100×800 
+
+Location 
+
+No. 3 4 4 3 
+
+Saloon Off’s mess room Crew’s smoking room Crew’s mess room Captain class  Day room  Each 4 Bed room  Each 1 Senior officer Day room  Each 1 class Bed room  Each 1 Junior officer class Each 1 Petty officer class, Each 1 Crew class Hospital Ship’s office, Gym., Meeting room Radio instruments room 
+
+Each 2 
+
+1 
+
+Wheelhouse 
+
+1   1*   2* 2 2 2 4 
+
+H5 - 10 
+
+Remarks Fixed type 
+
+Hinged type 
+
+Fixed 
+
+*  --- With wiper 
+
+  **  --- Scuttle ( 350φ) with aluminum alloy cover shall be provided on upper deck. 
+
+Size and number subject to change on the way of detail design. 
+
+The side scuttles or windows in public space, living space and office space where directly exposed to weather shall have drip pan. 
+
+The side scuttles and windows shall be fitted with tempered clear glass. 
+
+Portable insect screen and wind scoop shall not be provided. 
+
+Side scuttle shall not be fitted for provisions space and sundry space. 
+
+Visor shall not be fitted for side scuttles and windows. 
+
+The windows shall be fitted about 1500 ㎜  height at window center above deck. 
+
+The side scuttles shall be fitted about 1550 ㎜  height at side scuttle center above deck.
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 11 
+
+5.7    STAIRWAY IN ACCOMMODATION
+
+Stairway in accommodation shall be fitted as shown on the General Arrangement and shall have steel stringer, steel back plate and steel handrail with vinyl cover. 
+
+Step shall be of steel plate with non-slips piece at edge and deck composition. 
+
+The clear width of stairway shall be of about 700 ㎜. The stairway shall be fitted at an angle of below 50 degrees to the horizontal. 
+
+5.8    FURNITURE AND FIXTURE
+
+5.8.1    Furniture and fitting
+
+Cabin furniture shall be furnished as shown on Table 5 - 1 through 5 - 4 in this section. 
+
+Design and arrangement of the furniture shall be in accordance with the Builder’s practice, and size and material shall be to the manufacturer’s standard. 
+
+Steel furniture shall be of a commercial stock with durable construction. In case the legs of table are steel-constructed, the legs shall be welded to deck directly. 
+
+Wooden furnitures shall have clear finish with polyester overlay and the steel furnitures shall be finished with enamel baking in general. 
+
+Size and number of furnitures and fittings subject to change on the way of detail design. 
+
+A facing of chair and sofa shall be provided and material shall be to the maker’s standard. 
+
+As for T.V., D.V.D. player and stereo, refer toⅣ- ELECTRIC PART. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 12 
+
+5.8.2    Upholstery
+
+Upholstery shall be supplied as shown on Table 5 - 1 through 5 - 4 in this section. 
+
+Sample of materials, patterns and colors of the upholstery used for the accommodation shall be submitted to the Owner for approval. 
+
+5.8.3    Hardware
+
+Hardware shall be of chrome plated brass in general. 
+
+One (1) master key system shall be applied all cabin. 
+
+All doors of public space, office space, living space and commissary space shall be fitted with a cylinder mortise lock. 
+
+Lever tumbler mortise locks shall be fitted to the doors exposed to weather part, in living space and wheelhouse. 
+
+Pad locks shall be fitted to the doors exposed to weather in sundry space. 
+
+Locks for water closets shall be fitted with indicator bolt. 
+
+All joiner door handles shall be of lever type. 
+
+Door hooks shall be provided where necessary. 
+
+Chair fasteners shall be provided. 
+
+Coat and hat hooks shall be fitted in cabins, mess rooms, office space, etc. 
+
+Storm rail shall be fitted to stairway and corridor used as means of escape in accommodation on one side, where exceeding 1800 mm breadth shall be fitted on both sides as per rule. 
+
+Where exceeding 1200 mm breadth, corridor in accommodation shall be fitted with storm rail on one side. 
+
+Storm rail shall be fitted on front wall in wheelhouse. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 13 
+
+Table 5 - 1    LIST OF FURNITURE AND FITTING FOR PUBLIC SPACE ( 1/2 )
+
+                  Name of                           room     Item 
+
+Officer’s mess room 
+
+Saloon 
+
+No. and size ( clear ) Bottom No. of drawer Cloth Matt- ress Stuff Pillow No. and type 
+
+Seat 
+
+Stuff 
+
+Back 
+
+Stuff 
+
+No. and type 
+
+- 
+
+- - - - - - 
+
+- 
+
+- 
+
+- 
+
+- - - - - 
+
+1 - L type under closed 
+
+Foam plastics 
+
+Foam plastics 
+
+12 - Arm Common chairs ( steel ) 
+
+2 - Easy chair ( wooden ) 4 - Arm chair ( wooden ) 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Foam plastics 
+
+B e d 
+
+S o f a 
+
+C h a i r 
+
+No. and type 
+
+De s k Table Book case Side board 
+
+2 - Wooden 
+
+1 - Wooden 
+
+Curtain 
+
+Door Window  Fitted Bed 
+
+- 
+
+- 
+
+- 
+
+- 
+
+1 - Microwave oven 
+
+Miscellaneous 
+
+- 
+
+- 
+
+- 
+
+- 
+
+2 - Wooden 
+
+1 - Wooden 
+
+Fitted 
+
+1 - T.V. 1 - Stereo 2 - Side table 1 - D.V.D. player     (Region free type) 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 14 
+
+Table 5 - 1    LIST OF FURNITURE AND FITTING FOR PUBLIC SPACE ( 2/2 )
+
+                  Name of                           room     Item 
+
+Crew’s mess room 
+
+Crew’s smoking room 
+
+No. and size ( clear ) Bottom No. of drawer Cloth Matt- ress Stuff Pillow No. and type Seat Back 
+
+Stuff Stuff 
+
+- 
+
+- - - - - - - - 
+
+No. and type 
+
+14 - Common chairs ( steel ) 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+B e d 
+
+S o f a 
+
+C h a i r 
+
+No. and type 
+
+D e s k Table Book case Side board 
+
+2 - Wooden 
+
+1 - Wooden 
+
+Curtain 
+
+Door Window  Fitted Bed 
+
+- 
+
+- 
+
+- 
+
+- 
+
+1 - Microwave oven 
+
+Miscellaneous 
+
+- 
+
+- - - - - 
+
+2 - I type under closed Foam plastics Foam plastics 2 - Arm chair ( steel ) 4 - Arm chair ( steel ) 
+
+Foam plastics 
+
+Foam plastics 
+
+- 
+
+- 
+
+- 
+
+1 - Wooden 
+
+1 - Wooden 
+
+Fitted 
+
+- 1 - Game table 1 - Corner table 2 - Side table 1 - T.V. 1 - Stereo 1 - D.V.D. player     (Region free type) 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 15 
+
+Table 5 - 2    LIST OF FURNITURE AND FITTING FOR LIVING SPACE ( 1/4 )
+
+                  Name of                           room     Item 
+
+Captain class day room 
+
+Captain class bed room 
+
+- 
+
+- - - - - 
+
+1 - 2100 ㎜ ×  1400  ㎜
+
+Wooden bottom 1 - Tier Cotton Foam plastics 1 - With two (2) covers 
+
+No. and size ( clear ) Bottom No. of drawer Cloth Matt- ress Stuff Pillow No. and type 
+
+B e d 
+
+S o f a 
+
+C h a i r 
+
+2 - I type under closed 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+- 
+
+- 
+
+- 
+
+No. and type 
+
+1 - Rev. arm chair ( steel ) 2 - Easy chair ( wooden ) 
+
+1 - Small chair ( wooden ) 
+
+Seat   
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+No. and type 
+
+D e s k Table Book case Wardrobe 
+
+1 - Wooden  
+
+double pedestal 
+
+1 - Wooden 1 - Wooden 
+
+- 
+
+- 
+
+Curtain 
+
+Door Fitted Window  Fitted Bed 
+
+Miscellaneous 
+
+1 - Side table 1 - Corner table 1 - Type table 1 - Book shelf 1 - Refrigerator       ( about 70 liters ) 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+1 - Wooden 
+
+Fitted 
+
+- 1 - Metal safe   
+
+( only for captain ) 
+
+1 - Chest of drawer 1 - Night table 
+
+IMABARI SHIPBUILDING CO., LTD
+
+B e d 
+
+S o f a 
+
+C h a i r 
+
+H5 - 16 
+
+Table 5 - 2    LIST OF FURNITURE AND FITTING FOR LIVING SPACE ( 2/4 )
+
+                  Name of                           room     Item 
+
+Senior officer class 
+
+day room 
+
+Senior officer class 
+
+bed room 
+
+No. and size ( clear ) Bottom No. of drawer Matt- ress Pillow 
+
+Cloth Stuff 
+
+- 
+
+- - - - - 
+
+1 - 2100 ㎜ ×  1400  ㎜
+
+Wooden bottom 1 - Tier Cotton Foam plastics 1 - With two (2) covers 
+
+No. and type 
+
+1 - I type under open 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+- 
+
+- 
+
+- 
+
+No. and type 
+
+1 - Rev. arm chair ( steel ) 
+
+1 - Small chair (wooden) 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+1 - Wooden  
+
+double pedestal 
+
+1 - Wooden 1 - Wooden 
+
+No. and type 
+
+D e s k Table Book case Wardrobe 
+
+Curtain 
+
+Miscellaneous 
+
+- 
+
+1 - Wooden 
+
+Fitted 
+
+Fitted Door Window  Fitted Bed 
+
+- 1 - Refrigerator     ( about 70 liters ) 
+
+1 - Night table 
+
+- 
+
+- 
+
+- 
+
+- - 
+
+- 
+
+- 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 17 
+
+Table 5 - 2    LIST OF FURNITURE AND FITTING FOR LIVING SPACE ( 3/4 )
+
+                  Name of                           room     Item 
+
+Junior officer class 
+
+Petty officer class 
+
+No. and size ( clear ) Bottom No. of drawer Cloth Matt- ress Stuff Pillow 
+
+1 - 2100 ㎜ ×  900  ㎜   
+
+1 - 2000 ㎜ ×  900  ㎜
+
+Wooden bottom 1 -Tier Cotton Foam plastics 1 - With two (2) covers 
+
+Wooden bottom 1 - Tier Cotton Foam plastics 1 - With two (2) covers 
+
+No. and type 
+
+1 - I type under open 
+
+1 - I type under open 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Foam plastics 
+
+No. and type 
+
+1 - Rev. arm chair ( steel ) 
+
+1 - Rev. arm chair ( steel ) 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Foam plastics 
+
+B e d 
+
+S o f a 
+
+C h a i r 
+
+No. and type 
+
+D e s k Table Book case Wardrobe 
+
+1 - Wooden 1 - Wooden 
+
+Curtain 
+
+Door Window  Fitted Bed 
+
+Miscellaneous 
+
+ 
+
+1 - Wooden  
+
+single pedestal 
+
+1 - Wooden  
+
+single pedestal 
+
+- 
+
+- 
+
+- 
+
+1 - Wooden 1 - Wooden 
+
+- 
+
+- 
+
+Fitted 
+
+- 1 - Wash basin   with toilet cabinet 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 18 
+
+Table 5 - 2    LIST OF FURNITURE AND FITTING FOR LIVING SPACE ( 4/4 )
+
+                  Name of                           room     Item 
+
+No. and size ( clear ) Bottom No. f drawer Matt- ress Pillow 
+
+Cloth Stuff 
+
+Crew class 
+
+Hospital 
+
+1 - 2000 ㎜ ×  900  ㎜
+
+Wooden bottom 1 - Tier Cotton Foam plastics 1 - With two (2) covers 
+
+1  -  2000 ㎜ ×  800 ㎜( steel bed )  
+
+- 
+
+  Cotton   Foam plastics   1 - With two (2) covers 
+
+No. and type 
+
+1 - I type under open 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+- 
+
+- 
+
+- 
+
+No. and type 
+
+1 - Rev. chair ( steel ) 
+
+  1  -  Rev.  chair  (  steel  ),   1 - Small chair ( steel ) 
+
+Seat 
+
+Stuff 
+
+Foam plastics 
+
+  Foam plastics 
+
+Back 
+
+Stuff 
+
+Foam plastics 
+
+  Foam plastics 
+
+B e d 
+
+S o f a 
+
+C h a i r 
+
+No. and type 
+
+D e s k Table Book case Wardrobe 
+
+1 - Wooden   with one (1) drawer 
+
+1 -  Wooden 
+
+with one (1) drawer 
+
+- 
+
+1 - Wooden ( book rack ) 1 - Wooden 
+
+Curtain 
+
+Door Window Bed 
+
+Fitted 
+
+- 
+
+- 
+
+Miscellaneous 
+
+1 - Wash basin   with toilet cabinet 
+
+- 
+
+  1 - Wooden ( book rack ) 
+
+  Fitted 
+
+- - 
+
+- 
+
+1 - Disinfection table 1  -  Medicine  locker  1  - Refrigerator         ( about 70 liters ) 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 19 
+
+Table 5 - 3    LIST OF FURNITURE AND FITTING FOR OFFICE SPACE
+
+Ship’s office 
+
+Meeting room 
+
+Tally office 
+
+- 
+
+- - - - - 
+
+- 
+
+- - 
+
+- 
+
+- - - - - 
+
+- 
+
+- - 
+
+8 - Common chairs 
+
+6 - Common chairs 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+                  Name of                           room     Item 
+
+B e d 
+
+No. and size ( clear ) Bottom No. of drawer Matt- ress Pillow 
+
+Cloth Stuff 
+
+No. and type 
+
+Stuff Stuff 
+
+No. and type 
+
+Seat Back 
+
+Seat 
+
+Back 
+
+S o f a C h a i r D e s k Table 
+
+Book case 
+
+Side board 
+
+Curtain 
+
+No. and type 
+
+- 
+
+- 
+
+1 - Wooden 
+
+1 - Wooden Fitted   ( 2 - book rack ) 
+
+Door Window  Fitted Bed 
+
+- - 
+
+- 
+
+1 - Wooden 
+
+2 - Fitted 
+
+1 - Wooden - 
+
+Fitted 
+
+- 
+
+Miscellaneous 
+
+1 - Folding chair 2 - File cabinet 
+
+  ( 2 tiers ) 
+
+1 - Typewriting &       copy table 1 - Wash basin   1 - Plan locker 1 – Refrigerator   (70L) 
+
+IMABARI SHIPBUILDING CO., LTD
+
+- 
+
+- - - - - 
+
+1 - Wooden 
+
+  bench - - 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- - - - 
+
+1 - Hand wash 
+
+  basin 
+
+H5 - 20 
+
+Table 5 - 4    LIST OF FURNITURE AND FITTING FOR NAVIGATION SPACE
+
+                  Name of                           room     Item 
+
+B e d 
+
+Cloth Stuff 
+
+No. and size ( clear ) Bottom No. of drawer Matt- ress Pillow No. and type Seat Back No. and type 
+
+Stuff Stuff 
+
+Seat 
+
+S o f a C h a i r D e s k Table Book case Side board 
+
+Back 
+
+Curtain 
+
+Miscellaneous 
+
+Wheelhouse 
+
+Radio instruments room 
+
+- - - - - - - - - 
+
+- - - - - - - - - 
+
+1 - Pilot chair ( steel ) 
+
+1 - Rev. chair ( steel ) 
+
+Stuff 
+
+Stuff 
+
+Foam plastics 
+
+Foam plastics 
+
+Foam plastics 
+
+Foam plastics 
+
+No. and type 
+
+- 
+
+- 
+
+1 - Wooden ( book rack ) 
+
+- 
+
+- - 
+
+Fitted 
+
+- 
+
+1 - Working table 
+
+1 - Chart table 1 - Wooden 
+
+Door Window  Fitted Bed 
+
+- - 
+
+- 
+
+( aft wall window only ) 
+
+1 - Locker 1 - Dark curtain around       chart table 1 - Working table 2 - Flag shelf 1 - Flag locker 2 - Folding table 1 - Book rack   (above chart table) 1 - Sink   2 - Electric heater (1kW) 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 21 
+
+5.9    SANITARY EQUIPMENT
+
+5.9.1    Sanitary fixture
+
+Sanitary fixtures shall be furnished as shown on Table 5 - 5 in this section. 
+
+All exposed metal fixtures, taps and accessories shall be of chromium plated brass in general. 
+
+Wash basin and hand wash basin shall be of white vitreous china. 
+
+Fresh water and hot water faucets with manual mixing valve shall be provided for each wash basin and hand wash basin. 
+
+Shower shall be composed of shower head of telephone type, stop valves and manual mixing valve for temperature control. 
+
+Water closet shall be of white vitreous china and fitted with a flush valve and cutout valve in water supply line.    Urinal shall be fitted with a stop valve in water supply line. 
+
+Toilet paper holder shall be provided one (1) for each water closet. 
+
+Toilet cabinet shall be made of plastics, and mirror shall be fitted on toilet cabinet. 
+
+Soap dish shall be fitted one (1) for each wash basin and each shower. 
+
+Towel bar shall be provided one (1) for each wash basin. 
+
+Liquid soap rack shall be fitted for hand wash basin in all water closets and galley. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 22 
+
+Table 5 - 5    LIST OF EQUIPMENT FOR SANITARY SPACE ( 1/3 )
+
+          Name of room Item Wash basin Shower Water closet * Toilet cabinet with mirror 
+
+Captain class 
+
+1 1 1 1 
+
+Officer class 
+
+1 1 1 1 
+
+Changing room (eng.)  Hospital 
+
+1 1 - - 
+
+1 1 1 1 
+
+Table 5 - 5    LIST OF EQUIPMENT FOR SANITARY SPACE ( 2/3 )
+
+      Name of room Item Hand wash basin Water closet * Urinal Broom locker 
+
+Tally W.C. 
+
+1 1 - - 
+
+Common W.C. 
+
+Upper deck  A deck  Nav. deck 
+
+1 1 - - 
+
+1 1 2 1 
+
+1 1 - - 
+
+Table 5 - 5    LIST OF EQUIPMENT FOR SANITARY SPACE ( 3/3 )
+
+Crew’s 
+
+          Name of room Item Bath tub Shower Box Urinal Water closet * Wash basin Broom locker 
+
+Shower room 
+
+- 3 1 - - 1 - 
+
+W.C. 
+
+- - - 2 3 1 ** 1 
+
+  
+
+* ** 
+
+European style 
+
+---- ----  Hand wash basin 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 23 
+
+5.9.2    Laundry equipment
+
+Crew’s laundry shall be arranged on B deck with the following equipments. 
+
+2 - Electric washing machine ( 5 ㎏, automatic ) 1 - Washing tub 1 - Ironing table 
+
+Crew’s drying room shall be arranged on B deck with electric oil heater and hanging rope.   
+
+Officer’s laundry shall be arranged on C deck with the following equipments. 
+
+1 - Electric washing machine ( 5 ㎏, automatic ) 1 - Washing tub 1 - Ironing table 
+
+Officer’s drying room shall be arranged on C deck with electric oil heater and hanging rope. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 24 
+
+5.10    COMMISSARY EQUIPMENT
+
+5.10.1    General
+
+In general, metal parts in direct contact with prepared food shall be of stainless steel. 
+
+Shelves of steel galvanized and/or wood shall be provided suitably. 
+
+The size of table, dresser, shelf, rack, etc. shall be designed according to arrangement of the room. 
+
+5.10.2    Galley
+
+One (1) galley shall be provided with the following equipment. 
+
+1 - Electric cooking range with two (2) hot plates, one (1) grill and one (1) oven ( 23 kw ) 1 - Steam soup boiler of fixed type ( 50 liters ) 2 - Electric rice cooker of household type ( 3.6 liters ) 1 - Electric refrigerator ( about 300 liters ) 1 - Serving table with stainless steel top 1 - Cooking table with stainless steel top with one (1) sink 1 - Dresser with stainless steel top and two (2) sinks 1 - Meat grinder 1 - Dish rack 1 - Cup rack 1 - Water sterilizer ( 1000 liters/h ) 1 - Hand wash basin 1 - Garbage can 1 - Disposer 1 - Ham slicer 
+
+5.10.3    Pantry
+
+Off’s and crew’s pantry shall be arranged with the following equipment. 
+
+Each 1 - Electric refrigerator ( about 135 liters ) Each 1 - Dresser with stainless steel top and two ( 2 ) sinks Each 1 - Electric pot ( 4 liters ) Each 1 - Garbage can Each 1 - Dish rack Each 1 - Cup rack 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 25 
+
+5.10.4    Drinking water fountain
+
+Two (2) self-contained type drinking water fountains shall be provided at the following locations. 
+
+1 - Engine room 1 - Passage ( A deck ) 
+
+5.11    PROVISIONS SPACE
+
+5.11.1    Provisions store
+
+Two (2) provisions stores shall be provided. And heat insulation shall be applied as follows : 
+
+Adjacent space Directly exposed to weather 
+
+Overhead 
+
+Wall 
+
+WC50 
+
+WC50 
+
+Floor bare steel painted 
+
+Prov. store 
+
+WC50 ----- 50 ㎜  thickness glass wool and cloth 
+
+Wooden shelves shall be suitably provided. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 26 
+
+5.11.2    Refrigerating provisions chamber
+
+One (1) refrigerating provisions chamber shall be provided, which consist of meat room, fish room, vegetable room and lobby, according to the following table. 
+
+                        Item   Place   Meat room   Fish room   Vegetable room   Lobby   Total 
+
+Capacity ( m 3 ) about  13.7 about  10.4 about  15.2 about    7.9 about  47.2 
+
+  
+  
+ 
+
+Exterior bulkheads of the chamber shall be of steel. 
+
+Temperature (  ℃  ) 
+
+- 18 - 18 + 2 
+
+- 
+
+not specified 
+
+The insulation on the floor, wall and overhead shall be as shown on the Fig. 5 - 1 Typical insulation for ref. provisions chamber. 
+
+Three (3) tiers steel shelves shall be provided in meat room, fish room and vegetable room. 
+
+Portable polyethylene grating shall be fitted except under shelves. 
+
+Each one (1) seal locker shall be provided in vegetable room and meat room. 
+
+Door for refrigerating provisions chamber shall have 700 ㎜ clear opening and shall be able to be opened from both sides. 
+
+Electric heater for defrost shall be installed in the door packing of meat room and fish room. 
+
+Temperature of each room shall be displayed at outside of the ref. provisions chamber by a digital thermometer. 
+
+A calling bell switch, electric lamps, etc. shall be provided as necessary. 
+
+As for signal bell, refer toⅣ- ELECTRIC PART. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 27 
+
+ 
+
+Fig. 5 - 1    Typical insulation for Ref. provisions chamber
+
+Insulation panel for refrigerated provisions chamber shall be of prefab type. 
+
+Insulation for refrigerated provisions chamber shall be applied as follows : 
+
+  
+
+  
+
+  
+
+  
+
+          
+
+          
+
+ s
+se
+nk
+ci
+hT
+
+ Outside 
+
+ 
+
+Inside  
+
+ 
+
+    0.4 mm P.V.C steel plate 
+
+    Insulation : Polyurethane foam 
+
+0.6 mm P.V.C steel plate 
+
+Place 
+
+  Lobby and     vegetable room 
+
+  Meat room and   fish room 
+
+Ceiling Wall Floor Ceiling Wall Floor 
+
+Thickness 100 ㎜  50 ㎜100 ㎜100 ㎜100 ㎜100 ㎜
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 28 
+
+5.11.3    Refrigerating plant for refrigerating provisions chamber
+
+Two (2) sets of refrigerating plant shall be provided in air con. & ref. machine room. 
+
+The refrigerating plant shall be of R-404a direct expansion system, and shall consist of one (1) electric motor driven reciprocating compressor, one (1) sea water cooled condenser, other necessary fittings and piping in accordance with the manufacturer’s standard. 
+
+The refrigerating plant shall be capable to maintain the specified temperatures with one (1) compressor working at full load not more than eighteen (18) hours per day. One (1) of two (2) compressor to serve as stand by. Cooling down to specified temperatures shall be working by two (2) compressors. 
+
+The refrigerating plant shall able to maintain the specified temperature in refrigerated provisions chamber under the following conditions. 
+
+  
+
+Cooling water temperature Ambient temperature   
+
+----------    32  ℃----------    35  ℃
+
+Compressor shall be provided with suction, discharge stop valves and necessary fittings. 
+
+Cooling capacity shall be automatically controlled by pressure switch. 
+
+Evaporating temperature shall be automatically controlled by thermostatic expansion valve and magnetic valve, and be able to manually controlled by manual expansion valve. 
+
+Safety device such as high-discharge switch, safety relief valve shall be provided. 
+
+The condenser shall be of horizontal multipass shell and tube type and cooled by sea water. 
+
+Each one (1) set of air cooling unit shall be fitted in vegetable room, meat room and fish room. 
+
+The unit shall consist of an electric motor driven axial fan, a finned tube cooler, an adjustable louver, a drip pan and casing. 
+
+Electric heater with timer shall be provided with air cooler in meat room and fish room for defrosting. 
+
+Cooling pipe shall be provided in lobby taking return refrigerant from freeze room by cooling coil. 
+
+Materials of refrigerating plant shall be the manufacturer’s standard.
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 29 
+
+5.12    SUNDRY SPACE
+
+5.12.1    General
+
+Sundry space shall be arranged as shown on the General Arrangement and equipped in accordance with the following table. 
+
+5.12.2    Engine control room
+
+Heat and sound insulation shall be as follows : 
+
+Overhead Wall Floor 
+
+----- ----- ----- 
+
+25  ㎜ non-combustible board + P.V.C* 50 ㎜ glass wool + 25  ㎜ non-combustible board + P.V.C* 25 ㎜ high heat board + 8  ㎜ latex deck composition 
+
+ 
+
+P.V.C*   
+
+---    Polyvinyl chloride overlay 
+
+5.12.3    Store and locker space in accommodation
+
+                  Item Compartment Bos’n store Deck store Paint store Seal locker Other locker ** Changing room Garbage  storage space 
+
+Floor 
+
+Wall 
+
+Overhead 
+
+Shelf 
+
+  Bare steel   painted 
+
+  Bare steel   painted 
+
+  Grating on   bare steel   painted 
+
+  Bare steel   painted 
+
+  Steel   1-tier 
+
+  2-tier 
+
+  Wooden   1-tier * 
+
+Grating ------ Batten grating shall be fitted under shelves only. 
+
+ 
+
+* 
+
+--- 
+
+Steel locker shall be provided. 
+
+ 
+
+**  --- 
+
+Gutter coaming for sweat water shall be provided at only side of adjacent wall to exposed part. 
+
+IMABARI SHIPBUILDING CO., LTD
+
+H5 - 30e 
+
+5.12.4    Miscellaneous
+
+                  Item Compartment Air conditioning unit & ref. prov. mach. room Steering gear room Emergency fire pump room Emergency gen. room Battery room                 *, ** Gymnasium 
+
+Floor 
+
+Wall 
+
+Overhead 
+
+Shelf 
+
+Bare steel painted 
+
+Bare steel painted 
+
+Bare steel painted 
+
+- 
+
+Steel shelf 
+
+- 
+
+Refer to 5.2.3 & 5.3.2
+
+1-wooden bench 1-hand wash basin 1-game locker 
+
+ 
+
+ 
+
+* 
+
+---- 
+
+Ping-pong table shall not be supplied by the builder. 
+
+**  ----  Gutter coaming for sweat water shall be provided at only side of adjacent 
+
+wall to exposed part. 
