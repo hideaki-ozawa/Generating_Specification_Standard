@@ -36,4 +36,57 @@ The fittings and accessories shall be as follows :.
  1 － gauge board fitted with suction and discharge pressure gauges 
  Each 1 － root cock or valve for pressure gauge 
  1 － air vent plug 
- 1 － common bed for horizontal type pump
+ 1 － common bed for horizontal type pump.
+
+6.5  RECIPROCATING PUMP.
+
+Reciprocating type bilge pump shall be provided with conventional packing type gland 
+seals and develop rated capacity and discharge pressure when operating with suction 
+vacuum of －0.05MPa and viscosity of 1～1000 cSt.
+
+The materials of main parts of reciprocating pump shall be as follows:.
+
+ Cylinder cover Cast iron 
+ Cylinder liner Brass casting 
+ Piston Brass 
+ Valve Rubber 
+ Piston rod Stainless steel.
+
+The fittings and accessories shall be as follows:.
+
+ 1 － safety valve 
+ 1 － air vent plug 
+ 1 － drain plug 
+ 2 － V belt 
+ Each 1 － V pulley 
+ 1 － safety cover 
+ 1 － gauge board fitted with suction and discharge pressure gauges 
+ 2 － gauge cock.
+
+6.6  MONROS PUMP.
+
+Monros pump shall be one kind of displacement type screw pump and provided with 
+conventional packing type gland seals. 
+Monros type sludge pump shall develop rated capacity and discharge pressure when 
+operating with suction vacuum of －0.05MPa and viscosity of 1～1000 cSt.
+
+The materials of main parts of monros pump shall be as follows:.
+
+ Stator Rubber 
+ Shaft, rotor and con-rod Stainless steel 
+ Pump stand Cast iron.
+
+The fittings and accessories shall be as follows:.
+
+ 1 － safety valve 
+ 2 － V belt 
+ Each 1 － V pulley 
+ 1 － safety cover 
+ 1 － gauge board fitted with suction and discharge pressure gauges 
+ 1 － common bed.
+
+6.7  OTHER PUMP.
+
+The construction, materials and design of pumps attached to the main engine, main diesel 
+generator engines, aux. boiler, oil purifiers, air compressors, waste oil incinerator, fresh 
+water generator and etc. shall be in accordance with Maker’s standard.
