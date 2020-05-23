@@ -18,15 +18,6 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
 
-from sklearn.model_selection import train_test_split, GridSearchCV, cross_val_score
-from sklearn.preprocessing import LabelBinarizer, LabelEncoder
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.svm import LinearSVC
-from sklearn.linear_model import LogisticRegression
-from sklearn.neural_network import MLPClassifier
-
-
 import tabula
 
 
@@ -751,19 +742,40 @@ def convert_pdf_to_txt_by_tika(pdf_path, save_name):
         print("Writing Failed!")
 
 
+def replace_underbar_period(char):
+    '''
+    Replace '_1_1' into '1.1'
+    :param char: '_1_1'
+    :return:
+    '''
+    char = char[1:]
+    result = char.replace('_', '.')
+    return result
+
+
+def search_num(char):
+    '''
+    :param char: '_1_1' or '1.1'
+    :return: [1, 1]
+    '''
+    result = re.findall('\d+', char)
+    return result
+
+
+
 def subsection_matrix(shipname, subsection, abbreviation, inputpath):
-    """
+    '''
     Return a matrix of 0 and 1.
     Each row represents the result when comparing each specification to the union set.
     :param shipname: ['1727', '0937', 'Z373', ...]
-    :param subsection: '1.1'
+    :param subsection: '_1_1'
     :param abbreviation: ['reg', 'i.e', 'no', 'incl', ...]
     :param inputpath: '/txt/General_Part/section'
     :return:　[[1, 1, 0, 0,...],       ship 1
                [1, 0, 1, 0,...],       ship 2
                ...
                [1, 1, 1, 1,...]]       ship n
-    """
+    '''
     vn = locals()
     SHIP_TYPE = "M9000"
     section_name = re.search(r'\d+', subsection)  # Match object
@@ -798,130 +810,3 @@ def subsection_matrix(shipname, subsection, abbreviation, inputpath):
         matrix.append(vn['value_' + shipname[i] + '_' + subsection])
 
     return matrix
-
-
-def machine_learning(general_xlsx_path='./excel/General_Label_Matrix.xlsx',
-                     machinery_xlsx_path='./excel/Machinery_Label_Matrix.xlsx'):
-
-    df_general = pd.read_excel(general_xlsx_path, sheet_name=0, header=0, index_col=0)
-    df_machine = pd.read_excel(machinery_xlsx_path, sheet_name=0, header=0, index_col=0)
-
-    shipname = df_general.index
-    shipname2 = df_machine.index
-    subsections_g = [str(x) for x in df_general.columns]
-    subsections_m = [str(x) for x in df_machine.columns]
-
-
-    # print('GENERAL PART\n', df_general)
-    # print('SHIP NAME GENERAL:', shipname)
-    # print('SHIP NAME MACHINERY:', shipname2)
-    print('CHECK SHIP NAMES ARE SAME: ', end='')
-    print((shipname == shipname2[:-1]).all())
-    # print('SUBSECTION GENERAL', subsections_g)
-    # print('SUBSECTION MACHINERY', subsections_m)
-
-    dic = {'A': 1, 'B': 2, 'C': 3, 'D': 4, 'E': 5,
-           'F': 6, 'G': 7, 'H': 8, 'I': 9, 'J': 10, 'K': 11}
-
-    train_score_array = []
-    test_score_array = []
-    cross_val_array = []
-    xrange = []
-    for i in range(len(subsections_m)):
-        num_label = int(df_machine.iloc[-1][i])
-        if num_label > 2:
-            print('\nPREDICT', subsections_m[i])
-            print('num of labels:', num_label)
-            x = []
-            y = []
-            for j in range(len(shipname)):
-                x.append([dic[x] for x in df_general.iloc[j]])
-                y.append(dic[df_machine.iloc[j][i]])
-            X = np.array(x)
-            Y = np.array(y)
-
-            # print(X)
-            # print(Y)
-
-            # model = KNeighborsClassifier(n_neighbors=num_label)
-            model = LinearSVC(loss='hinge', C=10, max_iter=10000)
-            # model = MLPClassifier(solver="sgd", random_state=0,
-            #                       hidden_layer_sizes=[30], max_iter=10000)
-
-
-            # split train and test data
-            X_train, X_test, y_train, y_test = train_test_split(X, Y,
-                                                                test_size=0.3,
-                                                                random_state=0)
-            model.fit(X_train, y_train)
-            score_tr = model.score(X_train, y_train)
-            score_te = model.score(X_test, y_test)
-            print("train score:", score_tr)
-            print("test score:", score_te)
-            # print(model.coef_)
-            #
-            train_score_array.append(score_tr)
-            test_score_array.append(score_te)
-
-
-            # Cross Validation Score
-            scores = cross_val_score(model, X, Y, cv=5)
-            print('cross validation score: {}'.format(np.mean(scores)))
-            cross_val_array.append(np.mean(scores))
-
-            # grid_search(X, Y)
-
-
-            xrange.append(subsections_m[i])
-
-    fig, ax = plt.subplots()
-    ax.set_xlabel('SUBSECTIONS')
-    ax.set_ylabel('SCORE')
-    ax.plot(xrange, train_score_array, label='train')
-    ax.plot(xrange, test_score_array, label='test')
-    ax.plot(xrange, cross_val_array, label='cross validation')
-    ax.legend()
-    fig.tight_layout()
-    os.makedirs('./fig', exist_ok=True)
-    plt.savefig('./fig/svc_score.png')
-
-
-def grid_search(train_features, train_labels):
-    loss_list = ['hinge', 'squared_hinge']
-    param_list = [0.001, 0.01, 0.1, 1, 10, 100]
-    best_score = 0
-    best_parameters = {}
-
-    for loss in loss_list:
-        for C in param_list:
-            svm = LinearSVC(loss=loss, C=C)
-            scores = cross_val_score(svm, train_features, train_labels, cv=5)
-            score = np.mean(scores)
-            if score > best_score:
-                best_score = score
-                best_parameters = {'loss': loss, 'C': C}
-
-
-    print('Best score on validation set: {}'.format(best_score))
-    print('Best parameters: {}'.format(best_parameters))
-
-
-if __name__ == '__main__':
-
-    # pdf_path = get_pdf_path('./pdf/test_pdf')
-    # # output_dir = './pdf/table'
-    # for pdf in pdf_path:
-    #     read_table(pdf, pages='all')
-
-    # pdf_path = './pdf/machinery_pdf/SZ373M9000.pdf'
-    #
-    # split_pdf_endpage(6, pdf_path, './pdf/output0/' + pdf_path[-14:])
-    # pdf_path = './pdf/output0/SZ373M9000.pdf'
-    # save_name = './pdf/output1/' + pdf_path[-14:-4] + '.txt'
-    # convert_pdf_to_txt_by_tika(pdf_path, save_name)
-    # txt_path = './pdf/output1/SZ373M9000.txt'
-    # remove_specific_char(txt_path)
-
-    s1 = 'For main engine (1) Ahead running load test 1/2 load  1/2 hour 3/4 load 1/2 hour Normal rating  1  hour Maximum rating 1/2 hour 70% load (Data only) At normal rating load the fuel oil consumption test shall be conducted.'
-    s2 = 'For main engine (1) Ahead running load test 1/2 load  1/2 hour 3/4 load 1/2 hour Normal rating  1  hour Maximum rating 1/2 hour At normal rating load the fuel oil consumption test and Pmax measuring shall be conducted.'
-    print(Levenshtein.distance(s1, s2))

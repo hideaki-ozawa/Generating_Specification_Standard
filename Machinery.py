@@ -109,14 +109,13 @@ def split_txt():
     sec_3 = ['3.1', '3.2', '3.3', '3.4', '3.5', '3.6']
     sec_4 = ['4.1', '4.2']
     sec_5 = ['5.1', '5.2', '5.3']
-    sec_6 = ['6.1', '6.2', '6.3', '6.4']    # '6.4&6.5&6.6&6.7'
+    sec_6 = ['6.1', '6.2', '6.3', '6.4']    # '6.4-6.7'
     sec_7 = ['7.1', '7.2', '7.3', '7.4']    # 7.4&7.5
     sec_8 = ['8.1', '8.2']
     sec_9 = ['9.1', '9.2']
     sec_10 = ['10.1', '10.2', '10.3', '10.4', '10.5', '10.6', '10.7']
     sec_11 = ['11.1', '11.2']
-    sec_12 = ['12.1', '12.2', '12.3', '12.4', '12.5', '12.6', '12.7', '12.8',
-              '12.9', '12.10']
+    sec_12 = ['12.1', '12.2', '12.3', '12.4', '12.10']   # 12.4-12.9
     sec_13 = ['13.1', '13.2', '13.3', '13.4', '13.5']
     sec_14 = ['14.1', '14.2', '14.3', '14.4', '14.5', '14.6', '14.7', '14.8',
               '14.9']
@@ -225,8 +224,7 @@ def write_difference_to_excel_machinery():
     subsec9 = ['_9_1', '_9_2']
     subsec10 = ['_10_1', '_10_2', '_10_3']  # '_10_4' '_10_5' '_10_6' '_10_7'
     subsec11 = ['_11_1', '_11_2']
-    subsec12 = ['_12_1', '_12_2', '_12_3', '_12_4', '_12_6', '_12_7', '_12_8',
-                '_12_9', '_12_10']  # '_12_5'
+    subsec12 = ['_12_1', '_12_2', '_12_3', '_12_4', '_12_10']  # '_12_5'
     subsec13 = ['_13_1', '_13_2', '_13_3']  # '_13_4' '_13_5'
     subsec14 = ['_14_1', '_14_2', '_14_3', '_14_4', '_14_5', '_14_6', '_14_7',
                 '_14_8', '_14_9']
@@ -691,8 +689,7 @@ def subsection_dendrograms():
     subsec9 = ['_9_1', '_9_2']
     subsec10 = ['_10_1', '_10_2', '_10_3']  # '_10_4' '_10_5' '_10_6' '_10_7'
     subsec11 = ['_11_1', '_11_2']
-    subsec12 = ['_12_1', '_12_2', '_12_3', '_12_4', '_12_6', '_12_7', '_12_8',
-                '_12_9', '_12_10']  # '_12_5'
+    subsec12 = ['_12_1', '_12_2', '_12_3', '_12_4', '_12_10']  # 12.5-12.9
     subsec13 = ['_13_1', '_13_2', '_13_3', '_13_4']  # '_13_5'
     subsec14 = ['_14_1', '_14_2', '_14_3', '_14_4', '_14_5', '_14_6', '_14_7',
                 '_14_8', '_14_9']
@@ -705,7 +702,7 @@ def subsection_dendrograms():
 
     num_cluster = [2, 3, 5,                         # section1
                    1, 5,                            # section2
-                   1, 5, 2, 4, 2, 1,                # section3
+                   1, 5, 1, 4, 1, 1,                # section3
                    1, 5,                            # section4
                    1, 4, 2,                         # section5
                    1, 4, 3, 3,                      # section6
@@ -714,10 +711,11 @@ def subsection_dendrograms():
                    2, 3,                            # section9
                    3, 2, 2,                         # section10
                    5, 5,                            # section11
-                   6, 2, 3, 2, 2, 2, 2, 2, 3,       # section12
+                   6, 2, 3, 4, 3,                   # section12
                    2, 2, 7, 4,                      # section13
                    1, 5, 2, 3, 1, 3, 3, 2, 2,       # section14
                    1, 3, 2, 2, 2, 1, 1, 6]          # section15
+
     label_name = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K']
     value = [[''] + shipname]
     m = 0
@@ -732,10 +730,12 @@ def subsection_dendrograms():
             Z = linkage(distance_matrix, 'ward')
 
             cluster_label = fcluster(Z, t=num_cluster[m], criterion='maxclust')
-            alpha = [str(i+1) + '.' + subsections[i][j][3]]
+            subsec_num = TextProcess.search_num(subsections[i][j])[1]
+            alpha = [str(i+1) + '.' + subsec_num]
             for k in range(0, len(cluster_label)):
                 n = cluster_label[k] - 1
                 alpha.append(label_name[n])
+            alpha.append(num_cluster[m])
             value.append(alpha)
 
             labelList = shipname
@@ -849,7 +849,7 @@ func_dict = {'pre_g': preprocess_general,
              'pre_m': preprocess_machinery,
              'splitxt': split_txt,
              'w_d_e': write_difference_to_excel,
-             'w_d_e_m': write_difference_to_excel_machinery,
+             'w_d': write_difference_to_excel_machinery,
              'cos_den': cos_distance_dendrogram,
              'num_den': num_difference_dendrogram,
              'c&d': common_and_different_items,

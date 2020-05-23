@@ -2,4 +2,200 @@
 
 Not fitted.
 
- M12 - 3
+ M12 - 3.
+
+12.5  EXHAUST GAS CLEANING SYSTEM.
+
+Not fitted.
+
+12.6  ENGINEER’S WORKSHOP.
+
+The engineer’s workshop shall be provided at suitable location in engine room and shall 
+be provided with the machine tools as listed in the Subsection 1.2 MACHINERY 
+PARTICULAR, a work table combined with vice and etc. as Builder’s practice.  Tool 
+cabinet shall be provided two (2) sets in the workshop.
+
+Metal shelves shall be provided in engine room to hold small spare parts and tools.
+
+Oxygen & acetylene bottles shall be located on outside of engine room and it’s shall be 
+led to engineer’s workshop by means of fixed piping.
+
+12.7  LIFTING GEAR AND TOOL.
+
+One (1) overhead traveling crane, having as electrically hoist shall be installed over the 
+main engine for overhauling cylinder cover, cylinder liner and piston.
+
+Hoisting and longitudinal travelling shall be electrically performed, and transverse 
+travelling shall be performed by hands by means of link chain pulley and reduction gear.
+
+Plane trolleys and I beams shall be provided for overhauling diesel generator engine and 
+purifiers respectively.
+
+Eye plate shall be suitably fitted for overhauling pumps, heat exchangers and strainers of 
+heavy weight.
+
+All eye plates in engine room shall be distinguished with color by S.W.L.
+
+ M12 - 4.
+
+12.8  TANK IN ENGINE ROOM.
+
+Tanks as listed in the Subsection 1.2 MACHINERY PARTICULAR shall be provided in 
+the engine room.
+
+All tanks shall be made of welded steel plate.
+
+Regarding the insulation and painting of tanks, refer to SECTION 11 INSULATION 
+AND PAINTING.
+
+All tanks shall be fitted with necessary connections and fittings as following table.
+
+ M12 - 5.
+
+Name of tank.
+
+Fitting 
+Emerg.
+Shut-
+off 
+valve.
+
+Self 
+closing
+valve.
+
+Air 
+vent.
+
+Level 
+gauge.
+
+Heat. 
+coil.
+
+Heat. 
+coil 
+ratio 
+(m2/m3).
+
+Boiling
+connec 
+-tion.
+
+Remarks 
+(Thermo-
+meter).
+
+Fuel oil settling tank O O O F O 0.3 o* O 
+Fuel oil service tank O O O F O 0.3 o* O.
+
+Diesel oil service tank O O O F - - o*.
+
+Sludge tank - O O S O 0.1 o*  
+Fuel oil drain tank - - O S O 0.1 o*  
+Fuel oil overflow tank - - O F O 0.03 o*.
+
+M/E lub. oil sump tank - - O F&S - - -  
+M/E lub. oil storage tank - - O F - - -  
+M/E lub. oil settling tank O O O F O 0.2 o* O.
+
+D/G lub. oil storage tank - - O F - - -  
+D/G lub. oil settling tank O O O F O 0.2 o* O 
+D/G lub. oil overflow tank O - O F - - -.
+
+S/T lub. oil sump tank - - O F - - -  
+S/T lub. oil seal pot - - O F - - -.
+
+Cylinder oil storage tank O - O F - - -  
+Cylinder oil alarm chamber - - O - - - -.
+
+Stuffing box drain tank - - O S - - -.
+
+Scavenging box drain tank - - O S O 0.1 o*.
+
+Cool. F.W. expansion tank - - - G - - - Open 
+Deaeration tank - - O - - - -  
+Cascade tank (Inspect. tank) - - - SG - - - Open, O.
+
+Fresh water pressure tank - - - G - - -  
+Drinking water press. tank - - - G - - -.
+
+ M12 - 6.
+
+Name of tank.
+
+Fitting 
+Emerg
+Shut-
+off 
+valve.
+
+Self 
+closing
+valve.
+
+Air 
+vent.
+
+Level 
+gauge.
+
+Heat. 
+Coil.
+
+Heat. 
+coil 
+ratio 
+(m2/m3).
+
+Boiling
+connec
+-tion.
+
+Remarks.
+
+(Thermo.
+
+-meter).
+
+Waste oil tank O - O F O 1.0 o* O.
+
+Bilge primary tank - - - - - - - Open
+Bilge tank - - O S - - o*  
+Bilge sludge tank - - O S O 0.01 o*.
+
+Clean drain tank - - O S - - -.
+
+Note : Abbreviation 
+ F : Float gauge  G : Glass gauge G* : Flat type glass gauge 
+ SG : Sight glass S : Sounding pipe o* : Seat only 
+ O : To be fitted.
+
+ M12 - 7.
+
+12.9  FLOOR, LADDER AND GRATING.
+
+The engine room floor and operation platform shall be of 4.5 mm checkered pattern steel 
+plate, supported on suitable angle.
+
+Removable sections shall be provided as required for proper access for handling and 
+inspection of the equipment located under floor and manholes.
+
+Engine room gratings shall be provided at the place where are required for proper access 
+to the equipment.
+
+The gratings shall have steel bars of Maker’s standard pattern and which shall be suitably 
+spaced and properly fitted in flat steel bar counterframes.
+
+Ladders shall be fitted as required for convenient access to various grating levels. 
+Main ladders shall have foot grating and the vertical ladders shall have steps of round 
+section steel bars.  The inclination of main ladders shall be about 55° where applicable.  
+The width of main ladders shall be 600 mm and that of sub-ladders shall be 500 mm.  
+Vertical ladders shall be used only for unimportant, access to provisionally.
+
+Handrails shall be fitted at gratings, ladders and floors where are necessary for the safety 
+and convenience of operating personnel.  Handrails shall be of steel pipe carried in steel 
+pipe stanchions and shall be fitted with portable sections where required or overhauling 
+machinery.  Double handrails shall be fitted only at the main engine top and middle 
+grating and above upper deck level in engine room.  M/E overhauling platform 
+arrangement shall be provided as Maker’s standard.

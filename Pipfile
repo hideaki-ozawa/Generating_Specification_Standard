@@ -18,6 +18,8 @@ tabula-py = "*"
 tika = "*"
 sklearn = "*"
 xlrd = "*"
+networkx = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.6"

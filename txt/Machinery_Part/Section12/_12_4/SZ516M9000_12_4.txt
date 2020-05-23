@@ -11,3 +11,197 @@ purifiers respectively.
 
 Eye plate shall be suitably fitted for overhauling pumps, heat exchangers and strainers of 
 heavy weight.
+
+12.5  TANK IN ENGINE ROOM.
+
+Tanks as listed in the Subsection 1.2 MACHINERY PARTICULAR shall be provided in 
+the engine room.
+
+All tanks shall be made of welded steel plate.
+
+Regarding the insulation and painting of tanks, refer to SECTION 11 INSULATION 
+AND PAINTING.
+
+All tanks shall be fitted with necessary connections and fittings as following table.
+
+Name of tank.
+
+Fitting 
+Emerg.
+Shut-
+off 
+valve.
+
+Self 
+closing
+valve.
+
+Air 
+vent.
+
+Level 
+gauge.
+
+Heat. 
+coil.
+
+Heat. 
+coil 
+ratio 
+(m2/m3).
+
+Boiling
+connec
+-tion.
+
+Remarks.
+
+(Thermo.
+
+-meter).
+
+Fuel oil settling tank O O O F O 0.3 o* O 
+Fuel oil service tank O O O F O 0.3 o* O.
+
+Gas oil service tank O O O F - - o*  
+Fuel oil sludge tank - O O S O 0.1 o*  
+Lub. oil sludge tank - O O S O 0.1 o*  
+Fuel oil filter drain tank - O O S O 0.2 o*  
+Fuel oil overflow tank - - O F O 0.03 o*.
+
+M/E lub. oil sump tank - - O F&S - - -  
+M/E lub. oil storage tank - - O F - - -  
+M/E lub. oil settling tank O O O F O 0.2 o* O 
+D/G lub. oil storage tank - - O F - - -  
+D/G lub. oil settling tank O O O F O 0.2 o* O 
+D/G lub. oil overflow tank - - O F - - -  
+S/T lub. oil sump tank - - O F - - -  
+S/T lub. oil seal pot - - O - - - - Open.
+
+Cylinder oil storage tank O - O F - - -  
+Cylinder oil alarm chamber - - O - - - -.
+
+Stuffing box drain tank - - O S - - -.
+
+Cool. F.W. expansion tank - - - G - - - Open
+Deaeration tank - - O - - - -  
+Cascade tank (Inspect. tank) - - - SG - - - Open.
+
+Fresh water pressure tank - - - G - - -  
+Drinking water press. tank - - - G - - -.
+
+Name of tank.
+
+Fitting 
+Emerg 
+Shut-
+off 
+valve.
+
+Self 
+closing
+valve.
+
+Air 
+vent.
+
+Level 
+gauge.
+
+Heat. 
+Coil.
+
+Heat. 
+coil 
+ratio 
+(m2/m3).
+
+Boiling
+connec
+-tion.
+
+Remarks.
+
+(Thermo.
+
+-meter).
+
+Bilge separate tank - - - - - - - Open
+Waste oil tank O - O F O 0.5 -  
+Gray water collect tank - - O F&S - - -.
+
+Bilge tank - - O S - - o*  
+Bilge sludge tank - - O S O 0.01 o*  
+Clean drain tank - - O S - - -.
+
+Note : Abbreviation 
+ F : Float gauge  G : Glass gauge G* : Flat type glass gauge 
+ SG : Sight glass S : Sounding pipe o* : Seat only 
+ O : To be fitted.
+
+12.6  FLOOR, LADDER AND GRATING.
+
+The engine room floor and operation platform shall be of 4.5 mm checkered pattern steel 
+plate, supported on suitable angle.
+
+Removable sections shall be provided as required for proper access for handling and 
+inspection of the equipment located under floor and manholes.
+
+Engine room gratings shall be provided at the place where are required for proper access 
+to the equipment.
+
+The gratings shall have steel bars of Maker’s standard pattern and which shall be suitably 
+spaced and properly fitted in flat steel bar counterframes.
+
+Ladders shall be fitted as required for convenient access to various grating levels. 
+Main ladders shall have foot grating and the vertical ladders shall have steps of round 
+section steel bars.  The inclination of main ladders shall be about 55゜where applicable.  
+The width of main ladders shall be 600 mm and that of sub-ladders shall be 500 mm.  
+Vertical ladders shall be used only for unimportant, access to provisionally.
+
+Handrails shall be fitted at gratings, ladders and floors where are necessary for the safety 
+and convenience of operating personnel.  Handrails shall be of steel pipe carried in steel 
+pipe stanchions and shall be fitted with portable sections where required or overhauling 
+machinery.  Double handrails shall be fitted only at the main engine top and middle 
+grating and above upper deck level in engine room.  M/E overhauling platform 
+arrangement shall be provided as Maker’s standard.
+
+12.7  VENTILATION FOR ENGINE ROOM.
+
+Mechanical supply ventilating system shall be provided for the engine room.  The fresh 
+air for each ventilating fan shall be taken from separate ventilating air inlets and shall be 
+distributed to the engine room through ducts.
+
+Total supply capacity of ventilating fans shall be determined based on the amount of air 
+consumed by the main engine running at maximum output, taking the air consumption of 
+diesel generator engine.
+
+As to detail of ventilating fan, refer to Subsection 7.5 ENGINE ROOM VENTILATING 
+FAN.
+
+12.8  FIRE FIGHTING SYSTEM IN ENGINE ROOM.
+
+The ship shall be provided with fire fighting system in accordance with the rule 
+requirement.
+
+There shall be provided two (2) fire pumps ( Bilge & ballast pump and Fire & G.S. 
+pump ), fire valve and hose the suitable place in engine room.
+
+Portable foam fire extinguisher and removal foam fire extinguisher etc. shall be provided 
+in accordance with the rule requirement. 
+Details of fire fighting system, refer to PARTⅡ HULL PART.
+
+Fixed water-based local fire fighting system shall be provided in accordance with the rule 
+requirement.
+
+The emergency stop switch shall be provided outside of engine room.  Details of the  
+emergency stop switch, refer to PARTⅣ ELECTRIC PART.
+
+The emergency shut off valve device shall be provided outside engine room for fuel oil 
+and lub. oil tanks which air described on Subsection 12.5 TANK IN ENGINE ROOM.
+
+12.9  INCINERATOR.
+
+There shall be installed one (1) set of waste oil incinerator for dispose of sludge and waste 
+oil. 
+The construction, materials and accessories shall be in accordance with Maker’s standard.
