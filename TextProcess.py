@@ -810,3 +810,35 @@ def subsection_matrix(shipname, subsection, abbreviation, inputpath):
         matrix.append(vn['value_' + shipname[i] + '_' + subsection])
 
     return matrix
+
+
+def match_shipname(path='./excel/label list0.xlsx'):
+    '''
+    Compare two xlsx files and
+    Remove target data of ship that is not exist on the other.
+    :param path: target xlsx path
+    :return:
+    '''
+
+    general_path = './excel/General_Label_Matrix.xlsx'
+
+    df_target = pd.read_excel(path, sheet_name=0, header=0, index_col=0)
+    df_general = pd.read_excel(general_path, sheet_name=0, header=0, index_col=0)
+
+    shipname_general = list(df_general.index)
+    label_target = list(df_target.columns)
+
+    value = []
+    count = 0
+    for ship in shipname_general:
+        value.append(list(df_target.loc[ship]))
+        count += 1
+
+    df = pd.DataFrame(data=value,
+                      index=shipname_general,
+                      columns=label_target)
+
+    df.to_excel('./excel/Machinery_Label_Matrix.xlsx')
+
+
+match_shipname()
