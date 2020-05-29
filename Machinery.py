@@ -1,6 +1,7 @@
 import TextProcess
 from TextProcess import subsection_value
 import Cluster
+import Table
 
 import shutil
 import os
@@ -13,7 +14,7 @@ from sklearn.metrics import silhouette_score, calinski_harabasz_score, davies_bo
 
 abbreviation = ['reg', 'i.e', 'no', 'incl', 'vessel', 'res', 'rev', 'msc',
                 'f.o', 'pty', 'ltd', 'code', 'inc', 'abt', 'i.c.t.m', 'm.c.r',
-                'dwg', 'w.b.t', 'nos', 'm.t']
+                'dwg', 'w.b.t', 'nos', 'm.t', 'Ext', 'G.T.D.W', 'No']
 txt_path = './txt/Machinery_Part/section'
 pdf_path = TextProcess.get_pdf_path('./pdf/machinery_pdf')
 shipname = [None]*len(pdf_path)
@@ -668,10 +669,15 @@ def common_and_different_items():
 
 
 def read_table():
-    pdf_path = TextProcess.get_pdf_path('./pdf/test_pdf')
-    # output_dir = './pdf/table'
+    pdf_path = TextProcess.get_pdf_path('./pdf/machinery_pdf')
+    # pdf_path.remove('./pdf/S0937M9000.pdf')
+    output_dir = './pdf/table'
+    if os.path.exists(output_dir):
+        shutil.rmtree(output_dir)
+    os.makedirs(output_dir)
+
     for pdf in pdf_path:
-        TextProcess.read_table(pdf, pages='all')
+        Table.read_table(pdf, pages='all')
 
 
 def subsection_dendrograms():
@@ -703,15 +709,15 @@ def subsection_dendrograms():
     num_cluster = [2, 3, 5,                         # section1
                    1, 5,                            # section2
                    1, 5, 1, 4, 1, 1,                # section3
-                   1, 5,                            # section4
+                   1, 3,                            # section4
                    1, 4, 2,                         # section5
                    1, 4, 3, 3,                      # section6
-                   5, 4, 7, 5,                      # section7
+                   5, 3, 6, 5,                      # section7
                    2,                               # section8
-                   2, 3,                            # section9
-                   3, 2, 2,                         # section10
-                   5, 5,                            # section11
-                   6, 2, 3, 4, 3,                   # section12
+                   1, 2,                            # section9
+                   3, 1, 3,                         # section10
+                   5, 4,                            # section11
+                   5, 2, 3, 4, 3,                   # section12
                    2, 2, 7, 4,                      # section13
                    1, 5, 2, 3, 1, 3, 3, 2, 2,       # section14
                    1, 3, 2, 2, 2, 1, 1, 6]          # section15
@@ -868,5 +874,5 @@ def main(run):
 
 
 if __name__ == '__main__':
-    run = ['subsec_den']
+    run = []
     main(run)
