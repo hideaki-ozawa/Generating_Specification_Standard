@@ -18,8 +18,6 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
 
-import tabula
-
 
 # Preprocess the pdf files.
 def convert_pdf_to_txt(path, save_name):
@@ -675,59 +673,6 @@ def remove_specific_char(path):
     print(path + ' Specific Character Removed')
 
 
-def read_table(pdf_path,
-               pages='7-10',
-               output_dir='./pdf/table'):
-    '''
-
-    :param pdf_path:
-    :param pages:str  e.g '7-10', 'all'
-    :param output_dir:
-    :return:
-    '''
-
-    os.makedirs(output_dir, exist_ok=True)
-
-    print("pdf: {0}\npages: {1}".format(pdf_path[-14:], pages))
-
-    output_name = output_dir + '/' + pdf_path[-14:-4] + "_page" + pages + ".txt"
-    ln = tabula.read_pdf(pdf_path, lattice=True, pages=pages)
-    # page_ln = range(start_page, end_page + 1)
-    page_ln = range(len(ln))
-    txt = ''
-    for i, page in enumerate(page_ln):
-        df = ln[i]
-
-        if df.empty:
-            pass
-        else:
-            # todo: Read first line. And replace unname**
-            # print(df)
-            page_str = column2str(df)
-            for index, row in df.iterrows():
-                row_str = ' '.join(map(str, row.dropna()))
-                row_str = row_str.replace('\r', ' ')
-                # print('------------\nrow: {0}'.format(row_str))
-                page_str += row_str + '\n\n'
-
-            txt += page_str
-
-    with open(output_name, 'w') as f:
-        f.write(txt)
-
-
-def column2str(df):
-    result = ''
-    for col in df.columns:
-        if 'Unnamed' in col:
-            pass
-        else:
-            result += col.replace('\r', ' ') + ' '
-    result += '\n\n'
-    # print(result)
-    return result
-
-
 def convert_pdf_to_txt_by_tika(pdf_path, save_name):
     file_data = parser.from_file(pdf_path)
     text = file_data["content"]
@@ -839,6 +784,3 @@ def match_shipname(path='./excel/label list0.xlsx'):
                       columns=label_target)
 
     df.to_excel('./excel/Machinery_Label_Matrix.xlsx')
-
-
-match_shipname()
