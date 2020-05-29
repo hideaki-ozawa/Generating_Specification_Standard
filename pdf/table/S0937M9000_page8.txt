@@ -1,26 +1,0 @@
-nan Kind of Ship BULK CARRIER nan nan nan nan nan
-Hull nan nan nan nan nan nan nan
-nan Dimension m Lpp B D d (Ext.) nan
-nan Tonnage Ton abt.abt.G.T.D.W. nan nan nan nan
-nan Speed knot abt.Sea TrialService nan nan nan nan
-Main Engine nan nan nan nan nan nan nan
-nan Type & No. of Set nan MITSUI-MAN B&W, 2 stroke cycle , single acting, directreversible, crosshead type diesel engine withturbocharger6S50ME-B9.3×1 set nan nan nan nan
-nan Output×Speed MaximumRating kW×min-1 7,560 ×99.0 TurbochargerTCA55×1 set nan nan
-nan NormalRating kW×min-1 6,425 ×93.8 (85 %) nan nan nan nan
-nan Brake Mean EffectivePress. at Max. Rating MPa * nan nan nan nan
-nan Mean Piston Speed atMax. Rating m/s 7.31 nan nan nan nan
-nan Cylinder No. & Size mm 6 ×φ500 ×2,214 nan nan nan nan
-nan Turning Motor kW×min-1 * ×* nan nan nan nan
-nan nan nan nan nan nan nan nan
-Shafting nan nan nan nan nan nan nan
-nan Thrust Shaft No.×mm Attached to Main Engine nan nan nan nan
-nan Intermediate Shaft No.×mm 1× φ*×* nan nan nan nan
-nan Propeller Shaft No.×mm 1× φ*×* nan nan nan nan
-nan nan nan nan nan nan nan nan
-Propeller nan nan nan nan nan nan nan
-nan Type & No. of Set nan * Bladed Solid Type( Ni- Al- Br) ×1 set nan nan nan nan
-Diameter ×Pitch mm φ*×* nan nan nan nan nan
-Exp. Area Ratio ×Boss Ratio - *×* nan nan nan nan nan
-Skew Angle deg. * nan nan nan nan nan
-nan nan nan nan nan nan nan nan
-nan nan nan nan nan nan nan nan

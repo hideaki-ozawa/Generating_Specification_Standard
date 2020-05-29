@@ -1,3 +1,191 @@
+HISTORY 
+
+DATE PLAN  RECORD DWG.NO.
+
+配布先 Dec. 15, 2014Drawn by this works.M - 9000 Mar. 24, 20151) Altered partially△1 M-9000-1 Mar. 16, 20162) Altered partially△2 M-9000-2 Aug.  8,  2016 3) For Finished PlanM-9000 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表 CAUTION THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD. FINISHED PLAN (110 SHEETS INC. COVER )
+
+船主
+
+監督
+
+協会(NK) e
+
+
+
+
+
+
+
+新   多   度   津 営業
+
+生技
+
+品証
+
+生管
+
+加工
+
+組立
+
+外業
+
+船装
+
+船 装 ( 管 )
+
+機電装
+
+機 電 ( 管 )
+
+機 電 ( 電 )
+
+塗装 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+DM 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+多度津工作 1
+
+
+
+丸 亀 営 業 1
+
+丸 亀 資 材 e
+
+丸 亀 品 証 e
+
+
+
+丸亀機電装 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+設 計 統 括 室
+
+基本設G
+
+船体設G
+
+艤装設G
+
+丸生設G
+
+今生設G
+
+計画 CON- FERRED OUTFIT  DESIGN  GROUP MACH. OUTFIT DESIGN TEAM 63,00M0.MS..T ".  FDE/WDE TRYAPEL  BIMULAKB CAARRI R"IER IMO  9774331 SPECIFICATION ( MACHINERY PART )
+
+基本設
+
+船体設 63,00M0.MS..T ".  FDE/WDE TRYAPEL  BIMULAKB CAARRI R"IER
+
+船装設
+
+機装設 e APPROVED CHECKED CHECKED DRAWN
+
+
+
+電装設 e
+
+
+
+丸 船 情 ( 工 )
+
+丸 艤 情 ( 船 )
+
+丸 艤 情 ( 機 )
+
+
+
+丸 艤 情 ( 生 )
+
+今船情
+
+今艤情
+
+SHIP NO. S-1731 CLASS NK(M0) SCALE *** DWG.NO. M - 9000
+
+
+
+
+
+控
+
+合計 3
+
+e 
+
+
+
+1 
+
+
+
+Dec. 15, 2014Drawn by this works.M - 9000 Mar. 24, 20151) Altered partially△1 M-9000-1 Mar. 16, 20162) Altered partially△2 M-9000-2 Aug.  8,  2016 3) For Finished PlanM-9000 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表 CAUTION THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD. FINISHED PLAN (110 SHEETS INC. COVER ) 
+
+本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+Dec. 15, 2014Drawn by this works.M - 9000 Mar. 24, 20151) Altered partially△1 M-9000-1 Mar. 16, 20162) Altered partially△2 M-9000-2 Aug.  8,  2016 3) For Finished PlanM-9000 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表 CAUTION THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD. FINISHED PLAN (110 SHEETS INC. COVER ) 
+
+本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+Dec. 15, 2014Drawn by this works.M - 9000 Mar. 24, 20151) Altered partially△1 M-9000-1 Mar. 16, 20162) Altered partially△2 M-9000-2 Aug.  8,  2016 3) For Finished PlanM-9000 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表 CAUTION THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD. FINISHED PLAN (110 SHEETS INC. COVER ) 
+
+
+
+THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD.
+
+e 
+
+
+
+e 
+
+
+
+63,00M0.MS..T ".  FDE/WDE TRYAPEL  BIMULAKB CAARRI R"IER IMO  9774331 SPECIFICATION ( MACHINERY PART ) 
+
+63,00M0.MS..T ".  FDE/WDE TRYAPEL  BIMULAKB CAARRI R"IER
+
 Rule NK, NS* and MNS*(M0) 
 
 Kind of Ship 63,000 M.T. D/W TYPE BULK CARRIER

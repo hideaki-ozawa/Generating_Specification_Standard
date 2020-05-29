@@ -1,3 +1,171 @@
+HISTORY 
+
+DATE PLAN  RECORD DWG.NO.
+
+配布先 May 26, 2015Drawn by this works.M - 9000 Feb. 16, 2016 1) Altered partially △1M-9000-1 Feb. 25, 2016 2) Altered partially △2M-9000-2 Nov. 1, 2016 3) For Finished Plan M-9000 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表 CAUTION THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD. FINISHED PLAN 123 (120 SHEETS INC. COVER )
+
+船主
+
+監督
+
+協会(NK) e
+
+
+
+
+
+
+
+多  度  津  造  船 計画 1
+
+検査
+
+品管 1
+
+支援
+
+加工
+
+組立
+
+塗装
+
+運輸
+
+外業
+
+船装
+
+機装 2
+
+電装
+
+倉庫 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+営業 1
+
+資材 e
+
+品証
+
+生管
+
+加工
+
+組立
+
+外業
+
+船装
+
+船 装 ( 管 )
+
+機電装
+
+機 電 ( 管 )
+
+機 電 ( 電 )
+
+塗装 THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD.
+
+DM
+
+多度津工作
+
+蓬莱
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+設 計 統 括 室 e
+
+基本設G
+
+船体設G
+
+艤装設G
+
+丸生設G
+
+今生設G
+
+計画 CON- FERRED OUTFIT  DESIGN  GROUP MACH. OUTFIT DESIGN TEAM 61,000MM.S.T. ." D C/RWI MTYSPOEN B UGLRKA CCAER "RIER IMO  9782261 SPECIFICATION ( MACHINERY PART )
+
+基本設
+
+船体設 61,000MM.S.T. ." D C/RWI MTYSPOEN B UGLRKA CCAER "RIER
+
+船装設 e
+
+機装設 e APPROVED CHECKED CHECKED DRAWN
+
+電装設 e
+
+丸 船 情 ( 工 )
+
+丸 艤 情 ( 船 )
+
+丸 艤 情 ( 機 ) e
+
+丸 艤 情 ( 生 )
+
+今船情
+
+今艤情
+
+
+
+SHIP NO. S-1743 CLASS △NK(M01 SCALE *** DWG.NO. M - 9000
+
+
+
+
+
+控
+
+合計 5
+
+May 26, 2015Drawn by this works.M - 9000 Feb. 16, 2016 1) Altered partially △1M-9000-1 Feb. 25, 2016 2) Altered partially △2M-9000-2 Nov. 1, 2016 3) For Finished Plan M-9000 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表 CAUTION THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD. FINISHED PLAN 123 (120 SHEETS INC. COVER ) 
+
+本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+May 26, 2015Drawn by this works.M - 9000 Feb. 16, 2016 1) Altered partially △1M-9000-1 Feb. 25, 2016 2) Altered partially △2M-9000-2 Nov. 1, 2016 3) For Finished Plan M-9000 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表 CAUTION THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD. FINISHED PLAN 123 (120 SHEETS INC. COVER ) 
+
+本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表
+
+May 26, 2015Drawn by this works.M - 9000 Feb. 16, 2016 1) Altered partially △1M-9000-1 Feb. 25, 2016 2) Altered partially △2M-9000-2 Nov. 1, 2016 3) For Finished Plan M-9000 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表 CAUTION THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD. FINISHED PLAN 123 (120 SHEETS INC. COVER ) 
+
+
+
+May 26, 2015Drawn by this works.M - 9000 Feb. 16, 2016 1) Altered partially △1M-9000-1 Feb. 25, 2016 2) Altered partially △2M-9000-2 Nov. 1, 2016 3) For Finished Plan M-9000 本書には下記図面を含む。 (1)自動制御及び遠隔制御に関する図面及び資料 (2)機関部要目表 (3)機関部予備品表及び要具表 CAUTION THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD. FINISHED PLAN 123 (120 SHEETS INC. COVER ) 
+
+
+
+THIS DRAWING OR DOCUMENT IS THE PROPERTY OF IMABARI SHIPBUILDING CO.,  LTD. REPRODUCTION, COPYING, UTI- LIZATION FOR PURPOSES OTHER THAN AGREED, DISCLOSURE TO A THIRD PARTY, ARE STRICTLY SUBJECT TO PRIOR WRITTEN AGREEMENT BY IMABARI SHIP- BUILDING CO.,  LTD.
+
+61,000MM.S.T. ." D C/RWI MTYSPOEN B UGLRKA CCAER "RIER IMO  9782261 SPECIFICATION ( MACHINERY PART ) 
+
+61,000MM.S.T. ." D C/RWI MTYSPOEN B UGLRKA CCAER "RIER
+
 Rule NK, NS* and MNS*(M0) 
 
 Kind of Ship 61,000 M.T. D/W TYPE BULK CARRIER
